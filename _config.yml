@@ -1,11 +1,12 @@
 # Site wide configuration
 
-title: Site Title
+title: The Zcash Foundation
 locale: en_US
-description: Describe your website here.
+description: A non-profit organization, serving the Zcash community and promoting financial privacy
 logo: site-logo.png
 search: true
-url: https://amiller.github.io/Zcash-Foundation
+#url: https://amiller.github.io/Zcash-Foundation
+url: http://localhost:4000/
 
 # Jekyll configuration
 
@@ -36,11 +37,11 @@ exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.
 
 # Site owner
 owner:
-  name: Your Name
+  name: Zcash Foundation
   avatar: bio-photo.jpg
-  email: you@email.com
+  email: socrates1024@gmail.com
   disqus-shortname:
-  twitter: #username
+  twitter: zcashfoundation
   facebook: #username
   github: #username
   stackexchange: #http://stackoverflow.com/users/123456/username

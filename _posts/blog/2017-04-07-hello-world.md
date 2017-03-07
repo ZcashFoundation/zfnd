@@ -1,15 +1,15 @@
 ---
 layout: post
-title: First Announcement from the Zcash Foundation
+title: "First Announcement from the Zcash Foundation"
 excerpt: "In this announcement we declare the Foundation's mission statement and introduce the initial board of the Foundation (its bootstrap board), and explain some of our initial plans."
 categories: blog
-tags: announcement
-date: 2017-08-08T15:39:55-04:00
-modified: 2016-06-01T14:19:19-04:00
+tags: []
+image:
+  feature:
+date: 
+modified: 
 ---
       
-First Announcement from the Zcash Foundation
-============
 Hello World, the Zcash Foundation is booted-up and online. In this announcement we declare the Foundation's mission statement and introduce the initial board of the Foundation (its bootstrap board), and explain some of our initial plans.
 
 Why do we need a Foundation?

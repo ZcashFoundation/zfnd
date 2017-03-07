@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-<generator uri="http://jekyllrb.com" version="3.0.1">Jekyll</generator>
-<link href="http://localhost:4000//feed.xml" rel="self" type="application/atom+xml" />
-<link href="http://localhost:4000//" rel="alternate" type="text/html" />
-<updated>2017-03-07T15:55:53-06:00</updated>
-<id>http://localhost:4000//</id>
-<subtitle>A non-profit organization, serving the Zcash community and promoting financial privacy</subtitle>
-</feed>

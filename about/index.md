@@ -14,7 +14,7 @@ https://github.com/ZcashFoundation/ZcashFoundation/
 
 The Zcash board of directors comprises:
 - Andrew Miller (chair, president)
-- Peter Van Vaklenburgh (secretary)
+- Peter Van Valkenburgh (secretary)
 - Rainey Reitman
 - Matthew Green
 - Naval Ravikant

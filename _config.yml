@@ -5,7 +5,7 @@ locale: en_US
 description: A non-profit organization, serving the Zcash community and promoting financial privacy
 logo: site-logo.png
 search: true
-url: https://amiller.github.io/Zcash-Foundation
+url: http://z.cash.foundation/
 #url: http://localhost:4000/
 
 # Jekyll configuration

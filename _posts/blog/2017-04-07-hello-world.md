@@ -7,7 +7,8 @@ tags: []
 image:
   feature:
 date: 2017-03-07
-modified: 
+modified:
+author: Andrew Miller
 ---
       
 Hello World, the Zcash Foundation is booted-up and online. In this announcement we declare the Foundation's mission statement and introduce the initial board of the Foundation (its bootstrap board), and explain some of our initial plans.
@@ -35,14 +36,14 @@ How we started
 Since early on in the planning for the development and launch of Zcash, Zcash Co has planned to splinter off an independent non-profit organization, to be funded in part with donations from recipients of the Founder's Reward. You can read more about this from the Zcash Co perspective in several of their blog posts [(1)](https://z.cash/blog/funding.html) [(2)](https://z.cash/blog/continued-funding-and-transparency.html).
 
 As of February 14, the Zcash Foundation is incorporated in the state of Delaware. We are currently applying for status as a non profit 501(c)(3).
-The initial board of directors the Zcash Foundation (the bootstrap board) comprises the following members:
+The initial board of directors the Zcash Foundation comprises the following members:
 - Andrew Miller (chair, treasurer)
 - Peter Van Valkenburgh (secretary)
 - Matthew Green
 - Rainey Reitman
 - Naval Ravikant
 
-Our [mission statement](https://github.com/ZcashFoundation/ZcashFoundation/MISSION.md) and [values statement](https://github.com/ZcashFoundation/ZcashFoundation/VALUES.md) were formed after many long discussions among board members and contributors from Zcash Co (read more in the [CONTRIBUTORS](https://github.com/ZcashFoundation/ZcashFoundation/CONTRIBUTORS.md) file).
+Our [mission statement](https://github.com/ZcashFoundation/ZcashFoundation/MISSION.md), [values statement](https://github.com/ZcashFoundation/ZcashFoundation/VALUES.md), and this initial announcement itself, were formed with contributions from the board members and several other contributors (read more in the [CONTRIBUTORS](https://github.com/ZcashFoundation/ZcashFoundation/CONTRIBUTORS.md) file).
 
 The Zcash Foundation board members are volunteers, and the Foundation is funded by donations from the public. Several recipients of the Zcash Founder's Reward (FR), including Least Authority Enterprises, have already pledged to donate a portion of the FR to the Foundation.
 
@@ -56,7 +57,7 @@ It helps to have a concrete plan, especially to get in the habit of building pub
 
    Cryptocurrencies provide several new built-in mechanisms for "polling" the community, namely by using "proofs-of-work" (i.e., voting with hashpower), and using "proofs-of-stake" (i.e., voting by proving you own the keys associated with some quantity of coins). Thus we envision using techniques like these to deploy complementary discussion platform, primarily aimed at building and recognizing consensus among varying groups of stakeholders.
 
-3. Define the governance structure and policy documents for the Foundation. Currently, our by-laws are boiler plate --- they just say that the board should meet annually and vote to elect officers and set policies. How will the next board be chosen? 
+3. Define the governance structure and policy documents for the Foundation. Currently, our by-laws are boiler plate --- they just say that the board should meet annually and vote to elect officers and set policies. How will the next board be chosen? The bootstrap board (the initial board of directors) is so-named because 
 
 
 Not all foundations have been a success. What are we going to do different?
@@ -81,4 +82,3 @@ The answer is... we plan to!
 For now, and we think this will continue to be true in the future, the Zcash Co's interests are fairly well-aligned to serve as stewards of the Zcash codebase. Zcash Co will do well if the userbase increases, and thus the price should steadily grow too.
 
 We've thought about the potential for asking Zcash Co to donate some its assets to the Foundation, such as the Zcash github repository and trademarks. Maybe this will happen eventually, especially if the Foundation turns out to earn trust as stewards and leaders. On the other hand, there's a good argument that the Zcash Co has the most incentive right to invest in and maintain their own property. Giving it away would reduce that incentive, harming the community overall.
-

@@ -16,7 +16,7 @@ Why do we need a Foundation?
 ============
 The launch and growth of every cryptocurrency has been a little bit different. Supporting organizations, like Core Developer teams, Foundations, have all had to fill different needs. It's hard to imagine a one-size-fits-all organization that can do everything.
 
-Cryptocurrencies are open networks that can provide valuable infrastructure to the general public. Lacking a centralized administrator, the responsibility for the development and maintenance of these open networks is spread between many stakeholders, including miners, developers, hodlers, and service providers. In the case of Zcash, the most visible, influential, and cohesive entity is the for-profit company, Zcash Co, which developed the software, which receives the Founder's Reward (FR).
+Cryptocurrencies are open networks that can provide valuable infrastructure to the general public. Lacking a centralized administrator, the responsibility for the development and maintenance of these open networks is spread between many stakeholders, including miners, developers, hodlers, and service providers. In the case of Zcash, the most visible, influential, and cohesive entity is the for-profit company, Zcash Co (also known by its longer, proper name, Zerocoin Electric Coin Company), which developed the software, which receives the Founder's Reward (FR).
 
 However, for Zcash to succeed, it will need to grow to represent a much larger and more diverse community of stakeholders and users. Thus we view the need for a Foundation is primarily to help this transition occur.
 
@@ -28,21 +28,23 @@ Our mission, most broadly, is to serve the Zcash community and the general publi
 
 Slightly more precisely, we have three main goals: 1) promote a healthy and diverse Zcash community, 2) steward the Zcash protocol and source code as a public good, 3) advance the science of privacy-preserving cryptocurrency and educate the public regarding the substance and benefits of these scientific developments.
 
-Read more at [/MISSION]
+Read more at [ZcashFoundation/MISSION.md](https://github.com/ZcashFoundation/ZcashFoundation/MISSION.md)
 
 How we started
 ============
-The initial board of the Zcash Foundation (the bootstrap board) consists of the following members:
-- Andrew Miller (chair)
+Since early on in the planning for the development and launch of Zcash, Zcash Co has planned to splinter off an independent non-profit organization, to be funded in part with donations from recipients of the Founder's Reward. You can read more about this from the Zcash Co perspective in several of their blog posts [(1)](https://z.cash/blog/funding.html) [(2)](https://z.cash/blog/continued-funding-and-transparency.html).
+
+As of February 14, the Zcash Foundation is incorporated in the state of Delaware. We are currently applying for status as a non profit 501(c)(3).
+The initial board of directors the Zcash Foundation (the bootstrap board) comprises the following members:
+- Andrew Miller (chair, treasurer)
+- Peter Van Valkenburgh (secretary)
 - Matthew Green
-- Peter Van Valkenburgh
 - Rainey Reitman
 - Naval Ravikant
 
-The Zcash Foundation board members are volunteers, and the Foundation is funded by donations from the public.
-Several recipients of the Founder's Reward (FR), including the Zcash Company, have already pledged to donate a portion of the FR to the Foundation.
+Our [mission statement](https://github.com/ZcashFoundation/ZcashFoundation/MISSION.md) and [values statement](https://github.com/ZcashFoundation/ZcashFoundation/VALUES.md) were formed after many long discussions among board members and contributors from Zcash Co (read more in the [CONTRIBUTORS](https://github.com/ZcashFoundation/ZcashFoundation/CONTRIBUTORS.md) file).
 
-As of February 14, the Zcash foundation is incorporated in the state of Delaware. We are currently applying for status as a non profit 501(c)(3).
+The Zcash Foundation board members are volunteers, and the Foundation is funded by donations from the public. Several recipients of the Zcash Founder's Reward (FR), including Least Authority Enterprises, have already pledged to donate a portion of the FR to the Foundation.
 
 What exactly is the Foundation going to do?
 =========
@@ -70,7 +72,7 @@ A Foundation isn't omniscient, and it would be a mistake to try to bite off more
 - Learning from other entities in cryptocurrency ecosystem
   We stand on the shoulders of giants. The cryptocurrency community has (and has had) many forms of Foundations. We are inspired by these (in both their success and failures), and you will clearly be able to see their influences on our organization.
   
-Read more at [../VALUES]
+Read more at [ZcashFoundation/VALUES.md](https://github.com/ZcashFoundation/ZcashFoundation/VALUES.md)
 
 
 Why not just let the Zcash Company keep doing its own thing?

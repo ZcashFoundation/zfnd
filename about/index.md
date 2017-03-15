@@ -13,9 +13,9 @@ The Zcash Foundation is a non-profit organization registered in the state of Del
 https://github.com/ZcashFoundation/ZcashFoundation/
 
 The Zcash board of directors comprises:
+
 - [_Andrew Miller_](https://soc1024.com/) (chair, president)
   Andrew Miller is an Assistant Professor in the Electrical and Computer Engineering department at the University of Illinois at Urbana-Champaign, and an associate director of the Initiative for Cryptocurrencies and Contracts.
-
 - [_Peter Van Valkenburgh_](http://www.petervv.com/) (secretary)
   Peter Van Valkenburgh is the Director of Research at Coin Center, a non-profit organization focused on resarch, education, and advocacy on topics involving policy and cryptocurrencies.
 - [_Rainey Reitman_](https://www.eff.org/about/staff/rainey-reitman)

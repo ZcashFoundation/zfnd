@@ -8,7 +8,7 @@ image:
   feature:
 date: 2017-03-07
 modified:
-author: Andrew Miller
+author: amiller
 ---
       
 Hello World, the Zcash Foundation is booted-up and online. In this announcement we declare the Foundation's mission statement and introduce the initial board of the Foundation (its bootstrap board), and explain some of our initial plans.

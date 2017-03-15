@@ -57,7 +57,7 @@ It helps to have a concrete plan, especially to get in the habit of building pub
 
    Cryptocurrencies provide several new built-in mechanisms for "polling" the community, namely by using "proofs-of-work" (i.e., voting with hashpower), and using "proofs-of-stake" (i.e., voting by proving you own the keys associated with some quantity of coins). Thus we envision using techniques like these to deploy complementary discussion platform, primarily aimed at building and recognizing consensus among varying groups of stakeholders.
 
-3. Define the governance structure and policy documents for the Foundation. Currently, our by-laws are boiler plate --- they just say that the board should meet annually and vote to elect officers and set policies. How will the next board be chosen? The bootstrap board (the initial board of directors) is so-named because 
+3. Define the governance structure and policy documents for the Foundation. Currently, our by-laws are boiler plate --- they just say that the board should meet annually and vote to elect officers and set policies. How will the next board be chosen? The bootstrap board (the initial board of directors) is so named because our goal is to set the Foundation up with an effective structure.
 
 
 Not all foundations have been a success. What are we going to do different?

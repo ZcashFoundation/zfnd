@@ -40,7 +40,6 @@ The initial board of directors the Zcash Foundation comprises the following memb
 - Andrew Miller (chair, treasurer)
 - Peter Van Valkenburgh (secretary)
 - Matthew Green
-- Rainey Reitman
 - Naval Ravikant
 
 Our [mission statement](https://github.com/ZcashFoundation/ZcashFoundation/MISSION.md), [values statement](https://github.com/ZcashFoundation/ZcashFoundation/VALUES.md), and this initial announcement itself, were formed with contributions from the board members and several other contributors (read more in the [CONTRIBUTORS](https://github.com/ZcashFoundation/ZcashFoundation/CONTRIBUTORS.md) file).

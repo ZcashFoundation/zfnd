@@ -42,7 +42,7 @@ The initial board of directors the Zcash Foundation comprises the following memb
 - Matthew Green
 - Naval Ravikant
 
-Our [mission statement](https://github.com/ZcashFoundation/ZcashFoundation/MISSION.md), [values statement](https://github.com/ZcashFoundation/ZcashFoundation/VALUES.md), and this initial announcement itself, were formed with contributions from the board members and several other contributors (read more in the [CONTRIBUTORS](https://github.com/ZcashFoundation/ZcashFoundation/CONTRIBUTORS.md) file).
+Our [mission statement](https://github.com/ZcashFoundation/ZcashFoundation/blob/master/MISSION.md), [values statement](https://github.com/ZcashFoundation/ZcashFoundation/blob/master/VALUES.md), and this initial announcement itself, were formed with contributions from the board members and several other contributors (read more in the [CONTRIBUTORS](https://github.com/ZcashFoundation/ZcashFoundation/blob/master/CONTRIBUTORS.md) file).
 
 The Zcash Foundation board members are volunteers, and the Foundation is funded by donations from the public. Several recipients of the Zcash Founder's Reward (FR), including Least Authority Enterprises, have already pledged to donate a portion of the FR to the Foundation.
 
@@ -72,7 +72,7 @@ A Foundation isn't omniscient, and it would be a mistake to try to bite off more
 - Learning from other entities in cryptocurrency ecosystem
   We stand on the shoulders of giants. The cryptocurrency community has (and has had) many forms of Foundations. We are inspired by these (in both their success and failures), and you will clearly be able to see their influences on our organization.
   
-Read more at [ZcashFoundation/VALUES.md](https://github.com/ZcashFoundation/ZcashFoundation/VALUES.md)
+Read more at [ZcashFoundation/VALUES.md](https://github.com/ZcashFoundation/ZcashFoundation/blob/master/VALUES.md)
 
 
 Why not just let the Zcash Company keep doing its own thing?

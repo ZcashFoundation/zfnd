@@ -29,7 +29,7 @@ Our mission, most broadly, is to serve the Zcash community and the general publi
 
 Slightly more precisely, we have three main goals: 1) promote a healthy and diverse Zcash community, 2) steward the Zcash protocol and source code as a public good, 3) advance the science of privacy-preserving cryptocurrency and educate the public regarding the substance and benefits of these scientific developments.
 
-Read more at [ZcashFoundation/MISSION.md](https://github.com/ZcashFoundation/ZcashFoundation/MISSION.md)
+Read more at [ZcashFoundation/MISSION.md](https://github.com/ZcashFoundation/ZcashFoundation/blob/master/MISSION.md)
 
 How we started
 ============

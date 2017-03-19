@@ -7,7 +7,7 @@ tags: []
 image:
   feature:
 date: 2017-03-07
-modified:
+modified: 2017-03-18
 author: zcashboard
 ---
       
@@ -15,7 +15,7 @@ Hello World, the Zcash Foundation is booted-up and online. In this announcement 
 
 Why do we need a Foundation?
 ============
-The launch and growth of every cryptocurrency has been a little bit different. Supporting organizations, like Core Developer teams, Foundations, have all had to fill different needs. It's hard to imagine a one-size-fits-all organization that can do everything.
+The launch and growth of every cryptocurrency has been a little bit different. Supporting organizations, like Core Developer teams, Foundations, and companies, have all had to fill different needs. It's hard to imagine a one-size-fits-all organization that can do everything.
 
 Cryptocurrencies are open networks that can provide valuable infrastructure to the general public. Lacking a centralized administrator, the responsibility for the development and maintenance of these open networks is spread between many stakeholders, including miners, developers, hodlers, and service providers. In the case of Zcash, the most visible, influential, and cohesive entity is the for-profit company, Zcash Co (also known by its longer, proper name, Zerocoin Electric Coin Company), which developed the software, which receives the Founder's Reward (FR).
 
@@ -81,3 +81,5 @@ The answer is... we plan to!
 For now, and we think this will continue to be true in the future, the Zcash Co's interests are fairly well-aligned to serve as stewards of the Zcash codebase. Zcash Co will do well if the userbase increases, and thus the price should steadily grow too.
 
 We've thought about the potential for asking Zcash Co to donate some its assets to the Foundation, such as the Zcash github repository and trademarks. Maybe this will happen eventually, especially if the Foundation turns out to earn trust as stewards and leaders. On the other hand, there's a good argument that the Zcash Co has the most incentive right to invest in and maintain their own property. Giving it away would reduce that incentive, harming the community overall.
+
+_Edit, March 17: Added "and companies" to the list of organizations supporting a cryptocurrency. Thanks Eran Tromer for spotting this._

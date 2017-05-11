@@ -17,7 +17,7 @@ The Zcash Foundation is pleased to announce the three recipients of the “Test 
 
 The recipients are:
 
-- [MineZcash.](https://minezcash.com/) MineZcash has built and maintained most of the Zcash community’s communication infrastructure, especially the https://chat.zcashcommunity.com/ rocket chat. This has been running since 2016 and currently supports a total of ~1300 users.
+- [MineZcash.](https://zcashcommunity.com/) MineZcash has built and maintained most of the Zcash community’s communication infrastructure, especially the https://chat.zcashcommunity.com/ rocket chat. This has been running since 2016 and currently supports a total of ~1300 users.
 
 - [Lustro.](https://explorer.zcha.in/about) Lustro operates https://zcha.in/ This is the first block explorer for the zcash blockchain, and also provides statistics and network information such as the number of nodes on the network.
 

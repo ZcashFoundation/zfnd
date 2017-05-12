@@ -8,6 +8,7 @@ image:
   feature:
 date: 2017-05-12
 modified: 
+author: amiller
 ---
     
 Announcing the Zcash Foundation Test Transaction Awards

@@ -17,7 +17,7 @@ The Zcash Foundation is pleased to announce the three recipients of the "Test Tr
 
 The recipients are:
 
-- [MineZcash.](https://zcashcommunity.com/) MineZcash has built and maintained most of the Zcash community’s communication infrastructure, especially the https://chat.zcashcommunity.com/ rocket chat. This has been running since 2016 and currently supports a total of ~1300 users. [[tx1]](https://explorer.zcha.in/transactions/37d6dfc8564ab8e8d8ce778ae582e990128a5061968e380cf82f1e21011a0832) [[tx2]](https://explorer.zcha.in/transactions/dd2789fddd61f30b7ef290bc5d5427d692204dc507739b13bfea2c6ba09e947f)
+- [MineZcash.](https://zcashcommunity.com/) MineZcash has built and maintained most of the Zcash community’s communication infrastructure, especially the https://chat.zcashcommunity.com/ rocket chat. This has been running since [November 2016](https://minezcash.com/growing-zcash-community/) and currently supports a total of over 1300 users. [[tx1]](https://explorer.zcha.in/transactions/37d6dfc8564ab8e8d8ce778ae582e990128a5061968e380cf82f1e21011a0832) [[tx2]](https://explorer.zcha.in/transactions/dd2789fddd61f30b7ef290bc5d5427d692204dc507739b13bfea2c6ba09e947f)
 
 - [Lustro.](https://explorer.zcha.in/about) Lustro operates https://zcha.in/ This is the first block explorer for the zcash blockchain, and also provides statistics and network information such as the number of nodes on the network. [[tx1]](https://explorer.zcha.in/transactions/c77bfcd13612a0d66b4ffaefdef63c252d7a683ace03cafebba02e0747e936a0) [[tx2]](https://explorer.zcha.in/transactions/9d7dc8664552b2bd0585c1157d0a396d8f11655bcf19b73c35fec24e1aa38fe5)
 

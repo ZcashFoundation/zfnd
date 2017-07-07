@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Foundation Update for July 2017"
-excerpt: ""
+excerpt: "This is just a short post to update you on the goings-on of the Zcash Foundation in the past couple of months."
 categories: blog
 tags: []
 image:

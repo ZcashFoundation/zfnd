@@ -22,4 +22,6 @@ The Zcash board of directors comprises:
   Matthew Green is an Assistant Professor of Computer Science at Johns Hopkins University, and one of the authors of the original Zerocash research paper. 
 - [_Naval Ravikant_](https://angel.co/naval)
   Naval Ravikant is the founder and CEO of AngelList, and one of the venture capital investors behind Zcash.
+- [_Yan Zhu_](https://diracdeltas.github.io/)
+  Yan is a Senior Software Engineer at Brave and a security researcher.
   

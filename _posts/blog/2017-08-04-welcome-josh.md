@@ -7,7 +7,7 @@ tags: []
 image:
   feature:
 date: 2017-08-04
-author: zcashboard
+author: amiller,acityinohio
 ---
 
 We are pleased to announce that [Josh Cincinnati](https://keybase.io/cin) has been hired as a part-time Senior Program Manager for the Zcash Foundation.

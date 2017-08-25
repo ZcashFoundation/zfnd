@@ -83,3 +83,5 @@ For now, and we think this will continue to be true in the future, the Zcash Co'
 We've thought about the potential for asking Zcash Co to donate some its assets to the Foundation, such as the Zcash github repository and trademarks. Maybe this will happen eventually, especially if the Foundation turns out to earn trust as stewards and leaders. On the other hand, there's a good argument that the Zcash Co has the most incentive right to invest in and maintain their own property. Giving it away would reduce that incentive, harming the community overall.
 
 _Edit, March 17: Added "and companies" to the list of organizations supporting a cryptocurrency. Thanks Eran Tromer for spotting this._
+
+Portuguese Translation - https://github.com/ZcashFoundation/ZcashFoundation/issues/29

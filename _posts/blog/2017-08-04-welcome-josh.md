@@ -20,3 +20,5 @@ Josh strongly aligns with the Zcash Foundation’s [Mission](https://github.com/
 He is both grateful to learn from other cryptocurrencies’ contributions and apply them to help the Foundation grow.
 
 The Foundation faces unique opportunities and challenges—ones that Josh is excited to take on as the Zcash Foundation’s first hire. We look forward to collaborating with him.
+
+Portuguese Translation: https://github.com/ZcashFoundation/ZcashFoundation/issues/32

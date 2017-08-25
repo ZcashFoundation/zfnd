@@ -22,3 +22,4 @@ You can read more about the Grant process in the open [Call For Proposal here.](
 
 Beyond the Grant program, the Foundation will be ramping up its activities and outreach in the coming months, and we are excited to engage the community! Stay tuned.
 
+Portuguese Translation: https://github.com/ZcashFoundation/ZcashFoundation/issues/36

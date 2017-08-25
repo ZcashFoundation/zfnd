@@ -84,4 +84,4 @@ We've thought about the potential for asking Zcash Co to donate some its assets 
 
 _Edit, March 17: Added "and companies" to the list of organizations supporting a cryptocurrency. Thanks Eran Tromer for spotting this._
 
-Portuguese Translation - https://github.com/ZcashFoundation/ZcashFoundation/issues/29
+[[Portuguese Translation]](https://github.com/ZcashFoundation/ZcashFoundation/issues/29)

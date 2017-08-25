@@ -31,4 +31,4 @@ We note that there are many other contributors to the Zcash community who are de
 
 Congratulations again to MineZcash, Lustro, and Radix42!
 
-Portuguese Translation: https://github.com/ZcashFoundation/ZcashFoundation/issues/30
+[[Portuguese Translation]](https://github.com/ZcashFoundation/ZcashFoundation/issues/30)

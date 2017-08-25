@@ -44,4 +44,4 @@ Administrative updates
 - We have posted all of our [board meeting minutes](https://github.com/ZcashFoundation/ZcashFoundation/tree/master/board-documents/minutes), and board decisions made over email:	
 - I have been holding an “office hours” hangout roughly once a week (Fridays at 12pm central time) mostly to give a status update and get some work done. Let me know (on the [rocket chat](https://chat.zcashcommunity.com/channel/the-zcash-foundation)) if you’re interested in being invited.
 
-Portuguese Translations: https://github.com/ZcashFoundation/ZcashFoundation/issues/31
+[[Portuguese Translations]](https://github.com/ZcashFoundation/ZcashFoundation/issues/31)

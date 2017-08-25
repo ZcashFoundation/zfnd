@@ -30,3 +30,5 @@ In the future, the Foundation will organize its spending through more organized 
 We note that there are many other contributors to the Zcash community who are deserving of recognition and support as well, so these is by no means all-encompassing. If you're interested in participating in the Zcash Foundation and helping determine its future, the best places to join the discussion are the [foundation forum](https://forum.z.cash/c/foundation), [#the-zcash-foundation channel](https://chat.zcashcommunity.com/channel/the-zcash-foundation) on the rocket chat, or our [github.](https://github.com/ZcashFoundation/ZcashFoundation) 
 
 Congratulations again to MineZcash, Lustro, and Radix42!
+
+Portuguese Translation: https://github.com/ZcashFoundation/ZcashFoundation/issues/30

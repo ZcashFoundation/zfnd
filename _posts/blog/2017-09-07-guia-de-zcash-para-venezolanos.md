@@ -45,7 +45,7 @@ Zcash y Bitcoin están demostrando ser prometedores [depósitos de valor alterna
 
 **Guía para la creación de una billetera Zcash:**
 
-1. En primer lugar, tendrá que elegir una billetera en la que almacenar su Zcash. Una billetera es un tipo de software libre que normalmente se ejecuta en su teléfono o computadora, o puede funcionar desde una página web. Puede informarse sobre diferentes opciones aquí: [http://www.comunidadezcash.com.br/es/monederos-zcash/](http://www.comunidadezcash.com.br/es/monederos-zcash/].
+1. En primer lugar, tendrá que elegir una billetera en la que almacenar su Zcash. Una billetera es un tipo de software libre que normalmente se ejecuta en su teléfono o computadora, o puede funcionar desde una página web. Puede informarse sobre diferentes opciones aquí: [http://www.comunidadezcash.com.br/es/monederos-zcash/](http://www.comunidadezcash.com.br/es/monederos-zcash/).
 
 2. [No olvide hacer una copia de seguridad de sus claves](), ya que esta es la única manera de recuperar sus fondos si pierde su dispositivo. La forma de hacer esto variará dependiendo de la billetera que haya elegido.
 

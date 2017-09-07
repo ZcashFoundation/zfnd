@@ -47,7 +47,7 @@ Zcash y Bitcoin están demostrando ser prometedores [depósitos de valor alterna
 
 1. En primer lugar, tendrá que elegir una billetera en la que almacenar su Zcash. Una billetera es un tipo de software libre que normalmente se ejecuta en su teléfono o computadora, o puede funcionar desde una página web. Puede informarse sobre diferentes opciones aquí: [http://www.comunidadezcash.com.br/es/monederos-zcash/](http://www.comunidadezcash.com.br/es/monederos-zcash/).
 
-2. [No olvide hacer una copia de seguridad de sus claves](), ya que esta es la única manera de recuperar sus fondos si pierde su dispositivo. La forma de hacer esto variará dependiendo de la billetera que haya elegido.
+2. [No olvide hacer una copia de seguridad de sus claves](https://github.com/zcash/zcash-docs/blob/master/es/wallet-backup.md), ya que esta es la única manera de recuperar sus fondos si pierde su dispositivo. La forma de hacer esto variará dependiendo de la billetera que haya elegido.
 
 3. Luego necesitará [comprar](http://www.comunidadezcash.com.br/es/mercados-zcash-es), [minar](http://www.comunidadezcash.com.br/es/mineria-zcash/), o ganar Zcash a cambio de sus servicios o mercancías (ver la sección siguiente). Algunas personas ya están haciendo esto para [escapar de las turbulencias económicas y políticas](https://medium.com/blockchannel/venezuelans-turns-to-zcash-ethereum-amidst-political-turmoil-5bf5db290295), y muchos otros, como [medio de supervivencia](http://reason.com/archives/2016/11/28/the-secret-dangerous-world-of).
 

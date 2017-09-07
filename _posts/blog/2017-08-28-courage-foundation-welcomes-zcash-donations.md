@@ -36,3 +36,5 @@ The Zcash Foundation is a registered non-profit organisation serving the Zcash c
 Courage is an international organisation that supports those who put themselves at risk in order to make important contributions to the historical record. The organisation's first beneficiary was Edward Snowden and it now supports several others including Jeremy Hammond, Barrett Brown, Chelsea Manning and Lauri Love.
 
 <https://couragefound.org>
+
+[[Portuguese Translation]](https://github.com/ZcashFoundation/ZcashFoundation/issues/42)

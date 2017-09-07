@@ -8,7 +8,7 @@ tags: []
 image:
   feature:
 date: 2017-09-07
-author: Jonathas Carrijo & Paige Peterson
+author: jonathas-paige
 ---
 [ES]  (English below)
 

@@ -14,7 +14,7 @@ On September 15th, the Zcash Foundation Grant Program Call For Proposals were cl
 
 ## By the Numbers
 
-The Zcash Foundation and Grant Review Committee were thrilled with the community response. We received **30 Grant Proposals** for the $80,000 in ZEC grants, of which **27 remain active** and [open to discussion from the public](https://github.com/ZcashFoundation/GrantProposals-2017Q4/issues). We received proposals for Zcash research, outreach, UX, wallet work, and much more. All of them are worth discussing, but I thought I'd offer a sample to give casual followers of the Zcash Foundation an idea of what to expect from the grants:
+The Zcash Foundation and Grant Review Committee were thrilled with the community response. We received **29 Grant Proposals** for the $80,000 in ZEC grants, of which **27 remain active** and [open to discussion from the public](https://github.com/ZcashFoundation/GrantProposals-2017Q4/issues). We received proposals for Zcash research, outreach, UX, wallet work, and much more. All of them are worth discussing, but I thought I'd offer a sample to give casual followers of the Zcash Foundation an idea of what to expect from the grants:
 
 ### Alternative Fully-Validating Node Written in Rust
 

@@ -9,6 +9,7 @@ amiller:
 
 zcashboard:
   name: Zcash Foundation
+  twitter: ZcashFoundation
   
 acityinohio:
   name: Josh Cincinnati 
@@ -23,3 +24,10 @@ jonathas-paige:
   email:
   bio: ""
   twitter: zcashco
+
+petervv:
+  name: Peter Van Valkenburgh
+  web: http://www.petervv.com/
+  email:
+  bio: ""
+  twitter: valkenburgh

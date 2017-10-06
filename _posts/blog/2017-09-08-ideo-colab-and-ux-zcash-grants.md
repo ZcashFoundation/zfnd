@@ -18,4 +18,4 @@ Today we’d like to take a moment to highlight an issue core to every cryptocur
 
 You can find more details about IDEO and their support of the [Zcash Foundation Grant Program on their post here.](https://medium.com/ideo-colab/better-ux-for-cryptocurrency-with-the-zcash-foundation-4d87465affa4) If you have a great Grant idea, [please submit it here!](https://github.com/ZcashFoundation/GrantProposals-2017Q4/issues)
 
-Portuguese Version [https://github.com/ZcashFoundation/ZcashFoundation/issues/44]
+[Portuguese Translation](https://github.com/ZcashFoundation/ZcashFoundation/issues/44)

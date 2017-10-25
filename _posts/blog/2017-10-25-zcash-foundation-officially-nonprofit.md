@@ -28,7 +28,7 @@ But what if public infrastructure is something that exists in the virtual world 
 
 The Internet is a public space, but it is—especially of late—becoming a balkanized federation of private fiefdoms. Where are you as you wander the Internet? Most likely,  you spend the majority of your time on private properties: Facebook, Google, Amazon, Twitter, Uber, Airbnb, Ebay, Reddit, or the New York Times. 
 
-s you navigate between these digital landowners you are using public infrastructure: the TCP/IP protocol, the DNS system, and web browsers that are mostly powered with open source software libraries. Additionally, the servers that power private websites like Google and Amazon are—more often than not—running on open source software (e.g. Apache).
+As you navigate between these digital landowners you are using public infrastructure: the TCP/IP protocol, the DNS system, and web browsers that are mostly powered with open source software libraries. Additionally, the servers that power private websites like Google and Amazon are—more often than not—running on open source software (e.g. Apache).
 
 Just as the public sewers and subways of New York undergird the very valuable and privately owned buildings above, the public protocols and software stacks of the Internet sustain the very valuable websites we frequent. There’s a fascinating and complicated mix of public and private, open source and proprietary infrastructure online, and there are already some public charities promoting the creation of public components of that infrastructure: think of the [Free Software Foundation](https://www.fsf.org/about/), or the [Mozilla Foundation](https://www.mozilla.org/en-US/foundation/about/), and digital civil liberties groups like the [EFF.](https://www.eff.org/) 
 

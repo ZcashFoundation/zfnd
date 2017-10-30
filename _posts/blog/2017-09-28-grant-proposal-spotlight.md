@@ -39,3 +39,5 @@ Two groups submitted proposals related to analysis of Zcash's transaction graphâ
 While the Foundation is no longer accepting new proposals, these (and all other) proposals are still open for discussion until their **final proposal documents are submitted by October 6th.** The Grant Review committee would love to hear from Zcash users and the public at largeâ€”please add your voice and comments here!
 
 [https://github.com/ZcashFoundation/GrantProposals-2017Q4/issues](https://github.com/ZcashFoundation/GrantProposals-2017Q4/issues)
+
+[Portuguese Version] (https://github.com/ZcashFoundation/ZcashFoundation/issues/50)

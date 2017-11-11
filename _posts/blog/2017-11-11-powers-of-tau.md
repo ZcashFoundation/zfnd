@@ -8,7 +8,8 @@ image:
   feature:
 date: 2017-11-11
 modified: 2017-11-11
-author: amiller, Sean Bowe
+author: ebfull
+author: amiller
 ---
 
 # Announcing the world's largest multi-party computation ceremony

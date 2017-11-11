@@ -12,11 +12,11 @@ author: amiller, Sean Bowe
 ---
 
 # Announcing the world's largest multi-party computation ceremony
-zk-SNARKs are an incredible tool for privacy preserving protocols and verifiable computation. They are short, easy to verify [zero-knowledge proofs](http) of arbitrary statements. They are also non-interactive, making them very useful for cryptocurrencies like Zcash and many other projects.
+zk-SNARKs are an incredible tool for privacy preserving protocols and verifiable computation. They are short, easy to verify [zero-knowledge proofs](https://z.cash/technology/zksnarks.html) of arbitrary statements. They are also non-interactive, making them very useful for cryptocurrencies like Zcash and many other projects.
 
 However, currently practical zk-SNARK schemes have a catch: for a given computation that you'd like to create proofs for, some **public parameters** must be constructed. These parameters are used to construct and verify proofs. If the "randomness" used to construct the parameters is compromised by an adversary, it is possible for that adversary to construct false proofs.
 
-Last year, Zcash performed a [parameter generation ceremony](http) for the initial Sprout release of its zk-SNARKs. In order to protect the parameters from compromise, the ceremony leveraged a [multi-party computation protocol](http). This protocol has the property that only _one_ participant needs to destroy their secret randomness (aka "toxic waste") in order to protect the integrity of the parameters. In other words, every single participant of the ceremony would have to be compromised by an adversary.
+Last year, Zcash performed a [parameter generation ceremony](https://z.cash/technology/paramgen.html) for the initial Sprout release of its zk-SNARKs. In order to protect the parameters from compromise, the ceremony leveraged a [multi-party computation protocol](https://z.cash/blog/generating-zcash-parameters.html). This protocol has the property that only _one_ participant needs to destroy their secret randomness (aka "toxic waste") in order to protect the integrity of the parameters. In other words, every single participant of the ceremony would have to be compromised by an adversary.
 
 The protocol used in the Sprout ceremony has some limitations: it couldn't scale beyond a handful of participants, it couldn't tolerate faults/aborts, and it required very expensive computations. As a result, the ceremony only involved six participants, and took months of planning, engineering and cryptographic design to pull off. This is not a sustainable process for future zk-SNARK parameter generation, including the planned Zcash Sapling upgrade and many other "z-apps" expected in the future.
 

@@ -5,7 +5,7 @@ excerpt: "The Zcash Foundation is now officially a 501(c)(3) Public Charity"
 categories: blog
 tags: []
 image:
-  featurg: Z_Foundation_Logo1.svg
+  feature:
 date: 2017-10-25
 author: petervv
 ---

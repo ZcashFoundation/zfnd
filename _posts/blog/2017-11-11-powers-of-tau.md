@@ -12,7 +12,6 @@ author: ebfull
 author: amiller
 ---
 
-# Announcing the world's largest multi-party computation ceremony
 zk-SNARKs are an incredible tool for privacy preserving protocols and verifiable computation. They are short, easy to verify [zero-knowledge proofs](https://z.cash/technology/zksnarks.html) of arbitrary statements. They are also non-interactive, making them very useful for cryptocurrencies like Zcash and many other projects.
 
 However, currently practical zk-SNARK schemes have a catch: for a given computation that you'd like to create proofs for, some **public parameters** must be constructed. These parameters are used to construct and verify proofs. If the "randomness" used to construct the parameters is compromised by an adversary, it is possible for that adversary to construct false proofs.

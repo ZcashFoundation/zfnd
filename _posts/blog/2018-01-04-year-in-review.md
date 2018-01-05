@@ -12,7 +12,7 @@ author: acityinohio
 
 2017 was a massive year for cryptocurrency, and for the Zcash Foundation it was no exception--a year ago, the Zcash Foundation didn't even exist! The Zcash Company already outlined [their year in review](https://z.cash/blog/zcash-in-2017.html); to complement their post I thought it would be nice to add detail to the Foundation's year, and offer a prospectus for the Foundation's activities in 2018 and beyond.
 
-### Test Transactions the 2017Q4 Grant Program
+### Test Transactions and the 2017Q4 Grant Program
 
 Earlier this year, we tried our hand at low-touch Zcash grants via the [Test Transaction Awards](https://z.cash.foundation//blog/test-transactions/). These awards provided critical financial support for early supporters of the Zcash ecosystem, and our experience with the rewards evolved into the [2017Q4 Grant Program](https://z.cash.foundation//blog/grant-program/). The 2017Q4 Grant Program received [28 submissions](https://github.com/ZcashFoundation/GrantProposals-2017Q4/issues?q=is%3Aopen+is%3Aissue) and had a more rigorous review process, mirroring an academic grant process. [Nine projects received over $100,000](https://z.cash.foundation//blog/grant-awards/) of grant funding (one project withdrew after their award). I and the rest of the Foundation are eagerly anticipating the results of these grants, and were thrilled with the response from the community!
 

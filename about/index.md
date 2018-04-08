@@ -11,7 +11,7 @@ The Zcash Foundation Board of Directors Comprises:
 - [_Andrew Miller_](https://soc1024.com/) (Chair, President)
   Andrew Miller is an Assistant Professor in the Electrical and Computer Engineering department at the University of Illinois at Urbana-Champaign, and an associate director of the Initiative for Cryptocurrencies and Contracts.
 - [_Peter Van Valkenburgh_](http://www.petervv.com/) (Secretary)
-  Peter Van Valkenburgh is the Director of Research at Coin Center, a non-profit organization focused on resarch, education, and advocacy on topics involving policy and cryptocurrencies.
+  Peter Van Valkenburgh is the Director of Research at Coin Center, a non-profit organization focused on research, education, and advocacy on topics involving policy and cryptocurrencies.
 - [_Matthew Green_](https://isi.jhu.edu/~mgreen/)
   Matthew Green is an Assistant Professor of Computer Science at Johns Hopkins University, and one of the authors of the original Zerocash research paper. 
 - [_Naval Ravikant_](https://angel.co/naval)

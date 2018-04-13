@@ -8,8 +8,7 @@ image:
   feature:
 date: 2017-11-11
 modified: 2017-11-11
-author: ebfull
-author: amiller
+author: amiller-ebfull
 ---
 
 zk-SNARKs are an incredible tool for privacy preserving protocols and verifiable computation. They are short, easy to verify [zero-knowledge proofs](https://z.cash/technology/zksnarks.html) of arbitrary statements. They are also non-interactive, making them very useful for cryptocurrencies like Zcash and many other projects.

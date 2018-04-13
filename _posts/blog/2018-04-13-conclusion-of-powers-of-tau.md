@@ -23,7 +23,7 @@ We're happy to announce the completion of the ceremony, after many months and ma
 
 ### Ceremony Overview
 
-The ceremony used an MPC protocol described in a [paper](https://eprint.iacr.org/2017/1050) written by Ariel Gabizon, Ian Miers and Sean Bowe, who are scientists and engineers at the Zcash Company. This ceremony produced a partial common reference string (CRS) for Jens Groth's [pairing-based zk-SNARK scheme](https://eprint.iacr.org/2016/260) — the current state-of-the-art in performance. This CRS supports arithmetic circuits with up to 2^21 multiplication gates.
+The ceremony used an MPC protocol described in a [paper](https://eprint.iacr.org/2017/1050) written by Sean Bowe, Ariel Gabizon, and Ian Miers, who are scientists and engineers at the Zcash Company. This ceremony produced a partial common reference string (CRS) for Jens Groth's [pairing-based zk-SNARK scheme](https://eprint.iacr.org/2016/260) — the current state-of-the-art in performance. This CRS supports arithmetic circuits with up to 2^21 multiplication gates.
 
 The correctness of the proofs which use these parameters require that at least *one* participant of the Powers of Tau ceremony destroyed some randomness they sampled during their part of the ceremony. The protocol guarantees zero-knowledge of the resulting proofs, even if all participants were compromised.
 

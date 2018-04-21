@@ -18,7 +18,7 @@ While we've received over a hundred applications so far, we expect the conferenc
 
 [https://z.cash.foundation/zcon/](https://z.cash.foundation/zcon/)
 
-The conference registration fee is $900USD. Scholarships are available for researchers and students, but **please note that the deadline for scholarship eligibility is May 1st**. Please apply before then if you plan on requesting financial aid. Even if you're not requesting financial aid, we anticipate that we will reach our capacity (~300 attendees) rapidly, so we encourage you to apply ASAP. If you cannot attend, we are planning to the livestream as many presentations as possible.
+The conference registration fee is $900USD. Scholarships are available for researchers and students, but **please note that the deadline for scholarship eligibility is May 1st**. Please apply before then if you plan on requesting financial aid. Even if you're not requesting financial aid, we anticipate that we will reach our capacity (~300 attendees) rapidly, so we encourage you to apply ASAP. If you cannot attend, we are planning to livestream as many presentations as possible.
 
 ## Introducing Our Community Governance Panel
 

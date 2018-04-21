@@ -35,11 +35,11 @@ The 2017Q4 grant awardees have been busy executing on their projects—we didn�
 
 Interested in submitting a proposal? More details are on the process are available here:
 
-https://github.com/ZcashFoundation/GrantProposals-2018Q2
+[https://github.com/ZcashFoundation/GrantProposals-2018Q2](https://github.com/ZcashFoundation/GrantProposals-2018Q2)
 
 Need ideas for potential grants? Check the globally edited Wiki:
 
-https://github.com/ZcashFoundation/ZcashFoundation/wiki/Grant-Project-Ideas
+[https://github.com/ZcashFoundation/ZcashFoundation/wiki/Grant-Project-Ideas](https://github.com/ZcashFoundation/ZcashFoundation/wiki/Grant-Project-Ideas)
 
 The full submission and selection process should happen prior to [Zcon0](https://z.cash.foundation/zcon/). (an event which you should also consider applying to attend if you’re submitting a grant) The most important date to keep in mind: **May 18th**. An *issue* with your pre-proposal needs to be opened in the [2018Q2 Grant repository](https://github.com/ZcashFoundation/GrantProposals-2018Q2/) in order to be considered for funding.
 

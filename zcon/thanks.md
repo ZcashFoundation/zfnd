@@ -1,5 +1,5 @@
 ---
-layout: zcon
+layout: page
 title: Thanks for Registering for Zcon0
 excerpt: "Thanks for Registering for Zcon0"
 ---

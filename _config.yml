@@ -39,7 +39,7 @@ exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.
 owner:
   name: Zcash Foundation
   avatar: bio-photo.jpg
-  email: socrates1024@gmail.com
+  email: contact@z.cash.foundation
   disqus-shortname:
   twitter: zcashfoundation
   facebook: #username

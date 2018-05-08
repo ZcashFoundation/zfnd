@@ -24,7 +24,7 @@ Consequently, we are currently taking the following steps:
 
 - _Making ASIC resistance an immediate technical priority for the Foundation._ We have already outlined a technical roadmap for the next year and are in the process of hiring and project-planning to execute on it. Our roadmap includes development on Bolt payment channels, on alternative wallets, and starting an independent implementation of full node software. We are now adding ASIC resistance as an additional technical priority. 
 
-Based on continued community approval and the results of our investigation above, we have a rough goal of developing and submitting a mitigation plan through the ZIP process, targeting a deployment in late 2018. Having the ability to carry out a PoW change in the future, especially if it is lead by the Foundation, means we should start now. Since the Company is signalling they may not do this, but we think there is a already a loud and clear interest in the community. (This is an easy case, the governance experiments are really about harder cases!)
+- Based on continued community approval and the results of our investigation above, we have a rough goal of developing and submitting a mitigation plan through the ZIP process, targeting a deployment in late 2018. Having the ability to carry out a PoW change in the future, especially if it is lead by the Foundation, means we should start now. Since the Company is signalling they may not do this, but we think there is a already a loud and clear interest in the community. (This is an easy case, the governance experiments are really about harder cases!)
 
 - _Continuing to run the ballot process to gauge community sentiment._
 
@@ -54,4 +54,4 @@ I'm all for a Sisyphean effort now and again, but perhaps there is a better solu
 
 But in the meantime, we must act, and act we shall.
 
-_thanks to [Andrew Miller](https://twitter.com/socrates1024) and [Sonya Mann](https://twitter.com/sonyaellenmann) for their input and feedback_
+_Thanks to [Andrew Miller](https://twitter.com/socrates1024) and [Sonya Mann](https://twitter.com/sonyaellenmann) for their input and feedback._

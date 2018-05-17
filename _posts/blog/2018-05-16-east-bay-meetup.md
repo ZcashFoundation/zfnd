@@ -10,7 +10,7 @@ date: 2018-05-16
 author: sonya
 ---
 
-The Zcash Foundation is hosting a meetup in Oakland on Saturday, May 26, in association with the community group [Bay Area Zcash Users](https://www.meetup.com/Bay-Area-Zcash-Users/). There is a [Facebook event page](https://www.facebook.com/events/1678244655625997/) available for anyone who wants to sign up that way.
+The Zcash Foundation is hosting a meetup in Oakland on Saturday, May 26, in association with the community group [Bay Area Zcash Users](https://www.meetup.com/Bay-Area-Zcash-Users/). There is a [Facebook event page](https://www.facebook.com/events/1678244655625997/) available for anyone who wants to sign up that way, as well as a [Meetup event page](https://www.meetup.com/Bay-Area-Zcash-Users/events/250863560/).
 
 **Location:** [Lost & Found Beer Garden](https://www.yelp.com/biz/lost-and-found-beer-garden-oakland-2), 2040 Telegraph Avenue, within walking distance of the 19th Street BART station.
 

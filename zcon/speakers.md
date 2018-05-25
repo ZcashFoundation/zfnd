@@ -27,4 +27,8 @@ Marshall Gaucher | Zcash Company, Engineer
 Nic Carter | Coinmetrics.io, Cocreator
 Sean Bowe | Zcash Company, Engineer
 Daniel Benarroch | QED-it, Lead Cryptographer
-J. Ayo Akinyele | YeleTech Security, President 
+J. Ayo Akinyele | YeleTech Security, President
+Daira Hopwood | Zcash Company, Engineer and Protocol Designer
+Justin Smith | XMR Systems, CEO
+Ian Miers | Cornell Tech, Researcher
+Eran Tromer | Columbia University, Research Scientist

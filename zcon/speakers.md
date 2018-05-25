@@ -21,7 +21,7 @@ Jack (str4d) Grigg | Zcash Company, Engineer
 Matthew Green | Johns Hopkins, Cryptographer
 Nicola Greco | Protocol Labs, Engineer
 Jay Graber | Zcash Company, Engineer
-Ariel Gazibon | Zcash Company, Engineer
+Ariel Gabizon | Zcash Company, Engineer
 Jack (Dodger) Gavigan | Zcash Company, COO
 Marshall Gaucher | Zcash Company, Engineer
 Nic Carter | Coinmetrics.io, Cocreator

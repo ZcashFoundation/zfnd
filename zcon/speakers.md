@@ -1,3 +1,4 @@
+---
 layout: page
 title: Zcon0 Speakers
 excerpt: "The speakers who will give talks and workshops at Zcon0."

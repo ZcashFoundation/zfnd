@@ -147,7 +147,8 @@ Privacy in Mobile Wallets
 *Justin Smith*
 
 Day 2, Workshop 3
-*TBD*
+Security in Smart Contracts
+*Dean Tribble*
 
 Day 2, Workshop 4
 R1CS Optimization
@@ -170,7 +171,8 @@ Privacy in Mobile Wallets
 *Justin Smith*
 
 Day 2, Workshop 3.2
-*TBD*
+Security in Smart Contracts
+*Dean Tribble*
 
 Day 2, Workshop 4.2
 *TBD*

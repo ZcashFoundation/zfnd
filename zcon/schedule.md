@@ -75,7 +75,7 @@ Selective Disclosure
 
 Day 1, Workshop 2.2
 Standardizing the Encrypted Memo Field Format
-*TBD*
+*Za Wilcox*
 
 Day 1, Workshop 3.2
 Wallet Scalability, Spv, Etc.
@@ -151,12 +151,12 @@ Security in Smart Contracts
 *Dean Tribble*
 
 Day 2, Workshop 4
-R1CS Optimization
-*Daira Hopwood*
+Network Privacy in Blockchains
+*Isis Agora Lovecruft*
 
 Day 2, Workshop 5
-Explaining ZK-SNARKS
-*Ariel Gabizon*
+R1CS Optimization
+*Daira Hopwood*
 
 **2PM-2:10PM**
 Break To Switch Workshops
@@ -175,7 +175,8 @@ Security in Smart Contracts
 *Dean Tribble*
 
 Day 2, Workshop 4.2
-*TBD*
+Network Privacy in Blockchains
+*Isis Agora Lovecruft*
 
 Day 2, Workshop 5.2
 Explaining ZK-SNARKS

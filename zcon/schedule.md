@@ -82,12 +82,16 @@ Wallet Scalability, Spv, Etc.
 *Jack (Str4d) Grigg*
 
 Day 1, Workshop 4.2
+Mining
+*Simon Liu, Daira Hopwood*
+
+Day 1, Workshop 5.2
 Developer Infrastructure
 *Ian Muñoz, Marshall Gaucher*
 
-Day 1, Workshop 5.2
+Day 1, Workshop 6.2
 Privacy Metrics
-*Brad Miller*
+*Brad Miller, Eirik Ogilvie-Wigley*
 
 **3:10PM-3:30PM**
 Coffee Break
@@ -140,7 +144,7 @@ Lunch
 **1PM-2PM**
 Day 2, Workshop 1
 ZKProof Workshop Follow-Up
-*Daniel Benarroch*
+*Daniel Benarroch, Eran Tromer*
 
 Day 2, Workshop 2
 Privacy in Mobile Wallets
@@ -155,7 +159,7 @@ Network Privacy in Blockchains
 *Isis Agora Lovecruft*
 
 Day 2, Workshop 5
-R1CS Optimization
+Circuit Optimization
 *Daira Hopwood*
 
 **2PM-2:10PM**
@@ -164,7 +168,7 @@ Break To Switch Workshops
 **2:10PM-3:05PM**
 Day 2, Workshop 1.2
 ZKProof Workshop Follow-Up
-*Daniel Benarroch*
+*Daniel Benarroch, Eran Tromer*
 
 Day 2, Workshop 2.2
 Privacy in Mobile Wallets

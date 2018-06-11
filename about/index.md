@@ -4,9 +4,9 @@ title: About the Zcash Foundation
 excerpt: "About the Zcash Foundation"
 ---
 
-The Zcash Foundation is a non-profit organization registered in the state of Delaware. You can read our [detailed Mission here.](https://github.com/ZcashFoundation/ZcashFoundation/blob/master/MISSION.md) Most of the Foundation is organized via GitHub, you can find our [main repository here](https://github.com/ZcashFoundation/ZcashFoundation/) and our [organization page here.](https://github.com/ZcashFoundation)
+The Zcash Foundation is a non-profit organization registered in the state of Delaware. You can read our [detailed Mission here](https://github.com/ZcashFoundation/ZcashFoundation/blob/master/MISSION.md). Most of the Foundation is organized via GitHub, where you can find our [main repository](https://github.com/ZcashFoundation/ZcashFoundation/) and our [organization page](https://github.com/ZcashFoundation).
 
-The Zcash Foundation Board of Directors Comprises:
+The Zcash Foundation Board of Directors comprises:
 
 - [_Andrew Miller_](https://soc1024.com/) (Chair, President)
   Andrew Miller is an Assistant Professor in the Electrical and Computer Engineering department at the University of Illinois at Urbana-Champaign, and an associate director of the Initiative for Cryptocurrencies and Contracts.
@@ -24,4 +24,6 @@ The Zcash Foundation Employees Include:
 - [_Josh Cincinnati_](https://twitter.com/acityinohio)
   Josh Cincinnati is the Executive Director of the Foundation, and an active member of the cryptocurrency community.
 - [_Antonie Hodge_](https://twitter.com/antoniehodge)
-  Antonie Hodge is the Operations Director of the Zcash Foundation, and also the Operations Director at [Coin Center](https://coincenter.org/)—the leading non-profit focused on policy issues facing cryptocurrencies.
+  Antonie Hodge is the Operations Director of the Zcash Foundation, and also the Operations Director of [Coin Center](https://coincenter.org/), the leading nonprofit think tank focused on policy issues facing cryptocurrencies.
+- [_Sonya Mann_](https://twitter.com/sonyaellenmann)
+  Sonya Mann is the Foundation's Communications Manager and a former tech journalist.

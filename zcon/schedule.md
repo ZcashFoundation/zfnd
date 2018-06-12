@@ -4,7 +4,7 @@ title: Zcon0 Schedule
 excerpt: "The schedule for Zcon0"
 ---
 
-You can find a pretty, printable version of [the current schedule here.](https://z.cash.foundation/zcon/zcon0_schedule.pdf)
+Coming soon: a final, pretty, printable version.
 
 ## Day 1
 

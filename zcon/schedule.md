@@ -159,6 +159,10 @@ Network Privacy in Blockchains
 *Isis Agora Lovecruft*
 
 Day 2, Workshop 5
+Explaining ZK-SNARKS
+*Ariel Gabizon*
+
+Day 2, Workshop 6
 Circuit Optimization
 *Daira Hopwood*
 
@@ -235,6 +239,7 @@ Zcash Foundation Grant Program Overview
 
 **11:20AM-12PM**
 Keynote Panel: Cryptocurrency Governance
+*Peter Van Valkenburgh, Jill Carlson, Zooko Wilcox, Jameson Lopp, Vitalik Buterin*
 
 **12PM-1PM**
 Lunch

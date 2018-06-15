@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Voting on Board Proposals and Board Candidates"
+title: "Voting on Ballot Proposals and Board Candidates"
 excerpt: "The Zcash Foundation's governance process is underway."
 categories: blog
 tags: [governance]

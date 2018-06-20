@@ -231,7 +231,7 @@ Coffee Break
 
 **10:50AM-11AM**
 The ZEF
-*Eric Metzler*
+*Eric Meltzer*
 
 **11AM-11:20AM**
 Zcash Foundation Grant Program Overview

@@ -14,8 +14,13 @@ Breakfast
 **8AM-8:50AM**
 Registration
 
-**9AM-9:30AM**
-Opening Remarks/Keynote
+**9AM-9:10AM**
+Opening Remarks
+*Josh Cincinnati*
+
+**9:10AM-9:30AM**
+Keynote
+*Zooko Wilcox*
 
 **9:30AM-9:55AM**
 From Zerocoin To Zcash
@@ -35,6 +40,10 @@ Cultivating Sapling
 **11AM-11:20AM**
 Defining and Proving Security of the Sapling Protocol
 *Ariel Gabizon*
+
+**11:20AM-11:40AM**
+Using Zcash
+*Linda Naeun Lee*
 
 **11:40AM-12PM**
 Empirical Analysis of the Zcash Blockchain

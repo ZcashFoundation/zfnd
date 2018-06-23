@@ -250,12 +250,12 @@ Zcash Foundation Grant Program Overview
 Keynote Panel: Cryptocurrency Governance
 *Peter Van Valkenburgh, Jill Carlson, Zooko Wilcox, Jameson Lopp, Vitalik Buterin*
 
+**12PM-12:30PM**
+Closing Remarks
+*Andrew Miller*
+
 **12PM-1PM**
 Lunch
 
-**1PM-1:30PM**
-Closing Remarks And Kicking Off Final Freestyle Workshop
-*Andrew Miller*
-
-**2PM-5PM**
+**1:30PM-5PM**
 Freestyle Workshop

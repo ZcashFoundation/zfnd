@@ -67,7 +67,7 @@ This is a case where the margin of the decision comes into play. Given that the 
 
 > Votes: Agree 31, Disagree 33
 
-Given the ambivalence of the vote, the Foundation considers this a “no action” directive.
+Given the ambivalence of the vote, the Foundation considers this a no-action directive.
 
 **Any significant effort by the Foundation to develop or promote a cryptocurrency shall be directed at either the (1) Zcash blockchain; or (2) chain forks (chain splits) of the Zcash blockchain that approximately carry forward the percentage stakes of Zcash holders immediately before the fork (split) to the money supply in circulation immediately after the fork (split).** • [Details and discussion](https://github.com/ZcashFoundation/Elections/pull/14)
 

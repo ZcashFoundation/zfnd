@@ -9,10 +9,10 @@ The Zcash Foundation is a non-profit organization registered in the state of Del
 The Zcash Foundation Board of Directors comprises:
 
 - [_Andrew Miller_](https://soc1024.com/) (Chair, President) • Assistant Professor in the Electrical and Computer Engineering department at the University of Illinois at Urbana-Champaign, and an associate director of the Initiative for Cryptocurrencies and Contracts.
-- [_Peter Van Valkenburgh_](http://www.petervv.com/) (Secretary) • Director of Research at Coin Center, a nonprofit organization focused on research, education, and advocacy on the intersection between policy and cryptocurrencies.
+- [_Peter Van Valkenburgh_](http://www.petervv.com/) (Secretary) • Director of Research at Coin Center, a nonprofit organization focused on research, education, and advocacy on the intersection of policy and cryptocurrencies.
 - [_Matthew Green_](https://isi.jhu.edu/~mgreen/) • Assistant Professor of Computer Science at Johns Hopkins University, and one of the authors of the original Zerocash research paper.
 - [_Amber Baldet_](http://www.amberbaldet.com/) • CEO of Clovyr and former head of the JPMorgan Chase Blockchain Center of Excellence.
-- [_Ian Miers_](https://cs.jhu.edu/~imiers/) • Postdoc studying computer security and applied cryptography at Cornell Tech, as well as one of the creators of Zcash.
+- [_Ian Miers_](https://cs.jhu.edu/~imiers/) • Postdoc studying computer security and applied cryptography at Cornell Tech, and one of the creators of Zcash.
 
 Former members:
 
@@ -22,5 +22,5 @@ Former members:
 The Foundation's employees:
 
 - [_Josh Cincinnati_](https://twitter.com/acityinohio) • Executive Director of the Foundation, and an active member of the cryptocurrency community.
-- [_Antonie Hodge_](https://twitter.com/antoniehodge) • Operations Director of the Zcash Foundation, and simultaneously Operations Director of Coin Center, the leading nonprofit think tank focused on policy issues facing cryptocurrencies.
-- [_Sonya Mann_](https://twitter.com/sonyaellenmann) • Communications Manager for the Foundation, a role she came to from tech journalism.
+- [_Antonie Hodge_](https://twitter.com/antoniehodge) • Operations Director of the Zcash Foundation, and simultaneously Operations Director of Coin Center, the leading nonprofit think tank focused on the policy issues facing cryptocurrencies.
+- [_Sonya Mann_](https://twitter.com/sonyaellenmann) • Communications Manager for the Foundation and a former tech journalist.

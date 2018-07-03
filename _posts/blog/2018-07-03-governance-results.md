@@ -82,6 +82,7 @@ This looks like substantial community endorsement that our primary efforts shoul
 Taking ownership of the trademark was the decision with the largest margin of victory. We are in talks with the Company to do so, although obviously we have no legal standing to make demands. The Company has shown an active interest in working out an agreement.
 
 **And just for fun: The Foundation should endeavor to establish the official Zcash mascot as one of the following choices. You may pick up to two:**
+
 * **Zeal, a collection of Zebras** — 28 votes
 * **Waterbear** — 17 votes
 * **Squirrel** — 12 votes

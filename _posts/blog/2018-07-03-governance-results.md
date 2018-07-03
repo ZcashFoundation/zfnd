@@ -4,8 +4,8 @@ title: "Zcash Foundation Governance Process Results"
 excerpt: "How the decisions of the Community Governance Panel will shape the Foundation's strategy going forward."
 categories: blog
 tags: [governance]
-image:
-  feature: zcashfoundation.github.io/images/zeal-zcash-foundation-feature-image.jpg
+image: zcashfoundation.github.io/images/zeal-zcash-foundation-feature-image.jpg
+  feature:
 date: 2018-07-03
 author: zcashboard
 ---

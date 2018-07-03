@@ -18,7 +18,8 @@ Why the optimism for Zcash in particular? Because Zcash is based on a protocol t
 
 In fact, that kind of upgrade is *already* happening with Sapling! The Sapling zk-SNARK circuit is practically as different to the current Zcash blockchain as a STARK circuit might be. The protocol only requires the circuit to meet SNARK requirements, which STARKs would.
 
-##...speaking of generalization: zkproof.org
+=======
+## ...speaking of generalization: zkproof.org
 
 This level of generalization is not unique to Zcash’s zero knowledge system, but it's also not yet standardized. That’s why the Zcash Foundation sponsored the [ZK Proof conference](https://zkproof.org/), a standards effort organized by a broad panel of researchers. The Zcash Foundation has already led in supporting SNARK-related technology broadly, through our Zapps working group and hosting the [Powers of Tau ceremony](https://z.cash.foundation//blog/powers-of-tau/). We hope to see the conference pave the way for future zk-SNARK research and develop interoperable standards.
 

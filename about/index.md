@@ -4,7 +4,7 @@ title: About the Zcash Foundation
 excerpt: "The Zcash Foundation's purpose, mission, and team members."
 ---
 
-The Zcash Foundation is a non-profit organization registered in the state of Delaware. You can read our [detailed Mission here](https://github.com/ZcashFoundation/ZcashFoundation/blob/master/MISSION.md). Most of the Foundation is organized via GitHub, where you can find our [main repository](https://github.com/ZcashFoundation/ZcashFoundation/) and our [organization page](https://github.com/ZcashFoundation).
+The Zcash Foundation is a nonprofit organization registered in the state of Delaware. You can read our [detailed Mission here](https://github.com/ZcashFoundation/ZcashFoundation/blob/master/MISSION.md). Most of the Foundation is organized via GitHub, where you can find our [main repository](https://github.com/ZcashFoundation/ZcashFoundation/) and our [organization page](https://github.com/ZcashFoundation).
 
 The Zcash Foundation Board of Directors comprises:
 

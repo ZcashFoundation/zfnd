@@ -9,6 +9,7 @@ image:
 date: 2018-07-03
 author: zcashboard
 ---
+
 Throughout June, the Zcash Foundation carried out an experimental governance process. We first announced it [back in April](https://z.cash.foundation//blog/zcon0-and-community-governance/) and recently [shared the results](https://www.youtube.com/watch?v=m8gv8rvcV08&list=PL40dyJ0UYTLK507afWUMgzUYeh-i4qQWS&index=19) at Zcon0 on June 28.
 
 The Foundation's governance system is outlined on the [Elections page](https://github.com/ZcashFoundation/Elections#the-community-governance-panel) that Chairman Andrew Miller and Executive Director Josh Cincinnati wrote:
@@ -43,11 +44,11 @@ It is important for the Foundation to remain mindful of the Zcash constituents n
 
 ## Results and Interpretation
 
-**The Zcash community wishes to preserve ASIC resistance, discouraging the use of ASIC mining equipment in favor of GPU mining equipment. The Zcash Foundation should therefore adopt this as a priority.** • [Details and discussion](https://github.com/ZcashFoundation/Elections/pull/1)
+**The Zcash community wishes to preserve ASIC resistance, discouraging the use of ASIC mining equipment in favor of GPU mining equipment. The Zcash Foundation should therefore adopt this as a priority.** *[Details and discussion](https://github.com/ZcashFoundation/Elections/pull/1)*
 
 > Votes: Agree 19, Disagree 45
 
-Frankly, the result of this vote was surprising to many members of the community, including Zcash Foundation leadership.
+Frankly, the result of this vote was surprising to many members of the community, including those of us at the Zcash Foundation.
 
 We are interpreting it as a directive to look for ways to preserve decentralization and reduce monopoly chokepoints without trying to shut out ASICs specifically. Complete ASIC resistance is an effort that many community members believe is technically impossible and would just encourage stealth ASIC mining.
 
@@ -57,25 +58,25 @@ Reminder, the Company is a separate entity from the Foundation. As we’ve share
 
 A dual proof-of-work approach that encourages both GPU and ASIC miners is under discussion, as is the possibility of moving to proof-of-stake. According to Zcash Company CEO Zooko Wilcox, “The Zcash Company is going to choose a deadline and before that deadline we’re going to commit to what mining rules we are and aren’t willing to provide tech support for. And the deadline and decision will be when Sapling activates — October 28 — at the latest but hopefully earlier.”
 
-**The Foundation should commit to a plan for migrating the Zcash protocol to a new proof of work algorithm with a hard-fork planned between September 30, 2020 and December 31, 2020, with the following tasks: 1) Selecting a thermodynamically efficient (not ASIC-resistant!), currently unused proof-of-work algorithm 2) Hosting and building an open hardware specification for the selected PoW algorithm 3) Assembling a consortium of hardware companies to build hardware against this open specification, while encouraging upstream contributions 4) Building an open source, cross-platform, user-friendly, p2pool-esque piece of mining software for use with this hardware 5) Manage the hard fork upgrade process across users, wallets, exchanges** • [Details and discussion](https://github.com/ZcashFoundation/Elections/pull/21)
+**The Foundation should commit to a plan for migrating the Zcash protocol to a new proof of work algorithm with a hard-fork planned between September 30, 2020 and December 31, 2020, with the following tasks: 1) Selecting a thermodynamically efficient (not ASIC-resistant!), currently unused proof-of-work algorithm 2) Hosting and building an open hardware specification for the selected PoW algorithm 3) Assembling a consortium of hardware companies to build hardware against this open specification, while encouraging upstream contributions 4) Building an open source, cross-platform, user-friendly, p2pool-esque piece of mining software for use with this hardware 5) Manage the hard fork upgrade process across users, wallets, exchanges**  *[Details and discussion](https://github.com/ZcashFoundation/Elections/pull/21)*
 
 > Votes: Agree 38, Disagree 26
 
 This is a case where the margin of the decision comes into play. Given that the voters supported this proposal, but not overwhelmingly, and also based on direct feedback from the Board, we are interpreting this result as an endorsement of the goals — but not necessarily the implementation details — of the proposal. An open hardware specification would support decentralization and help reduce monopoly chokepoints; we have begun to explore establishing a hardware manufacturer working group.
 
-**The Foundation should be open to discussing changes to monetary policy and/or supply schedule.** • [Details and discussion](https://github.com/ZcashFoundation/Elections/pull/18)
+**The Foundation should be open to discussing changes to monetary policy and/or supply schedule.**  *[Details and discussion](https://github.com/ZcashFoundation/Elections/pull/18)*
 
 > Votes: Agree 31, Disagree 33
 
 Given the ambivalence of the vote, the Foundation considers this a no-action directive.
 
-**Any significant effort by the Foundation to develop or promote a cryptocurrency shall be directed at either the (1) Zcash blockchain; or (2) chain forks (chain splits) of the Zcash blockchain that approximately carry forward the percentage stakes of Zcash holders immediately before the fork (split) to the money supply in circulation immediately after the fork (split).** • [Details and discussion](https://github.com/ZcashFoundation/Elections/pull/14)
+**Any significant effort by the Foundation to develop or promote a cryptocurrency shall be directed at either the (1) Zcash blockchain; or (2) chain forks (chain splits) of the Zcash blockchain that approximately carry forward the percentage stakes of Zcash holders immediately before the fork (split) to the money supply in circulation immediately after the fork (split).**  *[Details and discussion](https://github.com/ZcashFoundation/Elections/pull/14)*
 
 > Votes: Agree 41, Disagree 23
 
 This looks like substantial community endorsement that our primary efforts should be focused on Zcash and its good-faith derivatives, as they have been so far. This doesn’t preclude contributions to other projects, but our engagement with other cryptocurrencies and open-source projects will primarily focus on developments that could carry back into Zcash.
 
-**The Foundation should prioritize transitioning ownership of the Zcash trademark from the Zcash Company to the Foundation.** • [Details and discussion](https://github.com/ZcashFoundation/Elections/blob/master/2018-Q2/General-Measures/trademark_ballot.md)
+**The Foundation should prioritize transitioning ownership of the Zcash trademark from the Zcash Company to the Foundation.**  *[Details and discussion](https://github.com/ZcashFoundation/Elections/blob/master/2018-Q2/General-Measures/trademark_ballot.md)*
 
 > Votes: Agree 48, Disagree 15
 

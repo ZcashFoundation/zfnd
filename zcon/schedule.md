@@ -4,8 +4,6 @@ title: Zcon0 Schedule
 excerpt: "The schedule for Zcon0"
 ---
 
-Coming soon: a final, pretty, printable version.
-
 ## Day 1
 
 **8AM-9AM**

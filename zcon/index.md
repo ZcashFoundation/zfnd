@@ -1,7 +1,9 @@
 ---
 layout: zcon
 title: Zcon0
-excerpt: "Sign up for Zcon0"
+excerpt: "Zcon0 is over"
 ---
 
-<script type="text/javascript" src="https://zcashfoundation.formstack.com/forms/js.php/application_for_invitation_zcon0"></script><noscript><a href="https://zcashfoundation.formstack.com/forms/application_for_invitation_zcon0" title="Online Form">Online Form - Application for Invitation Zcon0</a></noscript><div style="text-align:right; font-size:x-small;"><a href="http://www.formstack.com?utm_source=jsembed&utm_medium=product&utm_campaign=product+branding&fa=h,2963682" title="Online Form Generator">Online Form Generator</a></div>
+Zcon0 is a wrap! You can see [the schedule here](/schedule), and check out [the recorded presentations here.](https://www.youtube.com/playlist?list=PL40dyJ0UYTLK507afWUMgzUYeh-i4qQWS)
+
+Stay tuned for more info on Zcon1, which will occur in summer of 2019.

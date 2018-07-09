@@ -10,8 +10,8 @@ The Zcash Foundation Board of Directors comprises:
 
 - [_Andrew Miller_](https://soc1024.com/) (Chair, President) • Assistant Professor in the Electrical and Computer Engineering department at the University of Illinois at Urbana-Champaign, and an associate director of the Initiative for Cryptocurrencies and Contracts.
 - [_Peter Van Valkenburgh_](http://www.petervv.com/) (Secretary) • Director of Research at Coin Center, a nonprofit organization focused on research, education, and advocacy on the intersection of policy and cryptocurrencies.
-- [_Matthew Green_](https://isi.jhu.edu/~mgreen/) • Assistant Professor of Computer Science at Johns Hopkins University, and one of the authors of the original Zerocash research paper.
-- [_Amber Baldet_](http://www.amberbaldet.com/) • CEO of Clovyr and former head of the JPMorgan Chase Blockchain Center of Excellence.
+- [_Matthew Green_](https://isi.jhu.edu/~mgreen/) • Associate Professor of Computer Science at Johns Hopkins University, and one of the authors of the original Zerocash research paper.
+- [_Amber Baldet_](http://www.amberbaldet.com/) • CEO of Clovyr, former JPMorgan Blockchain Program Lead, and co-creator of a zero-knowledge settlement layer for enterprise Ethereum.
 - [_Ian Miers_](https://cs.jhu.edu/~imiers/) • Postdoc studying computer security and applied cryptography at Cornell Tech, and one of the creators of Zcash.
 
 Former members:

@@ -22,5 +22,5 @@ Former members:
 The Foundation's employees:
 
 - [_Josh Cincinnati_](https://twitter.com/acityinohio) • Executive Director of the Foundation, and an active member of the cryptocurrency community.
-- [_Antonie Hodge_](https://twitter.com/antoniehodge) • Operations Director of the Zcash Foundation, and simultaneously Operations Director of Coin Center, the leading nonprofit think tank focused on the policy issues facing cryptocurrencies.
+- [_Antonie Hodge_](https://twitter.com/antoniehodge) • Operations Director of the Zcash Foundation. Also serves as Operations Director at Coin Center.
 - [_Sonya Mann_](https://twitter.com/sonyaellenmann) • Communications Manager for the Foundation and a former tech journalist.

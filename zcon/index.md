@@ -14,7 +14,7 @@ Stay tuned for more info on Zcon1, which will occur during the summer of 2019.
 
 **Why:** This inaugural event aims to encourage collaboration of privacy projects inside and beyond the Zcash ecosystem in a focused setting and to scale future events as the community grows.
 
-**What:** A three day conference for people who are working on building the privacy infrastructure for the public good, broken into three tracks: (1) Zcash today, tomorrow and beyond; (2) Privacy tech in other cryptocurrencies and applications; (3) Community and governance. The full agenda can be found here: z.cash.foundation/zcon/schedule/
+**What:** A three day conference for people who are working on building the privacy infrastructure for the public good, broken into three tracks: (1) Zcash today, tomorrow and beyond; (2) Privacy tech in other cryptocurrencies and applications; (3) Community and governance. The full agenda can be found here: https://z.cash.foundation/zcon/schedule/
 
 **Who:** Privacy researchers, practitioners, influencers, and members of the Zcash community
 

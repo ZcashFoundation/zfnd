@@ -21,3 +21,5 @@ Here are the disclosures that we’re asking for:
 * Shipping and volume info about Equihash-capable miners
 
 Sharing this information is a way for hardware manufacturers to demonstrate good faith and build trust with the community.
+
+**Edit 7/26/2018:** Bitmain has published a [transparency policy](https://blog.bitmain.com/en/transparency-policy-shipping-mining-practices/).

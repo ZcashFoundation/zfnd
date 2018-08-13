@@ -6,6 +6,8 @@ excerpt: "How the Zcash Foundation Grants Program works."
 
 The Zcash Foundation runs our Grants Program twice a year, in the second and fourth quarters of the year. We are currently wrapping up the Q2 edition and will beginning accepting applications for Q4 shortly.
 
+To be notified when we begin accepting submissions, [please subscribe to our newsletter](https://buttondown.email/zcashfoundation)!
+
 Most of the Grants Program is organized on GitHub. You can peruse the CFP, applications, and feedback at the links below.
 
 * [2017Q4](https://github.com/ZcashFoundation/GrantProposals-2017Q4)

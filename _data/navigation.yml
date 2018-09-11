@@ -6,11 +6,14 @@
 - title: Blog
   url: /blog/
 
-- title: Zcon
-  url: /zcon/
+- title: Resources
+  url: /resources/
 
-- title: Repository
-  url: https://github.com/ZcashFoundation/ZcashFoundation/
+- title: Governance
+  url: /governance/
 
-- title: Listservs
-  url: https://lists.z.cash.foundation/mailman/listinfo
+- title: Grants
+  url: /grants/
+
+- title: Community
+  url: /community/

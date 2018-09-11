@@ -6,17 +6,17 @@ excerpt: "The Zcash Foundation 2018 Election Nominations"
 
 The board members nominated in 2018 Q2 were:
 
-- [Amber Baldet](amber_baldet_nomination.md)
-- [Arianna Simpson](arianna_simpson_nomination.md)
-- [Boyma Fahnbullen](boyma_fahnbullen_nomination.md)
-- [Robert Viglione (Finpunk)](finpunk-nomination.md)
-- [Howard Loo](howard_loo_nomination.md)
-- [Ian Miers](ian_miers_nomination.md)
-- [Lawson Baker](lawson_baker_zcash_foundation_nomination.md)
-- [Moe Adham](moe_adham_nomination.md)
-- [Pavel Sokolov](Sokolov_selfnomination.md)
+- [Amber Baldet](amber_baldet_nomination)
+- [Arianna Simpson](arianna_simpson_nomination)
+- [Boyma Fahnbullen](boyma_fahnbullen_nomination)
+- [Robert Viglione (Finpunk)](finpunk-nomination)
+- [Howard Loo](howard_loo_nomination)
+- [Ian Miers](ian_miers_nomination)
+- [Lawson Baker](lawson_baker_zcash_foundation_nomination)
+- [Moe Adham](moe_adham_nomination)
+- [Pavel Sokolov](Sokolov_selfnomination)
 
 And here are the provided example nominations templates:
 
-- [Sample (nomination)](sample_nomination.md)
-- [Sample (Self-nomination)](sample_selfnomination.md)
+- [Sample (nomination)](sample_nomination)
+- [Sample (Self-nomination)](sample_selfnomination)

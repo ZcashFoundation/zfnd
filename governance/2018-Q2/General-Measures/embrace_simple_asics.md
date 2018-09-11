@@ -1,3 +1,9 @@
+---
+layout: page
+title: "Ballot Proposal: Embrace Simple ASICs"
+excerpt: "A General Measure for the 2018 Zcon Foundation Election"
+---
+
 # Ballot Proposal: Embracing Simple PoW and ASICs
 ## A Long-Term Plan to Decentralize Mining
 

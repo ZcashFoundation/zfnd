@@ -1,3 +1,9 @@
+---
+layout: page
+title: "Ballot Proposal: Zcon Foundation Mascot"
+excerpt: "A General Measure for the 2018 Zcon Foundation Election"
+---
+
 # Ballot Proposal: The Official Zcash Foundation Mascot
 
 Proposed ballot entry:

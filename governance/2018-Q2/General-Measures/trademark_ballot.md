@@ -1,3 +1,9 @@
+---
+layout: page
+title: "Ballot Proposal: Zcash Trademark"
+excerpt: "A General Measure for the 2018 Zcon Foundation Election"
+---
+
 # Ballot Proposal: The Zcash Trademark
 
 Proposed ballot entry:

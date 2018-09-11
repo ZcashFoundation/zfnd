@@ -1,3 +1,9 @@
+---
+layout: page
+title: "Ballot Proposal: Chain Forks"
+excerpt: "A General Measure for the 2018 Zcon Foundation Election"
+---
+
 # Proposed Ballot Measure:  Serving Zcash users by focusing on the Zcash blockchain and responsible chain forks thereof
 
 ## Proposal Text

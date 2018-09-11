@@ -1,3 +1,9 @@
+---
+layout: page
+title: "Amber Baldet Nomination"
+excerpt: "A Board Nomination for the Zcash Foundation 2018 Election"
+---
+
 # Amber Baldet
 
 I, Amber Baldet, hereby nominate myself for the Zcash Foundation Board of Directors.

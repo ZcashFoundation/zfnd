@@ -1,3 +1,9 @@
+---
+layout: page
+title: "Finpunk Nomination"
+excerpt: "A Board Nomination for the Zcash Foundation 2018 Election"
+---
+
 # Robert Viglione (finpunk)
 
 I, Robert Viglione, hereby nominate myself for the Zcash Foundation Board of Directors.

@@ -1,3 +1,9 @@
+---
+layout: page
+title: "Moe Adham Nomination"
+excerpt: "A Board Nomination for the Zcash Foundation 2018 Election"
+---
+
 # Moe Adham
 
 I, Moe Adham, hereby nominate myself for the Zcash Foundation Board of Directors.

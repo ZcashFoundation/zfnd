@@ -1,3 +1,9 @@
+---
+layout: page
+title: "Ian Miers Nomination"
+excerpt: "A Board Nomination for the Zcash Foundation 2018 Election"
+---
+
 # Ian Miers 
 I nominate myself for the Zcash Foundation Board of Directors.
 

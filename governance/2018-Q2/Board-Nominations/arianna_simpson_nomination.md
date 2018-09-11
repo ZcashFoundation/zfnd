@@ -1,3 +1,9 @@
+---
+layout: page
+title: "Arianna Simpson Nomination"
+excerpt: "A Board Nomination for the Zcash Foundation 2018 Election"
+---
+
 The following is a board nomination relayed by Zooko Wilcox, who emailed me yesterday to open this Pull Request on his and Arianna's behalf.
 
 

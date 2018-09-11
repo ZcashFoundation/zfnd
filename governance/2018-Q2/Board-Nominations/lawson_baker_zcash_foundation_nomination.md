@@ -1,3 +1,9 @@
+---
+layout: page
+title: "Lawson Baker Nomination"
+excerpt: "A Board Nomination for the Zcash Foundation 2018 Election"
+---
+
 # Lawson Baker
 
 I, Lawson Baker, hereby nominate myself for the Zcash Foundation Board of Directors.

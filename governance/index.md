@@ -8,7 +8,5 @@ In 2018 at ZCon0, the ZCash Foundation underwent its first election process. You
 
 {% include_relative governance_panel.md %}
 
-
-
 <!-- TODO Change Copy? -->
 <!-- TODO Update general governance docs post-election -->

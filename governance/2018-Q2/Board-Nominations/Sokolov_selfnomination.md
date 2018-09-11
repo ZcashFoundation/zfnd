@@ -1,3 +1,8 @@
+---
+layout: page
+title: "Pavel Sokolov Nomination"
+excerpt: "A Board Nomination for the Zcash Foundation 2018 Election"
+---
 
 # Pavel Sokolov
 

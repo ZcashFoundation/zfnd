@@ -1,3 +1,9 @@
+---
+layout: page
+title: "Sample Nomination"
+excerpt: "A Board Nomination for the Zcash Foundation 2018 Election"
+---
+
 *(obviously not real)*
 
 # Satoshi Nakamoto

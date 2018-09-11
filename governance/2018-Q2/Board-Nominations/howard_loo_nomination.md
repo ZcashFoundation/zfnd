@@ -1,3 +1,9 @@
+---
+layout: page
+title: "Howard Loo Nomination"
+excerpt: "A Board Nomination for the Zcash Foundation 2018 Election"
+---
+
 # Introduction
 My Name is Howard Loo and I seek a nomination to be a candidate in the election for the Zcash Foundation Board of Directors. (If it is allowed, I hereby nominate myself.)
  

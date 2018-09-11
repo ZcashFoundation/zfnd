@@ -1,3 +1,9 @@
+---
+layout: page
+title: "Ballot Proposal: ASIC Resistance"
+excerpt: "A General Measure for the 2018 Zcon Foundation Election"
+---
+
 # Ballot Proposal: ASIC Resistance as a value and priority for the Foundation
 
 Proposed ballot entry:

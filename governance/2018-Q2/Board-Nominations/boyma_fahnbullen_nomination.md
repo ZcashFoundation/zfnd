@@ -1,3 +1,9 @@
+---
+layout: page
+title: "Boyma Fahnbulleh Nomination"
+excerpt: "A Board Nomination for the Zcash Foundation 2018 Election"
+---
+
 # Boyma Fahnbulleh
 
 I, Boyma Fahnbulleh, hereby nominate myself for the Zcash Foundation Board of Directors.

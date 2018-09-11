@@ -1,3 +1,9 @@
+---
+layout: page
+title: "Ballot Proposal: Monetary Policy"
+excerpt: "A General Measure for the 2018 Zcon Foundation Election"
+---
+
 # Ballot Proposal: Zcash Foundation on Monetary Policy
 
 Proposed ballot entry:

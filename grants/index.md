@@ -10,8 +10,8 @@ To be notified when we begin accepting submissions, [please subscribe to our new
 
 Most of the Grants Program is organized on GitHub. You can peruse the CFP, applications, and feedback at the links below.
 
-* [2017Q4](https://github.com/ZcashFoundation/GrantProposals-2017Q4)
-* [2018Q2](https://github.com/ZcashFoundation/GrantProposals-2018Q2)
+* [2017 Q4](2017)
+* [2018 Q2](2018)
 
 # Grant Review Committee
 

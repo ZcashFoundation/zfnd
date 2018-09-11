@@ -38,7 +38,7 @@ exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.
 # Site owner
 owner:
   name: Zcash Foundation
-  avatar: bio-photo.jpg
+  avatar: # zcash_foundation_logo.svg # Currently not used. Double check if you implement this.
   email: contact@z.cash.foundation
   disqus-shortname:
   twitter: zcashfoundation

@@ -4,6 +4,20 @@ title: Meetups
 excerpt: "All the information you need to run a Zcash meetup."
 ---
 
+# Shortcut
+
+Don't want to read a long guide? Here's the ultra quick-and-dirty version:
+
+* [Our network on Meetup.com](https://www.meetup.com/pro/zcash-foundation/)
+* [Planning checklist, color](https://z.cash.foundation/meetups/Zcash%20meetups%20checklist%20color.pdf)
+* [Planning checklist, B&W](https://z.cash.foundation/meetups/Zcash%20meetups%20checklist%20BW.pdf)
+* [One-page Zcash intro, color](https://z.cash.foundation/meetups/Zcash%20onepager%20color.pdf)
+* [One-page Zcash intro, B&W](https://z.cash.foundation/meetups/Zcash%20onepager%20BW.pdf)
+
+Scroll down to "Quickstart" for a slightly longer quick-and-dirty version. But of course, you are encouraged to read the whole page!
+
+# Introduction
+
 The Zcash Foundation is happy to support independent Zcash meetup groups throughout the world. We want to make it easier for community members to meet each other and learn together in person.
 
 We also welcome meetup organizers or attendees who want to incorporate Zcash into their existing groups! Whether you focus on a different cryptocurrency, privacy technologies in general, or something other topic, we’re interested in adding Zcash to the mix.
@@ -28,7 +42,7 @@ _The Foundation created this resource in partnership with [Paige Peterson](https
 
 The following guide walks through all the necessary steps for starting and sustaining a meetup group. We encourage the Zcash community to take initiative and start local Zcash meetups all around the world!
 
-## Quick Version
+## Quickstart
 
 For those of you who just want a quick refresher, Meetup.com has created a handful of articles that go over the basics:
 
@@ -67,9 +81,9 @@ And don't forget Twitter. Tag [@ZcashFoundation](https://twitter.com/zcashfounda
 
 ### 5) Repeat all of the above on a regular basis!
 
-Here is a printable version of the checklist: [Color version](https://drive.google.com/file/d/0B17UGNtR0dOJTDRSVHhpTVBJaThiYjhlMkRqdFR6SFF4OFVB/view?usp=sharing), [black-and-white version](https://drive.google.com/file/d/0B17UGNtR0dOJaW1zR3RqcWJ3OEJlajBnZGxFVm1zSEN3anlJ/view?usp=sharing).
+Here is a printable version of the checklist: [Color version](https://z.cash.foundation/meetups/Zcash%20meetups%20checklist%20color.pdf), [B&W version](https://z.cash.foundation/meetups/Zcash%20meetups%20checklist%20BW.pdf).
 
-And here is a one-page introduction to Zcash that may come in handy: [Color version](https://drive.google.com/file/d/0B17UGNtR0dOJVTJFOFpQcEpCcTUwYVo5WXVRWV9HMjdtdlNR/view?usp=sharing), [black-and-white version](https://drive.google.com/file/d/0B17UGNtR0dOJaW1zR3RqcWJ3OEJlajBnZGxFVm1zSEN3anlJ/view?usp=sharing).
+And here is a one-page introduction to Zcash that may come in handy: [Color version](https://z.cash.foundation/meetups/Zcash%20onepager%20color.pdf), [B&W version](https://z.cash.foundation/meetups/Zcash%20onepager%20BW.pdf).
 
 Would more detailed guidance be helpful? Then read on!
 

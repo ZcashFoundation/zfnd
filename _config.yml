@@ -5,8 +5,31 @@ locale: en_US
 description: A non-profit organization, serving the Zcash community and promoting financial privacy
 logo: zcash_foundation_logo.svg
 search: true
+# url: http://localhost:4000/
 url: https://z.cash.foundation/
-#url: http://localhost:4000/
+# Site owner
+owner:
+  name: Zcash Foundation
+  avatar: # zcash_foundation_logo.svg # Currently not used. Double check if you implement this.
+  email: contact@z.cash.foundation
+  disqus-shortname:
+  twitter: zcashfoundation
+  facebook: #username
+  github: zcashfoundation
+  stackexchange: #http://stackoverflow.com/users/123456/username
+  linkedin: #username
+  instagram: #username
+  flickr: #username
+  tumblr: #username
+  pinterest: #username
+  weibo: #userid
+  google:
+    plus: #username
+    analytics:
+    verify: ZeKqXM81Ykb7JAhZntQ_0-4PsfrdL2-ucxKAXhm2FzE
+    ad-client:
+    ad-slot:
+  bing-verify:
 
 # Jekyll configuration
 
@@ -34,27 +57,3 @@ mathjax: true
 include: [".htaccess"]
 exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp", ".less", "*.sublime-project", "*.sublime-workspace", "test", "spec", "Gruntfile.js", "package.json", "node_modules", "Gemfile", "Gemfile.lock", "LICENSE", "README.md", "vendor", "theme-setup"]
 
-
-# Site owner
-owner:
-  name: Zcash Foundation
-  avatar: # zcash_foundation_logo.svg # Currently not used. Double check if you implement this.
-  email: contact@z.cash.foundation
-  disqus-shortname:
-  twitter: zcashfoundation
-  facebook: #username
-  github: zcashfoundation
-  stackexchange: #http://stackoverflow.com/users/123456/username
-  linkedin: #username
-  instagram: #username
-  flickr: #username
-  tumblr: #username
-  pinterest: #username
-  weibo: #userid
-  google:
-    plus: #username
-    analytics:
-    verify: ZeKqXM81Ykb7JAhZntQ_0-4PsfrdL2-ucxKAXhm2FzE
-    ad-client:
-    ad-slot:
-  bing-verify:

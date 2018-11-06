@@ -66,6 +66,8 @@
 #site-nav {
   display: none;
   z-index: 5;
+  background-color: black;
+  height: 44px;
 
   @include media($medium) {
     -webkit-animation-duration: 1s;

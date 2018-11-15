@@ -1,3 +1,8 @@
 img.zeal {
   margin-bottom: 50px;
+
+  @include media($medium) {
+    max-width: 708px;
+  }
+}
 }

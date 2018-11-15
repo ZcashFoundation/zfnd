@@ -1,6 +1,7 @@
 ---
 layout: page
 title: "Home"
+ignore_title: true
 excerpt: "  The Zcash Foundation is a financial privacy nonprofit. Our mission is to build and support the technology infrastructure that will enable people to control their own financial data. The protocol Zcash, with its landmark use of zero-knowledge cryptography, is the most promising long-term approach."
 search_omit: true
 ---

@@ -6,6 +6,15 @@ img.zeal {
   }
 }
 
+.center {
+  text-align: center;
+}
+
+h2.center {
+  @extend .center;
+  margin-top: 80px;
+}
+
 span.left-pad {
   padding-left: 20px;
 }

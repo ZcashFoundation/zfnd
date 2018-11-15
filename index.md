@@ -13,6 +13,7 @@ We serve the users of the <a href="/resources/Zcash%20onepager%20color.pdf" targ
 <blockquote class="roadmap"><a href="/about/2018-vision">"Successful execution of this strategy will lead to a more resilient Zcash protocol, a better informed community, and more grassroots support for privacy in payments." <br /><span class="left-pad"></span>— 2018 roadmap</a></blockquote>
 
 
+<h2 class="center"></h2>
 
 <p class="center">Receive announcements and program updates.</p>
 
@@ -33,15 +34,17 @@ We serve the users of the <a href="/resources/Zcash%20onepager%20color.pdf" targ
 
 <!-- promotion of our current focus (e.g. an upcoming conference),
 TODO What is our current focus?
--->
 
 
-### Commonly Used Resources
 
-<!-- pointers to the most commonly used resources. -->
+<h2 class="center">Commonly Used Resources</h2>
+
+<!-- pointers to the most commonly used resources.
 TODO
 
-### Zcash Foundation Blog
+-->
+
+<h2 class="center">The Zcash Foundation Blog</h2>
 <ul class="post-list">
 {% for post in site.posts limit:10 %}
   <li><article><a href="{{ site.url }}{{ post.url }}"><div class="post-entry-title">{{ post.title }}</div> <span class="entry-date"><time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%B %d, %Y" }}</time></span>{% if post.excerpt %} <span class="excerpt">{{ post.excerpt | remove: '\[ ... \]' | remove: '\( ... \)' | markdownify | strip_html | strip_newlines | escape_once }}</span>{% endif %}</a></article></li>

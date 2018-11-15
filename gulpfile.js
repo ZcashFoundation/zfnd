@@ -25,7 +25,7 @@ gulp.task('img', function () {
 
   return gulp.src(paths.img)
     // If something changed
-    .pipe(changed('images/src'))
+    // .pipe(changed('images/src'))
     // Crop it
     .pipe(imageResize({
       width: 2000, // Maximum width for the file.

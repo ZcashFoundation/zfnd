@@ -32,7 +32,6 @@
 
   .entry-date {
     @include font-size(14,no);
-    text-transform: uppercase;
     display: none;
 
     @include media($medium) {

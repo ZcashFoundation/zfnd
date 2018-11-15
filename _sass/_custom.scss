@@ -5,4 +5,12 @@ img.zeal {
     max-width: 708px;
   }
 }
+div.post-entry-title {
+  @include font-size(18);
+  margin-top: 16px;
+
+  @include media($medium) {
+    @include font-size(22);
+    margin-bottom: 10px;
+  }
 }

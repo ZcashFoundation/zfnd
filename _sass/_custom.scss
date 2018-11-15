@@ -5,6 +5,10 @@ img.zeal {
     max-width: 708px;
   }
 }
+
+span.left-pad {
+  padding-left: 20px;
+}
 div.post-entry-title {
   @include font-size(18);
   color: $primary-color;

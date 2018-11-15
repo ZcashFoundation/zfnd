@@ -71,12 +71,21 @@
 
 .site-description {
   margin-top: 0;
-  font-family: $alt-font;
+  // font-family: $alt-font;
   @include font-size(16);
   font-weight: 400;
-  font-style: italic;
 
   @include media($medium) {
     @include font-size(20);
   }
 }
+
+blockquote.roadmap {
+  padding-left: 5px;
+  border-left: 0;
+
+  @include media($medium) {
+    padding: 20px 40px;
+  }
+}
+

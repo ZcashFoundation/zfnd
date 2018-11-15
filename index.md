@@ -6,13 +6,12 @@ excerpt: "  The Zcash Foundation is a financial privacy nonprofit. Our mission i
 search_omit: true
 ---
 
-<h2 class="site-description" itemprop="description">
-  {{ page.excerpt }}
-</h2>
+<p class="site-description" itemprop="description">The Zcash Foundation is a <a href="/about/incorporation-docs" target="_blank">501(c)3 nonprofit</a> that focuses on financial privacy. <a href="/about/#mission" target="_blank">Our mission</a> is to build internet payment and privacy infrastructure for the public good.
+<br /><br />
+We serve the users of the <a href="/resources/Zcash%20onepager%20color.pdf" target="_blank">Zcash</a> protocol and blockchain. The Foundation also supports other applications of <a href="https://zkp.science/" target="_blank">zero-knowledge cryptography</a>, as well as alternate approaches to private cryptocurrency.</p>
 
-## Newsletter
+<blockquote class="roadmap"><a href="/about/2018-vision">"Successful execution of this strategy will lead to a more resilient Zcash protocol, a better informed community, and more grassroots support for privacy in payments." <br /><span class="left-pad"></span>— 2018 roadmap</a></blockquote>
 
-Subscribe to receive announcements and program updates from the Zcash Foundation.
 
 <form
   action="https://buttondown.email/api/emails/embed-subscribe/zcashfoundation"

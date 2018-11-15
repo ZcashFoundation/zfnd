@@ -5,6 +5,9 @@ const changed = require('gulp-changed')
 const imagemin = require('gulp-imagemin')
 const pngcrush = require('imagemin-pngcrush')
 const imageResize = require('gulp-image-resize')
+const uglify = require('gulp-uglify')
+const rename = require('gulp-rename')
+const concat = require('gulp-concat')
 
 var paths = {
   img: [
@@ -13,7 +16,14 @@ var paths = {
     'images/src/**/*.jpg',
     'images/src/**/*.jpeg'
   ],
-  imgDest: 'images'
+  imgDest: 'images',
+  js: [
+    'assets/js/plugins/search.js',
+    'assets/js/plugins/jquery.fitvids.js',
+    'assets/js/plugins/respond.js',
+    'assets/js/plugins/responsive-nav.js',
+    'assets/js/_main.js'
+  ]
 }
 
 // Note: This doesn't optimize for different devices.
@@ -49,6 +59,13 @@ gulp.task('img', function () {
     .pipe(gulp.dest(paths.imgDest))
 })
 
-// Only one command is needed for now.
+gulp.task('js', function () {
+  return gulp.src(paths.js)
+    .pipe(concat('scripts.js'))
+    .pipe(uglify())
+    .pipe(rename({ suffix: '.min' }))
+    .pipe(gulp.dest('assets/js'))
+})
+
 gulp.task('images', ['img'])
-gulp.task('default', ['img'])
+gulp.task('default', ['img', 'js'])

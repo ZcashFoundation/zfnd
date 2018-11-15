@@ -9,5 +9,10 @@
     "gulp-image-resize": "^0.13.0",
     "gulp-imagemin": "^4.1.0",
     "imagemin-pngcrush": "^5.1.0"
+  },
+  "dependencies": {
+    "gulp-concat": "^2.6.1",
+    "gulp-rename": "^1.4.0",
+    "gulp-uglify": "^3.0.1"
   }
 }

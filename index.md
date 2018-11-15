@@ -5,7 +5,7 @@ excerpt: "  The Zcash Foundation is a financial privacy nonprofit. Our mission i
 search_omit: true
 ---
 
-<h2 class="site-description animated fadeIn" itemprop="description">
+<h2 class="site-description" itemprop="description">
   {{ page.excerpt }}
 </h2>
 

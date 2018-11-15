@@ -69,13 +69,6 @@
   background-color: black;
   height: 44px;
 
-  @include media($medium) {
-    -webkit-animation-duration: 1s;
-    -moz-animation-duration: 1s;
-    -o-animation-duration: 1s;
-    animation-duration: 1s;
-  }
-
   &.closed {
 
     @include media($medium) {

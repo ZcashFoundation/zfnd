@@ -18,16 +18,26 @@ body {
 }
 
 
+// Zcash Branding Colors ======================================
+$primary-black            : #2D2A26;
+$primary-color            : #CF8A00;
+$primary-gray             : #636569;
+$primary-white            : #ffffff;
+$secondary-black          : #000;
+$secondary-color          : #F5A800;
+$secondary-gray           : #D9D8D6;
+
+
 // COLORS =====================================================
-$body-color               : #fff;
-$text-color               : #222;
-$base-color               : #343434;
-$comp-color               : adjust-hue($base-color, 180);
-$border-color             : #ddd;
-$white                    : #fff;
-$black                    : #000;
-$accent-color             : $black;
-$link-color               : #222;
+$body-color               : $primary-white;
+$text-color               : $primary-black;
+$base-color               : $primary-black;
+$comp-color               : adjust-hue($base-color, 180); // Not sure about this
+$border-color             : $secondary-black;
+$white                    : $primary-white ;
+$black                    : $primary-black;
+$accent-color             : $secondary-black;
+$link-color               : $primary-gray;
 
 $table-border-color       : $border-color;
 $table-border             : 1px solid $table-border-color;
@@ -36,7 +46,6 @@ $table-header-color       : lighten($table-background, 10);
 $table-hover-color        : darken($table-background, 2);
 $table-stripe-color       : darken($table-background, 4);
 $table-stripe-color-hover : darken($table-stripe-color, 5);
-
 
 // MEDIA QUERIES ==============================================
 $micro                    : "only screen and (min-width: 30em)";

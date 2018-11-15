@@ -77,11 +77,11 @@ select {
 	padding: 4px;
 	margin-bottom: 5px / 4;
 	background-color: $white;
-	border: 1px solid lighten($black, 80);
+	border: 1px solid $primary-color;
 	color: $text-color;
 
 	&:hover {
-		border-color: lighten($accent-color, 50);
+		border-color: $secondary-color;
 	}
 }
 

@@ -12,7 +12,10 @@
   color: lighten($text-color,20);
 
   a {
-    color: lighten($text-color,20);
+    color: $primary-color;
+    &:hover {
+      color: $secondary-color
+    }
   }
 }
 
@@ -25,9 +28,5 @@
 
   a {
     padding: 4px 8px;
-
-    &:hover {
-      color: $black;
-    }
   }
 }

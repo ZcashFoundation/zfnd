@@ -9,6 +9,27 @@ img.zeal {
 span.left-pad {
   padding-left: 20px;
 }
+
+.email-form {
+  input {
+    display: block;
+    border-radius: 5px;
+  }
+  input#bd-email {
+    margin: 20px auto;
+    @include media($medium) {
+      width: 75%;
+    }
+    // border-color: $primary-color;
+  }
+  input[type="submit"] {
+    text-align: right;
+    margin: 0px auto;
+    background-color: $primary-color;
+    color: $primary-white;
+  }
+}
+
 div.post-entry-title {
   @include font-size(18);
   color: $primary-color;

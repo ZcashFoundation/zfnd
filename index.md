@@ -13,6 +13,10 @@ We serve the users of the <a href="/resources/Zcash%20onepager%20color.pdf" targ
 <blockquote class="roadmap"><a href="/about/2018-vision">"Successful execution of this strategy will lead to a more resilient Zcash protocol, a better informed community, and more grassroots support for privacy in payments." <br /><span class="left-pad"></span>— 2018 roadmap</a></blockquote>
 
 
+
+<p class="center">Receive announcements and program updates.</p>
+
+<div class="email-form">
 <form
   action="https://buttondown.email/api/emails/embed-subscribe/zcashfoundation"
   method="post"
@@ -20,11 +24,12 @@ We serve the users of the <a href="/resources/Zcash%20onepager%20color.pdf" targ
   onsubmit="window.open('https://buttondown.email/zcashfoundation', 'popupwindow')"
   class="embeddable-buttondown-form"
 >
-  <label for="bd-email">Enter your email:</label>
-  <input type="email" name="email" id="bd-email">
+  <!-- <label for="bd-email">Enter your email:</label> -->
+  <input type="email" name="email" id="bd-email" placeholder="alice_and_bob@example.com">
   <input type="hidden" value="1" name="embed"/>
-  <input type="submit" value="Subscribe now!" />
+  <input type="submit" value="Subscribe" />
 </form>
+</div>
 
 <!-- promotion of our current focus (e.g. an upcoming conference),
 TODO What is our current focus?

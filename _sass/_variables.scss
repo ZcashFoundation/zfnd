@@ -1,9 +1,9 @@
 // TYPOGRAPHY ================================================
 $base-font                : 'Open Sans', sans-serif;
-$heading-font             : $base-font;
 $caption-font             : $base-font;
 $code-font                : 'source-code-pro', monospace;
-$alt-font                 : 'volkhov', serif;
+$alt-font                 : 'Roboto Slab', serif;
+$heading-font             : $alt-font;
 
 $doc-font-size            : 16;
 $doc-line-height          : 24;

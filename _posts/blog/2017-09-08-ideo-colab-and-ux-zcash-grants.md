@@ -3,7 +3,7 @@ layout: post
 title: "Grant Spotlight: Help Zcash UX, Get Help from IDEO CoLab"
 excerpt: "IDEO—the world-renowned design firm—has generously offered to help accepted Grant projects that focus on UX in Zcash."
 categories: blog
-tags: []
+tags: [grants, partnerships]
 image:
   feature:
 date: 2017-09-08

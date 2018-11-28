@@ -3,7 +3,7 @@ layout: post
 title: "Announcing the Zcash Foundation Grant Program"
 excerpt: "Funding Ideas and Projects to Improve the Zcash (and Broader Cryptocurrency) Ecosystem"
 categories: blog
-tags: []
+tags: [grants]
 image:
   feature:
 date: 2017-08-16

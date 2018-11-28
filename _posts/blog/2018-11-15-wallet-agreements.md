@@ -3,7 +3,7 @@ layout: post
 title: "Supporting zec-qt-wallet and an iOS Reference Wallet"
 excerpt: "We are funding two open-source wallets that will further Zcash adoption."
 categories: blog
-tags: [wallets]
+tags: [wallets, partnerships]
 image:
   feature:
 date: 2018-11-15

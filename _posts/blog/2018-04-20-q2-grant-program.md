@@ -3,7 +3,7 @@ layout: post
 title: "The Zcash Foundation Grant Program Returns With New Support"
 excerpt: "It's high time for another round of grants"
 categories: blog
-tags: []
+tags: [grants]
 image:
   feature: 
 date: 2018-04-20

@@ -3,7 +3,7 @@ layout: post
 title: "Press Release: Announcing a Partnership with Parity Technologies"
 excerpt: "The Zcash Foundation is partnering with Parity Technologies to build a Zcash node implementation in Rust."
 categories: blog
-tags: [development, Parity]
+tags: [development, Parity, partnerships]
 image:
   feature:
 date: 2018-10-30

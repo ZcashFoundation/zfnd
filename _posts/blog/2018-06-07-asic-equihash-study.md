@@ -3,7 +3,7 @@ layout: post
 title: "Study: Detecting ASIC Miners in Zcash"
 excerpt: "University of Luxembourg researchers searched for ASICs in the Equihash mining ecosystem."
 categories: blog
-tags: [research]
+tags: [research, partnerships]
 image:
   feature:
 date: 2018-06-07

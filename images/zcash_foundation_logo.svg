@@ -1,38 +1,123 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <!-- Generator: Adobe Illustrator 22.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
-<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-	 viewBox="0 0 886.1 886.1" style="enable-background:new 0 0 886.1 886.1;" xml:space="preserve">
-<style type="text/css">
-	.st0{fill:url(#SVGID_1_);stroke:#000000;stroke-width:31.891;stroke-miterlimit:10;}
-	.st1{fill:url(#SVGID_2_);stroke:#000000;stroke-width:27.3352;stroke-miterlimit:10;}
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.1"
+   id="Layer_1"
+   x="0px"
+   y="0px"
+   viewBox="0 0 450.00001 450.00001"
+   xml:space="preserve"
+   sodipodi:docname="zcash_foundation_logo.svg"
+   width="450"
+   height="450"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)"><metadata
+   id="metadata35"><rdf:RDF><cc:Work
+       rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
+         rdf:resource="http://purl.org/dc/dcmitype/StillImage" /><dc:title></dc:title></cc:Work></rdf:RDF></metadata><defs
+   id="defs33" /><sodipodi:namedview
+   pagecolor="#ffffff"
+   bordercolor="#666666"
+   borderopacity="1"
+   objecttolerance="10"
+   gridtolerance="10"
+   guidetolerance="10"
+   inkscape:pageopacity="0"
+   inkscape:pageshadow="2"
+   inkscape:window-width="2790"
+   inkscape:window-height="1640"
+   id="namedview31"
+   showgrid="false"
+   inkscape:zoom="4.9697289"
+   inkscape:cx="110.8179"
+   inkscape:cy="365.88484"
+   inkscape:window-x="427"
+   inkscape:window-y="214"
+   inkscape:window-maximized="0"
+   inkscape:current-layer="layer2"
+   inkscape:pagecheckerboard="true" />
+<style
+   type="text/css"
+   id="style2">
+	.st0{fill:#2D2A26;}
+	.st1{fill:#3A3A3A;}
+	.st2{fill:#CF8A00;}
 </style>
-<g>
-	<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="171.6778" y1="761.0195" x2="719.8997" y2="118.6431">
-		<stop  offset="0" style="stop-color:#FCD259"/>
-		<stop  offset="1" style="stop-color:#CE8829"/>
-	</linearGradient>
-	<circle class="st0" cx="443" cy="443" r="427.1"/>
-	<g>
-		<rect x="413.4" y="131.3" width="59.2" height="11.4"/>
-		<path d="M512.2,109.4h-10.3H391.8h-17.9c-15.3,0-27.7,12.4-27.7,27.7c0,15.3,12.4,27.7,27.7,27.7c15.3,0,27.7-12.4,27.7-27.7
-			c0-5.1-1.5-9.9-3.9-14h90.7c-2.4,4.1-3.9,8.9-3.9,14c0,15.3,12.4,27.7,27.7,27.7s27.7-12.4,27.7-27.7
-			C539.8,121.7,527.4,109.4,512.2,109.4z"/>
-		<rect x="406.6" y="151.6" width="72.9" height="11.4"/>
-		<rect x="379.3" y="171.8" width="127.6" height="11.4"/>
-		<g>
-			<rect x="405.8" y="192.1" width="31.9" height="564.1"/>
-			<rect x="448.4" y="192.1" width="31.9" height="564.1"/>
-			<rect x="490.9" y="192.1" width="15.9" height="564.1"/>
-			<rect x="379.3" y="192.1" width="15.9" height="564.1"/>
+
+<g
+   inkscape:groupmode="layer"
+   id="layer2"
+   inkscape:label="Layer 2"><circle
+     id="path3780"
+     cx="225"
+     cy="225"
+     r="215"
+     style="stroke-width:15;fill:#ffffff;stroke:#2d2a26;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" /></g><g
+   inkscape:groupmode="layer"
+   id="layer1"
+   inkscape:label="Layer 1"
+   style="display:inline"><g
+     id="g28"
+     transform="matrix(1.0059664,0,0,1.0059658,105.04281,33.732996)">
+	<g
+   id="g16">
+		<path
+   class="st0"
+   d="m 37.6,121.7 c 4.2,-2.4 8.5,-5.1 12.7,-7.7 5.5,-3.5 11.3,-7 17.4,-10.4 L 67.8,88.3 C 67.9,73.7 73.5,60 83.4,49.8 c 9.8,-10 22.7,-15.4 36.3,-15.3 28.4,0.2 51.3,24.8 51.1,54.7 l -0.1,14.4 c 5.6,3.3 11.5,6.8 17.7,10.8 6,3.8 11.3,7.1 16.4,9.7 l 0.3,-34.6 C 205.5,40.6 167.3,0.5 120,0.1 96.9,-0.3 75.3,8.9 58.9,25.7 42.7,42.3 33.7,64.4 33.5,87.9 l -0.3,35.5 h 1.2 c 1.1,-0.5 2.1,-1.1 3.2,-1.7 z"
+   id="path4"
+   inkscape:connector-curvature="0"
+   style="fill:#2d2a26" />
+		<g
+   id="g14">
+			<g
+   id="g10">
+				<path
+   class="st0"
+   d="M 221.1,149.1 C 207,148 195,141.5 181.4,133 v 21.4 c 11.9,6.8 23.9,11.8 38,12.9 0.1,0.1 0.7,1.1 0.6,2.8 -0.4,6.4 -0.8,12.1 -1.3,17.4 -2.9,31.1 -8.9,57.7 -18.3,81.4 -5.2,12.9 -11.5,24.9 -18.9,36 v 30.2 c 15,-17.1 27.1,-37 36,-59.4 10.1,-25.4 16.5,-53.7 19.6,-86.5 0.5,-5.5 1,-11.4 1.4,-18 0.6,-11.8 -6.8,-21.3 -17.4,-22.1 z"
+   id="path6"
+   inkscape:connector-curvature="0"
+   style="fill:#2d2a26" />
+				<path
+   class="st1"
+   d="m 163.1,328 c -0.2,0.2 -0.4,0.5 -0.6,0.7 l 0.6,0.6 z"
+   id="path8"
+   inkscape:connector-curvature="0"
+   style="fill:#3a3a3a" />
+			</g>
+			<path
+   class="st2"
+   d="m 163.1,329.2 -0.6,-0.6 c -11.4,12 -24.9,22.5 -39.9,31.4 -3.3,2 -4.1,1.5 -5,1 -15.9,-9.3 -29,-19.3 -39.9,-30.5 C 55.4,307.7 39.9,280 30.2,245.7 23.9,223.5 20.2,199.4 18.4,170 c -0.2,-3 1,-3.1 2.3,-3.2 14.1,-1 26,-6.8 35.7,-12.4 4.8,-2.7 9.5,-5.7 14,-8.5 5.7,-3.6 11.1,-7 16.7,-10 7.6,-4.1 15.6,-7.9 23.4,-11.5 2.9,-1.4 5.9,-2.8 8.8,-4.2 13.4,5.3 27.1,12.5 43.7,22.8 v -21.5 c -14,-8.2 -26.3,-14.3 -38.5,-19 l -0.5,-0.2 c -3.4,-1.8 -7.2,-1.6 -11.2,0.6 -3.4,1.6 -6.8,3.3 -10.2,4.9 -8,3.8 -16.3,7.7 -24.3,12 -6.1,3.3 -12,7 -17.7,10.6 -4.4,2.7 -8.9,5.6 -13.4,8.1 -8.3,4.8 -17.5,9.3 -27.9,10 -12,1 -20,10.3 -19.3,22.7 1.8,30.8 5.8,56.1 12.4,79.6 10.6,37.2 27.6,67.5 52.1,92.6 12.1,12.4 26.4,23.4 43.8,33.6 3.4,2 6.9,3 10.5,3 4.2,0 8.6,-1.3 13.1,-4 11.2,-6.6 21.6,-14.2 31.1,-22.5 v -24.3 z"
+   id="path12"
+   inkscape:connector-curvature="0"
+   style="fill:#cf8a00" />
 		</g>
-		<polygon points="524.3,780.5 524.3,766.1 361.8,766.1 361.8,780.5 347.7,780.5 347.7,795 361.8,795 524.3,795 538.4,795 
-			538.4,780.5 		"/>
 	</g>
-	<linearGradient id="SVGID_2_" gradientUnits="userSpaceOnUse" x1="625.6193" y1="230.1922" x2="267.2249" y2="705.5203">
-		<stop  offset="0" style="stop-color:#FCD259"/>
-		<stop  offset="1" style="stop-color:#CE8829"/>
-	</linearGradient>
-	<polygon class="st1" points="393.4,613.9 621,312.4 621,221.7 270.3,221.7 270.3,312.4 484.1,312.4 256.5,613.9 256.5,704.6 
-		629.6,704.6 629.6,613.9 	"/>
-</g>
-</svg>
+	<g
+   id="g26">
+		<g
+   id="g20">
+			<path
+   class="st0"
+   d="m 133.2,278.1 h -76 v -12.4 l 47,-59.2 H 60.8 V 191.2 H 130 v 12.5 l -47.4,59.1 h 50.5 v 15.3 z"
+   id="path18"
+   inkscape:connector-curvature="0"
+   style="fill:#2d2a26" />
+		</g>
+		<g
+   id="g24">
+			<path
+   class="st2"
+   d="m 130,278.1 v -86.9 h 57.7 v 15.3 h -38.5 v 21.3 h 33.4 v 15.3 h -33.4 v 35 z"
+   id="path22"
+   inkscape:connector-curvature="0"
+   style="fill:#cf8a00" />
+		</g>
+	</g>
+</g></g></svg>

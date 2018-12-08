@@ -3,7 +3,7 @@ layout: post
 title: "Ten Community Projects Chosen for the 2017Q4 Grant Program Awards"
 excerpt: "Awards will be disbursed in ZEC totaling $127,000."
 categories: blog
-tags: []
+tags: [grants]
 image:
   feature: 
 date: 2017-11-21

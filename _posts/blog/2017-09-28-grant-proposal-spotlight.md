@@ -3,7 +3,7 @@ layout: post
 title: "Grant Proposal Spotlight and Roundup"
 excerpt: "A brief review of the active grant proposals and public discussions."
 categories: blog
-tags: []
+tags: [grants]
 image:
   feature:
 date: 2017-09-28

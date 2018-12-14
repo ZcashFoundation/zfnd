@@ -1,4 +1,4 @@
-## Values
+<h2 id="values">Values</h2>
 
 Our values are:
 

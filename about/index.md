@@ -37,4 +37,5 @@ Former members:
 - [_Sonya Mann_](https://twitter.com/sonyaellenmann) • Communications Manager for the Foundation and a former tech journalist.
 
 # Contact
-If you have any questions, please email [contact@z.cash.foundation](mailto:contact@z.cash.foundation).
+
+{% include contact.html %}

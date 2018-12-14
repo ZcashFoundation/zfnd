@@ -22,4 +22,4 @@ Most of the Grants Program is organized on GitHub. You can peruse the CFP, appli
 * [Alicia Naumoff](https://twitter.com/alc_nmff) (Blockchain Institute)
 * [Alexander Chepurnoy](http://chepurnoy.org/) (IOHK, St Petersburg National Research University)
 
-If you have any questions, please email contact@z.cash.foundation.
+{% include contact.html %}

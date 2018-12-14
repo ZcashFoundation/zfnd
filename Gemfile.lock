@@ -39,6 +39,7 @@ GEM
       sass (~> 3.4)
     jekyll-sitemap (1.2.0)
       jekyll (~> 3.3)
+    jekyll-twitter-plugin (2.0.0)
     jekyll-watch (2.0.0)
       listen (~> 3.0)
     kramdown (1.17.0)
@@ -77,6 +78,7 @@ DEPENDENCIES
   jekyll-gist (~> 1.5)
   jekyll-redirect-from (= 0.11.0)
   jekyll-sitemap
+  jekyll-twitter-plugin
   rake
 
 BUNDLED WITH

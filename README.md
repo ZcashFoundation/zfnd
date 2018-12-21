@@ -1,18 +1,26 @@
-# ZCash Foundation Website
+# Zcash Foundation Website
 
-## General Instructions For Developers
+Welcome to the Zcash Foundation Website. This repository does **two things**:
 
-> The tl;dr is that almost everything we're currently keeping here: https://github.com/ZcashFoundation/
-> ...should be part of our Jekyll instance, displayable as normal, non-GitHub interface web pages. That way we can continue using GitHub for workflow, and people who are comfortable with it can navigate our files there, but everyone else is able to look at the regular website. Since we're mostly working with .md files anyway, I think that's pretty doable. For reference, here is the current state of our website: https://github.com/ZcashFoundation/zcashfoundation.github.io
+1. Holds documents for the foundation.
+2. Holds the source code for the website.
 
-### Priorities
+## Foundation Documents
 
-> My technical priorities for the website:
->  -  Fast-loading
->  -  Minimal dependencies
->  -  Easy to maintain
->  -  Doesn't break any existing URLs / redirect anything that moves
-> Not breaking URLs is a little tricky because there are a million links to our GitHub repos floating around the internet — perhaps the easiest thing will be to archive everything on GitHub and add disclaimers to each document like "please go look at our website instead because it's the maintained source of truth." Suggestions welcome.
+Here are the main documents in this repo. For all of them, to see the same, rendered versions, go to [the website](https://zfnd.io).
+
+- `about`
+- `community`
+- `governance`
+- `grants`
+- `meetups`
+- `resources`
+- `zcon`
+- `_posts`: Here you'll find blogposts. You should probably look at them on [the website]() for better formatting, though!
+
+## The Website
+
+The rest of the files are websites.
 
 ## Adding Images
 
@@ -49,12 +57,10 @@ You _can_ add images directly to images without running Gulp, but they just won'
 
 ## Contribute
 
-Work here is largely being done by @RichardLitt and co. If you really want to help out, open an issue?
+Please do! [Open an issue](https://github.com/ZcashFoundation/zfnd/issues/new)!
 
-**Still got questions about how this works?**
-
-Ping [@RichardLitt](mailto:richard@burntfen.com) if you've got questions about this, on GitHub at @RichardLitt or on Twitter at [@richlitt](https://twitter.com/richlitt).
+Please abide by [the values of the Zcash Foundation](about/values.md).
 
 ## License
 
-[MIT](LICENSE) © 2018 Burnt Fen Creative LLC. For now.
+[MIT](LICENSE) © 2018 Zcash Foundation and Burnt Fen Creative LLC.

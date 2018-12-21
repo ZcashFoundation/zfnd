@@ -27,7 +27,7 @@ The Zcash Foundation and Grant Review Committee were thrilled with the community
 ### Empirical analysis of the Zcash blockchain
 Two groups submitted proposals related to analysis of Zcash's transaction graph—specifically measuring the privacy of a system with both transparent and shielded addresses. [Daniel Feher](https://github.com/feddan35) submitted [this propsal](https://github.com/ZcashFoundation/GrantProposals-2017Q4/issues/24) while [hkalodner](https://github.com/hkalodner) submitted [one here](https://github.com/ZcashFoundation/GrantProposals-2017Q4/issues/31).
 
-### Enhancements to the ZCash Desktop GUI Wallet
+### Enhancements to the Zcash Desktop GUI Wallet
 [Vaklinov](https://github.com/vaklinov) submitted [a proposal](https://github.com/ZcashFoundation/GrantProposals-2017Q4/issues/7) to improve the GUI on the Zcash Desktop Wallet project, and received some great discussion and feedback from our friends at [IDEOCoLab](http://www.ideocolab.com/).
 
 ### Abolish the BitLicense

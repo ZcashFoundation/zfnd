@@ -8,7 +8,7 @@ description: "Crowdsourced notes from the Zcon0 Workshops"
 
 ### Maintaining T vs Z addresses in the protocol
 
-Beneficial to ZCash to be based off of BTC source code
+Beneficial to Zcash to be based off of BTC source code
 
 Questions around protocol changes:
 

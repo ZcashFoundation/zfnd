@@ -25,7 +25,7 @@ Coming up with metrics
 
 Shielded transaction: Z address to Z address. The only thing that is exposed is the transaction fee.
 
-Run ZCash on TOR to be safe from leaking IP information.
+Run Zcash on TOR to be safe from leaking IP information.
 
 Point 1: 
 User interface to enhance the perception of shielded address

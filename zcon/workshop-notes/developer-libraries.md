@@ -7,10 +7,10 @@ description: "Crowdsourced notes from the Zcon0 Workshops"
 2018.06.26 13:00-14:00 Jack (Str4d) Grigg
 
 
-The workshop was mainly a discussion on what kind of libraries and tools are needed in the ZCash ecosystem
+The workshop was mainly a discussion on what kind of libraries and tools are needed in the Zcash ecosystem
 
 
-The state of ZCash Libraries now:
+The state of Zcash Libraries now:
 - Zcash libraries are mostly ported from Bitcoin ones
   - Libraries with t-address support
     - Bitcore

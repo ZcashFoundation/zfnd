@@ -24,7 +24,7 @@ The Zcash Foundation Grant Program is the third (and largest) disbursal of funds
 
 The following proposals were selected for funding:
 
-* **Enhancements to the ZCash Desktop GUI Wallet** by [Ivan Vaklinov](https://github.com/vaklinov), $4,500  
+* **Enhancements to the Zcash Desktop GUI Wallet** by [Ivan Vaklinov](https://github.com/vaklinov), $4,500  
   [[proposal]](https://github.com/ZcashFoundation/GrantProposals-2017Q4/files/1351300/DesktopGUIWalletForZCashGrantProposal.pdf) [[discussion]](https://github.com/ZcashFoundation/GrantProposals-2017Q4/issues/7)
 * **Zcash Education & Outreach** by [Techoluwye](https://github.com/ZcashFoundation/GrantProposals-2017Q4/issues/10) (Coincentrix Capital), $5000  
   [[proposal]](https://github.com/ZcashFoundation/GrantProposals-2017Q4/files/1361212/Zcash.Submission.pdf) [[discussion]](https://github.com/ZcashFoundation/GrantProposals-2017Q4/issues/10)

@@ -7,16 +7,16 @@ Welcome to the Zcash Foundation Website. This repository does **two things**:
 
 ## Foundation Documents
 
-Here are the main documents in this repo. For all of them, to see the same, rendered versions, go to [the website](https://zfnd.io).
+Here are the main documents in this repo. For all of them, to see the same, rendered versions, go to [the website](https://zfnd.org).
 
-- `about`
-- `community`
-- `governance`
-- `grants`
-- `meetups`
-- `resources`
-- `zcon`
-- `_posts`: Here you'll find blogposts. You should probably look at them on [the website]() for better formatting, though!
+- [`about`](about/)
+- [`community`](community/)
+- [`governance`](governance)
+- [`grants`](grants)
+- [`meetups`](meetups)
+- [`resources`](resources)
+- [`zcon`](zcon)
+- `_posts`: Here you'll find blogposts. You should probably look at them on [the website](https://zfnd.org) for better formatting, though!
 
 ## The Website
 

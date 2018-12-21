@@ -5,7 +5,7 @@ locale: en_US
 description: A non-profit organization, serving the Zcash community and promoting financial privacy
 logo: logo-white-background.png
 search: true
-url: https://zfnd.org
+url: https://www.zfnd.org
 # Site owner
 owner:
   name: Zcash Foundation

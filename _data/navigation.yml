@@ -8,30 +8,15 @@
 
 - title: Blog
   url: /blog/
-
-- title: Resources
-  url: /resources/
-
-- title: Governance
-  url: /governance/
-
-- title: Meetups
-  url: /meetups/
-
-- title: Forum
-  url: https://forum.zcashcommunity.com/
-
-- title: Chat
-  url: https://chat.zcashcommunity.com/
+  
+- title: Community
+  url: /community/
+  
+- title: Grants
+  url: /grants/
 
 - title: Zcon
   url: /zcon/
 
-- title: Grants
-  url: /grants/
-
 - title: GitHub Repo
   url: https://github.com/ZcashFoundation/ZcashFoundation/
-
-- title: Community
-  url: /community/

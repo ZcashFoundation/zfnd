@@ -4,25 +4,13 @@ title: Meetups
 excerpt: "All the information you need to run a Zcash meetup."
 ---
 
-# Shortcut
-
-Don't want to read a long guide? Here's the ultra quick-and-dirty version:
-
-* [Our network on Meetup.com](https://www.meetup.com/pro/zcash-foundation/)
-* [Planning checklist, color](https://z.cash.foundation/meetups/Zcash%20meetups%20checklist%20color.pdf)
-* [Planning checklist, B&W](https://z.cash.foundation/meetups/Zcash%20meetups%20checklist%20BW.pdf)
-* [One-page Zcash intro, color](https://z.cash.foundation/meetups/Zcash%20onepager%20color.pdf)
-* [One-page Zcash intro, B&W](https://z.cash.foundation/meetups/Zcash%20onepager%20BW.pdf)
-
-Scroll down to "Quickstart" for a slightly longer quick-and-dirty version. But of course, you are encouraged to read the whole page!
-
 # Introduction
 
 The Zcash Foundation is happy to support independent Zcash meetup groups throughout the world. We want to make it easier for community members to meet each other and learn together in person.
 
-We also welcome meetup organizers or attendees who want to incorporate Zcash into their existing groups! Whether you focus on a different cryptocurrency, privacy technologies in general, or something other topic, we’re interested in adding Zcash to the mix.
-
 **Check out our [Meetup.com Zcash network](https://www.meetup.com/pro/zcash-foundation/) to see if there’s a group in your area! (Meetups that are not part of the network will be listed here individually.)**
+
+We also welcome meetup organizers or attendees who want to incorporate Zcash into their existing groups! Whether you focus on a different cryptocurrency, privacy technologies in general, or some other topic, we’re interested in adding Zcash to the mix.
 
 If you’re a potential or current meetup organizer, here’s what we can do to support you:
 
@@ -35,6 +23,18 @@ If you’re a potential or current meetup organizer, here’s what we can do to 
 **Please email contact@z.cash.foundation to inquire!**
 
 A quick disclaimer: The Zcash Foundation occasionally hosts one-off events, and we run the [annual Zcon gathering](https://z.cash.foundation//zcon/). However, the meetup groups are independent, run by their respective organizers. We do still want to know if a meetup organizer causes any problems or doesn’t handle a disruptive attendee appropriately. Email contact@z.cash.foundation with any concerns.
+
+## Shortcut
+
+Don't want to read a long guide? Here's the ultra quick-and-dirty version:
+
+* [Our network on Meetup.com](https://www.meetup.com/pro/zcash-foundation/)
+* [Planning checklist, color](https://z.cash.foundation/meetups/Zcash%20meetups%20checklist%20color.pdf)
+* [Planning checklist, B&W](https://z.cash.foundation/meetups/Zcash%20meetups%20checklist%20BW.pdf)
+* [One-page Zcash intro, color](https://z.cash.foundation/meetups/Zcash%20onepager%20color.pdf)
+* [One-page Zcash intro, B&W](https://z.cash.foundation/meetups/Zcash%20onepager%20BW.pdf)
+
+Scroll down to "Quickstart" for a slightly longer quick-and-dirty version. But of course, you are encouraged to read the whole page!
 
 # Meetup Guidelines
 

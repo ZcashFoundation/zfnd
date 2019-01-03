@@ -1,6 +1,4 @@
-<h2 id="values">Values</h2>
-
-Our values are:
+<h2 id="values">Our Values</h2>
 
 - *Transparency.*
   We are committed to being accountable to the community. Our policies, significant decisions and their rationale, and software shall all be publicly visible. We will strive to accurately and accessibly communicate the security properties of Zcash and of proposed changes.

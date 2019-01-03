@@ -4,14 +4,12 @@ title: About the Zcash Foundation
 excerpt: "Financial privacy through technology."
 ---
 
-The Zcash Foundation is a 501(c)3 nonprofit focused on financial privacy. [Our mission](mission) is to build privacy infrastructure for the public good, and we primarily serve users of the Zcash protocol and blockchain.
+The Zcash Foundation is a [501(c)3 nonprofit](https://www.zfnd.org/about/incorporation-docs/) focused on financial privacy. We build and support privacy infrastructure for the public good, primarily serving users of the Zcash protocol and blockchain.
 
-- [2018 roadmap](#roadmap)
 - [Mission](#mission)
 - [Values](#values)
 - [Legal](#legal)
 
-{% include_relative 2018-vision.md %}
 {% include_relative mission.md %}
 {% include_relative values.md %}
 {% include_relative legal.md %}

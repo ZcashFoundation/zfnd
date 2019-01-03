@@ -2,7 +2,7 @@
 layout: page
 title: "Home"
 ignore_title: true
-excerpt: "  The Zcash Foundation is a financial privacy nonprofit. Our mission is to build and support the technology infrastructure that will enable people to control their own financial data. The protocol Zcash, with its landmark use of zero-knowledge cryptography, is the most promising long-term approach."
+excerpt: "The Zcash Foundation is a financial privacy nonprofit. Our mission is to build and support the technology infrastructure that will enable people to control their own financial data."
 search_omit: true
 ---
 
@@ -10,12 +10,9 @@ search_omit: true
 <br /><br />
 We serve the users of the <a href="/resources/Zcash%20onepager%20color.pdf" target="_blank">Zcash</a> protocol and blockchain. The Foundation also supports other applications of <a href="https://zkp.science/" target="_blank">zero-knowledge cryptography</a>, as well as alternate approaches to private cryptocurrency.</p>
 
-<blockquote class="roadmap"><a href="/about/2018-vision">"Successful execution of this strategy will lead to a more resilient Zcash protocol, a better informed community, and more grassroots support for privacy in payments." <br /><span class="left-pad"></span>— 2018 roadmap</a></blockquote>
-
-
 <h2 class="center"></h2>
 
-<p class="center">Receive announcements and program updates.</p>
+<p class="center">Sign up for our email newsletter to receive announcements and program updates.</p>
 
 <div class="email-form">
 <form
@@ -26,7 +23,7 @@ We serve the users of the <a href="/resources/Zcash%20onepager%20color.pdf" targ
   class="embeddable-buttondown-form"
 >
   <!-- <label for="bd-email">Enter your email:</label> -->
-  <input type="email" name="email" id="bd-email" placeholder="alice_and_bob@example.com">
+  <input type="email" name="email" id="bd-email" placeholder="you@example.com">
   <input type="hidden" value="1" name="embed"/>
   <input type="submit" value="Subscribe" />
 </form>
@@ -34,8 +31,6 @@ We serve the users of the <a href="/resources/Zcash%20onepager%20color.pdf" targ
 
 <!-- promotion of our current focus (e.g. an upcoming conference),
 TODO What is our current focus?
-
-
 
 <h2 class="center">Commonly Used Resources</h2>
 

@@ -7,7 +7,7 @@ Per our [501(c)3 application](IncorporationDocs/Zcash%20Foundation%201023.pdf), 
 
 We support the transition of Zcash into a large and healthy community with diverse stakeholders, held accountable to its userbase in the broadest sense. Our activities include sponsoring a conference for developers, miners, and other community members, to help jump start the conversation. We also plan to organize mailing lists that give voice to groups of stakeholders that might not otherwise have them.
 
-Our own governance structure is designed especially with public transparency in mind (see our [VALUES file](VALUES.md)). So that can be effectively held accountable to the community we serve.
+Our own governance structure is designed especially with public transparency in mind (as specified in the [section on values](https://www.zfnd.org/about/#values)). So that the Foundation can be effectively held accountable to the community we serve.
 
 ### Protocol and Governance
 

@@ -12,9 +12,9 @@ excerpt: "Notes from meetings of the Zcash Foundation Board of Directors."
 - [February 2nd, 2018](#february-2nd-2018)
 - [October 29th, 2017](#october-29th-2017)
 - [June 9th, 2017](#june-9th-2017)
-- [April 18th, 2018](#april-18th-2018)
-- [April 5th, 2018](#april-5th-2018)
-- [February 3rd, 2018](#february-3rd-2018)
+- [April 18th, 2017](#april-18th-2017)
+- [April 5th, 2017](#april-5th-2017)
+- [February 3rd, 2017](#february-3rd-2017)
 
 {% include_relative 2018-11-15.md %}
 {% include_relative 2018-06-28.md %}

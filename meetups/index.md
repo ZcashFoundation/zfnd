@@ -20,9 +20,9 @@ If you’re a potential or current meetup organizer, here’s what we can do to 
 * Help find free or low-cost venues
 * Defray additional costs on a case-by-case basis
 
-**Please email contact@z.cash.foundation to inquire!**
+**Please email contact@zfnd.org to inquire!**
 
-A quick disclaimer: The Zcash Foundation occasionally hosts one-off events, and we run the [annual Zcon gathering](https://z.cash.foundation//zcon/). However, the meetup groups are independent, run by their respective organizers. We do still want to know if a meetup organizer causes any problems or doesn’t handle a disruptive attendee appropriately. Email contact@z.cash.foundation with any concerns.
+A quick disclaimer: The Zcash Foundation occasionally hosts one-off events, and we run the [annual Zcon gathering](https://z.cash.foundation//zcon/). However, the meetup groups are independent, run by their respective organizers. We do still want to know if a meetup organizer causes any problems or doesn’t handle a disruptive attendee appropriately. Email contact@zfnd.org with any concerns.
 
 ## Shortcut
 
@@ -154,4 +154,4 @@ Remind people the day before each gathering — Meetup.com makes this easy to do
 
 ## Conclusion
 
-Any questions, or suggestions for this guide? Email contact@z.cash.foundation.
+Any questions, or suggestions for this guide? Email contact@zfnd.org.

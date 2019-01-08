@@ -13,4 +13,4 @@ The Freedom of the Press Foundation now accepts [cryptocurrency donations](https
 
 We hope to see more charities and advocacy groups use Zcash in the near future, thereby offering their donors a robustly private option. It is not a coincidence that freedom-oriented organizations are early adopters of Zcash. They understand that privacy protects autonomy, especially in repressive environments.
 
-If you work with a nonprofit that is interested in accepting cryptocurrency donations but not sure how to go about it, feel free to get in touch! Our general email address is contact@z.cash.foundation.
+If you work with a nonprofit that is interested in accepting cryptocurrency donations but not sure how to go about it, feel free to get in touch! Our general email address is contact@zfnd.org.

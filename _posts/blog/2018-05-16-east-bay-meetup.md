@@ -16,4 +16,4 @@ The Zcash Foundation is hosting a meetup in Oakland on Saturday, May 26, in asso
 
 **Time:** Saturday, May 26, from 6pm until we get tired of talking.
 
-If you have any questions, email contact@z.cash.foundation. If you need help finding the group day-of, call or text (510) 858-1957. We look forward to seeing you there!
+If you have any questions, email contact@zfnd.org. If you need help finding the group day-of, call or text (510) 858-1957. We look forward to seeing you there!

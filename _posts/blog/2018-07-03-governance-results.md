@@ -100,7 +100,7 @@ The Foundation wholeheartedly embraces the Community Governance Panel’s mascot
 
 # Feedback
 
-Many participants told us that the governance process was confusing. A handful of would-be participants said that it was not announced widely enough. We have conducted two detailed postmortems, [one with the Foundation’s Board](https://github.com/ZcashFoundation/ZcashFoundation/blob/master/board-documents/minutes/2018-06-28.md) and one with a broader group of Zcash stakeholders, in addition to receiving ad hoc individual opinions. (More is welcome! Email contact@z.cash.foundation.)
+Many participants told us that the governance process was confusing. A handful of would-be participants said that it was not announced widely enough. We have conducted two detailed postmortems, [one with the Foundation’s Board](https://github.com/ZcashFoundation/ZcashFoundation/blob/master/board-documents/minutes/2018-06-28.md) and one with a broader group of Zcash stakeholders, in addition to receiving ad hoc individual opinions. (More is welcome! Email contact@zfnd.org.)
 
 Specific points of contention that we plan to address or at least consider next time:
 
@@ -115,4 +115,4 @@ Specific points of contention that we plan to address or at least consider next 
 
 # Conclusion
 
-Thank you to everyone who participated in any capacity! We deeply appreciate your contributions to supporting and improving Zcash! If you have any questions or comments, don’t hesitate to get in touch. Again, our email address is contact@z.cash.foundation.
+Thank you to everyone who participated in any capacity! We deeply appreciate your contributions to supporting and improving Zcash! If you have any questions or comments, don’t hesitate to get in touch. Again, our email address is contact@zfnd.org.

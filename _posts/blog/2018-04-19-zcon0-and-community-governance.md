@@ -3,7 +3,7 @@ layout: post
 title: "Zcon0 and Our Community Governance Panel"
 excerpt: "Discussing our forthcoming conference and the Foundation’s governance experiment."
 categories: blog
-tags: []
+tags: [governance]
 image:
   feature: 
 date: 2018-04-19

@@ -8,11 +8,11 @@ search_omit: true
 
 <p class="site-description" itemprop="description">The Zcash Foundation is a <a href="/about/incorporation-docs" target="_blank">501(c)3 nonprofit</a> that focuses on financial privacy. <a href="/about/#mission" target="_blank">Our mission</a> is to build internet payment and privacy infrastructure for the public good.
 <br /><br />
-We serve the users of the <a href="/resources/Zcash%20onepager%20color.pdf" target="_blank">Zcash</a> protocol and blockchain. The Foundation also supports other applications of <a href="https://zkp.science/" target="_blank">zero-knowledge cryptography</a>, as well as alternate approaches to private cryptocurrency.</p>
+We serve the users of the <a href="/resources/Zcash%20onepager%20color.pdf" target="_blank">Zcash</a> protocol and blockchain. The Foundation also supports other applications of <a href="https://zkp.science/" target="_blank">zero-knowledge cryptography</a>, as well as other approaches to private cryptocurrency.</p>
 
-<h2 class="center"></h2>
+<h2 class="center">Newsletter</h2>
 
-<p class="center">Sign up for our email newsletter to receive announcements and program updates.</p>
+<p class="center">Subscribe to our email newsletter for occasional announcements!</p>
 
 <div class="email-form">
 <form
@@ -25,7 +25,7 @@ We serve the users of the <a href="/resources/Zcash%20onepager%20color.pdf" targ
   <!-- <label for="bd-email">Enter your email:</label> -->
   <input type="email" name="email" id="bd-email" placeholder="you@example.com">
   <input type="hidden" value="1" name="embed"/>
-  <input type="submit" value="Subscribe" />
+  <input type="submit" value="Subscribe 🎉" />
 </form>
 </div>
 

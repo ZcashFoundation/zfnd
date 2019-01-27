@@ -15,10 +15,10 @@ The Zcash Foundation is now [taking applications](https://www.zfnd.org/zcon/) fo
 The first day of Zcon1 will focus on the Zcash protocol and ecosystem. On the second day, we’ll examine other cryptocurrencies and applications that aim to preserve users’ privacy. The third day will address community and governance.
 
 * Location: [Le Méridien Lav, Split, Croatia](https://www.marriott.com/hotels/travel/spumd-le-meridien-lav-split/)
-* Dates: June 22 – June 24, 2019
+* Dates: June 22 – 24, 2019
 * Ticket price: $500 USD (some financial aid is available)
 
-**Apply to attend Zcon1 by filling out the form [on our website](https://www.zfnd.org/zcon/).** We’ll process your application as soon as we can. (If you received a registration code via email, then you’ll be able purchase a ticket immediately.)
+**Apply to attend Zcon1 by filling out the form [on our website](https://www.zfnd.org/zcon/), also embedded at the end of this blog post.** We’ll process your application as soon as we can. (If you received a registration code via email, then you’ll be able purchase a ticket immediately.)
 
 As we did last year, the Foundation is screening potential attendees to make sure that we get an excellent mix of people. Don’t worry, no fancy credentials are required!
 
@@ -33,3 +33,5 @@ That said, the crowd will be equally great at the [Monero Konferenco](https://fo
 Since the Konferenco will be livestreamed, we hope to broadcast the footage in one of the spaces at Zcon1. In addition, the Zcash Foundation will contribute the sum of $XMR needed to fully fund the Konferenco. It’s an event promoting the same [goals and values](https://www.zfnd.org/about/#mission) that we hold dear, so we’re happy to be supporters. If additional opportunities for collaboration become apparent, we’ll pursue them to whatever extent is feasible.
 
 That’s all! We’re excited to start reviewing Zcon1 applications! Get ready to ponder zero-knowledge proving schemes on the sunny Croatian coast.
+
+<script type="text/javascript" src="https://zcashfoundation.formstack.com/forms/js.php/zcon1_app_reg"></script><noscript><a href="https://zcashfoundation.formstack.com/forms/zcon1_app_reg" title="Online Form">Online Form - Zcon1 Application/Registration</a></noscript><div style="text-align:right; font-size:x-small;"><a href="http://www.formstack.com?utm_source=jsembed&utm_medium=product&utm_campaign=product+branding&fa=h,3322367" title="Powered by Formstack">Powered by Formstack</a></div>

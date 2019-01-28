@@ -18,7 +18,7 @@ The first day of Zcon1 will focus on the Zcash protocol and ecosystem. On the se
 * Dates: June 22 – 24, 2019
 * Ticket price: $500 USD (some financial aid is available)
 
-**Apply to attend Zcon1 by filling out the form [on our website](https://www.zfnd.org/zcon/), also embedded at the end of this blog post.** We’ll process your application as soon as we can. (If you received a registration code via email, then you’ll be able purchase a ticket immediately.)
+**Apply for an invitation to Zcon1 by filling out the form [on our website](https://www.zfnd.org/zcon/), also embedded at the end of this blog post.** We’ll process your application as soon as we can. (If you received a registration code via email, then you’ll be able purchase a ticket immediately.)
 
 As we did last year, the Foundation is screening potential attendees to make sure that we get an excellent mix of people. Don’t worry, no fancy credentials are required!
 

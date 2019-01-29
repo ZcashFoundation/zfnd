@@ -29,17 +29,13 @@ We serve the users of the <a href="/resources/Zcash%20onepager%20color.pdf" targ
 </form>
 </div>
 
-<!-- promotion of our current focus (e.g. an upcoming conference),
-TODO What is our current focus?
+<h2 class="center">zec-qt-wallet</h2>
 
-<h2 class="center">Commonly Used Resources</h2>
-
-<!-- pointers to the most commonly used resources.
-TODO
+<p>The Zcash Foundation financially supports <a href="https://github.com/ZcashFoundation/zec-qt-wallet">zec-qt-wallet</a>, a cross-platform, open-source Zcash wallet that incorporates a full node and prioritizes shielded transactions.</p>
 
 -->
 
-<h2 class="center">The Zcash Foundation Blog</h2>
+<h2 class="center">Announcements and Updates</h2>
 <ul class="post-list">
 {% for post in site.posts limit:10 %}
   <li><article><a href="{{ site.url }}{{ post.url }}"><div class="post-entry-title">{{ post.title }}</div> <span class="entry-date"><time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%B %d, %Y" }}</time></span>{% if post.excerpt %} <span class="excerpt">{{ post.excerpt | remove: '\[ ... \]' | remove: '\( ... \)' | markdownify | strip_html | strip_newlines | escape_once }}</span>{% endif %}</a></article></li>

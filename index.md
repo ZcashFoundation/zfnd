@@ -31,9 +31,7 @@ We serve the users of the <a href="/resources/Zcash%20onepager%20color.pdf" targ
 
 <h2 class="center">zec-qt-wallet</h2>
 
-<p>The Zcash Foundation financially supports <a href="https://github.com/ZcashFoundation/zec-qt-wallet">zec-qt-wallet</a>, a cross-platform, open-source Zcash wallet that incorporates a full node and prioritizes shielded transactions.</p>
-
--->
+<p>The Zcash Foundation financially supports <a href="https://github.com/ZcashFoundation/zec-qt-wallet">zec-qt-wallet</a>, a cross-platform, open-source, GUI Zcash wallet that incorporates a full node and prioritizes shielded transactions.</p>
 
 <h2 class="center">Announcements and Updates</h2>
 <ul class="post-list">

@@ -18,3 +18,16 @@ Like the Company, we believe the chance of an exploit on mainnet is vanishingly 
 
 Best case scenario: we accelerate the adoption of Sapling and prove without a doubt that an exploit didn't happen. Worst (and very unlikely) case: somehow the bug was exploited, which we detect as the Sprout pool empties and users transition to Sapling addresses. In this case, we will encourage users to follow the guidelines set by [the Company here.](https://z.cash/blog/defense-against-counterfeiting-in-shielded-pools/)
 
+## Update: Migrating to Sapling
+
+If you are worried about funds remaining in the Sprout pool and prefer to migrate manually before the availability of an automatic turnstile tool, review these instructions:
+
+https://zcash.readthedocs.io/en/latest/rtd_pages/sapling_turnstile.html
+
+Please follow the instructions there to preserve your privacy. To follow the progress of the turnstile tool and its status in zec-qt-wallet, see these issues:
+
+https://github.com/zcash/zips/pull/197
+
+https://github.com/ZcashFoundation/zec-qt-wallet/issues/99
+
+

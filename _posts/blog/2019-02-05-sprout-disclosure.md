@@ -20,14 +20,10 @@ Best case scenario: we accelerate the adoption of Sapling and prove without a do
 
 ## Update: Migrating to Sapling
 
-If you are worried about funds remaining in the Sprout pool and prefer to migrate manually before the availability of an automatic turnstile tool, review these instructions:
+If you are worried about your funds remaining in the Sprout pool, and prefer to migrate manually before the availability of an automatic turnstile tool, [please review the instructions for doing so](https://zcash.readthedocs.io/en/latest/rtd_pages/sapling_turnstile.html). Go through the process deliberately and carefully in order to preserve your privacy.
 
-https://zcash.readthedocs.io/en/latest/rtd_pages/sapling_turnstile.html
+To follow the progress of the turnstile tool and its status in zec-qt-wallet, refer to these GitHub links:
 
-Please follow the instructions there to preserve your privacy. To follow the progress of the turnstile tool and its status in zec-qt-wallet, see these issues:
-
-https://github.com/zcash/zips/pull/197
-
-https://github.com/ZcashFoundation/zec-qt-wallet/issues/99
-
+* https://github.com/zcash/zips/pull/197
+* https://github.com/ZcashFoundation/zec-qt-wallet/issues/99
 

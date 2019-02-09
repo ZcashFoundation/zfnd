@@ -24,6 +24,6 @@ If you are worried about your funds remaining in the Sprout pool, and prefer to 
 
 To follow the progress of the turnstile tool and its status in zec-qt-wallet, refer to these GitHub links:
 
-* https://github.com/zcash/zips/pull/197
-* https://github.com/ZcashFoundation/zec-qt-wallet/issues/99
+* [https://github.com/zcash/zips/pull/197](https://github.com/zcash/zips/pull/197)
+* [https://github.com/ZcashFoundation/zec-qt-wallet/issues/99](https://github.com/ZcashFoundation/zec-qt-wallet/issues/99)
 

@@ -10,7 +10,7 @@ date: 2019-02-11
 author: sonya
 ---
 
-[KZen Networks](https://www.kzencorp.com/) is undertaking a research project funded by the Zcash Foundation. “The goal of this endeavor,” KZen wrote [on the firm’s blog](LINK TK), “is to provide a cryptographic library to support threshold key generation and signing in Sapling — something that we believe will seriously improve the way Zcash and all its properties are supported in a wallet.”
+[KZen Networks](https://www.kzencorp.com/) is undertaking a research project funded by the Zcash Foundation. “The goal of this endeavor,” KZen wrote [on the firm’s blog](https://www.kzencorp.com/post/zcash-foundation-funds-a-research-project-lead-by-kzen), “is to provide a cryptographic library to support threshold key generation and signing in Sapling — something that we believe will seriously improve the way Zcash and all its properties are supported in a wallet.”
 
 KZen’s work will enable n-of-n multisig transactions using Sapling Zcash, _without_ requiring a consensus change. The library will be a stepping stone to more exotic multisig constructions, thereby improving the experience for Zcash users who want flexibility and security in storing their $ZEC privately. Users shouldn’t have to resort to transparent addresses — or less private cryptocurrencies — for their multisig needs.
 

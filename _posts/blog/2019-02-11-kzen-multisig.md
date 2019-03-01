@@ -24,4 +24,4 @@ Davenport continued:
 
 > If a third key were kept offline in a vault, and a 2-of-3 scheme were used, then the user could tolerate losing either device, and still manage to recover his funds using the remaining device in conjunction with the offline key. Third, we can begin to address the access control problem.
 
-Support for multisig transactions will level up the security available to Zcash users, and broaden the types of users who can safely take advantage of Zcash’s robust privacy while mitigating other threads to their funds.
+Support for multisig transactions will level up the security available to Zcash users, and broaden the types of users who can safely take advantage of Zcash’s robust privacy while mitigating other threats to their funds.

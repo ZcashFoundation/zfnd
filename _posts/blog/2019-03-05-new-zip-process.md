@@ -12,7 +12,7 @@ author: sonya
 
 The Foundation has suggested [changes](https://github.com/zcash/zips/blob/a998182f185fe5e741ac8b2f8aa57d3d31e58c2f/zip-0000.rst) to the Zcash Improvement Proposal process, which will be critical for protocol development going forward. We want to explain our intent to the community, establish the importance of ZIPs for ongoing Zcash governance, and make the new procedures clear before finalization.
 
-**Ideally, _all_ future consensus and upgrade changes will go through the ZIP process. It will constitute an open, standardized path for evaluating and deciding what goes into Zcash.**
+**Ideally, _all_ future consensus and upgrade changes will go through the ZIP process. It will constitute an open, standardized path for evaluating and deciding what goes into Zcash.** The Foundation is advocating for that outcome.
 
 The following details may be subject to further change. Feedback is more than welcome! Please share substantive thoughts by commenting on the [GitHub pull request](https://github.com/zcash/zips/pull/206). There is also a [Zcash Community Forum thread](https://forum.zcashcommunity.com/t/updated-zip-process-proposal/32750) for informal discussion. Lastly, feel free to contact the Foundation’s Executive Director by emailing josh@zfnd.org.
 
@@ -47,3 +47,5 @@ Currently, the Electric Coin Company is still free to choose which ZIPs are inco
 The Foundation’s independence is important; we do not and will never serve the Electric Coin Company. Our [mission](https://www.zfnd.org/about/#mission) is paramount. That said, we deeply appreciate the mutual productive relationship. Few startups prioritize their values as the Electric Coin Company has.
 
 Zcash the software and Zcash the network have always been open for anyone to use, but Zcash protocol development has not been accessible to the same degree. The new ZIP process will allow current community members to increase their influence, while laying the groundwork for future teams and contributors to have a say in the direction of Zcash protocol development.
+
+**This blog post was updated after publishing. Details of the changes [can be seen on GitHub](https://github.com/ZcashFoundation/zfnd/commits/master/_posts/blog/2019-03-05-new-zip-process.md).**

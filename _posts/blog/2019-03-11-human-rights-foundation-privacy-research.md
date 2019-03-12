@@ -10,7 +10,7 @@ date: 2019-03-11
 author: sonya
 ---
 
-The Zcash Foundation contributed funding to a new [research initiative by the Human Rights Foundation](https://medium.com/human-rights-foundation-hrf/privacy-and-cryptocurrency-part-i-how-private-is-bitcoin-e3a4071f8fff), undertaken by Technology Privacy Fellow [Eric Wall](https://twitter.com/ercwl).
+The Zcash Foundation contributed funding to a [new research initiative by the Human Rights Foundation](https://medium.com/human-rights-foundation-hrf/privacy-and-cryptocurrency-part-i-how-private-is-bitcoin-e3a4071f8fff), undertaken by Technology Privacy Fellow [Eric Wall](https://twitter.com/ercwl).
 
 The project examines the practical side of cryptocurrency: How do people in various locations and jurisdictions, particularly those with oppressive governments, actually use cryptocurrency? What are the threats and risks they need to keep in mind? Which cryptocurrencies, and what are the important differences? Do their current features and workflows meet users’ needs?
 

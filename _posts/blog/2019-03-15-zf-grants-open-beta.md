@@ -50,7 +50,7 @@ Shielded transactions will be added as soon as possible! We'd love to support th
 
 Today, when people contribute funds to a proposal, the proposal is assigned a Zcash t-address. Users can send $ZEC from a z-address, ensuring that the origin of the funds is private, but such transactions are not quite as private as shielded-to-shielded transactions.
 
-In the future, [when Zcash includes viewing keys,](https://z.cash/blog/viewing-keys-selective-disclosure/) ZF Grants will be able to support completely private z-to-z contributions. Viewing keys will enable the Zcash Foundation to publicly demonstrate the exact amounts deposited into a proposal's z-address — without the ZF Grants servers requiring access to private keys.
+In the future, [when Zcash includes viewing keys](https://z.cash/blog/viewing-keys-selective-disclosure/), ZF Grants will be able to support completely private z-to-z contributions. Viewing keys will enable the Zcash Foundation to publicly demonstrate the exact amounts deposited into a proposal's z-address — without the ZF Grants servers requiring access to private keys.
 
 We could have built a platform that interacts with private keys, but it would be an unacceptable security risk. Instead, ZF Grants relies on a secure custody solution without direct access to private keys. In other words, proposal funds are not held in hot wallets. Since the private keys aren't available, and currently neither are viewing keys, we would be unable to determine the balance of a campaign z-address.
 

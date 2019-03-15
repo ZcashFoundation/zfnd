@@ -14,6 +14,8 @@ The Zcash Foundation’s new platform for grants and community funding, [ZF Gran
 
 [Grant.io](https://grant.io/) created the web app, which was inspired by the [Monero Forum Funding System](https://www.getmonero.org/forum-funding-system/). ZF Grants replaces our previous [grants workflow](https://www.zfnd.org/tags/#grants) _and_ adds new features.
 
+Check out the [example proposal](https://grants.zfnd.org/proposals/717701609) that Executive Director Josh Cincinnati created. Grant.io is offering a bug bounty for ZF Grants: "Critical bug disclosures that follow our Responsible Disclosure Policy will be eligible for a $500 reward (paid out in USD, not testnet coins)." Learn more [on the website](https://grants.zfnd.org/requests/1141377514-help-us-find-bugs-and-get-paid).
+
 ## How It Works
 
 ZF Grants is similar to Kickstarter. But instead of using fiat money, users can pledge $ZEC to projects that grow or strengthen the Zcash ecosystem. On top of that, imagine if Kickstarter itself gave funds to the best campaigns on the website. That’s our plan!

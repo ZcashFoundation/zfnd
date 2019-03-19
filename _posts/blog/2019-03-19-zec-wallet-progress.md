@@ -4,7 +4,7 @@ title: "ZecWallet: New Name and Rapid Progress"
 excerpt: "zec-qt-wallet, now called ZecWallet, has improved by leaps and bounds."
 categories: blog
 tags: [wallets, partnerships]
-Image: https://www.zfnd.org/images/zecwallet-logo.png
+image: /images/zecwallet-logo.png
   feature: 
 date: 2019-03-19
 author: sonya

@@ -19,11 +19,11 @@ The Foundation funded a series of [how-to videos about ZecWallet](https://www.yo
 
 ## Improvements to ZecWallet
 
-Since we announced our partnership, ZecWallet has shipped additional features. The cleverly implemented [Android app](https://play.google.com/store/apps/details?id=com.adityapk.zcash.zqwandroid) deserves special commendation. The mobile companion wallet connects seamlessly to your desktop ZecWallet node, enabling shielded transactions and memos on your Android phone.
+Since we announced our partnership, ZecWallet has shipped additional features. The cleverly implemented [Android app](https://play.google.com/store/apps/details?id=com.adityapk.zcash.zqwandroid) deserves special commendation. It's a mobile companion wallet that connects seamlessly to your desktop ZecWallet node, enabling shielded transactions and memos on your Android phone.
 
 And there's more! The [ZecWallet releases page](https://github.com/ZcashFoundation/zecwallet/releases) shows how the application has broadened since November, 2018.
 
-Recent ZecWallet upgrades range from [macOS support](https://github.com/ZcashFoundation/zecwallet/releases/tag/0.4.0) to [Spanish](https://github.com/ZcashFoundation/zecwallet/releases/tag/0.5.1), [Portuguese, French](https://github.com/ZcashFoundation/zecwallet/releases/tag/v0.5.2), and [Italian](https://github.com/ZcashFoundation/zecwallet/releases/tag/0.6.1) localization, to [Tor support](https://github.com/ZcashFoundation/zecwallet/releases/tag/0.5.5), to [address book importing](https://github.com/ZcashFoundation/zecwallet/releases/tag/v0.5.6), to [a headless mode](https://github.com/ZcashFoundation/zecwallet/releases/tag/0.6.1).
+Recent ZecWallet upgrades range from [macOS support](https://github.com/ZcashFoundation/zecwallet/releases/tag/0.4.0), to [Spanish](https://github.com/ZcashFoundation/zecwallet/releases/tag/0.5.1), [Portuguese, French](https://github.com/ZcashFoundation/zecwallet/releases/tag/v0.5.2), and [Italian](https://github.com/ZcashFoundation/zecwallet/releases/tag/0.6.1) localization, to [Tor support](https://github.com/ZcashFoundation/zecwallet/releases/tag/0.5.5), to [address book importing](https://github.com/ZcashFoundation/zecwallet/releases/tag/v0.5.6), to [a headless mode](https://github.com/ZcashFoundation/zecwallet/releases/tag/0.6.1).
 
 The Zcash Foundation is proud to fund Aditya Kulkarni’s work. We look forward to future ZecWallet development!
 

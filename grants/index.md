@@ -8,6 +8,23 @@ The Zcash Foundation funds Zcash development, research, and other ecosystem proj
 
 ![Screenshot of the ZF Grants homepage.](https://www.zfnd.org/images/zf_grants_front_page.png)
 
+To make sure you receive future announcements about grants and funding opportunities, subscribe to our newsletter:
+
+<div class="email-form">
+<form
+  action="https://buttondown.email/api/emails/embed-subscribe/zcashfoundation"
+  method="post"
+  target="popupwindow"
+  onsubmit="window.open('https://buttondown.email/zcashfoundation', 'popupwindow')"
+  class="embeddable-buttondown-form"
+>
+  <!-- <label for="bd-email">Enter your email:</label> -->
+  <input type="email" name="email" id="bd-email" placeholder="you@example.com">
+  <input type="hidden" value="1" name="embed"/>
+  <input type="submit" value="Subscribe 🎉" />
+</form>
+</div>
+
 Occasionally, the Foundation establishes separate agreements or partnerships, as with [Parity Technologies](https://www.zfnd.org/blog/parity-partnership/) and [ZecWallet](https://www.zfnd.org/blog/zec-wallet-progress/).
 
 **Beyond the RFPs, we wrote a list of potential ideas for grants.** Qualified individuals or teams are welcome to flesh out their favorite prospects and [submit them to ZF Grants](https://grants.zfnd.org/create) as full proposals!
@@ -48,7 +65,7 @@ Occasionally, the Foundation establishes separate agreements or partnerships, as
 - BOLT development
 - Lightning Network integration for Zcash
 
-### Ongoing services
+### Ongoing Services
 
 - A "service status dashboard" site that monitors the status of the dozens of Zcash-related online services (e.g., those listed in this section, the network monitoring and anomaly detection suggestions listed above, as well as exchanges, software download sites, etc.), so that systemic problems can be identified at a glance
 	- The monitoring website can check that the services are responding to web requests, as well as heuristically check that they are synchronized (e.g., blockchain height is correct and underlying `zcashd` is a recent version) and sensible (e.g., transaction volume and spot price are not zero)

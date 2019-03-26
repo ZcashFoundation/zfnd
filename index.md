@@ -16,11 +16,11 @@ We serve the users of the <a href="/resources/Zcash%20onepager%20color.pdf" targ
 
 <p>The Zcash Foundation awards <a href="https://www.zfnd.org/tags/#grants" target="_blank">grants</a> through a platform called <a href="https://grants.zfnd.org/" target="_blank">ZF Grants</a>, which also includes crowdfunding features. Learn how it works in our <a href="https://www.zfnd.org/blog/zf-grants-open-beta/">launch blog post</a>.</p>
 
-<p>Interested in making a proposal? Check out the <a href="https://www.zfnd.org/grants/">list of ideas</a>!</p>
+<p>Interested in making a proposal? Check out our <a href="https://www.zfnd.org/grants/">curated list of ideas</a>!</p>
 
 <h2 class="center">Partnerships</h2>
 
-<img class="center" src="https://www.zfnd.org/images/zecwallet-logo.png">
+<p class="center"><img src="https://www.zfnd.org/images/zecwallet-logo.png"></p>
 <div>
 <ul>
   <li><a href="https://docs.zecwallet.co/">ZecWallet</a> is a cross-platform, <a href="https://github.com/ZcashFoundation/zecwallet/">open-source</a>, GUI wallet that incorporates a full Zcash node and prioritizes shielded transactions.</li>

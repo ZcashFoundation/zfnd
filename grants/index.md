@@ -29,7 +29,7 @@ Occasionally, the Foundation establishes separate agreements or partnerships, as
 
 **Beyond the RFPs, we wrote a list of potential ideas for grants.** Qualified individuals or teams are welcome to flesh out their favorite prospects and [submit them to ZF Grants](https://grants.zfnd.org/create) as full proposals!
 
-## Grant Ideas
+## Grant Ideas <a name="ideas"></a>
 
 ### Wallets
 

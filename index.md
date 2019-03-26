@@ -21,7 +21,7 @@ We serve the users of the <a href="/resources/Zcash%20onepager%20color.pdf" targ
 <h2 class="center">Partnerships</h2>
 
 <img src="https://www.zfnd.org/images/zecwallet-logo.png">
-
+<div>
 <ul>
   <li><a href="https://docs.zecwallet.co/">ZecWallet</a> is a cross-platform, <a href="https://github.com/ZcashFoundation/zecwallet/">open-source</a>, GUI wallet that incorporates a full Zcash node and prioritizes shielded transactions.</li>
   <li>Justin Smith of X Wallet will create an <a href="https://www.zfnd.org/blog/wallet-agreements/">iOS reference wallet</a> for the Zcash Foundation.</li>
@@ -29,7 +29,7 @@ We serve the users of the <a href="/resources/Zcash%20onepager%20color.pdf" targ
   <li>KZen Networks will bring <a href="https://www.zfnd.org/blog/kzen-multisig/">private n-of-n multisig</a> to Zcash.</li>
   <li>The Human Rights Foundation launched a <a href="https://www.zfnd.org/blog/human-rights-foundation-privacy-research/">cryptocurrency research series</a> focused on privacy and usability.</li>
   <li>The ZKProof Standards project holds <a href="https://www.zfnd.org/blog/zkproof-standards-workshop/">workshops</a>, among other efforts to improve zero-knowledge proofs and their usage.</li>
-</ul>
+</ul></div>
 
 <h2 class="center">Announcements and Updates</h2>
 <ul class="post-list">

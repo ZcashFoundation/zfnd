@@ -47,7 +47,8 @@
           {% include disqus-comments.html %}
         {% endif %}
       </div><!-- /.entry-content -->
-    </div><!-- /.entry-wrapper -->
+    {% include email-cta.html %}
+  </div><!-- /.entry-wrapper -->
     <nav class="pagination" role="navigation">
       {% if page.previous %}
         <a href="{{ site.url }}{{ page.previous.url }}" class="btn" title="{{ page.previous.title }}">Previous</a>
@@ -60,7 +61,6 @@
 </div><!-- /#main -->
 
 <div class="footer-wrapper">
-  {% include email-cta.html %}
   <footer role="contentinfo" class="entry-wrapper">
     {% include footer.html %}
   </footer>

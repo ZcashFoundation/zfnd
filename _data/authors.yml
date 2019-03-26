@@ -14,14 +14,14 @@ zcashboard:
 acityinohio:
   name: Josh Cincinnati 
   web: https://medium.com/@cincinnati
-  email: 
+  email: josh@zfnd.org
   bio: ""
   twitter: acityinohio
   
 sonya:
   name: Sonya Mann
   web: https://www.sonyaellenmann.com/
-  email: 
+  email: sonya@zfnd.org
   bio: ""
   twitter: sonyaellenmann 
 
@@ -44,3 +44,10 @@ petervv:
   email:
   bio: ""
   twitter: valkenburgh
+  
+ianmiers:
+  name: Ian Miers
+  web: http://cs.jhu.edu/~imiers/
+  email: imiers@cs.cornell.edu
+  bio: ""
+  twitter: secparam

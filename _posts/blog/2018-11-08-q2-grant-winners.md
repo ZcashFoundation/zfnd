@@ -10,7 +10,7 @@ date: 2018-11-08
 author: sonya
 ---
 
-The Zcash Foundation is delighted to announce the winners of our [2018Q2 Grants Program](https://github.com/ZcashFoundation/GrantProposals-2018Q2) — 13 projects that will benefit the Zcash ecosystem and community. The Foundation’s [Board of Directors](https://z.cash.foundation/about/) has unaminously ratified the recommendations of the [Grant Review Committee](https://github.com/ZcashFoundation/GrantProposals-2018Q2#grant-review-committee).
+The Zcash Foundation is delighted to announce the winners of our [2018Q2 Grants Program](https://github.com/ZcashFoundation/GrantProposals-2018Q2) — 12 projects that will benefit the Zcash ecosystem and community. The Foundation’s [Board of Directors](https://z.cash.foundation/about/) has unaminously ratified the recommendations of the [Grant Review Committee](https://github.com/ZcashFoundation/GrantProposals-2018Q2#grant-review-committee). (The Foundation originally accepted 13 projects, but one has effectively dropped out. See the update at the end for more details.)
 
 ## Process
 
@@ -30,14 +30,13 @@ The complete proposals were further evaluated by the Grant Review Committee, whi
 * balance of recipient types (individuals, companies, academic)
 * balance of solid versus high-risk-high-gain approaches
 
-
 The Committee also reached out to several proposers to adjust the scope or budget of their submissions. Finally, the committee summarized its conclusions in consensus opinions that portray, for each proposal, the Committee’s recommendation and its detailed rationale. These were submitted to the Zcash Foundation’s Board of Directors, and are now posted in each submission’s GitHub issue.
 
 ## Decisions
 
-Out of the full proposals, [13 were accepted](https://github.com/ZcashFoundation/GrantProposals-2018Q2/issues?utf8=%E2%9C%93&q=label%3Agrant-winner) and eight were rejected. You can overview the proposals and discussion thereof [in the GitHub repo](https://github.com/ZcashFoundation/GrantProposals-2018Q2/issues?utf8=%E2%9C%93&q=is%3Aissue).
+Out of the full proposals, [13 were accepted](https://github.com/ZcashFoundation/GrantProposals-2018Q2/issues?utf8=%E2%9C%93&q=label%3Agrant-winner) (originally) and eight were rejected. You can overview the proposals and discussion thereof [in the GitHub repo](https://github.com/ZcashFoundation/GrantProposals-2018Q2/issues?utf8=%E2%9C%93&q=is%3Aissue).
 
-The total budget for this round of grants was originally $250,000 USD, but we plan to dispense $264,100; the proposals merit extra expenditure. Our thanks to the [Research Institute (formerly known as the Blockchain Institute)](https://researchinstitute.io/) for doubling our initial budget of $125,000 with their generous matching contribution!
+The total budget for this round of grants was originally $250,000 USD, but we plan to dispense $264,100; the proposals merit extra expenditure. Our thanks to the [Research Institute (formerly known as the Blockchain Institute)](https://researchinstitute.io/) for doubling our initial budget of $125,000 with their generous matching contribution! (As noted earlier, one project dropped out after this announcement was first written and published. The accurate total is now $254,100. Scroll to the bottom for details.)
 
 The price of Zcash still [fluctuates too much](https://coinmetrics.io/charts/#assets=zec_zoom=1509753600000,1541289600000) for $ZEC to be a useful unit of account for this purpose, but grant awards will be made using Zcash and sent to Sapling shielded addresses. We plan to proceed with disbursements following a final confirmation that all of the grants are within the strictures of our 501(c)(3) status, and that each payment will comply with the relevant United States regulations.
 
@@ -174,23 +173,6 @@ CryptoLUX plans to leverage several techniques known for deanonymizing and linki
 
 We recognize that the proposed approach by CryptoLUX is likely to produce an interesting and valuable analysis. We recognize the strong background of the proposing team, and we recognize their capability of accomplishing their goals. Funding of the full amount is recommended.
 
-### ProgPoW: A programmatic (dynamic) Proof-of-Work algorithm tuned for commodity hardware
-
-* [GitHub thread](https://github.com/ZcashFoundation/GrantProposals-2018Q2/issues/15)
-* [Full proposal](https://bitcointalk.org/index.php?topic=1660023.0)
-* Proposer: ifdefelse team
-* Budget: $10,000
-
-The pseudonymous team ifdefelse developed ProgPoW, an alternative proof-of-work algorithm that aims to be ASIC-resistant but GPU-friendly. Under this proposal (in its revised form), the team will integrate ProgPoW with Zcash, in the sense of releasing a proof-of-concept fork of the Zcash node software using ProgPoW instead of Equihash, as well as compatible open-source mining software and an operating testnet. The project will facilitate empirical evaluation of the difficulty and network behavior of such an integration.
-
-As noted earlier, not all of the reviewers believe that the notion of ASIC-resistance is an important one to cryptocurrencies, but we gave submissions related to proof-of-work and ASIC-resistance the benefit of the doubt, judging these submissions under the assumption that the Zcash community is interested in ASIC-resistant developments.
-
-Within this space, the committee sees the ProgPoW as having high potential merit. We observe that ProgPoW is considered by many in the community to be a promising alternative to classic proof of work, and an interesting variation of GPU-friendly ASIC resistance. We recognize the large body of work contributed by ifdefelse in developing an implementation of ProgPoW. We also observe that ProgPoW is being considered for use in Ethereum, with experimental integration underway.
-
-We believe that the suggested prototype integration of ProgPoW with the Zcash code base will significantly further the ongoing discussion of potential PoW changes in Zcash, by demonstrating the technical feasibility, identifying difficulties, enabling experimentation with dynamics of hardness adjustment under various loads, and also — should ProgPoW be chosen for future Zcash network upgrades — reducing the time for developing that upgrade.
-
-Thus, funding of this proposal is recommended. Moreover, we encourage the Zcash Foundation to support complementary efforts to independently evaluate the security properties of ProgPoW, either within or beyond the Grants Program.
-
 ### Support Overwinter and Sapling in Riemann
 
 * [GitHub thread](https://github.com/ZcashFoundation/GrantProposals-2018Q2/issues/19)
@@ -252,3 +234,26 @@ Grant winners are expected to provide monthly updates to the Zcash Foundation’
 The 2018Q2 round of the Grants Program was [originally announced](https://z.cash.foundation/blog/q2-grant-program/) in April, 2018, and we appreciate the applicants’ patience in awaiting final decisions.
 
 A brief note on our plans for revamping the Grant Program can be [found in a recent blog post](https://z.cash.foundation/blog/update-on-grants/). Please [subscribe to our newsletter](https://buttondown.email/zcashfoundation) to make sure you receive future announcements.
+
+----------
+
+**Update added on February 27, 2019:**
+
+The ifdefelse team has failed to respond to repeated outreach about delivering the awarded funds. After several months, the Zcash Foundation is considering ifdefelse's silence to be a withdrawal from eligibility. The $10,000 will be devoted to future Zcash Foundation efforts. We have preserved the original ifdefelse section of this blog post below, and the full changelog can be [reviewed on GitHub](https://github.com/ZcashFoundation/zfnd/commits/master/_posts/blog/2018-11-08-q2-grant-winners.md).
+
+> ProgPoW: A programmatic (dynamic) Proof-of-Work algorithm tuned for commodity hardware
+
+> * [GitHub thread](https://github.com/ZcashFoundation/GrantProposals-2018Q2/issues/15)
+> * [Full proposal](https://bitcointalk.org/index.php?topic=1660023.0)
+> * Proposer: ifdefelse team
+> * Budget: $10,000
+
+> The pseudonymous team ifdefelse developed ProgPoW, an alternative proof-of-work algorithm that aims to be ASIC-resistant but GPU-friendly. Under this proposal (in its revised form), the team will integrate ProgPoW with Zcash, in the sense of releasing a proof-of-concept fork of the Zcash node software using ProgPoW instead of Equihash, as well as compatible open-source mining software and an operating testnet. The project will facilitate empirical evaluation of the difficulty and network behavior of such an integration.
+
+> As noted earlier, not all of the reviewers believe that the notion of ASIC-resistance is an important one to cryptocurrencies, but we gave submissions related to proof-of-work and ASIC-resistance the benefit of the doubt, judging these submissions under the assumption that the Zcash community is interested in ASIC-resistant developments.
+
+> Within this space, the committee sees the ProgPoW as having high potential merit. We observe that ProgPoW is considered by many in the community to be a promising alternative to classic proof of work, and an interesting variation of GPU-friendly ASIC resistance. We recognize the large body of work contributed by ifdefelse in developing an implementation of ProgPoW. We also observe that ProgPoW is being considered for use in Ethereum, with experimental integration underway.
+
+> We believe that the suggested prototype integration of ProgPoW with the Zcash code base will significantly further the ongoing discussion of potential PoW changes in Zcash, by demonstrating the technical feasibility, identifying difficulties, enabling experimentation with dynamics of hardness adjustment under various loads, and also — should ProgPoW be chosen for future Zcash network upgrades — reducing the time for developing that upgrade.
+
+> Thus, funding of this proposal is recommended. Moreover, we encourage the Zcash Foundation to support complementary efforts to independently evaluate the security properties of ProgPoW, either within or beyond the Grants Program.

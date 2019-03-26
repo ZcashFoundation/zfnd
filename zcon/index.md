@@ -1,31 +1,13 @@
 ---
 layout: page
-title: Zcon0
-excerpt: "Zcon0 is over"
+title: Zcon, Annual Privacy Conference
+excerpt: "Zcon1 is coming!"
 ---
 
-Zcon0 is a wrap! You can see [the schedule here](/zcon/schedule), and check out [the recorded presentations here](https://www.youtube.com/playlist?list=PL40dyJ0UYTLK507afWUMgzUYeh-i4qQWS). We also published a [detailed recap](https://z.cash.foundation//blog/zcon0-recap/) with more resources. You can look at the [workshop notes here](workshop-notes).
+Zcon1 will take place in Split, Croatia, from June 22 – 24. Apply to be invited by filling out the form below, or read about the event in our [announcement blog post](https://www.zfnd.org/blog/zcon1-announcement/). (The application form is also included at the bottom of the post.) We hope to see you there!
 
-Stay tuned for more info on Zcon1, which will occur during the summer of 2019.
+<script type="text/javascript" src="https://zcashfoundation.formstack.com/forms/js.php/zcon1_app_reg"></script><noscript><a href="https://zcashfoundation.formstack.com/forms/zcon1_app_reg" title="Online Form">Online Form - Zcon1 Application/Registration</a></noscript><div style="text-align:right; font-size:x-small;"><a href="http://www.formstack.com?utm_source=jsembed&utm_medium=product&utm_campaign=product+branding&fa=h,3322367" title="Powered by Formstack">Powered by Formstack</a></div>
 
------
+Zcon1 will take place immediately after [Crypto Summer School](https://summerschool-croatia.cs.ru.nl/2019/), also located in Croatia. Summer School is a prime event for researchers interested in recent development in cryptography, aiming to bring together students, academics, and industry professionals. The event examines internet privacy from a real-world perspective. In case you need another reason to hop on a plane!
 
-## Privacy: From A to Zcon
-
-**Why:** This inaugural event aims to encourage collaboration of privacy projects inside and beyond the Zcash ecosystem in a focused setting and to scale future events as the community grows.
-
-**What:** A three day conference for people who are working on building the privacy infrastructure for the public good, broken into three tracks: (1) Zcash today, tomorrow and beyond; (2) Privacy tech in other cryptocurrencies and applications; (3) Community and governance. The full agenda can be found here: https://z.cash.foundation/zcon/schedule/
-
-**Who:** Privacy researchers, practitioners, influencers, and members of the Zcash community
-
-**Where:** Fairmont, The Queen Elizabeth Montreal, Canada
-
-**When:** June 26, starting at 8:00am to June 28, ending at 2:30pm. We recommend traveling in on June 25 but there will not be any formal events on that day.
-
-**Cost:** Full-ticket registration is 900USD, which includes entrance into the conference and most meals. Accommodations and travel are not included. We offer a special rate at the Fairmont of 349 CAD (~277 USD) a night.
-
-**Financial aid:** Partial and full scholarships are available that could include registration accommodations and travel. We will evaluate candidates for scholarships on a case-by-case basis.
-
-To avoid distractions, Zcon0 will be void of booths, product/ICO promotions, and sponsors.
-
-Thanks for your interest in Zcon0; the window for applications has closed. We hope you tune in to the livestream available from the Zcash Foundation YouTube channel here: https://www.youtube.com/playlist?list=PL40dyJ0UYTLK507afWUMgzUYeh-i4qQWS
+And if you're still wondering what Zcon1 will be like? You can see [last year's Zcon0 schedule here](/zcon/schedule), and check out [the recorded presentations here](https://www.youtube.com/playlist?list=PL40dyJ0UYTLK507afWUMgzUYeh-i4qQWS). We also published a [detailed recap](https://z.cash.foundation//blog/zcon0-recap/) with more resources. You can look at the [workshop notes here](workshop-notes).

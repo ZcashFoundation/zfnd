@@ -1,8 +1,6 @@
-## Community Governance Panel Members 2018 Q2
+## Community Governance Panel Members
 
-<!-- TODO Add note about what the Community Governance Panel Members actually do -->
-
-*Note, this is a draft list. New members will be continuously added as approved.*
+*Last updated in Q2 of 2018.*
 
 ### Accepted Members
 

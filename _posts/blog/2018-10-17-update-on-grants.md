@@ -10,7 +10,7 @@ date: 2018-10-17
 author: sonya
 ---
 
-Hello everyone! You may be wondering what on earth is going on with our [Grants Program](https://z.cash.foundation/grants/). We know that this answer is unsatisfying, but we’re dealing with internal delays and figuring out how to address the process deficiencies for future programs.
+Hello everyone! You may be wondering what on earth is going on with our Grants Program. We know that this answer is unsatisfying, but we’re dealing with internal delays and figuring out how to address the process deficiencies for future programs.
 
 Our plan for Q4 and beyond is to switch to a more lightweight, nimble funding option. The Grants Program has produced excellent work, but the Foundation wants to accelerate that progress and improve our ability to support the Zcash ecosystem. Make sure to [sign up for our newsletter](https://buttondown.email/zcashfoundation) so you won’t miss future announcements!
 

@@ -20,7 +20,7 @@ We serve the users of the <a href="/resources/Zcash%20onepager%20color.pdf" targ
 
 <h2 class="center">Partnerships</h2>
 
-<img src="https://www.zfnd.org/images/zecwallet-logo.png">
+<img class="center" src="https://www.zfnd.org/images/zecwallet-logo.png">
 <div>
 <ul>
   <li><a href="https://docs.zecwallet.co/">ZecWallet</a> is a cross-platform, <a href="https://github.com/ZcashFoundation/zecwallet/">open-source</a>, GUI wallet that incorporates a full Zcash node and prioritizes shielded transactions.</li>

@@ -14,7 +14,7 @@ We serve the users of the <a href="/resources/Zcash%20onepager%20color.pdf" targ
 
 <h2 class="center">Grants</h2>
 
-<p>The Zcash Foundation awards <a href="https://www.zfnd.org/tags/#grants" target="_blank">grants</a> through a platform called <a href="https://grants.zfnd.org/" target="_blank">ZF Grants</a>, which also includes crowdfunding features. Learn how it works in our <a href="https://www.zfnd.org/blog/zf-grants-open-beta/">launch blog post</a>.
+<p>The Zcash Foundation awards <a href="https://www.zfnd.org/tags/#grants" target="_blank">grants</a> through a platform called <a href="https://grants.zfnd.org/" target="_blank">ZF Grants</a>, which also includes crowdfunding features. Learn how it works in our <a href="https://www.zfnd.org/blog/zf-grants-open-beta/">launch blog post</a>.</p>
 
 <p>Interested in making a proposal? Check out the <a href="https://www.zfnd.org/grants/">list of ideas</a>!</p>
 
@@ -28,7 +28,7 @@ We serve the users of the <a href="/resources/Zcash%20onepager%20color.pdf" targ
   <li>Parity Technologies is writing a <a href="https://www.zfnd.org/blog/parity-partnership/">consensus-compatible Zcash node</a> in the Rust programming language.</li>
   <li>KZen Networks will bring <a href="https://www.zfnd.org/blog/kzen-multisig/">private n-of-n multisig</a> to Zcash.</li>
   <li>The Human Rights Foundation launched a <a href="https://www.zfnd.org/blog/human-rights-foundation-privacy-research/">cryptocurrency research series</a> focused on privacy and usability.</li>
-  <li>The ZKProof Standards project holds <a href="https://www.zfnd.org/blog/zkproof-standards-workshop/">workshops</a>, among other efforts to improve zero-knowledge proofs and their usage.<li>
+  <li>The ZKProof Standards project holds <a href="https://www.zfnd.org/blog/zkproof-standards-workshop/">workshops</a>, among other efforts to improve zero-knowledge proofs and their usage.</li>
 </ul>
 
 <h2 class="center">Announcements and Updates</h2>

@@ -10,28 +10,25 @@ search_omit: true
 <br /><br />
 We serve the users of the <a href="/resources/Zcash%20onepager%20color.pdf" target="_blank">Zcash</a> protocol and blockchain. The Foundation also supports other applications of <a href="https://zkp.science/" target="_blank">zero-knowledge cryptography</a>, as well as other approaches to private cryptocurrency.</p>
 
-<h2 class="center">Newsletter</h2>
+{% include email-cta.html %}
 
-<p class="center">Subscribe to our email newsletter for occasional announcements!</p>
+<h2 class="center">Grants</h2>
 
-<div class="email-form">
-<form
-  action="https://buttondown.email/api/emails/embed-subscribe/zcashfoundation"
-  method="post"
-  target="popupwindow"
-  onsubmit="window.open('https://buttondown.email/zcashfoundation', 'popupwindow')"
-  class="embeddable-buttondown-form"
->
-  <!-- <label for="bd-email">Enter your email:</label> -->
-  <input type="email" name="email" id="bd-email" placeholder="you@example.com">
-  <input type="hidden" value="1" name="embed"/>
-  <input type="submit" value="Subscribe 🎉" />
-</form>
-</div>
+<p>The Zcash Foundation awards <a href="https://www.zfnd.org/tags/#grants" target="_blank">grants</a> through a platform called <a href="https://grants.zfnd.org/" target="_blank">ZF Grants</a>, which also includes crowdfunding features. Learn how it works in our <a href="https://www.zfnd.org/blog/zf-grants-open-beta/">launch blog post</a>.
 
-<h2 class="center">zec-qt-wallet</h2>
+<p>Interested in making a proposal? Check out the <a href="https://www.zfnd.org/grants/">list of ideas</a>!</p>
 
-<p>The Zcash Foundation financially supports <a href="https://github.com/ZcashFoundation/zec-qt-wallet">zec-qt-wallet</a>, a cross-platform, open-source, GUI Zcash wallet that incorporates a full node and prioritizes shielded transactions.</p>
+<h2 class="center">Partnerships</h2>
+
+<img class="center" src="https://www.zfnd.org/images/zecwallet-logo.png">
+
+<ul>
+  <li><a href="https://docs.zecwallet.co/">ZecWallet</a> is a cross-platform, <a href="https://github.com/ZcashFoundation/zecwallet/">open-source</a>, GUI wallet that incorporates a full Zcash node and prioritizes shielded transactions.</li>
+  <li>Justin Smith of X Wallet will create an <a href="https://www.zfnd.org/blog/wallet-agreements/">iOS reference wallet</a> for the Zcash Foundation.</li>
+  <li>Parity Technologies is writing a <a href="https://www.zfnd.org/blog/parity-partnership/">consensus-compatible Zcash node</a> in the Rust programming language.</li>
+  <li>KZen Networks will bring <a href="https://www.zfnd.org/blog/kzen-multisig/">private n-of-n multisig</a> to Zcash.</li>
+  <li>The Human Rights Foundation launched a <a href="https://www.zfnd.org/blog/human-rights-foundation-privacy-research/">cryptocurrency research series</a> focused on privacy and usability.</li>
+  <li>The ZKProof Standards project holds <a href="https://www.zfnd.org/blog/zkproof-standards-workshop/">workshops</a>, among other efforts to improve zero-knowledge proofs and their usage.</ul>
 
 <h2 class="center">Announcements and Updates</h2>
 <ul class="post-list">

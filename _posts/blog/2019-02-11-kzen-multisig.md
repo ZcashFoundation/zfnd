@@ -3,7 +3,7 @@ layout: post
 title: "Partnering with KZen Networks to Enable Private Multisig"
 excerpt: "KZen Networks is undertaking a research project funded by the Zcash Foundation."
 categories: blog
-tags: []
+tags: [partnerships, development]
 image:
   feature: 
 date: 2019-02-11

@@ -4,7 +4,7 @@ title: Zcon, Annual Privacy Conference
 excerpt: "Zcon1 is coming!"
 ---
 
-__**[Preliminary speaker list available here!](https://docs.google.com/document/d/1Hcsi2Bd0CNuUuPiCKMavHOByFMnTsKkM6_Rw165_oe8/edit)**__
+[Preliminary speaker list available here!](https://docs.google.com/document/d/1Hcsi2Bd0CNuUuPiCKMavHOByFMnTsKkM6_Rw165_oe8/edit)
 
 Zcon1 will take place in Split, Croatia, from June 22 – 24. Apply to be invited by filling out the form below, or read about the event in our [announcement blog post](https://www.zfnd.org/blog/zcon1-announcement/). (The application form is also included at the bottom of the post.) We hope to see you there!
 

@@ -44,7 +44,7 @@ Arbiters are crucial. If the person or team behind a given campaign doesn't meet
 
 Please review the [privacy policy](https://grants.zfnd.org/privacy) to understand our commitments with respect to data collected by the platform. The Zcash Foundation intentionally chose a stricter privacy policy than most internet services.
 
-Unfortunately, because we didn’t want to delay launch, ZF Grants can only support contributions through transparent transactions — for the time being. (Campaign payouts *must* be made to shielded Sapling addresses). Zcash transparent addresses and transactions, like Bitcoin addresses and transactions, are pseudonymous but not private.
+Unfortunately, because we didn’t want to delay launch, ZF Grants can only support contributions through transparent transactions — for the time being. (Campaign payouts *must* be made to shielded Sapling addresses.) Zcash transparent addresses and transactions, like Bitcoin addresses and transactions, are pseudonymous but not private.
 
 Shielded transactions will be added as soon as possible! We'd love to support them right from the get-go, but blockchain-level visibility is important. After all, transparency is first on our list of [institutional values](https://www.zfnd.org/about/#values).
 

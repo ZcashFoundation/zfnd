@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ZF Grants Is Ready for Your Proposals"
+title: "ZF Grants Is Ready for Your Proposal"
 excerpt: "The Zcash Foundation’s community funding platform will host fundraising campaigns for Zcash ecosystem projects."
 categories: blog
 tags: [grants]

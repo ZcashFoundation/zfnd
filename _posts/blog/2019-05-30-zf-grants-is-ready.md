@@ -10,7 +10,7 @@ date: 2019-05-30
 author: sonya
 ---
 
-[ZF Grants](http://grants.zfnd.org) now supports the Zcash mainnet! The [Grant.io](https://grant.io/) team made the switch on Friday, and today it’s official. You can transact with real $ZEC on the platform.
+[ZF Grants](http://grants.zfnd.org) now supports the Zcash mainnet! The [Grant.io](https://grant.io/) team made the switch last Friday, and today it’s official. You can transact with real $ZEC on the platform.
 
 A quick refresher from our initial [announcement](https://www.zfnd.org/blog/zf-grants-open-beta/):
 

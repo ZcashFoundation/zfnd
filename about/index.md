@@ -30,9 +30,12 @@ Former members:
 
 ## Employees
 
-- [_Josh Cincinnati_](https://twitter.com/acityinohio) • Executive Director of the Foundation, and an active member of the cryptocurrency community.
-- [_Antonie Hodge_](https://twitter.com/antoniehodge) • Operations Director of the Zcash Foundation. Also serves as Operations Director at Coin Center.
-- [_Sonya Mann_](https://twitter.com/sonyaellenmann) • Communications Manager for the Foundation and a former tech journalist.
+- [_Josh Cincinnati_](https://twitter.com/acityinohio) • [Executive Director](https://www.zfnd.org/blog/exec-director-and-roadmap/)
+- [_Antonie Hodge_](https://twitter.com/antoniehodge) • [Operations Director](https://www.zfnd.org/blog/welcome-antonie/)
+- [_Sonya Mann_](https://twitter.com/sonyaellenmann) • [Communications Manager](https://www.zfnd.org/blog/welcome-sonya/)
+- [_Henry de Valence_](https://twitter.com/hdevalence) • [Principal Cryptographic Researcher](https://www.zfnd.org/blog/henry-de-valence/)
+- [_Anna Kaplan_](https://twitter.com/kaplannie) • [Technical Intern](https://www.zfnd.org/blog/anna-kaplan-welcome/)
+- [_Deirdre Connolly_](https://twitter.com/durumcrustulum) • [Core Engineer](https://www.zfnd.org/blog/welcome-deirdre/)
 
 # Contact
 

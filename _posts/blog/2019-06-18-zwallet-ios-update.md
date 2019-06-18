@@ -17,8 +17,6 @@ We’re ready to share the results of that partnership.
 XMR Systems has designed a simple, intuitive, and beautiful user interface. It was implemented using Apple’s native Swift programming language, to ensure a fantastic user experience.
 
 ![Zwallet Screenshot 1](/images/zwallet-ios-image1.png)
-![Zwallet Screenshot 2](/images/zwallet-ios-image2.png)
-![Zwallet Screenshot 3](/images/zwallet-ios-image3.png)
 
 Unfortunately, one key piece of this wallet is missing: A specialized library for constructing shielded transactions directly on your iOS device. That library isn’t ready for production yet.
 

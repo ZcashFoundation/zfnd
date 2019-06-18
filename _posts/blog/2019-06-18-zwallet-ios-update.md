@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Zwallet iOS Effort Discontinued"
-excerpt: "The Zcash Foundation and Parity Technologies are proud to present Zebra, a consensus-compatible Zcash node client written in Rust."
+title: "Z wallet iOS Effort Discontinued"
+excerpt: "The Zcash Foundation and XMR Systems have released the source code to the WIP project."
 categories: blog
 tags: [wallets, partnerships]
 image: /images/zwallet-ios-image1.png

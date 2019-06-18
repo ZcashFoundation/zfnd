@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Z wallet iOS Effort Discontinued"
+title: "Z Wallet iOS Effort Discontinued"
 excerpt: "The Zcash Foundation and XMR Systems have released the source code to the WIP project."
 categories: blog
 tags: [wallets, partnerships]
@@ -8,7 +8,6 @@ image: /images/zwallet-ios-image1.png
 date: 2019-06-18
 author: sonya
 ---
-
 
 In November, 2018, the Zcash Foundation [announced](https://www.zfnd.org/blog/wallet-agreements/) that XMR Systems, known for its iOS app [X Wallet](https://xwallet.tech/), would be developing an iOS reference wallet for Zcash. Our priorities for the new app: Shielded-first, open-source, and user-friendly.
 

@@ -197,7 +197,7 @@ span + .entry-title {
 	/* nice link underlines */
   p > a,
 	li > a {
-		border-bottom: 1px dotted lighten($link-color, 50);
+		border-bottom: 1px dotted darken($link-color, 50);
 
 		&:hover {
 			border-bottom-style: solid;

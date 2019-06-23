@@ -79,13 +79,6 @@
 
 .site-description {
   margin-top: 0;
-  // font-family: $alt-font;
-  @include font-size(16);
-  font-weight: 400;
-
-  @include media($medium) {
-    @include font-size(20);
-  }
 }
 
 blockquote.roadmap {
@@ -97,4 +90,3 @@ blockquote.roadmap {
     padding: 20px 40px;
   }
 }
-

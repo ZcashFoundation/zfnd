@@ -5,6 +5,10 @@ Welcome to the Zcash Foundation Website. This repository does **two things**:
 1. Holds documents for the foundation.
 2. Holds the source code for the website.
 
+**Workshop Notes from Zcon1**
+
+If you are submitting notes for workshops at Zcon1, please add them to [this folder](https://github.com/ZcashFoundation/zfnd/tree/master/zcon/1/workshop-notes).
+
 ## Foundation Documents
 
 Here are the main documents in this repo. For all of them, to see the same, rendered versions, go to [the website](https://zfnd.org).

@@ -27,9 +27,13 @@ To make sure you receive future announcements about grants and funding opportuni
 
 Occasionally, the Foundation establishes separate agreements or partnerships, as with [Parity Technologies](https://www.zfnd.org/blog/parity-partnership/) and [ZecWallet](https://www.zfnd.org/blog/zec-wallet-progress/).
 
-**Beyond the RFPs, we wrote a list of potential ideas for grants.** Qualified individuals or teams are welcome to flesh out their favorite prospects and [submit them to ZF Grants](https://grants.zfnd.org/create) as full proposals!
+<a name="ideas"></a>
 
-## Grant Ideas <a name="ideas"></a>
+## Grant Ideas
+
+Please keep in mind that this list of grant ideas is speculative. Use it as a starting point. If you are seriously considering a project from this list, please get in touch [via email](mailto:contact@zfnd.org), or make a thread on the [Zcash Community Forum](https://forum.zcashcommunity.com/), or say hello on the [Zcash Community Chat](https://chat.zcashcommunity.com/). Public discussion is encouraged!
+
+After those conversations happen, qualified individuals or teams are welcome to flesh out their favorite prospects and [submit them to ZF Grants](https://grants.zfnd.org/create) as full proposals!
 
 ### Wallets
 

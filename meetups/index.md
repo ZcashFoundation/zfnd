@@ -13,8 +13,7 @@ We also welcome meetup organizers or attendees who want to incorporate Zcash int
 If you’re a potential or current meetup organizer, here’s what we can do to support you:
 
 * Promote your meetup within Zcash communities
-* Cover Meetup.com fees if you join our network
-* Provide Zcash information and discussion topics
+* Point you toward Zcash information and discussion topics
 * Help find free or low-cost venues
 * Defray additional costs on a case-by-case basis
 
@@ -35,7 +34,7 @@ Scroll down to "Quickstart" for a slightly longer quick-and-dirty version. But o
 
 # Meetup Guidelines
 
-_The Foundation created this resource in partnership with [Paige Peterson](https://twitter.com/ioptio) from the Zcash Company, using [Stellar’s guidelines](https://www.stellar.org/community/meet-up-guidelines/) as a starting point._
+_The Foundation created this resource in partnership with [Paige Peterson](https://twitter.com/ioptio) from the Electric Coin Company, using [Stellar’s guidelines](https://www.stellar.org/community/meet-up-guidelines/) as a starting point._
 
 The following guide walks through all the necessary steps for starting and sustaining a meetup group. We encourage the Zcash community to take initiative and start local Zcash meetups all around the world!
 
@@ -67,7 +66,7 @@ Make use of social media and your network. Personally invite anyone you know who
 * [subreddit](https://www.reddit.com/r/zec)
 * [Telegram](http://t.me/zcon0)
 
-And don't forget Twitter. Tag [@ZcashFoundation](https://twitter.com/zcashfoundation) and [@zcashco](https://twitter.com/zcashco) so we can amplify you.
+And don't forget Twitter. Tag [@ZcashFoundation](https://twitter.com/zcashfoundation) and [@ElectricCoinCo](https://twitter.com/ElectricCoinCo) so we can amplify you.
 
 ### 4) Plan your first specific meetup.
 

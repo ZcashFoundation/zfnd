@@ -19,9 +19,9 @@ The Foundation is thrilled to fund expert analysis and tooling that can (both me
 
 Ben’s experience includes researching new architecture features for Ultrascale+ and Versal FPGAs at Xilinx, as well as designing FPGA projects for use in high-frequency trading systems. He has an academic background in cryptography and a personal interest in the use of zk-SNARKs on the Zcash network.
 
-The hardware used for the project was a [BittWare XUP-VVP board](https://www.bittware.com/fpga/xup-vvp/) (VU37P FPGA w/ 8GB HBM, 16GB DDR4). The FPGA engine is also designed to be run on an Amazon AWS EC2 F1 FPGA instance (VU9P w/ 64GB DDR4).
+The hardware used for the project was a [BittWare XUP-VVH board](https://www.bittware.com/fpga/xup-vvh/) (VU37P FPGA w/ 8GB HBM, 16GB DDR4). The FPGA engine is also designed to be run on an Amazon AWS EC2 F1 FPGA instance (VU9P w/ 64GB DDR4).
 
-Bittware VP Sam Bichara said, "It's excellent to see the advantages of FPGAs being recognized by the Zcash Foundation and their investment in the technology." He pointed to "ample logic area plus the new high-speed on-package HBM2 memory" as particular advantages of the the XUP-VVH board.
+BittWare VP Sam Bichara said, "It's excellent to see the advantages of FPGAs being recognized by the Zcash Foundation and their investment in the technology." He pointed to "ample logic area plus the new high-speed on-package HBM2 memory" as particular advantages of the the XUP-VVH board.
 
 Ben Devlin explained the components of the FPGA acceleration project in more detail:
 

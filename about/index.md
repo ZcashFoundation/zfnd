@@ -9,7 +9,7 @@ The Zcash Foundation is a [501(c)3 nonprofit](https://www.zfnd.org/about/incorpo
 - [Mission](#mission)
 - [Values](#values)
 - [Legal](#legal)
-- [Legal](#team)
+- [People](#team)
 
 {% include_relative mission.md %}
 {% include_relative values.md %}

@@ -34,8 +34,12 @@ Former members:
 - [_Antonie Hodge_](https://twitter.com/antoniehodge) • [Operations Director](https://www.zfnd.org/blog/welcome-antonie/)
 - [_Sonya Mann_](https://twitter.com/sonyaellenmann) • [Communications Manager](https://www.zfnd.org/blog/welcome-sonya/)
 - [_Henry de Valence_](https://twitter.com/hdevalence) • [Principal Cryptographic Researcher](https://www.zfnd.org/blog/henry-de-valence/)
-- [_Anna Kaplan_](https://twitter.com/kaplannie) • [Technical Intern](https://www.zfnd.org/blog/anna-kaplan-welcome/)
 - [_Deirdre Connolly_](https://twitter.com/durumcrustulum) • [Core Engineer](https://www.zfnd.org/blog/welcome-deirdre/)
+- [_George Tankersley_](https://twitter.com/gtank__) • [Director of Engineering](https://www.zfnd.org/blog/welcome-george/)
+
+### Alumni
+
+- [_Anna Kaplan_](https://twitter.com/kaplannie) • [Technical Intern](https://www.zfnd.org/blog/anna-kaplan-welcome/)
 
 # Contact
 

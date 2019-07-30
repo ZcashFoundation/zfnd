@@ -1,4 +1,4 @@
-## Team
+## Zcash Foundation Team
 
 ### Board of Directors
 
@@ -8,7 +8,7 @@
 - [_Amber Baldet_](http://www.amberbaldet.com/) • CEO of Clovyr, former J.P. Morgan blockchain program lead, and co-creator of a zero-knowledge settlement layer for enterprise Ethereum.
 - [_Ian Miers_](https://cs.jhu.edu/~imiers/) • Postdoc studying computer security and applied cryptography at Cornell Tech, and one of the creators of Zcash.
 
-Former members:
+#### Alumni
 
 - [_Naval Ravikant_](https://angel.co/naval) • Founder and CEO of AngelList, and one of the venture capital investors behind Zcash.
 - [_Yan Zhu_](https://diracdeltas.github.io/) • Senior software engineer at Brave and security researcher.

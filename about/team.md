@@ -1,4 +1,6 @@
-## Board of Directors
+## Team
+
+### Board of Directors
 
 - [_Andrew Miller_](https://soc1024.com/) (chair) • Assistant professor in the electrical and computer engineering department at the University of Illinois at Urbana-Champaign, and an associate director of the Initiative for Cryptocurrencies and Contracts.
 - [_Peter Van Valkenburgh_](http://www.petervv.com/) (secretary) • Director of research at Coin Center, a nonprofit organization focused on research, education, and advocacy on the intersection of policy and cryptocurrencies.
@@ -11,7 +13,7 @@ Former members:
 - [_Naval Ravikant_](https://angel.co/naval) • Founder and CEO of AngelList, and one of the venture capital investors behind Zcash.
 - [_Yan Zhu_](https://diracdeltas.github.io/) • Senior software engineer at Brave and security researcher.
 
-## Employees
+### Employees
 
 - [_Josh Cincinnati_](https://twitter.com/acityinohio) • [executive director](https://www.zfnd.org/blog/exec-director-and-roadmap/)
 - [_Antonie Hodge_](https://twitter.com/antoniehodge) • [operations director](https://www.zfnd.org/blog/welcome-antonie/)
@@ -20,6 +22,6 @@ Former members:
 - [_Deirdre Connolly_](https://twitter.com/durumcrustulum) • [core engineer](https://www.zfnd.org/blog/welcome-deirdre/)
 - [_Sonya Mann_](https://twitter.com/sonyaellenmann) • [communications manager](https://www.zfnd.org/blog/welcome-sonya/)
 
-### Alumni
+#### Alumni
 
 - [_Anna Kaplan_](https://twitter.com/kaplannie) • [technical intern](https://www.zfnd.org/blog/anna-kaplan-welcome/)

@@ -128,9 +128,9 @@ If our budget was **$4.7mm** a year, we'd aim to hire five more people, includin
 
 If our budget was **$5.7mm** a year, we would likely disburse more funds to grantees, spend money on more security auditing for Zebra and third-party open-source Zcash projects, and spend more on speculative research contracts (like our [FPGA project](https://www.zfnd.org/blog/fpga-acceleration-project/) this year).
 
-If our budget was **6.7mm**a year, we would likely spend more resources on events beyond Zcon, engage in broader education work, hoping to build a long-tail of protocol contributors outside the Electric Coin Company/Foundation, and do even more advocacy work for Zcash and privacy in general (where not limited by our nonprofit status).
+If our budget was **$6.7mm** a year, we would likely spend more resources on events beyond Zcon, engage in broader education work, hoping to build a long-tail of protocol contributors outside the Electric Coin Company/Foundation, and do even more advocacy work for Zcash and privacy in general (where not limited by our nonprofit status).
 
-Anything above **6.7mm** per year would be put toward our endowment.
+Anything above **^6.7mm** per year would be put toward our endowment.
 
 If a dev fund granted 10% of the next block reward period to the Foundation, we'd receive 625,000 ZEC over four years, or 156,250 ZEC per year. At $50 per ZEC, that would be equivalent to $7.8mm per year (the price of ZEC is volatile, but we think $50 is a reasonable baseline).
 
@@ -161,15 +161,15 @@ We will revive last year's [Community Advisory Panel](https://www.zfnd.org/blog/
 * invite one new member of their choosing
 * vote on the proposals (once they have been submitted as ZIPs).
 
-**The polls will open September 3 and be due September 17.**
+The polls will **open September 3 and be due September 17.**
 
 ### Miner signaling
 
-We will invite mining pools to signal their support of a given proposal using the coinbase text of blocks collected between **September 3 and September 17.**
+We will invite mining pools to signal their support of a given proposal using the coinbase text of blocks collected **between September 3 and September 17.**
 
 ### Forum sentiment
 
-We will open a forum post to collect votes between **September 3 and September 17.** We will only accept votes from forum members that have accounts created before March 2019, as a minor attempt to prevent gaming.
+We will open a forum post to collect votes **between September 3 and September 17.** We will only accept votes from forum members that have accounts created before March 2019, as a minor attempt to prevent gaming.
 
 ### Sentiment summary
 

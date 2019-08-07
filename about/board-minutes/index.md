@@ -11,6 +11,7 @@ excerpt: "Notes from meetings of the Zcash Foundation Board of Directors."
 - [July 10th, 2019](#july-10-2019)
 - [May 21st, 2019](#may-21-2019)
 - [May 13th, 2019](#may-13-2019)
+- [May 6th, 2019](#may-6-2019)
 - [January 14th, 2019](#january-14-2019)
 - [November 15th, 2018](#november-15-2018)
 - [June 28th, 2018](#june-28-2018)
@@ -28,6 +29,7 @@ excerpt: "Notes from meetings of the Zcash Foundation Board of Directors."
 {% include_relative 2019-07-10.md %}
 {% include_relative 2019-05-21.md %}
 {% include_relative 2019-05-13.md %}
+{% include_relative 2019-05-06.md %}
 {% include_relative 2019-01-14.md %}
 {% include_relative 2018-11-15.md %}
 {% include_relative 2018-06-28.md %}

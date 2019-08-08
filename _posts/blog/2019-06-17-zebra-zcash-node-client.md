@@ -12,7 +12,7 @@ The Zcash Foundation and Parity Technologies are proud to present [Zebra](https:
 
 As a project, Zebra was [first announced](https://www.zfnd.org/blog/parity-partnership/) seven months ago, in October, 2018. It has come to fruition two months earlier than expected, thanks to diligent work by the Zebra development team.
 
-However, we recommend running Zebra on testnet for the time being. It is an alpha product, subject to change in the coming months as the Zcash Foundation’s burgeoning technical team takes over from Parity. The Foundation expects — but cannot guarantee — that Zebra will be usable on mainnet by the time [Zcash Blossom](https://z.cash/upgrade/blossom/) activates. (The target for Blossom activation is late October this year.)
+However, we recommend running Zebra on testnet for the time being. It is an alpha product, subject to change in the coming months as the Zcash Foundation’s burgeoning technical team takes over from Parity. The Foundation expects — but cannot guarantee — that Zebra will be usable on mainnet by the time [Zcash Blossom](https://electriccoin.co/upgrade/blossom/) activates. (The target for Blossom activation is late October this year.)
 
 Parity has published an [informative blog post about Zebra](https://www.parity.io/parity-releases-zebra-in-collaboration-with-zcash-foundation/) and its purpose:
 

@@ -20,6 +20,6 @@ Zepio was built by [André Neves](https://andrenev.es/#/) and [Astrocoders](http
 
 As with all other Zcash Foundation software, Zepio Wallet is open source. Specifically, the code is available under a [standard MIT license](https://github.com/ZcashFoundation/zepio/blob/master/LICENSE.md). (Neves explained that “we purposefully chose libraries, frameworks and packages that follow the same set of OSS principles” that have long been valued by the Zcash community.)
 
-Zepio Wallet joins [ZecWallet](https://docs.zecwallet.co/) as a desktop Zcash wallet with the important features that we’ve highlighted in this blog post. Both are financially supported by the Zcash Foundation. The Zcash ecosystem benefits when there are multiple user-friendly applications that enable easy usage of shielded Zcash (including the improvements brought by [Sapling](https://z.cash/upgrade/sapling/)).
+Zepio Wallet joins [ZecWallet](https://docs.zecwallet.co/) as a desktop Zcash wallet with the important features that we’ve highlighted in this blog post. Both are financially supported by the Zcash Foundation. The Zcash ecosystem benefits when there are multiple user-friendly applications that enable easy usage of shielded Zcash (including the improvements brought by [Sapling](https://electriccoin.co/upgrade/sapling/)).
 
 It is exciting to see the options expand, and to help lay the groundwork for continued Zcash adoption!

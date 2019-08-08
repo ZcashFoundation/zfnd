@@ -31,7 +31,7 @@ Zcash is a fork of the bitcoin protocol, the first and most widely used blockcha
 
 The Zcash Foundation is a registered non-profit organisation serving the Zcash community and promoting financial privacy.
 
-<https://z.cash.foundation/>
+<https://zfnd.org/>
 
 Courage is an international organisation that supports those who put themselves at risk in order to make important contributions to the historical record. The organisation's first beneficiary was Edward Snowden and it now supports several others including Jeremy Hammond, Barrett Brown, Chelsea Manning and Lauri Love.
 

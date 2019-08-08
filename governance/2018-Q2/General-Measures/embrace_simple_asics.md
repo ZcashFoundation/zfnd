@@ -24,7 +24,7 @@ The Foundation should commit to a plan for migrating the Zcash protocol to a new
 
 ## Background
 
-With equal degree fascination and anxiety, I watched the Great ASIC Resistance Debate unfold in Zcash and other cryptocurrencies this year. On the Zcash side, the debate reached fever-pitch after Bitmain released the AntMiner Z9 mini, which resulted in our statement on ASIC Resistance and the [ensuing commitment to investigate and prescribe action.](https://z.cash.foundation//blog/statement-on-asics/)
+With equal degree fascination and anxiety, I watched the Great ASIC Resistance Debate unfold in Zcash and other cryptocurrencies this year. On the Zcash side, the debate reached fever-pitch after Bitmain released the AntMiner Z9 mini, which resulted in our statement on ASIC Resistance and the [ensuing commitment to investigate and prescribe action.](https://zfnd.org/blog/statement-on-asics/)
 
 That statement sowed the seeds for this ballot proposal, and in particular this paragraph (bold parts my own):
 

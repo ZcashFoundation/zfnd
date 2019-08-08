@@ -15,4 +15,4 @@ In addition, many Zcash community members are active on Twitter. We use the hand
 
 As for "meatspace," the Foundation facilitates a [meetups program](https://www.zfnd.org/meetups/) and runs the [annual Zcon gathering](https://www.zfnd.org/zcon/).
 
-The Electric Coin Company, previously called the Zcash Company, is a separate organization but its [website](https://z.cash/) and [Twitter account](https://twitter.com/zcashco) are also useful.
+The Electric Coin Company, previously called the Zcash Company, is a separate organization but its [website](https://electriccoin.co/) and [Twitter account](https://twitter.com/electriccoinco) are also useful.

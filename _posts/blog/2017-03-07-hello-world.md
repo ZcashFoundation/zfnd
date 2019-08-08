@@ -33,7 +33,7 @@ Read more at [ZcashFoundation/MISSION.md](https://github.com/ZcashFoundation/Zca
 
 How we started
 ============
-Since early on in the planning for the development and launch of Zcash, Zcash Co has planned to splinter off an independent non-profit organization, to be funded in part with donations from recipients of the Founder's Reward. You can read more about this from the Zcash Co perspective in several of their blog posts [(1)](https://z.cash/blog/funding.html) [(2)](https://z.cash/blog/continued-funding-and-transparency.html).
+Since early on in the planning for the development and launch of Zcash, Zcash Co has planned to splinter off an independent non-profit organization, to be funded in part with donations from recipients of the Founder's Reward. You can read more about this from the Zcash Co perspective in several of their blog posts [(1)](https://electriccoin.co/blog/funding.html) [(2)](https://electriccoin.co/blog/continued-funding-and-transparency.html).
 
 As of February 14, the Zcash Foundation is incorporated in the state of Delaware. We are currently applying for status as a non profit 501(c)(3).
 The initial board of directors the Zcash Foundation comprises the following members:

@@ -10,13 +10,13 @@ date: 2018-04-19
 author: acityinohio
 ---
 
-As mentioned in [my last post](https://z.cash.foundation/blog/exec-director-and-roadmap/), one of the cornerstones of the Foundation's activities this year is our privacy-focused conference Zcon0. We've been hard at work preparing the event, and we're excited that so many luminaries in cryptocurrency and privacy technology are attending. And we are even more excited to announce that applications are open to the broader public.
+As mentioned in [my last post](https://zfnd.org/blog/exec-director-and-roadmap/), one of the cornerstones of the Foundation's activities this year is our privacy-focused conference Zcon0. We've been hard at work preparing the event, and we're excited that so many luminaries in cryptocurrency and privacy technology are attending. And we are even more excited to announce that applications are open to the broader public.
 
 What can you expect at Zcon0? If you've been to [Scaling Bitcoin](https://scalingbitcoin.org/) you've got the general idea: a mix of mostly technical presentations and breakout sessions (they run a great conference and we hope to follow their excellent example). The presentations and breakout sessions will thematically span three areas, corresponding to the three days of the conference: Zcash, privacy in other cryptocurrencies/applications, and community/governance. A detailed agenda is still being worked on, but I can promise that it will be a top-tier event for privacy in cryptocurrencies. The conference will take place June 26-28 in Montreal.
 
 While we've received over a hundred applications so far, we expect the conference to have three hundred attendees. To apply for consideration, please fill out the form here:
 
-[https://z.cash.foundation/zcon/](https://z.cash.foundation/zcon/)
+[https://zfnd.org/zcon/](https://zfnd.org/zcon/)
 
 The conference registration fee is $900USD. Scholarships are available for researchers and students, but **please note that the deadline for scholarship eligibility is May 1st**. Please apply before then if you plan on requesting financial aid. Even if you're not requesting financial aid, we anticipate that we will reach our capacity (~300 attendees) rapidly, so we encourage you to apply ASAP. If you cannot attend, we are planning to livestream as many presentations as possible.
 

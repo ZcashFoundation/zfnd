@@ -30,7 +30,7 @@ Since its inception, the Foundation has stated several times that its serves use
 
 
 > Our mission, most broadly, is to serve the Zcash community and the general public as users of the Zcash protocol and blockchain.
-> ([First Announcement from the Zcash Foundation](https://z.cash.foundation//blog/hello-world/), March 7, 2017 (emphasis added))
+> ([First Announcement from the Zcash Foundation](https://zfnd.org/blog/hello-world/), March 7, 2017 (emphasis added))
 
 > [O]ur mission is to be a public charity dedicated to building Internet payment and privacy infrastructure for the public good, ___primarily serving the users of the Zcash protocol and blockchain___.
 > ([Zcash Foundation Mission Statement](https://github.com/ZcashFoundation/ZcashFoundation/blob/master/MISSION.md), lasted edited April 9, 2018 (emphasis added))

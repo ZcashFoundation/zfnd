@@ -13,7 +13,7 @@ We have two main objectives for the election:
 - Providing a platform for new Board candidates and to elect new board members
 - Measure and understand community sentiment to guide Foundation policy
 
-The Board of Directors is important since they are officially the root authorities in control of the organization. Three of the existing Board members have all expressed a preference of remaining on the board. In the Zcash Foundation's [first public statement](https://z.cash.foundation//blog/hello-world/), they described themselves as a "bootstrap board," and so this election is meant to expand the Board beyond the initial bootstrap—and to broaden the Foundation's accountability.
+The Board of Directors is important since they are officially the root authorities in control of the organization. Three of the existing Board members have all expressed a preference of remaining on the board. In the Zcash Foundation's [first public statement](https://zfnd.org/blog/hello-world/), they described themselves as a "bootstrap board," and so this election is meant to expand the Board beyond the initial bootstrap—and to broaden the Foundation's accountability.
 
 A small board that is motivated and engaged is better than one with a diffuse sense of responsibility. However, we’d also like to be held publicly accountable in as a broad sense as we can. Thus we'd like to maintain a Board of five members; that leaves two open Board seats.
 
@@ -44,7 +44,7 @@ The Foundation will then contact members of the Panel and,
 
 Example:
 ```
-@socrates1024 says: I’m going to participate as an approval voter of the Zcash Foundation. My name’s on their spreadsheet here: <link to z.cash.foundation/election-2018-Q12>, with my permission. Correspondence as part of that will be GPG signed by me. I’ll also tweet about it after I vote.
+@socrates1024 says: I’m going to participate as an approval voter of the Zcash Foundation. My name’s on their spreadsheet here: <link to zfnd.org/election-2018-Q12>, with my permission. Correspondence as part of that will be GPG signed by me. I’ll also tweet about it after I vote.
 ```
 
 The Executive Director will manage and maintain this list, and will publish it prior to the election within this repository. For members that believe they should be on the Panel, they can [apply here.](https://zcashfoundation.formstack.com/forms/community_governance)

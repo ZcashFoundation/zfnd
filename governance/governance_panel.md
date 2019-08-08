@@ -51,10 +51,10 @@
 | Eric Meltzer | https://twitter.com/wheatpond/status/1000133384704856065 |
 | Steven Zheng | https://twitter.com/Dogetoshi/status/1000561381790363649 |
 | John Bruhling | https://twitter.com/JBruhling/status/1000197993461510144 |
-| kek (forum.z.cash username) | |
+| kek (forum.zcashcommunity.com username) | |
 | Tiaan Schoeman | |
-| bit (forum.z.cash username) | |
-| root (forum.z.cash username) | |
+| bit (forum.zcashcommunity.com username) | |
+| root (forum.zcashcommunity.com username) | |
 | Murad Mahmudov | https://twitter.com/MustStopMurad/status/1002219246389252098 |
 | Cody Burns | https://twitter.com/DontPanicBurns/status/1001980867672264711 |
 | Skylar Saveland | https://twitter.com/_skyl/status/1001955753891192832 |

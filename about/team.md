@@ -25,7 +25,10 @@
 - [_George Tankersley_](https://twitter.com/gtank__) • [director of engineering](https://www.zfnd.org/blog/welcome-george/)
 - [_Henry de Valence_](https://twitter.com/hdevalence) • [principal cryptographic researcher](https://www.zfnd.org/blog/henry-de-valence/)
 - [_Deirdre Connolly_](https://twitter.com/durumcrustulum) • [core engineer](https://www.zfnd.org/blog/welcome-deirdre/)
+- [_Chelsea Komlo_](https://twitter.com/chelseakomlo) • [core engineer and researcher](https://www.zfnd.org/blog/welcome-chelsea/)
 - [_Sonya Mann_](https://twitter.com/sonyaellenmann) • [communications manager](https://www.zfnd.org/blog/welcome-sonya/)
+
+Technical advisor: [_Eran Tromer_](https://www.tau.ac.il/~tromer/)
 
 #### Alumni
 

@@ -10,7 +10,7 @@ date: 2018-06-07
 author: sonya
 ---
 
-The Zcash Foundation asked University of Luxembourg researchers Alex Biryukov and Daniel Feher to investigate the potential presence (now or in the past) of ASIC miners in the Zcash and Equihash ecosystems. This is the first step in addressing the commitments we made in our [official statement](https://z.cash.foundation//blog/statement-on-asics/) on the ASIC resistance debate. Today we are jointly releasing the results; the full report is [available on their website](https://cryptolux.org/images/e/ef/Zcash_Mining.pdf).
+The Zcash Foundation asked University of Luxembourg researchers Alex Biryukov and Daniel Feher to investigate the potential presence (now or in the past) of ASIC miners in the Zcash and Equihash ecosystems. This is the first step in addressing the commitments we made in our [official statement](https://zfnd.org/blog/statement-on-asics/) on the ASIC resistance debate. Today we are jointly releasing the results; the full report is [available on their website](https://cryptolux.org/images/e/ef/Zcash_Mining.pdf).
 
 Biryukov and Feher concluded, "In the short period of time of this study (2 weeks) we could put an upper bound on the ASIC/FPGA potential presence in Equihash mining ecosystem as of end of May 2018 at 20 – 30% of total mining operations," based on GPU miner's dev-fee estimates and the fraction of above 8Ksol miners in the Equihash mining landscape. Dev fees are typically 2% voluntary fees that many of the GPU miners pay to the developers of the most optimized GPU mining software.
 

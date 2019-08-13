@@ -27,7 +27,7 @@ The recipients are:
 These are called "Test Transaction" awards because they're a one-time event. These are significant because they're the first instance of the Founder’s Reward being pumped back into the community via the Foundation!
 In the future, the Foundation will organize its spending through more organized and inclusive processes. I'm personally excited in particular about the Foundation Grant program, which has a discussion and a pending ticket. https://github.com/ZcashFoundation/ZcashFoundation/issues/2
 
-We note that there are many other contributors to the Zcash community who are deserving of recognition and support as well, so these is by no means all-encompassing. If you're interested in participating in the Zcash Foundation and helping determine its future, the best places to join the discussion are the [foundation forum](https://forum.z.cash/c/foundation), [#the-zcash-foundation channel](https://chat.zcashcommunity.com/channel/the-zcash-foundation) on the rocket chat, or our [github.](https://github.com/ZcashFoundation/ZcashFoundation) 
+We note that there are many other contributors to the Zcash community who are deserving of recognition and support as well, so these is by no means all-encompassing. If you're interested in participating in the Zcash Foundation and helping determine its future, the best places to join the discussion are the [foundation forum](https://forum.zcashcommunity.com/c/foundation), [#the-zcash-foundation channel](https://chat.zcashcommunity.com/channel/the-zcash-foundation) on the rocket chat, or our [github.](https://github.com/ZcashFoundation/ZcashFoundation) 
 
 Congratulations again to MineZcash, Lustro, and Radix42!
 

@@ -10,7 +10,7 @@ date: 2018-07-03
 author: zcashboard
 ---
 
-Throughout June, the Zcash Foundation carried out an experimental governance process. We first announced it [back in April](https://z.cash.foundation//blog/zcon0-and-community-governance/) and recently [shared the results](https://www.youtube.com/watch?v=m8gv8rvcV08&list=PL40dyJ0UYTLK507afWUMgzUYeh-i4qQWS&index=19) at Zcon0 on June 28.
+Throughout June, the Zcash Foundation carried out an experimental governance process. We first announced it [back in April](https://zfnd.org/blog/zcon0-and-community-governance/) and recently [shared the results](https://www.youtube.com/watch?v=m8gv8rvcV08&list=PL40dyJ0UYTLK507afWUMgzUYeh-i4qQWS&index=19) at Zcon0 on June 28.
 
 The Foundation's governance system is outlined on the [Elections page](https://github.com/ZcashFoundation/Elections#the-community-governance-panel) that Chairman Andrew Miller and Executive Director Josh Cincinnati wrote:
 
@@ -22,13 +22,13 @@ The Foundation's governance system is outlined on the [Elections page](https://g
 
 > The Foundation will be spearheading the selection of the panel and proactively reaching out to community members; the main criteria for selection will be that prospective panel members had some demonstrable public presence and/or contributed in some way to the ecosystem; both would work well in a system with a publicly verifiable ballot.
 
-Executive Director Josh Cincinnati explained in his April [announcement](https://z.cash.foundation//blog/zcon0-and-community-governance/):
+Executive Director Josh Cincinnati explained in his April [announcement](https://zfnd.org/blog/zcon0-and-community-governance/):
 
 > “Advisory? So these decisions are non-binding?” Technically yes; the Foundation Board can’t abdicate responsibility for the Foundation, although we want broad accountability and public input for matters that fall under the Foundation’s purview. That said, other ballot decisions may simply be advisory because we don’t (currently) have the authority to make those decisions — e.g., a ballot to redefine parameters in the Zcash blockchain in a future hard fork. (“the blocks need to be 1 terabyte, etc”) But the fact that the community might be strongly in favor of such a technical change should hold weight for the current maintainers of Zcash and for future work of the Foundation.
 
 # Community Governance Panel
 
-In accordance with these guidelines, we compiled a list of [Community Governance Panel members](https://github.com/ZcashFoundation/Elections/blob/master/2018-Q2/governance_panel.md) by actively reaching out to people, both individually and in broad public posts, to request participation. Ultimately we recruited 72 Panel members, and [64 of them voted](https://vote.heliosvoting.org/helios/elections/cdc15aa6-6f75-11e8-b5e0-0e48ec97cebb/view), comprising 88.88% turnout. The voters weighed in on [six ballot proposals and nine Board candidates](https://z.cash.foundation//blog/governance-voting/).
+In accordance with these guidelines, we compiled a list of [Community Governance Panel members](https://github.com/ZcashFoundation/Elections/blob/master/2018-Q2/governance_panel.md) by actively reaching out to people, both individually and in broad public posts, to request participation. Ultimately we recruited 72 Panel members, and [64 of them voted](https://vote.heliosvoting.org/helios/elections/cdc15aa6-6f75-11e8-b5e0-0e48ec97cebb/view), comprising 88.88% turnout. The voters weighed in on [six ballot proposals and nine Board candidates](https://zfnd.org/blog/governance-voting/).
 
 # Board Election
 

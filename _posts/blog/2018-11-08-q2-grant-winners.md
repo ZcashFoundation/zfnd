@@ -10,7 +10,7 @@ date: 2018-11-08
 author: sonya
 ---
 
-The Zcash Foundation is delighted to announce the winners of our [2018Q2 Grants Program](https://github.com/ZcashFoundation/GrantProposals-2018Q2) — 12 projects that will benefit the Zcash ecosystem and community. The Foundation’s [Board of Directors](https://z.cash.foundation/about/) has unaminously ratified the recommendations of the [Grant Review Committee](https://github.com/ZcashFoundation/GrantProposals-2018Q2#grant-review-committee). (The Foundation originally accepted 13 projects, but one has effectively dropped out. See the update at the end for more details.)
+The Zcash Foundation is delighted to announce the winners of our [2018Q2 Grants Program](https://github.com/ZcashFoundation/GrantProposals-2018Q2) — 12 projects that will benefit the Zcash ecosystem and community. The Foundation’s [Board of Directors](https://zfnd.org/about/) has unaminously ratified the recommendations of the [Grant Review Committee](https://github.com/ZcashFoundation/GrantProposals-2018Q2#grant-review-committee). (The Foundation originally accepted 13 projects, but one has effectively dropped out. See the update at the end for more details.)
 
 ## Process
 
@@ -44,7 +44,7 @@ As you peruse the list of grant winners, this note from the Grant Review Committ
 
 > Not all of the committee members believe that ASIC-resistant proof-of-work is an optimal (or even viable) approach to achieving mining decentralization. However, relevant submissions were judged under the assumption that the Zcash community is interested in exploring the prospect of ASIC resistance, and this justifies funding a more informed discussion and developing prospective implementations.
 
-The reasoning above conforms with the [results from the Foundation’s latest governance process](https://z.cash.foundation/blog/governance-results/) and our corresponding commitments.
+The reasoning above conforms with the [results from the Foundation’s latest governance process](https://zfnd.org/blog/governance-results/) and our corresponding commitments.
 
 ## Winning Grants
 
@@ -141,7 +141,7 @@ The Blockchain Exploration Research Group proposes an online platform for analyz
 
 Even after t-addresses are deprecated, lots of statistical information will still be extractable from the blockchain. Having this tool available will enable researchers, for example, to find parameters that are estimable and comparable with other cryptocurrencies.
 
-The following reservation was raised: There have already been three papers showing the flaws of users interacting with t-z addresses ([here is one instance](https://blog.z.cash/maintaining-privacy/)). It is crucial for the proposers to focus on facilitating novel discoveries, and to strike for useful information even after the eventual deprecation of t-addresses. For example, consider how network-layer information can be captured and conveyed by the tool.
+The following reservation was raised: There have already been three papers showing the flaws of users interacting with t-z addresses ([here is one instance](https://blog.electriccoin.co/maintaining-privacy/)). It is crucial for the proposers to focus on facilitating novel discoveries, and to strike for useful information even after the eventual deprecation of t-addresses. For example, consider how network-layer information can be captured and conveyed by the tool.
 
 We recommend funding this proposal.
 
@@ -227,13 +227,13 @@ Congratulations to all of the winners! We extend our gratitude to everyone who s
 
 ### Accountability
 
-Grant winners are expected to provide monthly updates to the Zcash Foundation’s [general mailing list](https://lists.z.cash.foundation/mailman/listinfo/general) and otherwise be forthcoming in communicating their progress. The Zcash Foundation will issue regular reminders of this requirement to grant winners. However, we have no method of actually compelling compliance.
+Grant winners are expected to provide monthly updates to the Zcash Foundation’s [general mailing list](https://lists.zfnd.org/mailman/listinfo/general) and otherwise be forthcoming in communicating their progress. The Zcash Foundation will issue regular reminders of this requirement to grant winners. However, we have no method of actually compelling compliance.
 
 ### Future Plans
 
-The 2018Q2 round of the Grants Program was [originally announced](https://z.cash.foundation/blog/q2-grant-program/) in April, 2018, and we appreciate the applicants’ patience in awaiting final decisions.
+The 2018Q2 round of the Grants Program was [originally announced](https://zfnd.org/blog/q2-grant-program/) in April, 2018, and we appreciate the applicants’ patience in awaiting final decisions.
 
-A brief note on our plans for revamping the Grant Program can be [found in a recent blog post](https://z.cash.foundation/blog/update-on-grants/). Please [subscribe to our newsletter](https://buttondown.email/zcashfoundation) to make sure you receive future announcements.
+A brief note on our plans for revamping the Grant Program can be [found in a recent blog post](https://zfnd.org/blog/update-on-grants/). Please [subscribe to our newsletter](https://buttondown.email/zcashfoundation) to make sure you receive future announcements.
 
 ----------
 

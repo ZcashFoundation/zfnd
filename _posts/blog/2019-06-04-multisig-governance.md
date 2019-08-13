@@ -58,7 +58,7 @@ The Foundation has a friendly relationship with the Electric Coin Company, but o
 
 As you may know, Zcash emerged from a couple of [academic papers](http://zerocoin.org/talks_and_press). In 2015, that research formed the basis for a commercial startup, formerly known as the Zcash Company and now called the Electric Coin Company.
 
-The cryptocurrency launched with a funding mechanism called the [Founders’ Reward](https://z.cash/blog/funding/), meant to reward the inventors of Zcash (hence the name), incentivize their continued engagement, and pay for ongoing development. A handful of Founders’ Reward beneficiaries chose to pledge some of their Zcash to a nonprofit entity, the Zcash Foundation.
+The cryptocurrency launched with a funding mechanism called the [Founders’ Reward](https://electriccoin.co/blog/funding/), meant to reward the inventors of Zcash (hence the name), incentivize their continued engagement, and pay for ongoing development. A handful of Founders’ Reward beneficiaries chose to pledge some of their Zcash to a nonprofit entity, the Zcash Foundation.
 
 For a couple of years, that entity barely existed, and didn’t do much. But we [revved up](https://www.zfnd.org/blog/hello-world/) in [2017](https://www.zfnd.org/blog/welcome-josh/), disbursing a few exploratory grants and figuring out how to run a nonprofit. The Electric Coin Company did literally everything else.
 

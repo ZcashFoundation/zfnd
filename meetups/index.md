@@ -19,7 +19,7 @@ If you’re a potential or current meetup organizer, here’s what we can do to 
 
 **Please email contact@zfnd.org to inquire!**
 
-A quick disclaimer: The Zcash Foundation occasionally hosts one-off events, and we run the [annual Zcon gathering](https://z.cash.foundation//zcon/). However, the meetup groups are independent, run by their respective organizers. We do still want to know if a meetup organizer causes any problems or doesn’t handle a disruptive attendee appropriately. Email contact@zfnd.org with any concerns.
+A quick disclaimer: The Zcash Foundation occasionally hosts one-off events, and we run the [annual Zcon gathering](https://zfnd.org/zcon/). However, the meetup groups are independent, run by their respective organizers. We do still want to know if a meetup organizer causes any problems or doesn’t handle a disruptive attendee appropriately. Email contact@zfnd.org with any concerns.
 
 ## Shortcut
 
@@ -77,9 +77,9 @@ And don't forget Twitter. Tag [@ZcashFoundation](https://twitter.com/zcashfounda
 
 ### 5) Repeat all of the above on a regular basis!
 
-Here is a printable version of the checklist: [Color version](https://z.cash.foundation/meetups/Zcash%20meetups%20checklist%20color.pdf), [B&W version](https://z.cash.foundation/meetups/Zcash%20meetups%20checklist%20BW.pdf).
+Here is a printable version of the checklist: [Color version](https://zfnd.org/meetups/Zcash%20meetups%20checklist%20color.pdf), [B&W version](https://zfnd.org/meetups/Zcash%20meetups%20checklist%20BW.pdf).
 
-And here is a one-page introduction to Zcash that may come in handy: [Color version](https://z.cash.foundation/meetups/Zcash%20onepager%20color.pdf), [B&W version](https://z.cash.foundation/meetups/Zcash%20onepager%20BW.pdf).
+And here is a one-page introduction to Zcash that may come in handy: [Color version](https://zfnd.org/meetups/Zcash%20onepager%20color.pdf), [B&W version](https://zfnd.org/meetups/Zcash%20onepager%20BW.pdf).
 
 Would more detailed guidance be helpful? Then read on!
 

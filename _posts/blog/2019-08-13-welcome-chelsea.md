@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "The Zcash Foundation Welcomes a Core Engineer"
+title: "The Zcash Foundation Welcomes a Core Engineer and Researcher"
 excerpt: "Welcome Chelsea Komlo to the Foundation's tech team!"
 categories: blog
 tags: [team]

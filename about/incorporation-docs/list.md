@@ -1,7 +1,7 @@
 Peruse our legal documents at the following links:
 
 - [Zcash Foundation 1023 (PDF)](https://www.zfnd.org/about/incorporation-docs/Zcash%20Foundation%201023.pdf)
-- [Zcash Foundation Bylaws (PDF)](https://www.zfnd.org/about/incorporation-docs/Zcash%20Foundation%202017%20Form%20990.pdf)
+- [Zcash Foundation Bylaws (PDF)](https://www.zfnd.org/about/incorporation-docs/Zcash%20Foundation%20Bylaws.pdf)
 - [Bylaws Amendment 1](https://www.zfnd.org/about/incorporation-docs/bylaws_amendment_1/)
 - [Bylaws Amendment 2](https://www.zfnd.org/about/incorporation-docs/bylaws_amendment_2/)
 - [Zcash Foundation Certificate and Accepted Articles (PDF)](https://www.zfnd.org/about/incorporation-docs/Zcash%20Foundation%20Certificate%20and%20Accepted%20Articles.pdf)

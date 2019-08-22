@@ -1,6 +1,10 @@
-## Community Advisory Panel
+---
+layout: page
+title: Community Advisory Panel
+excerpt: "The Zcash Foundation Community Governance Process"
+---
 
-The Zcash Foundation assembled with panel of community members to consult on Zcash governance matters.
+A panel of community members assembled by the Zcash Foundation.
 
 The list was last updated in Q2 of 2018. It is soon to be expanded, per ["Zcash Foundation Guidance on Dev Fund Proposals"](https://www.zfnd.org/blog/dev-fund-guidance-and-timeline/):
 

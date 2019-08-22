@@ -18,17 +18,17 @@ We serve the users of the <a href="/resources/Zcash%20onepager%20color.pdf" targ
 
 <p>Interested in making a proposal? Check out our <a href="https://www.zfnd.org/grants/">curated list of ideas</a>!</p>
 
-<h2 class="center">Partnerships</h2>
+<h2 class="center">Projects and Partnerships</h2>
 
 <p class="center"><img src="https://www.zfnd.org/images/zecwallet-logo.png"></p>
 <div>
 <ul>
   <li><a href="https://docs.zecwallet.co/">ZecWallet</a> is a cross-platform, <a href="https://github.com/ZcashFoundation/zecwallet/">open-source</a>, GUI wallet that incorporates a full Zcash node and prioritizes shielded transactions.</li>
-  <li>Justin Smith of X Wallet will create an <a href="https://www.zfnd.org/blog/wallet-agreements/">iOS reference wallet</a> for the Zcash Foundation.</li>
-  <li>Parity Technologies is writing a <a href="https://www.zfnd.org/blog/parity-partnership/">consensus-compatible Zcash node</a> in the Rust programming language.</li>
+  <li><a href="https://zepiowallet.com/">Zepio</a> is another cross-platform, <a href="https://github.com/ZcashFoundation/zepio">open-source</a>, GUI wallet that focuses on #z2z usage.
+  <li><a href="https://github.com/ZcashFoundation/zebra">Zebra</a> is the Foundation's consensus-compatible Zcash node</a>, written in the Rust programming language.</li>
   <li>KZen Networks will bring <a href="https://www.zfnd.org/blog/kzen-multisig/">private n-of-n multisig</a> to Zcash.</li>
   <li>The Human Rights Foundation launched a <a href="https://www.zfnd.org/blog/human-rights-foundation-privacy-research/">cryptocurrency research series</a> focused on privacy and usability.</li>
-  <li>The ZKProof Standards project holds <a href="https://www.zfnd.org/blog/zkproof-standards-workshop/">workshops</a>, among other efforts to improve zero-knowledge proofs and their usage.</li>
+  <li>The ZKProof Standards project holds <a href="https://www.zfnd.org/blog/zkproof-standards-workshop/">workshops</a>, among other efforts to improve the usability and safety of zero-knowledge proofs.</li>
 </ul></div>
 
 <h2 class="center">Announcements and Updates</h2>

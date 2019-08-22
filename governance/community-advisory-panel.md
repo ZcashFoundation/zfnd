@@ -11,6 +11,8 @@ The list was last updated in Q2 of 2018. It is soon to be expanded, per ["Zcash 
 >
 > The polls will open September 3 and be due September 17.
 
+You can [review the history on GitHub](https://github.com/ZcashFoundation/zfnd/commits/master/governance/community-advisory-panel.md).
+
 ### Accepted Members
 
 | Name | (Optional) Public Attestation |
@@ -87,7 +89,6 @@ The list was last updated in Q2 of 2018. It is soon to be expanded, per ["Zcash 
 | Lao Mao | |
 | Tiemae Roquerre | |
 | Qiu Liang | |
-
 
 ### Rejected Members
 

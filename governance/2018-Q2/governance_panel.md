@@ -1,4 +1,8 @@
-## Community Governance Panel Members
+---
+layout: page
+title: 2018 Q2 Community Governance Panel
+excerpt: "Members of the Zcash Foundation's 2018 Q2 Community Governance Panel."
+---
 
 *Last updated in Q2 of 2018.*
 

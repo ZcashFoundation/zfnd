@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Delaying NU4 Community Sentiment Collection Until Trademark Issue Resolved"
+title: "Zcash Trademark Uncertainty Leads to Delay of NU4 Community Sentiment Collection"
 excerpt: "The Zcash Foundation will delay its polling process until a revived 2-of-2 agreement with the ECC can be reached."
 categories: blog
 tags: [governance]

@@ -9,7 +9,7 @@ Zcash has a vibrant community of developers, users, and enthusiasts. Find us onl
 - [Zcash Community Forum](https://forum.zcashcommunity.com/)
 - [Zcash Community Chat](https://chat.zcashcommunity.com/)
 - [/r/zec subreddit](https://reddit.com/r/zec)
-- [Zcash Fooundation mailing lists](https://lists.zfnd.org/)
+- [Zcash Foundation newsletter](https://buttondown.email/zcashfoundation)
 
 In addition, many Zcash community members are active on Twitter. We use the handle [@ZcashFoundation](https://twitter.com/zcashfoundation).
 

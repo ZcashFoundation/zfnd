@@ -18,6 +18,10 @@ Zcash Foundation executive director Josh Cincinnati wrote ["Zcash Governance: A 
 * ["Electric Coin Company Statement on Sustainability"](https://electriccoin.co/blog/electric-coin-company-statement-on-sustainability/)
 * ["Zcash Foundation Guidance on Dev Fund Proposals"](https://www.zfnd.org/blog/dev-fund-guidance-and-timeline/)
 * ["A Blank Slate: The Community to Decide its Future"](https://electriccoin.co/blog/a-blank-slate-the-community-to-decide-its-future/) (ECC)
+* ["Note about trademark strategy"](https://forum.zcashcommunity.com/t/note-about-trademark-strategy/34807) (ECC)
+* ["Zcash Trademark Uncertainty Leads to Delay of NU4 Community Sentiment Collection"](https://www.zfnd.org/blog/zcash-trademark-update/) (ZF)
+* ["Update on Trademark Strategy"](https://forum.zcashcommunity.com/t/update-on-trademark-strategy/34876) (ECC)
+* [Joint ZF and ECC statement on resuming trademark negotiations](https://docs.google.com/document/d/1EQySNRz_P3EfraCuPDALFSXdh9PEzgJFxbeQx-mHboI/edit)
 
 ## 2018 Q2
 

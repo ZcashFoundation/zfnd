@@ -6,14 +6,7 @@ excerpt: "The Zcash Foundation Community Governance Process"
 
 A panel of community members assembled by the Zcash Foundation.
 
-The list was last updated in Q2 of 2018. It is soon to be expanded, per ["Zcash Foundation Guidance on Dev Fund Proposals"](https://www.zfnd.org/blog/dev-fund-guidance-and-timeline/):
-
-> We will revive last year's Community Advisory Panel and request old members to both:
->
-> * invite one new member of their choosing
-> * vote on the proposals (once they have been submitted as ZIPs).
->
-> The polls will open September 3 and be due September 17.
+The list was last updated in Q2 of 2018. It is soon to be expanded, per ["Zcash Foundation Guidance on Dev Fund Proposals"](https://www.zfnd.org/blog/dev-fund-guidance-and-timeline/), although the timeframe noted in that blog post is out of date. New dates will be announced as soon as possible, contingent on a signed trademark agreement with the Electric Coin Company.
 
 You can [review the history on GitHub](https://github.com/ZcashFoundation/zfnd/commits/master/governance/community-advisory-panel.md).
 

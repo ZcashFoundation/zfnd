@@ -27,6 +27,7 @@
 - [_Deirdre Connolly_](https://twitter.com/durumcrustulum) • [core engineer](https://www.zfnd.org/blog/welcome-deirdre/)
 - [_Chelsea Komlo_](https://twitter.com/chelseakomlo) • [core engineer and researcher](https://www.zfnd.org/blog/welcome-chelsea/)
 - [_Sonya Mann_](https://twitter.com/sonyaellenmann) • [communications manager](https://www.zfnd.org/blog/welcome-sonya/)
+- _Lena Wang_ • [operations associate](https://www.zfnd.org/blog/welcome-lena/)
 
 Technical advisor: [_Eran Tromer_](https://www.tau.ac.il/~tromer/)
 

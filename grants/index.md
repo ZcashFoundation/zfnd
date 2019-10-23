@@ -94,6 +94,5 @@ Other places where promising ideas may be collected:
 - [Zcash Foundation issue tracker](https://github.com/ZcashFoundation/zfnd/issues)
 - [Zcash Community Forum](https://forum.zcashcommunity.com/)
 - [Zcash Community Chat](https://chat.zcashcommunity.com/)
-- The Electric Coin Company's ["Encouraged Community Work" dashboard](https://github.com/zcash/zcash/projects/27)
 
 If you'd like to suggest a grant proposal idea, email contact@zfnd.org or [make a pull request](https://github.com/ZcashFoundation/zfnd/blob/master/grants/index.md).

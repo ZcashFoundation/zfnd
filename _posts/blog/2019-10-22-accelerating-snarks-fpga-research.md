@@ -3,7 +3,7 @@ layout: post
 title: "Accelerating SNARKs with FPGAs: Final Research Results"
 excerpt: "Results from a research project to examine how bespoke hardware can speed up Zcash."
 categories: blog
-tags: [research, cryptography]
+tags: [research, cryptography, development]
 image:
   feature: 
 date: 2019-10-22

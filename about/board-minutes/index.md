@@ -6,6 +6,8 @@ excerpt: "Notes from meetings of the Zcash Foundation Board of Directors."
 
 ## Table of Contents
 
+- [October 30th, 2019](#october-30-2019)
+- [October 11th, 2019](#october-11-2019)
 - [August 31st, 2019](#august-31-2019)
 - [August 6th, 2019](#august-6-2019)
 - [August 5th, 2019](#august-5-2019)
@@ -25,6 +27,8 @@ excerpt: "Notes from meetings of the Zcash Foundation Board of Directors."
 - [February 3rd, 2017](#february-3-2017)
 
 
+{% include_relative 2019-10-30.md %}
+{% include_relative 2019-10-11.md %}
 {% include_relative 2019-08-31.md %}
 {% include_relative 2019-08-06.md %}
 {% include_relative 2019-08-05.md %}

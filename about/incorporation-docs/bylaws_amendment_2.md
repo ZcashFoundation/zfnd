@@ -5,7 +5,9 @@ excerpt: "The Zcash Foundation Bylaws Amendment 2"
 ---
 
 *replaces every instance of "President" with "Executive Director"*
+
 *removes Article XII, XIII, XIV, and renumbers the rest accordingly*
+
 *rewords Article II, section 6 as below*
 
 ## Article II: Members

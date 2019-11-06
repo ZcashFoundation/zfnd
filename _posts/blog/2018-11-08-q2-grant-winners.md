@@ -117,6 +117,12 @@ The proposers are well-qualified, including the author of Equihash and an expert
 
 The budget is reasonable for the amount of work. Timing, deliverables, and budgeting are well-specified. We recommend for the proposal to be funded (in its full proposed scope), and may provide advice on prioritization as the community discussion and complementary research evolve.
 
+**[GitHub comment](https://github.com/ZcashFoundation/GrantProposals-2018Q2/issues/38#issuecomment-549517550) on November 4, 2019:**
+
+> Success of this project depended heavily on GPU/FPGA implementations of Equihash for different parameters. However our project collaborator Dag Arne Osvik failed to deliver such implementations for the project milestones/deadlines. Without implementations further analysis planned for the project was not possible.
+
+> The good part is that grant funds stayed with the Zcash Foundation and thus should be available for other projects.
+
 ### An alternative approach to analyzing anonymity in cryptocurrencies
 
 * [GitHub thread](https://github.com/ZcashFoundation/GrantProposals-2018Q2/issues/36)

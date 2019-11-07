@@ -8,13 +8,13 @@ date: 2019-11-06
 author: acityinohio
 ---
 
-The Zcash Foundation and Electric Coin Company have signed an agreement regarding the Zcash trademark. In summary, the ECC has donated the mark to the Zcash Foundation. ZF will cover the financial burden of continued assignment and protection of the mark, while both the ECC and Foundation share bilateral power to enforce and protect the mark. You can read [the full agreement here.](/about/contracts/2019_ECC_ZFND_TM_agreement.pdf)
+The Zcash Foundation and Electric Coin Company have signed an agreement regarding the Zcash trademark. In short, ECC has donated the mark to the Foundation. ZF will cover the financial burden of continued assignment and protection of the mark, while both the ECC and Foundation share bilateral power to enforce and protect the mark. You can [read the full agreement here](/about/contracts/2019_ECC_ZFND_TM_agreement.pdf).
 
 This agreement establishes a solid basis for the Zcash ecosystem to flourish. It provides a balance of power over what counts as "Zcash" or "ZEC," while maintaining interoperability with standard legal and business frameworks. We are grateful for the Zcash community's patience, and happy to reach a joint solution with ECC.
 
-**Now that the agreement is signed, we are preparing in earnest to restart the community sentiment collection for NU4. More details will be available on the new timeline from the Foundation by Friday, November 8th.**
+**Now that the agreement is signed, we are preparing in earnest to restart the community sentiment collection for NU4. More details will be available on the new timeline from the Foundation by Friday, November 8.**
 
-We are grateful to have reached an amicable agreement with the ECC, and look forward to future productive collaborations with them and the broader Zcash ecosystem!
+We look forward to future productive collaborations with ECC and the broader Zcash ecosystem!
 
 ## Background
 

@@ -13,7 +13,7 @@ As promised, the Foundation is restarting community sentiment collection regardi
 ## New timeline (summary)
 
 - Today: ZF reaches out to ZIP authors to encourage collaboration.
-- **EOD Thursday, November 14**: Deadline for changing, combining, or withdrawing proposals for evaluation in the sentiment collection poll.
+- **EOD Thursday, November 14**: Deadline for forking, changing, combining, or withdrawing proposals for evaluation in the sentiment collection poll.
 - **Friday, November 15**: ZF publishes specific poll with finalized ZIPs that will be used for forum, advisory panel, and miners.
 - **Saturday, November 16**: Polling opens for forum users, advisory panel, and miners.
 - **Saturday, November 30**: Polling closes.
@@ -24,7 +24,7 @@ As promised, the Foundation is restarting community sentiment collection regardi
 
 ## The details
 
-From now until **EOD Thursday, November 14**, we encourage submitted ZIP authors to collaborate on consolidating their proposals as much as they can. If there are ambiguous parts of the proposal, authors (and community members through the forum) should endeavor to specify as much as possible. **We believe there's an opportunity to streamline the current selection to a handful of stronger proposals and hope to see that happen in the next week.**
+From now until **EOD Thursday, November 14**, we encourage submitted ZIP authors to collaborate on consolidating their proposals as much as they can. If there are ambiguous parts of the proposal, authors (and community members through the forum and/or forking proposals) should endeavor to specify as much as possible. **We believe there's an opportunity to streamline the current selection to a handful of stronger proposals and hope to see that happen in the next week.**
 
 On **Friday, November 15**, ZF will post an ordered ballot of eligible, finalized proposals, likely in sync with [an updated forum megathread](https://forum.zcashcommunity.com/t/future-of-zcash-dev-funding-megathread-everything-in-one-place/34063).
 

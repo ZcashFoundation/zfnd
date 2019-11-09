@@ -1,7 +1,7 @@
 
 <h2 id="mission">Our Mission</h2>
 
-Per our [501(c)3 application](IncorporationDocs/Zcash%20Foundation%201023.pdf), the Zcash Foundation's mission is to be a public charity dedicated to building internet payment and privacy infrastructure for the public good, primarily serving the users of the Zcash protocol and blockchain. Our activities span three main pillars:
+Per our [501(c)(3) application](IncorporationDocs/Zcash%20Foundation%201023.pdf), the Zcash Foundation's mission is to be a public charity dedicated to building internet payment and privacy infrastructure for the public good, primarily serving the users of the Zcash protocol and blockchain. Our activities span three main pillars:
 
 ### Community
 

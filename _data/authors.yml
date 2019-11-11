@@ -13,10 +13,24 @@ zcashboard:
   
 acityinohio:
   name: Josh Cincinnati 
-  web: https://keybase.io/cin
+  web: https://keybase.io/cin/
   email: josh@zfnd.org
   bio: ""
   twitter: acityinohio
+  
+gtank:
+  name: George Tankersley
+  web: https://blog.gtank.cc/
+  email: george@zfnd.org
+  bio: ""
+  twitter: gtank__ 
+  
+sonya:
+  name: Sonya Mann
+  web: https://www.sonyaellenmann.com/
+  email: sonya@zfnd.org
+  bio: ""
+  twitter: sonyaellenmann 
   
 sonya:
   name: Sonya Mann

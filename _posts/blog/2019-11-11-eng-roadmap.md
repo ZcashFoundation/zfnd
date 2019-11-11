@@ -1,0 +1,119 @@
+---
+layout: post
+title: "Engineering Roadmap 2020"
+excerpt: "Our plans to accelerate Zcash ecosystem development."
+categories: blog
+tags: [research, development]
+date: 2019-11-11
+author: gtank 
+---
+
+At the beginning of this year, executive director Josh Cincinnati [set goals for the Zcash Foundation](https://www.zfnd.org/blog/foundation-in-2019/), "with a renewed energy toward redistributing centers of unilateral power in the Zcash ecosystem." At the time, Josh was actively recruiting for ZF’s tech team, which would tackle the following strategic goals:
+
+**Meaningfully extend the capabilities of ecosystem participants to drive private usage of Zcash.**
+
+**Establish the Foundation as a source of technical research and development for Zcash and other privacy-minded cryptocurrency efforts while collaborating with the ECC when appropriate.**
+
+**Provide users with consensus-compatible alternatives to software maintained by the ECC.**
+
+That team has been hired! Hi, I’m George, the Foundation’s [director of engineering](https://www.zfnd.org/blog/welcome-george/) — I joined a few months after Josh shared those goals, along with [Henry](https://www.zfnd.org/blog/henry-de-valence/), [Deirdre](https://www.zfnd.org/blog/welcome-deirdre/), and [Chelsea](https://www.zfnd.org/blog/welcome-chelsea/).
+
+Since this summer, our team has been focused on 1) organizing the projects that were already in flight when ZF hired all of us, and 2) figuring out the development and release strategy for [Zebra](https://github.com/ZcashFoundation/zebra), our Rust implementation of a Zcash node. After deeply studying the Zcash protocol, its ecosystem, and existing work by ECC and others, we have a roadmap for 2020 that we’re excited to share.
+
+Here’s what to expect from ZF in the coming year:
+
+- A newly redesigned Zebra, with complete chain state tracking/validation by April 2020 (NU3 activation) and full wallet support coming soon after
+- Foundation-run infrastructure and development support for light wallets
+- Cross-chain integrations for Zcash
+- Hardware wallet support for shielded addresses
+- A simplified threshold scheme for multisignature spends of shielded funds
+- Research and development toward greater network-level privacy for Zcash
+- General ecosystem improvements
+
+We are going to be working on all of these initiatives in parallel, through a combination of our in-house team, contractors, grant support for volunteer contributors, and external research collaborations. For the rest of the post, I’ll talk about each of these in greater detail.
+
+## A new architecture for Zebra
+
+The core strength of Zcash is its best-in-class privacy, backed by best-in-class cryptographic design and engineering. But these core strengths are grafted onto legacy Bitcoin code -- the existing `zcashd` implementation maintained by the Electric Coin Company was forked from Bitcoin several years ago.
+
+This past summer at Zcon1, the Foundation announced [Zebra](https://github.com/ZcashFoundation/zebra), a second consensus-compatible Zcash node. Its goal is to preserve the core strength of Zcash by placing its best-in-class cryptography onto a solid foundation, providing a modern, modular implementation that can be broken into components and used in many different contexts.
+ 
+The initial prototype for Zebra was written by Parity, as a fork of `parity-bitcoin`, their Rust implementation of Bitcoin. However, the Rust language and ecosystem has moved forward since `parity-bitcoin` was started several years ago. Rust now has native support for `async/await`, the futures traits (and therefore much of the networking ecosystem) have been rewritten, and powerful instrumentation tooling, such as `tracing`, now exists. And while `parity-zcash` showed it was possible to use all of the Zcash libraries in a context other than the original codebase, it inherits many design decisions from Bitcoin.
+ 
+While considering how to refactor the `parity-zcash` code, we saw an opportunity to do a redesign, allowing us to simultaneously jump directly to the latest Rust tooling while making its architecture more modular. But while this could have large future benefits, any clean-slate project carries a large project risk. How could we try to take this opportunity while de-risking a redesign?
+
+Our answer was to find a small, concrete set of capabilities we could use as an exploratory MVP to test a redesign, and we settled on a *DNS seeder*. The DNS seeder is a service that monitors the Zcash network for active peers and makes a list of their IP addresses available over DNS to help new participants bootstrap into the network. As a product, this is a great MVP because it's a quietly critical part of the Zcash ecosystem that hasn’t seen much love in a while. On the technical side, it’s good because it requires us to implement a large chunk of functionality from Bitcoin that the `zcashd` team haven’t had much chance to examine or improve. The idea is that getting this done first will reduce the risk of surprises or delays, as we’ll move on to progressively better-understood modules over time.
+ 
+Since the beginning of September, we've implemented a completely new Zcash networking stack motivated by this project, based on service-oriented architecture concepts from the [tower library](https://medium.com/@carllerche/announcing-tower-a-library-for-writing-robust-network-services-with-rust-67273f052c40) used in Buoyant's [linkerd](https://linkerd.io/). Our new design separates networking logic from internal node state. It exposes a clean request/response API instead of the underlying Bitcoin state machine.  [Backpressure](https://tokio.rs/docs/overview/#backpressure) is integrated throughout each service, so Zebra can dynamically determine when opening up new peer connections would make things go faster, or when existing connections should be closed to shed load. It can automatically crawl the network to find new peers. As a nice side effect, our decision to have per-peer isolation of connection state means that it's completely immune to [PING/REJECT attacks](https://crypto.stanford.edu/timings/pingreject.pdf).
+
+Going forward, Zebra will be the bedrock of our engineering output. Given what we've learned from implementing the DNS seeder, we're aiming for the following deliverables over the next year:
+
+**1. A node capable of fully validating and participating in mainnet by April 2020 (NU3)**
+
+**2. Integration of the Rust wallet code (produced by ECC’s wallet team and prior grant work) into the validating node.**
+
+**3. Zebra deployed to back wallets and ecosystem infrastructure in time for October 2020 (NU4)**
+
+[Our code is public](https://github.com/zcashfoundation/zebra), but Zebra is still a work in rapid progress. If you’d like to contribute or use Zebra in your own Zcash project, we recommend getting in touch with us first!
+
+## Light wallets
+
+Not everyone can run a full node. In fact, surveys of the Zcash network indicate that only a few hundred people consistently do so! We know why: A full node requires time, storage, and bandwidth that are really only available to people with desktops or the ability to manage servers. Since more and more users are mobile first (or mobile *only*) we need to meet them where they are with low-bandwidth and low-storage Zcash clients. The most promising approach right now is to support light wallets.
+
+When it comes to desktop light wallet support, credit is due to Aditya Kulkarni, the incredible developer behind [ZecWallet](https://docs.zecwallet.co/) and a [veteran of the Foundation’s grants program](https://grants.zfnd.org/profile/1353890556). You can read [the latest progress update](https://grants.zfnd.org/proposals/1726546144-zecwallet-desktop-light-client). Thanks to Aditya’s work (with additional support from ECC’s wallet team), you can [use a desktop light wallet](https://github.com/adityapk00/zecwallet-lite/releases) right now!
+
+ZF anticipates that we’ll be supporting at least one mobile light wallet through the grant program. We’re also looking into running instances of the backend infrastructure that light wallets need, once Zebra can support it. We may run testing instances backed by `zcashd` sooner, to support our community of wallet developers.
+
+Another thing we’ll investigate in the coming year is support for a web-based light wallet. Such a thing is possible because Rust code can target WASM, which enables us to reuse all of our existing work (including the light wallet client code) from JavaScript in browsers and a [huge](https://electronjs.org/) [variety](https://developer.mozilla.org/en-US/docs/Web/API/Service_Worker_API) of [new execution contexts](https://www.fastly.com/products/edge-compute). We may also be able to reuse the excellent UI work from [Zepio](https://zepiowallet.com/), which was written in React (a JavaScript UI framework).
+
+This should open the door to Zcash support on platforms for which we don't consistently package (e.g. Windows, ChromeOS). It would also allow us to start work on crazy user experiences — for example, what I like to call "WhatsApp Desktop for Zcash," where your spending keys live in a phone's secure enclave and any semi-trusted desktop browser could do the heavy lifting of keeping up with the network.
+
+ZF’s team will help work out the Rust and cryptography internals, so the people interested in advancing the Zcash wallet ecosystem can carry on building the cool features that only Zcash can support.
+
+## Cross-chain integrations
+
+Shielded Zcash provides best-in-class privacy, and we want to share the love beyond our own network! We’re interested in providing financial privacy not just for users of ZEC itself, but for participants in all cryptocurrency ecosystems. Hence we’re looking into cross-chain solutions that would allow easy movement in and out of private Zcash funds from other cryptocurrencies.
+
+We’re currently exploring a [Cosmos peg-zone](https://cosmos.network/) for Zcash. In addition to the benefit of having pegged assets across chains, this work will inform design decisions in Zebra to make other cross-chain integrations easier.
+
+## Hardware wallet support for shielded addresses
+
+Hardware wallet support has long been one of the most common feature requests for shielded addresses. At Zcon1, ECC’s Jack Grigg (aka [str4d](https://twitter.com/str4d)) demonstrated [preliminary support](https://www.youtube.com/watch?v=OrL7aaQj63g&t=15m00s) for signing Sapling transactions on a Ledger.
+
+We just signed a contract with [Zondax](https://zondax.ch/) that we expect will become a longer grant engagement to finish building shielded Zcash support into Ledger Nanos. Sometime next year we hope to support hardware-wallet-backed shielded transactions for any wallet infrastructure powered by Zebra. The process for inclusion in Ledger Live is more involved, so while we can’t confidently provide a complete timeline, we’re optimistic that it will be possible to store and spend shielded Zcash from hardware wallets in 2020. Furthermore, we expect the results of this work to apply to other resource-constrained devices beyond just the Ledger.
+
+
+## Shielded threshold and multi-signatures
+
+Another common feature people want from shielded addresses are threshold/multi-signatures, which are useful for everything from cold storage to shared custody to cross-chain swaps. We'd previously [engaged KZen](https://www.zfnd.org/blog/kzen-multisig/) to develop shielded multi/threshold signatures for Zcash. The resulting signature scheme worked but was operationally complex, having been adapted from multiparty ECDSA signatures. However, since shielded Zcash uses Schnorr signatures, we can improve on that by designing for Schnorr from first principles.
+
+So we've worked with ECC to gather more specific customer requirements from exchanges and custodians. We now have a threshold scheme that should be much less operationally complex for those users. It is *very promising* — details will be forthcoming as the paper works its way through review. We're currently following up to ensure that our operational assumptions do, in fact, meet our users' needs.
+
+This should be ready to go early next year when the scheme has been published and fully reviewed. We’re likely to use the grant program to fund work on tools and integrations to get this deployed in various contexts.
+
+
+## Network-level privacy for Zcash
+
+As you may know, the Foundation recently [hired Chelsea Komlo as a part time research engineer](https://www.zfnd.org/blog/welcome-chelsea/). What you may not have known is that she's a Waterloo graduate student specializing in privacy enhancing technologies, with years of contributions to Tor at both the engineering and research levels. Due to her expertise in the matter, Chelsea is taking lead on the long-open problem of Zcash network privacy.
+
+Results so far have been exciting. We're talking with external researchers to analyze privacy-enhancing behaviors that we might be able to deploy through Zebra. In addition, Chelsea and others have been working on some improvements to Tor that should make its use on mobile and (possibly) among Zcash nodes much more tractable.
+
+Network privacy is a complex question and this is all an ongoing effort, but we expect it to pay dividends as we deploy more Zebra nodes into the Zcash network. We also hope to provide solutions for other projects that share our threat model, so of course we’ll be publishing the results of this research as things progress!
+
+
+## General ecosystem improvements
+
+There are many areas where we might help the ecosystem with a relatively small investment of time and effort. Most of our engineering team has a background in high-scale internet infrastructure, so we’re well positioned to run things like:
+
+- DNS seeders based on aforementioned Zebra code
+- Light wallet infrastructure 
+- A Foundation-operated testnet faucet
+- Automated building and testing infrastructure for Zebra
+- Fuzzing clusters for shared Zcash projects
+- Monitoring and analytics for the Zcash network itself
+
+Or anything else where a light application of ops experience might help make other contributors’ efforts more pleasant and effective. Bandwidths both metaphorical and literal permitting, we’ll take on new ecosystem improvement projects that make sense as we come across them.
+
+## More to read very soon
+
+Want to learn more about these efforts? You’ll have a lot more to read in the coming weeks and months! This document is both roadmap and introduction; expect technical deep dives on many of these projects when we reach milestones, or just when we have something cool to share. The Foundation is thrilled to finally support the Zcash ecosystem at this level, and we’re excited for Zcash users to take the tools we’re building and run with them 🦓🦓🦓

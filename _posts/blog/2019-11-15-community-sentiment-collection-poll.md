@@ -16,7 +16,7 @@ Today, the Foundation begins [community sentiment collection](https://www.zfnd.o
 
 If you are an advisory panel member, you will receive [Helios](http://heliosvoting.org) vote invitation via email.
 
-If you are a Zcash Community Forum member with an account created before March, 2019, you will be able to vote there (link to be included here as soon as it's available).
+If you are a Zcash Community Forum member with an account created before March, 2019, [here is the polling thread](https://forum.zcashcommunity.com/t/community-sentiment-collection-poll-on-nu4-dev-fund-zips/35439).
 
 ### Instructions for Zcash miners
 

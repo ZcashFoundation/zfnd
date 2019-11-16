@@ -12,11 +12,11 @@ Today, the Foundation begins [community sentiment collection](https://www.zfnd.o
 
 ## How to vote
 
-**With respect to each ZIP, you are asked this question: “Do you approve of the plan specified in this proposal?” The answer options are *yes*, *no*, or *abstain*.** You can vote yes (or no, or abstain) on multiple proposals.
+**With respect to each ZIP, you are asked this question: "Do you approve of the plan specified in this proposal?" The answer options are *yes*, *no*, or *abstain*.** You can vote yes (or no, or abstain) on multiple proposals.
 
 If you are an advisory panel member, you will receive [Helios](http://heliosvoting.org) vote invitation via email.
 
-If you are a Zcash Community Forum member with an account created before March, 2019, you will be able to vote there (link to be included here as soon as it’s available).
+If you are a Zcash Community Forum member with an account created before March, 2019, you will be able to vote there (link to be included here as soon as it's available).
 
 ### Instructions for Zcash miners
 
@@ -52,7 +52,7 @@ The ZIPs are listed in chronological order, based on when each was initially pos
 
 We have provided high-level summaries of each proposal ([as requested](https://forum.zcashcommunity.com/t/a-grand-compromise-synthesis-zip-proposal/34812/69)). **Please do not view these summaries as replacements for the full proposals themselves. Each proposal contains nuances that should be considered when casting your vote.**
 
-### [Proposal 1: “Keep the block distribution as initaly defined. 90% to miners”](https://forum.zcashcommunity.com/t/final-zip-proposal-keep-the-block-distribution-as-initaly-defined-90-to-miners/33843)
+### [Proposal 1: "Keep the block distribution as initaly defined. 90% to miners"](https://forum.zcashcommunity.com/t/final-zip-proposal-keep-the-block-distribution-as-initaly-defined-90-to-miners/33843)
 
 * Total percentage of block rewards allocated to dev fund: **0%**
 * Mandated dev fund duration: **0 years**
@@ -63,7 +63,7 @@ We have provided high-level summaries of each proposal ([as requested](https://f
 * Requires creation of a new entity to steward some or all funds: **No**
 * Requires changes to ZF board: **No**
 
-### [Proposal 2: “A genuine opt-in protocol level, development donation option”](https://forum.zcashcommunity.com/t/final-zip-proposal-genuine-protocol-opt-in-out-donation-feature-updated-02-sept/33846)
+### [Proposal 2: "A genuine opt-in protocol level, development donation option"](https://forum.zcashcommunity.com/t/final-zip-proposal-genuine-protocol-opt-in-out-donation-feature-updated-02-sept/33846)
 
 * Total percentage of block rewards allocated to dev fund: **0% default; more possible via donation**
 * Mandated dev fund duration: **0 years; donations possible in perpetuity**
@@ -74,7 +74,7 @@ We have provided high-level summaries of each proposal ([as requested](https://f
 * Requires creation of a new entity to steward some or all funds: **No**
 * Requires changes to ZF board: **No**
 
-### [Proposal 3: “20% split between the ECC and the Foundation”](https://forum.zcashcommunity.com/t/dev-fund-proposal-20-split-between-the-ecc-and-the-foundation/33862)
+### [Proposal 3: "20% split between the ECC and the Foundation"](https://forum.zcashcommunity.com/t/dev-fund-proposal-20-split-between-the-ecc-and-the-foundation/33862)
 
 * Total percentage of block rewards allocated to dev fund: **20%**
 * Mandated dev fund duration: **4 years minimum**
@@ -85,7 +85,7 @@ We have provided high-level summaries of each proposal ([as requested](https://f
 * Requires creation of a new entity to steward some or all funds: **Yes after year 4 (voting entity)**
 * Requires changes to ZF board: **No**
 
-### [Proposal 4: “20% to any combination of ECC, Zfnd, Parity, or ‘burn’”](https://forum.zcashcommunity.com/t/dev-fund-proposal-miner-directed-dev-fund-was-20-to-any-combination-of-ecc-zfnd-parity-or-burn/33864)
+### [Proposal 4: "20% to any combination of ECC, Zfnd, Parity, or ‘burn'"](https://forum.zcashcommunity.com/t/dev-fund-proposal-miner-directed-dev-fund-was-20-to-any-combination-of-ecc-zfnd-parity-or-burn/33864)
 
 * Total percentage of block rewards allocated to dev fund: **20% maximum**
 * Mandated dev fund duration: **4 years**
@@ -97,7 +97,7 @@ We have provided high-level summaries of each proposal ([as requested](https://f
 * Requires changes to ZF board: **No**
 
 
-### [Proposal 5: “ZCFS (Zcash Community Funding System”)](https://forum.zcashcommunity.com/t/zip-proposal-zcfs-zcash-community-funding-system/33898)
+### [Proposal 5: "ZCFS (Zcash Community Funding System")](https://forum.zcashcommunity.com/t/zip-proposal-zcfs-zcash-community-funding-system/33898)
 
 * Total percentage of block rewards allocated to dev fund: **0%**
 * Mandated dev fund duration: **0 years**
@@ -108,7 +108,7 @@ We have provided high-level summaries of each proposal ([as requested](https://f
 * Requires creation of a new entity to steward some or all funds: **No**
 * Requires changes to ZF board: **No**
 
-### [Proposal 6: “Blocktown Development Fund Proposal: 10% to a 2-of-3 multisig with community involved Third Entity”](https://forum.zcashcommunity.com/t/blocktown-development-fund-proposal-10-to-a-2-of-3-multisig-with-community-involved-third-entity/34782)
+### [Proposal 6: "Blocktown Development Fund Proposal: 10% to a 2-of-3 multisig with community involved Third Entity"](https://forum.zcashcommunity.com/t/blocktown-development-fund-proposal-10-to-a-2-of-3-multisig-with-community-involved-third-entity/34782)
 
 * Total percentage of block rewards allocated to dev fund: **10%**
 * Mandated dev fund duration: **4 years with the option to extend**
@@ -119,11 +119,11 @@ We have provided high-level summaries of each proposal ([as requested](https://f
 * Requires creation of a new entity to steward some or all funds: **Yes**
 * Requires changes to ZF board: **No**
 
-### [Proposal 7: “Dev Fund Supplemental Proposal: enforce devfund commitments with legal charter”](https://forum.zcashcommunity.com/t/dev-fund-supplemental-proposal-enforce-devfund-commitments-with-legal-charter/34709)
+### [Proposal 7: "Dev Fund Supplemental Proposal: enforce devfund commitments with legal charter"](https://forum.zcashcommunity.com/t/dev-fund-supplemental-proposal-enforce-devfund-commitments-with-legal-charter/34709)
 
 *This ZIP addresses legal requirements for disbursement and does not specify other aspects of funding distribution.*
 
-### [Proposal 8: “Kek’s proposal: fund ECC for 2 more years”](https://forum.zcashcommunity.com/t/kek-s-proposal-fund-ecc-for-2-more-years/34778)
+### [Proposal 8: "Kek's proposal: fund ECC for 2 more years"](https://forum.zcashcommunity.com/t/kek-s-proposal-fund-ecc-for-2-more-years/34778)
 
 * Total percentage of block rewards allocated to dev fund: **20%**
 * Mandated dev fund duration: **2 years**
@@ -134,7 +134,7 @@ We have provided high-level summaries of each proposal ([as requested](https://f
 * Requires creation of a new entity to steward some or all funds: **No**
 * Requires changes to ZF board: **No**
 
-### [Proposal 9: “Dev Fund Strategic Council Approach”](https://forum.zcashcommunity.com/t/dev-fund-proposal-5-entity-strategic-council-approach/34801)
+### [Proposal 9: "Dev Fund Strategic Council Approach"](https://forum.zcashcommunity.com/t/dev-fund-proposal-5-entity-strategic-council-approach/34801)
 
 * Total percentage of block rewards allocated to dev fund: **20%**
 * Mandated dev fund duration: **4 years**
@@ -145,7 +145,7 @@ We have provided high-level summaries of each proposal ([as requested](https://f
 * Requires creation of a new entity to steward some or all funds: **Yes**
 * Requires changes to ZF board: **No**
 
-### [Proposal 10: “A Grand Compromise/Synthesis ZIP Proposal”](https://forum.zcashcommunity.com/t/a-grand-compromise-synthesis-zip-proposal/34812)
+### [Proposal 10: "A Grand Compromise/Synthesis ZIP Proposal"](https://forum.zcashcommunity.com/t/a-grand-compromise-synthesis-zip-proposal/34812)
 
 * Total percentage of block rewards allocated to dev fund: **20%**
 * Mandated dev fund duration: **4 years**
@@ -156,7 +156,7 @@ We have provided high-level summaries of each proposal ([as requested](https://f
 * Requires creation of a new entity to steward some or all funds: **Yes**
 * Requires changes to ZF board: **No**
 
-### [Proposal 11: “Decentralizing the Dev Fee”](https://forum.zcashcommunity.com/t/decentralizing-the-dev-fee/35252)
+### [Proposal 11: "Decentralizing the Dev Fee"](https://forum.zcashcommunity.com/t/decentralizing-the-dev-fee/35252)
 
 * Total percentage of block rewards allocated to dev fund: **20%**
 * Mandated dev fund duration: **4 years**
@@ -167,7 +167,7 @@ We have provided high-level summaries of each proposal ([as requested](https://f
 * Requires creation of a new entity to steward some or all funds: **No**
 * Requires changes to ZF board: **Yes**
 
-### [Proposal 12: “Dev Fund Proposal: Dev Fund to ECC + Zfnd + Major Grants”](https://forum.zcashcommunity.com/t/dev-fund-proposal-dev-fund-to-ecc-zfnd-major-grants/35364)
+### [Proposal 12: "Dev Fund Proposal: Dev Fund to ECC + Zfnd + Major Grants"](https://forum.zcashcommunity.com/t/dev-fund-proposal-dev-fund-to-ecc-zfnd-major-grants/35364)
 
 * Total percentage of block rewards allocated to dev fund: **20%**
 * Mandated dev fund duration: **4 years**
@@ -178,7 +178,7 @@ We have provided high-level summaries of each proposal ([as requested](https://f
 * Requires creation of a new entity to steward some or all funds: **No**
 * Requires changes to ZF board: **Yes**
 
-### [Proposal 13: “Keep It Simple, Zcashers (KISZ): 10% to ECC, 10% to Zfnd”](https://forum.zcashcommunity.com/t/zip-keep-it-simple-zcashers-kisz-10-to-ecc-10-to-zfnd/35425)
+### [Proposal 13: "Keep It Simple, Zcashers (KISZ): 10% to ECC, 10% to Zfnd"](https://forum.zcashcommunity.com/t/zip-keep-it-simple-zcashers-kisz-10-to-ecc-10-to-zfnd/35425)
 
 * Total percentage of block rewards allocated to dev fund: **20%**
 * Mandated dev fund duration: **4 years**
@@ -191,8 +191,8 @@ We have provided high-level summaries of each proposal ([as requested](https://f
 
 ## Timeline recap
 
-Polling will last from **November 16th** until **November 30th**. No later than **Tuesday, December 3rd,** the Foundation will post its summary of the results. No later than **Friday, December 6th,** the Zcash Foundation board will publish analysis on which upgrades we can support, based on sentiment and board discussion. After that, if the Foundation’s guidance diverges from ECC’s position, we will meet to reconcile. After reconciliation, if further ZIP specification or updates are needed, we will consult with authors/ECC and (if necessary) engage in another round of sentiment analysis.
+Polling will last from **November 16th** until **November 30th**. No later than **Tuesday, December 3rd,** the Foundation will post its summary of the results. No later than **Friday, December 6th,** the Zcash Foundation board will publish analysis on which upgrades we can support, based on sentiment and board discussion. After that, if the Foundation's guidance diverges from ECC's position, we will meet to reconcile. After reconciliation, if further ZIP specification or updates are needed, we will consult with authors/ECC and (if necessary) engage in another round of sentiment analysis.
 
 ## Thanks to the proposal authors and community
 
-We are deeply grateful for the community’s engagement with this process, and for the authors’ meticulous and thoughtful contributions. We are excited to begin the sentiment collection and look forward to sharing the results.
+We are deeply grateful for the community's engagement with this process, and for the authors' meticulous and thoughtful contributions. We are excited to begin the sentiment collection and look forward to sharing the results.

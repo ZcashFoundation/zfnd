@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Zcash Dev Fund Community Sentiment Collection Poll”
+title: "Zcash Dev Fund Community Sentiment Collection Poll"
 excerpt: "Proposals for the future of Zcash development funding."
 categories: blog
 tags: [governance]

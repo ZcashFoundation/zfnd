@@ -149,9 +149,9 @@ We have provided high-level summaries of each proposal ([as requested](https://f
 
 * Total percentage of block rewards allocated to dev fund: **20%**
 * Mandated dev fund duration: **4 years**
-* Percentage of block rewards to ECC: **30%**
-* Percentage of block rewards to ZF: **30%**
-* Percentage of block rewards to other developers: **40%**
+* Percentage of block rewards to ECC: **6%** 
+* Percentage of block rewards to ZF: **6%**
+* Percentage of block rewards to other developers: **8%**
 * Requires new accountability mechanisms for ECC and/or ZF: **Yes**
 * Requires creation of a new entity to steward some or all funds: **Yes**
 * Requires changes to ZF board: **No**
@@ -160,9 +160,9 @@ We have provided high-level summaries of each proposal ([as requested](https://f
 
 * Total percentage of block rewards allocated to dev fund: **20%**
 * Mandated dev fund duration: **4 years**
-* Percentage of block rewards to ECC: **35% if Principal Developer**
-* Percentage of block rewards to ZF: **25%, capped at $500k per month**
-* Percentage of block rewards to other developers: **40%**
+* Percentage of block rewards to ECC: **7% if Principal Developer**
+* Percentage of block rewards to ZF: **5%, capped at $500k per month**
+* Percentage of block rewards to other developers: **8%**
 * Requires new accountability mechanisms for ECC and/or ZF: **Yes**
 * Requires creation of a new entity to steward some or all funds: **No**
 * Requires changes to ZF board: **Yes**
@@ -171,9 +171,9 @@ We have provided high-level summaries of each proposal ([as requested](https://f
 
 * Total percentage of block rewards allocated to dev fund: **20%**
 * Mandated dev fund duration: **4 years**
-* Percentage of block rewards to ECC: **35%, capped at $700k per month**
-* Percentage of block rewards to ZF: **25%, capped at $700k per month**
-* Percentage of block rewards to other developers: **40%, capped at $700k per month; the funds are allotted to ECC if there are no other viable candidates**
+* Percentage of block rewards to ECC: **7%, capped at $700k per month**
+* Percentage of block rewards to ZF: **5%, capped at $700k per month**
+* Percentage of block rewards to other developers: **8%, capped at $700k per month; the funds are allotted to ECC if there are no other viable candidates**
 * Requires new accountability mechanisms for ECC and/or ZF: **Yes**
 * Requires creation of a new entity to steward some or all funds: **No**
 * Requires changes to ZF board: **Yes**

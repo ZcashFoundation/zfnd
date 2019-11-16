@@ -12,7 +12,7 @@ Decisions from the ZIP process are written into the Zcash specification, as well
 
 Zcash Foundation executive director Josh Cincinnati wrote ["Zcash Governance: A Step Toward Decentralization"](https://www.zfnd.org/blog/multisig-governance/) to explain the relevant power dynamics in depth.
 
-## 2019 Q3
+## 2019 Q3 & Q4
 
 * [Summary on the Zcash Community Forum](https://forum.zcashcommunity.com/t/future-of-zcash-dev-funding-high-signal-low-noise/34179), including a list of the active proposals that address Zcash development funding
 * ["Electric Coin Company Statement on Sustainability"](https://electriccoin.co/blog/electric-coin-company-statement-on-sustainability/)

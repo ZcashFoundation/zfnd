@@ -21,7 +21,6 @@ We serve the users of the <a href="https://z.cash/" target="_blank">Zcash</a> pr
 <h2 class="center">Projects and Partnerships</h2>
 
 <p class="center"><img src="https://www.zfnd.org/images/zecwallet-logo.png"></p>
-<div>
 <ul>
   <li><a href="https://docs.zecwallet.co/">ZecWallet</a> is a cross-platform, <a href="https://github.com/ZcashFoundation/zecwallet/">open-source</a>, GUI wallet that incorporates a full Zcash node and prioritizes shielded transactions.</li>
   <li><a href="https://zepiowallet.com/">Zepio</a> is another cross-platform, <a href="https://github.com/ZcashFoundation/zepio">open-source</a>, GUI wallet that focuses on #z2z usage.
@@ -30,7 +29,6 @@ We serve the users of the <a href="https://z.cash/" target="_blank">Zcash</a> pr
   <li>The Human Rights Foundation launched a <a href="https://www.zfnd.org/blog/human-rights-foundation-privacy-research/">cryptocurrency research series</a> focused on privacy and usability.</li>
   <li>The ZKProof Standards project holds <a href="https://www.zfnd.org/blog/zkproof-standards-workshop/">workshops</a>, among other efforts to improve the usability and safety of zero-knowledge proofs.</li>
 </ul>
-</div>
 
 <h2 class="center">Announcements and Updates</h2>
 <ul class="post-list">

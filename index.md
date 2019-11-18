@@ -21,14 +21,12 @@ We serve the users of the <a href="https://z.cash/" target="_blank">Zcash</a> pr
 <h2 class="center">Projects and Partnerships</h2>
 
 <p class="center"><img src="https://www.zfnd.org/images/zecwallet-logo.png"></p>
-<ul>
-  <li><a href="https://docs.zecwallet.co/">ZecWallet</a> is a cross-platform, <a href="https://github.com/ZcashFoundation/zecwallet/">open-source</a>, GUI wallet that incorporates a full Zcash node and prioritizes shielded transactions.</li>
-  <li><a href="https://zepiowallet.com/">Zepio</a> is another cross-platform, <a href="https://github.com/ZcashFoundation/zepio">open-source</a>, GUI wallet that focuses on #z2z usage.
-  <li><a href="https://github.com/ZcashFoundation/zebra">Zebra</a> is the Foundation's consensus-compatible Zcash node</a>, written in the Rust programming language.</li>
-  <li>KZen Networks will bring <a href="https://www.zfnd.org/blog/kzen-multisig/">private n-of-n multisig</a> to Zcash.</li>
-  <li>The Human Rights Foundation launched a <a href="https://www.zfnd.org/blog/human-rights-foundation-privacy-research/">cryptocurrency research series</a> focused on privacy and usability.</li>
-  <li>The ZKProof Standards project holds <a href="https://www.zfnd.org/blog/zkproof-standards-workshop/">workshops</a>, among other efforts to improve the usability and safety of zero-knowledge proofs.</li>
-</ul>
+
+- [ZecWallet](https://docs.zecwallet.co/) is a cross-platform, [open-source](https://github.com/ZcashFoundation/zecwallet/), GUI wallet that incorporates a full Zcash node and prioritizes shielded transactions.
+- [Zepio](https://zepiowallet.com/) is another cross-platform, [open-source](https://github.com/ZcashFoundation/zepio), GUI wallet that focuses on #z2z usage.
+- [Zebra](https://github.com/ZcashFoundation/zebra) is the Foundation's consensus-compatible Zcash node, written in the Rust programming language.
+- The Human Rights Foundation launched a [cryptocurrency research series](https://www.zfnd.org/blog/human-rights-foundation-privacy-research/) focused on privacy and usability.
+- The ZKProof Standards project holds [workshops](https://www.zfnd.org/blog/zkproof-standards-workshop/), among other efforts to improve the usability and safety of zero-knowledge proofs.
 
 <h2 class="center">Announcements and Updates</h2>
 <ul class="post-list">
@@ -36,3 +34,4 @@ We serve the users of the <a href="https://z.cash/" target="_blank">Zcash</a> pr
   <li><article><a href="{{ site.url }}{{ post.url }}"><div class="post-entry-title">{{ post.title }}</div> <span class="entry-date"><time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%B %d, %Y" }}</time></span>{% if post.excerpt %} <span class="excerpt">{{ post.excerpt | remove: '\[ ... \]' | remove: '\( ... \)' | markdownify | strip_html | strip_newlines | escape_once }}</span>{% endif %}</a></article></li>
 {% endfor %}
 </ul>
+

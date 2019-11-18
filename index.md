@@ -28,8 +28,7 @@ We serve the users of the <a href="https://z.cash/" target="_blank">Zcash</a> pr
   <li><a href="https://github.com/ZcashFoundation/zebra">Zebra</a> is the Foundation's consensus-compatible Zcash node</a>, written in the Rust programming language.</li>
   <li>KZen Networks will bring <a href="https://www.zfnd.org/blog/kzen-multisig/">private n-of-n multisig</a> to Zcash.</li>
   <li>The Human Rights Foundation launched a <a href="https://www.zfnd.org/blog/human-rights-foundation-privacy-research/">cryptocurrency research series</a> focused on privacy and usability.</li>
-  <li>The ZKProof Standards project holds <a href="https://www.zfnd.org/blog/zkproof-standards-workshop/">workshops</a>, among other efforts to improve the usability and safety of zero-knowledge proofs.</li>
-</ul></div>
+  <li>The ZKProof Standards project holds <a href="https://www.zfnd.org/blog/zkproof-standards-workshop/">workshops</a>, among other efforts to improve the usability and safety of zero-knowledge proofs.</li></ul></div>
 
 <h2 class="center">Announcements and Updates</h2>
 <ul class="post-list">

@@ -25,10 +25,9 @@ To send us a notice concerning copyright infringement on a ZF site, you'll need 
 
 You can report alleged copyright infringement by contacting us:
 
-Zcash Foundation
-1390 Chain Bridge Road, #A132
-McLean, VA 22101
-Phone: (571) 418 5390
+* Email: **copyright@zfnd.org**
+* Phone: **(571) 418 5390**
+* Mailing address: **1390 Chain Bridge Road #A132, McLean, VA 22101**
 
 HOW ZF RESPONDS TO COPYRIGHT CLAIMS
 

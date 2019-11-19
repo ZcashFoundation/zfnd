@@ -2,6 +2,7 @@
 layout: page
 title: Zcash Foundation Copyright Policy
 excerpt: "The Zcash Foundation's Copyright Policy."
+---
 
 [Section 512 of the Digital Millennium Copyright Act](https://www.law.cornell.edu/uscode/text/17/512) sets out the legal requirements to report copyright infringement to a service provider like the Zcash Foundation (ZF). It also explains how the person who posted the content can oppose a notice of alleged infringement by submitting a counter-notice.
 

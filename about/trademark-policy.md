@@ -38,7 +38,7 @@ This Policy covers:
 
 | Logo | Description |
 |---|---|
-| IMAGE TK | The Zcash logo |
+| ![Zcash trademark logo](/images/zcash-trademark-logo.png) | The Zcash logo |
 
 3. And the unique visual styling of our website and packaging (the "Trade Dress").
 

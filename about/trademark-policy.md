@@ -2,6 +2,7 @@
 layout: page
 title: Zcash Trademark Policy
 excerpt: "How you can and cannot use the Zcash trademark."
+---
 
 Last updated: November 18, 2019.
 

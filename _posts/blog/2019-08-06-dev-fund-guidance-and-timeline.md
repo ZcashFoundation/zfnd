@@ -154,7 +154,7 @@ Current and future proposals will continue to be debated on the Zcash Community 
 
 For ZIPs that the Foundation deems controversial (which we assume will include any proposal related to dev funds), we will conduct three different mechanisms for collecting community sentiment, purely in the form of "yay or nay" polls on individual ZIPs. These and other methods were brainstormed during a governance workshop at Zcon1.
 
-### Reviving the Community Advisory Panel
+<h3 id="cap"> Reviving the Community Advisory Panel </h3>
 
 We will revive last year's [Community Advisory Panel](https://www.zfnd.org/blog/governance-results/) and request old members to both:
 

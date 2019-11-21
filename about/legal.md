@@ -8,6 +8,7 @@ The Zcash Foundation is a nonprofit organization registered in the state of Dela
 
 ### Miscellaneous
 
+* [Funding details](/about/funding/)
 * [Board minutes](/about/board-minutes/)
-* [Trademark policy](https://www.zfnd.org/about/trademark-policy/)
-* [Copyright policy](https://www.zfnd.org/about/copyright-policy/)
+* [Trademark policy](/about/trademark-policy/)
+* [Copyright policy](/about/copyright-policy/)

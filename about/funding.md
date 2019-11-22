@@ -8,7 +8,7 @@ The Zcash Foundation receives its funds from individual donors, the vast majorit
 
 As stated by Electric Coin Company CEO Zooko Wilcox [in 2016](https://electriccoin.co/blog/continued-funding-and-transparency/), at that point the Zcash Foundation was slated to receive 260,226.130148 ZEC, also expressed as approximately 1.44% of the total monetary base.
 
-In August, 2019, [ECC announced] (https://electriccoin.co/blog/electric-coin-company-statement-on-sustainability/) that recipients of the Founders' Reward had agreed to a dilution. The total amount pledged to be donated to the Zcash Foundation was reduced to 229,462.889689 ZEC, also expressed as roughly 1.09% of the total monetary base.
+In August, 2019, [ECC announced](https://electriccoin.co/blog/electric-coin-company-statement-on-sustainability/) that recipients of the Founders' Reward had agreed to a dilution. The total amount pledged to be donated to the Zcash Foundation was reduced to 229,462.889689 ZEC, also expressed as roughly 1.09% of the total monetary base.
 
 ## Current Donors
 

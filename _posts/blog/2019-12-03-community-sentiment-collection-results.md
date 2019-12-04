@@ -4,7 +4,7 @@ title: "Community Sentiment Polling Results (NU4)"
 excerpt: "Results from polling the Zcash community on the future of development funding."
 categories: blog
 tags: [governance]
-date: 2019-12-04
+date: 2019-12-03
 author: acityinohio
 ---
 

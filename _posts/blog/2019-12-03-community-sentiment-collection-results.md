@@ -21,7 +21,7 @@ You can review the process in detail on the Foundation's [governance page](https
 
 ### Miner Poll
 
-Unfortunately no miner polls were cast. You can verify this on your own zcashd node by searching for OP_RETURNs in coinbase transactions between blocks 638745 and 647340; [this Go script might be helpful.](https://gist.github.com/acityinohio/177d83b87aacc00770677e490f47db20).
+Unfortunately no miner polls were cast. You can verify this on your own zcashd node by searching for OP_RETURNs in coinbase transactions between blocks 638745 and 647340; [this Go script might be helpful.](https://gist.github.com/acityinohio/177d83b87aacc00770677e490f47db20)
 
 ### Community Advisory Panel
 

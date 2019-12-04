@@ -1,5 +1,14 @@
 <h2 id="legal">Legal</h2>
 
-The Zcash Foundation is a nonprofit organization registered in the state of Delaware. You can find its [board minutes here](/about/board-minutes/), and our [trademark agreement with the Electric Coin Company here](https://www.zfnd.org/about/contracts/2019_ECC_ZFND_TM_agreement.pdf).
+The Zcash Foundation is a nonprofit organization registered in the state of Delaware.
 
 {% include_relative incorporation-docs/list.md %}
+{% include_relative irs-docs/list.md %}
+{% include_relative contracts/list.md %}
+
+### Miscellaneous
+
+* [Funding details](/about/funding/)
+* [Board minutes](/about/board-minutes/)
+* [Trademark policy](/about/trademark-policy/)
+* [Copyright policy](/about/copyright-policy/)

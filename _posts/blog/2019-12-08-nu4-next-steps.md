@@ -12,7 +12,7 @@ The community has clearly stated its preference for a dev fund, and one which no
 
 Today we'd like to discuss the next steps for NU4 based on [the community sentiment collection results](/blog/community-sentiment-collection-results/), internal board discussion, and [our initial guidance published in August](/blog/dev-fund-guidance-and-timeline/).
 
-The community has spoken. The Foundation will listen. A small number of issues need to be resolved between the two leading proposals. Once those are resolved, we can move on to the work of implementing these changes in software for NU4. 	
+The community has spoken. The Foundation will listen. A small number of issues need to be resolved between the leading proposals. Once those are resolved, we can move on to the work of implementing these changes in software for NU4. 	
 
 ## The Leading Proposals
 
@@ -22,7 +22,7 @@ We are grateful to all the authors for their thoughtful contributions and thank 
 - [ZIP 1012: Dev Fund to ECC + ZF + Major Grants](https://zips.z.cash/zip-1012)
 - [ZIP 1010: Compromise Dev Fund Proposal With Diverse Funding Streams](https://zips.z.cash/zip-1010)
 
-These proposals share two qualities that we believe the community finds important: a 20% dev fund and significant funding for the ZF and ECC. However [ZIP 2013](https://zips.z.cash/zip-1013) differs with regards to accountability and the explicit financial development of external developers. The Foundation feels strongly about accountability and transparency — [as stated in our original guidelines in August](/blog/dev-fund-guidance-and-timeline/) — as well as third party developer support and growth. Two of the three proposals that received the strongest community support align with that view; it's clear there's strong sentiment for both more accountable and decentralized Zcash development.
+These proposals share two qualities that we believe the community finds important: a 20% dev fund and significant funding for the ZF and ECC. However [ZIP 1013](https://zips.z.cash/zip-1013) differs with regards to accountability and the explicit financial development of external developers. The Foundation feels strongly about accountability and transparency — [as stated in our original guidelines in August](/blog/dev-fund-guidance-and-timeline/) — as well as third party developer support and growth. Two of the three proposals that received the strongest community support align with that view; it's clear there's strong sentiment for both more accountable and decentralized Zcash development.
 
 Therefore the Foundation will build on [ZIP 1012](https://zips.z.cash/zip-1012), a version of Matt Luongo's [ZIP 1011](https://zips.z.cash/zip-1011) with modifications by Eran Tromer, which received the most support on the forum and Community Advisory Panel.
 

@@ -28,6 +28,8 @@ Therefore the Foundation will build on [ZIP 1012](https://zips.z.cash/zip-1012),
 
 ## Improving ZIP 1012
 
+*Edit: these changes have been scaled back significantly, please see [our more detailed post on how we modified ZIP 1012](/blog/proposed-nu4-zip/)*
+
 With these results and our own guidance, the Foundation can support [ZIP 1012](https://zips.z.cash/zip-1012) for NU4, but would like to see elements from [ZIP 1010](https://zips.z.cash/zip-1010) — which also polled highly and is more thematically compatible with [ZIP 1012](https://zips.z.cash/zip-1012) — incorporated before acceptance. The Foundation believes these elements from [ZIP 1010](https://zips.z.cash/zip-1010) could lead to a greatly improved, better specified, and well-rounded [ZIP 1012](https://zips.z.cash/zip-1012):
 
 - Add [ZIP 1010's](https://zips.z.cash/zip-1010) accountability requirements, either through a legal trust or some other means.

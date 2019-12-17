@@ -18,7 +18,7 @@ Zcash Foundation executive director Josh Cincinnati wrote ["Zcash Governance: A 
 |---|---|---|
 | ["Presenting a Modified ZIP 1012"](https://www.zfnd.org/blog/proposed-nu4-zip/) | ZF | December 11 |
 | ["Supporting a Path for NU4"](https://www.zfnd.org/blog/nu4-next-steps/) | ZF | December 8 |
-| ["ECC Response to Zcash Community Polling Results"] | ECC | December 5 |
+| ["ECC Response to Zcash Community Polling Results"](https://electriccoin.co/blog/ecc-response-to-zcash-community-polling-results/) | ECC | December 5 |
 | ["Community Sentiment Polling Results (NU4)"](https://www.zfnd.org/blog/community-sentiment-collection-results/) | ZF | December 3 |
 | ["Zcash Dev Fund Community Sentiment Collection Poll"](https://www.zfnd.org/blog/community-sentiment-collection-poll/) | ZF | November 15 |
 | ["Restarting Community Sentiment Collection for Dev Fund Proposals"](https://www.zfnd.org/blog/updated-community-sentiment-timeline/) | ZF | November 8 |

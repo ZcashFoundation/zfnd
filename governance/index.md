@@ -16,6 +16,7 @@ Zcash Foundation executive director Josh Cincinnati wrote ["Zcash Governance: A 
 
 | Title | Organization | Date (2019) |
 |---|---|---|
+| ["Dev Funds Should Be in Zcash, Not United States Dollars"](https://electriccoin.co/blog/dev-funds-should-be-in-zcash-not-united-states-dollars/) | ECC | December 17 |
 | ["Presenting a Modified ZIP 1012"](https://www.zfnd.org/blog/proposed-nu4-zip/) | ZF | December 11 |
 | ["Supporting a Path for NU4"](https://www.zfnd.org/blog/nu4-next-steps/) | ZF | December 8 |
 | ["ECC Response to Zcash Community Polling Results"](https://electriccoin.co/blog/ecc-response-to-zcash-community-polling-results/) | ECC | December 5 |

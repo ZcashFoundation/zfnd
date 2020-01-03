@@ -22,7 +22,7 @@ The Community Advisory Panel will continue to be administered by the Zcash Found
 
 The ZF Board remains self-directed but will endeavor to use the Community Advisory Panel to provide advisory input into future board elections.
 
-For more details, you can see the [Pull Request with the differences from original ZIP 1012 highlighted here,](https://github.com/zcash/zips/pull/308/files), or the [full proposal here](https://github.com/ZcashFoundation/zips/blob/master/zip-1012.rst). This proposal has received Zcash Foundation board approval, and we await the ECC's feedback before submitting it to the community for a final vote.
+For more details you can see [the full proposal here](https://github.com/ZcashFoundation/zips/blob/master/zip-1014.rst). This proposal has received Zcash Foundation board approval, and we await the ECC's feedback before submitting it to the community for a final vote.
 
 ## Running a final Helios vote
 

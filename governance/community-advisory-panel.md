@@ -59,7 +59,7 @@ You can [review the history on GitHub](https://github.com/ZcashFoundation/zfnd/c
 | Mikerah  | https://twitter.com/badcryptobitch/status/1167478025048481793 |
 | Mine Zcash | https://twitter.com/mineZcash/status/1166145954560565248 |
 | Mitchell Krawiec-Thayer | https://twitter.com/Mitchellpkt0/status/1167513702779760649 |
-| Neal Conner | https://twitter.com/NealJayu/status/1165752937274064897 |
+| Neal Jayu | https://twitter.com/NealJayu/status/1165752937274064897 |
 | Nic Carter |  |
 | Oyedeji Oluwoye |  |
 | Phil Slobodian | https://twitter.com/ZoryaSl/status/1167300609277452288 |
@@ -76,7 +76,7 @@ You can [review the history on GitHub](https://github.com/ZcashFoundation/zfnd/c
 | Tiaan Schoeman |  |
 | Vladimir Dinev | https://twitter.com/VladVladVlad01/status/1166007652754874369 |
 | Zaki Manian | https://twitter.com/zmanian/status/1167587444641980417 |
-| kek (on forum) | https://twitter.com/encyclicaI/status/1165041284458958853 |
+| Casey Wayne | |
 | @aiyadt (on Twitter) | https://twitter.com/aiyadt/status/1165764968928731137 | 
 | ChileBob (on forum) | |
 | @dontbeevil (on Twitter) | https://twitter.com/dontbeevil__/status/1166095444092452864 | 

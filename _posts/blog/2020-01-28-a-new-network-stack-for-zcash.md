@@ -8,8 +8,8 @@ date: 2020-01-28
 author: hdevalence
 ---
 
-In our [2020 Engineering Roadmap][roadmap], we gave an overview of our plans
-for Zebra.  Announced last summer at Zcon1, Zebra aims to support the core
+In the Foundation's [engineering roadmap for 2020][roadmap], we overviewed our plans
+for [Zebra](zebra), our Rust implementation of Zcash.  Announced last summer at Zcon1, Zebra aims to support the core
 strength of Zcash – its best-in-class cryptography – by placing it on a solid
 foundation, providing a modern, modular implementation that can be broken into
 components and used in many different contexts.  In that post, we briefly
@@ -278,6 +278,7 @@ We're excited to share more details on these and other projects on our way to
 shipping Zebra in time for NU3 activation!
 
 [roadmap]: https://www.zfnd.org/blog/eng-roadmap-2020/
+[zebra]: https://github.com/zcashfoundation/zebra
 [2020]: https://www.zfnd.org/blog/eng-roadmap-2020/
 [tower]: https://docs.rs/tower
 [linkerd]: https://linkerd.io

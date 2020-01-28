@@ -212,13 +212,15 @@ p,
 li {
 
 	code {
-		@include font-size(14);
+		//@include font-size(14);
+		//margin: 0 2px;
+		//padding: 0 5px;
+		//border: 1px solid lighten($black, 90);
+		//background-color: lighten($black, 95);
 		font-family: $code-font;
 		white-space: nowrap;
-		margin: 0 2px;
-		padding: 0 5px;
-		border: 1px solid lighten($black, 90);
-		background-color: lighten($black, 95);
+		background-color: #efefef;
+		padding: 0 2px;
 		@include rounded(3px);
 	}
 }

@@ -265,7 +265,8 @@ other fronts, to be described in future blog posts:
 
 * producing a standalone implementation of [RedJubjub][redjubjub] signatures,
   into which we can integrate support for [FROST], a round-optimized threshold
-  Schnorr multisignature scheme designed by the Foundation's own Chelsea Komlo;
+  Schnorr multisignature scheme designed by the Foundation's own [Chelsea
+  Komlo][komlo];
 
 * working through the Zcash specification, identifying
   [mismatches][ed25519-zebra] between the spec and the implementation;
@@ -308,4 +309,5 @@ shipping Zebra in time for NU3 activation!
 [FROST]: https://crysp.uwaterloo.ca/software/frost/
 [ed25519-zebra]: https://github.com/ZcashFoundation/ed25519-zebra/issues/1
 [dconnolly]: https://github.com/dconnolly
+[komlo]: https://chelseakomlo.com
 [transaction-enum]: https://doc.zebra.zfnd.org/zebra_chain/transaction/enum.Transaction.html

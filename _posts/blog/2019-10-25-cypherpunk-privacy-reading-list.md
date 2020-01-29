@@ -26,7 +26,7 @@ Enjoy! 📖
 | ----- | ----- | ----- |
 | 1988 | ["The Crypto Anarchist Manifesto"](https://activism.net/cypherpunk/crypto-anarchy.html) | Timothy C. May |
 | 1991 | ["Why I Wrote PGP"](https://www.philzimmermann.com/EN/essays/WhyIWrotePGP.html) | Philip Zimmermann |
-| 1993 | ["A Cypherpunk's Manifesto"](https://activism.net/cypherpunk/crypto-anarchy.html) | Eric Hughes |
+| 1993 | ["A Cypherpunk's Manifesto"](https://www.activism.net/cypherpunk/manifesto.html) | Eric Hughes |
 | 1995 | ["Modem Grrrl"](https://www.wired.com/1995/02/st-jude/) | Jude Milhon |
 | 1996 | ["A Declaration of the Independence of Cyberspace"](https://www.eff.org/cyberspace-independence) | John Perry Barlow |
 | 1996 | ["A World of Strong Privacy: Promises and Perils of Encryption"](http://www.daviddfriedman.com/Academic/Strong_Privacy/Strong_Privacy.html) | David Friedman

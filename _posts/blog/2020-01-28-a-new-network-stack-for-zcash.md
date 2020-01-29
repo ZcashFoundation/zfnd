@@ -8,14 +8,15 @@ date: 2020-01-28
 author: hdevalence
 ---
 
-In the Foundation's [engineering roadmap for 2020][roadmap], we overviewed our plans
-for [Zebra](zebra), our Rust implementation of Zcash.  Announced last summer at Zcon1, Zebra aims to support the core
-strength of Zcash – its best-in-class cryptography – by placing it on a solid
-foundation, providing a modern, modular implementation that can be broken into
-components and used in many different contexts.  In that post, we briefly
-described the new network stack we designed and implemented for Zebra.  As a
-fork of Bitcoin, Zcash inherited Bitcoin's network protocol; in this post,
-we'll do a deep dive on Zebra's network stack.
+In the Foundation's [engineering roadmap for 2020][roadmap], we overviewed our
+plans for [Zebra][zebra], our Rust implementation of Zcash.  Announced last
+summer at Zcon1, Zebra aims to support the core strength of Zcash – its
+best-in-class cryptography – by placing it on a solid foundation, providing a
+modern, modular implementation that can be broken into components and used in
+many different contexts.  In that post, we briefly described the new network
+stack we designed and implemented for Zebra.  As a fork of Bitcoin, Zcash
+inherited Bitcoin's network protocol; in this post, we'll do a deep dive on
+Zebra's network stack.
 
 Our new stack is designed around the asynchronous RPC abstractions provided by
 [Tower][tower], which is used in Buoyant's [linkerd][linkerd], and inspired in

@@ -40,6 +40,9 @@ We will not conduct any additional community sentiment polling. The Foundation w
 
 ### Next Steps
 
+_[1/31 Update]_: To be abundantly clear, we still need to reach consensus on the changes to this ZIP with the ECC per our 2-of-2 trademark agreement; the exact wording and changes to ZIP 1014 may be modified with additional input from them before we submit a PR. We expect that to happen within the next two weeks.
+
 We will work on coordinating an NU4 activation timeline with the ECC. After that, the Foundation will set up the Major Grant Review Committee structure to ensure we have the bootstrap process ready before NU4.
 
 Congratulations to everyone in the Zcash community who participated in this historic process; this is truly a remarkable feat, and we are honored to have played our part in stewarding the dev fund discussion and resolution.
+

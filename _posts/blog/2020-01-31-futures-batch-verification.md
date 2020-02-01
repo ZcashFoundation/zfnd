@@ -52,7 +52,37 @@ proofs.  It's this step which will be the focus of this post.
 
 ## Batch verification and its discontents
 
+A common optimization for cryptographic primitives is *batch verification*,
+which asks whether all items in a set are valid in a single all-or-nothing
+check, rather than performing individual checks for each item.  Batch
+verification can be significantly faster than singleton verification, because
+computation can be amortized across all elements of the batch rather than
+performed for each item.
+
+However, conventional batch verification APIs can be cumbersome and difficult
+to use, especially when verifying heterogeneous data.  The core problem is that
+while batch verification provides all-or-nothing answers about a set of items,
+the desired information is a per-item answer, and using batch verification
+requires *entangling the validation states* of all of the items in the batch.
+
+This problem is especially apparent when attempting to verify heterogeneous
+data, as in a Zcash transaction.  Using conventional batch verification APIs,
+this would require writing a second set of “transposed” verification logic,
+scanning through all transactions in a batch, and assembling a set of items for
+each different data type (Ed25519 signatures, RedJubjub signatures,
+Sprout-on-Groth16 proofs, Sapling-on-Groth16 proofs, etc) before executing the
+batch.  
+
+This presents the immediate problem of having two implementations of
+verification logic, which is bad enough, but there’s a second problem, which is
+that it’s relatively inflexible with respect to the batch size.  This matters
+because different levels of batching are appropriate in different contexts:
+batching within a transaction is appropriate on receipt of a gossiped
+transaction, batching within a block is appropriate for block verification, and
+batching across blocks is appropriate when syncing the chain.
+
 ## Futures-based batch verification
+
 
 ## A first pass at implementing this strategy
 

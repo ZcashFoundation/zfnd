@@ -14,10 +14,13 @@ Zcash Foundation executive director Josh Cincinnati wrote ["Zcash Governance: A 
 
 ## 2019 Q3 – 2020 Q1
 
+Links are provided in reverse chronological order for convenience.
+
 | Title | Organization | Date |
 |---|---|---|
 | ["ZIP 1014 Poll Results"](https://www.zfnd.org/blog/zip-1014-poll-results/) | ZF | January 30, 2020 |
 | ["Dev Fund poll shows consensus"](https://electriccoin.co/blog/dev-fund-poll-shows-consensus/) | ECC | January 28, 2020 |
+| ["Zcash Protocol Hangout, Dev Fund Edition #3" (video)](https://www.youtube.com/watch?v=WmPe5pPxzd8&t=6s) | ZF | January 23, 2020 |
 | ["Polling Community Sentiment on ZIP 1014"](https://www.zfnd.org/blog/zip-1014-poll/) | ZF | January 15, 2020 |
 | ["Dev Funds Should Be in Zcash, Not United States Dollars"](https://electriccoin.co/blog/dev-funds-should-be-in-zcash-not-united-states-dollars/) | ECC | December 17, 2019 |
 | ["Presenting a Modified ZIP 1012"](https://www.zfnd.org/blog/proposed-nu4-zip/) | ZF | December 11, 2019 |
@@ -42,6 +45,8 @@ Zcash Foundation executive director Josh Cincinnati wrote ["Zcash Governance: A 
 
 
 ## 2018 Q2
+
+(Reverse chronological order is no longer applicable.)
 
 The Zcash Foundation's first governance process coincided with [our inaugural conference](https://www.zfnd.org/blog/zcon0-recap/) in 2018. It was [announced](https://www.zfnd.org/blog/zcon0-and-community-governance/) in April, [further explained](https://www.zfnd.org/blog/governance-voting/) in June, and concluded later that month.
 

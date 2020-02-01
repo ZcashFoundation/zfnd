@@ -111,6 +111,26 @@ singleton verifier to precisely identify which items failed.
 
 ## A first pass at implementing this strategy
 
+Because the primary benefit of this strategy is compositionality, it’s
+difficult to know exactly how well it will work until there are multiple
+primitives to compose together.  As a first pass, I implemented this strategy
+in `ed25519-zebra`, a small library that implements [Zcash-flavored
+Ed25519][ed25519-zebra].  Batch verification is provided by a [`BatchVerifier`
+struct][bv] implementing the `Service` trait.  The `BatchVerifier` maintains a
+target `batch_size` and automatically flushes queued verification requests when
+the batch size is reached.  It's also possible to manually flush the queue by
+sending a flush request.
+
+Along the way, I noticed a neat optimization for batch signature verification
+that can take automatically coalesce terms when multiple signatures in the
+batch are made with the same public key.  I haven’t seen this implemented
+before (although I didn’t look very hard), but in the limiting case where all
+signatures in the batch are made with the same public key, coalesced batch
+verification runs twice as fast as ordinary batch verification.  This
+optimization doesn’t help much with Zcash, where public keys are random, but
+could be useful in proof-of-stake systems where signatures come from a set of
+validators.
+
 [tower-post]: https://www.zfnd.org/blog/a-new-network-stack-for-zcash/#a-towering-interlude
 [network-stack]: https://www.zfnd.org/blog/a-new-network-stack-for-zcash/
 [Zebra]: https://github.com/ZcashFoundation/zebra
@@ -119,3 +139,6 @@ singleton verifier to precisely identify which items failed.
 [tx_docs]: https://doc.zebra.zfnd.org/zebra_chain/transaction/enum.Transaction.html
 [Tower]: https://docs.rs/tower
 [tracing-tower]: https://github.com/tokio-rs/tracing/tree/master/tracing-tower
+[ed25519-zebra]: https://docs.rs/ed25519-zebra
+[bv]: https://docs.rs/ed25519-zebra/0.2.0/ed25519_zebra/batch/struct.BatchVerifier.html
+

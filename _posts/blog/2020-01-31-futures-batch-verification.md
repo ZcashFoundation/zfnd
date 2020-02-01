@@ -83,11 +83,39 @@ batching across blocks is appropriate when syncing the chain.
 
 ## Futures-based batch verification
 
+To address this problem, we move from a synchronous model for validation to an
+asynchronous model.  Rather than immediately returning a verification result,
+verification returns a future which will eventually resolve to a verification
+result.  These verification futures can be composed using futures combinators
+in a way that expresses logical semantics rather than forcing a particular
+execution order.  This allows writing verification logic for each item
+independently of the other items and even independently of whether the
+verification is standalone or batched.
+
+To provide a common interface for batch verification, we use [Tower], a generic
+interface and collection of middleware for asynchronous request/response
+protocols, described in more detail [in our previous post][tower-post].  The
+core abstraction of Tower is the `Service` trait, and we model verification as
+a `Service` whose `Request` is a signature or proof together with associated
+data (e.g., for a signature, the public key and message), whose `Error` type is
+a validation error, and whose `Response` is the empty type `()`.  Verification
+consists of performing a `Service` call with the request data, and obtaining a
+`Future` which resolves to a `Result<(), Error>`.
+
+In addition to using futures combinators to express semantics of verification
+results, using the `Service` trait allows us to use service combinators to
+arrange more complex request-processing logic, as appropriate for the
+situation.  For example, it's easy to add [tracing diagnostics][tracing-tower],
+or to use a fallback combinator to automatically retry failed requests with a
+singleton verifier to precisely identify which items failed.
 
 ## A first pass at implementing this strategy
 
+[tower-post]: https://www.zfnd.org/blog/a-new-network-stack-for-zcash/#a-towering-interlude
 [network-stack]: https://www.zfnd.org/blog/a-new-network-stack-for-zcash/
 [Zebra]: https://github.com/ZcashFoundation/zebra
 [adts]: https://en.wikipedia.org/wiki/Algebraic_data_type
 [pdv]: https://lexi-lambda.github.io/blog/2019/11/05/parse-don-t-validate/
 [tx_docs]: https://doc.zebra.zfnd.org/zebra_chain/transaction/enum.Transaction.html
+[Tower]: https://docs.rs/tower
+[tracing-tower]: https://github.com/tokio-rs/tracing/tree/master/tracing-tower

@@ -126,10 +126,13 @@ that can take automatically coalesce terms when multiple signatures in the
 batch are made with the same public key.  I haven’t seen this implemented
 before (although I didn’t look very hard), but in the limiting case where all
 signatures in the batch are made with the same public key, coalesced batch
-verification runs twice as fast as ordinary batch verification.  This
-optimization doesn’t help much with Zcash, where public keys are random, but
-could be useful in proof-of-stake systems where signatures come from a set of
-validators.
+verification runs twice as fast as ordinary batch verification, illustrated in
+the graph below.  This optimization doesn’t help much with Zcash, where public
+keys are random, but could be useful in proof-of-stake systems where signatures
+come from a set of validators.
+
+![A graph showing the speedup from coalesced batch verification](/images/coalesced-batch-graph.png)
+
 
 [tower-post]: https://www.zfnd.org/blog/a-new-network-stack-for-zcash/#a-towering-interlude
 [network-stack]: https://www.zfnd.org/blog/a-new-network-stack-for-zcash/

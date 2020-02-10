@@ -10,8 +10,6 @@ Zcon is an annual conference focused on privacy-preserving technologies.
 
 <script type="text/javascript" src="https://zcashfoundation.formstack.com/forms/js.php/zcon2_app"></script><noscript><a href="https://zcashfoundation.formstack.com/forms/zcon2_app" title="Online Form">Online Form - Zcon2 Application</a></noscript><div style="text-align:right; font-size:x-small;"><a href="http://www.formstack.com?utm_source=jsembed&utm_medium=product&utm_campaign=product+branding&fa=h,3744702" title="Powered by Formstack">Powered by Formstack</a></div>
 
-Interested in sponsoring travel scholarships? Please email [antonie@zfnd.org](mailto:antonie@zfnd.org).
-
 ## Previous Zcons
 
 * [Zcon0](https://www.zfnd.org/zcon/0/) (June, 2018)

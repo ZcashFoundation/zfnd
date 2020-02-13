@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Zcon, Annual Privacy Conference
-excerpt: "Stay tuned for Zcon2!"
+excerpt: "Zcon2 in Lima, Peru!"
 ---
 
 Zcon is an annual conference focused on privacy-preserving technologies.

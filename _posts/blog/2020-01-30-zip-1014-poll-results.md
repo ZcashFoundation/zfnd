@@ -46,3 +46,6 @@ We will work on coordinating an NU4 activation timeline with the ECC. After that
 
 Congratulations to everyone in the Zcash community who participated in this historic process; this is truly a remarkable feat, and we are honored to have played our part in stewarding the dev fund discussion and resolution.
 
+### February 14th Update, We Have Agreement!
+
+After consultation with the ECC, rather than a more involved synthesis, the Foundation decided to support option (b) of Question 3, which still received community approval and means a more direct path to Major Grant Review Committee independence. In working with the ECC, we also removed a few more restrictions from the MG committee, granting the opportunity for one ZF and ECC representative to sit on the MG committee (they still have to be elected however), while restricting _both_ the ZF or ECC from being an MG grant recipient. [The PR is available here](https://github.com/zcash/zips/pull/324) and you can read a rationale [from the ECC's perspective here.](https://forum.zcashcommunity.com/t/final-text-of-zip-1014/36002)

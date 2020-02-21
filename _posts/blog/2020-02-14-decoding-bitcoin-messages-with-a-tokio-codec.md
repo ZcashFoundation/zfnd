@@ -34,14 +34,28 @@ with the (Zcash flavor of the) Bitcoin wire protocol.  Using Tokio's codecs,
 this involves three steps: defining an item type, implementing the `Decoder`
 trait, and implementing the `Encoder` trait.
 
-## The `Message` type
+## Bitcoin's wire format and our `Message` type.
+
+The Bitcoin wire protocol encodes messages using a common header structure
+followed by an arbitrary-length payload.  The header structure is as follows:
+
+|--------------:|:-------------------------------------------------------|
+|      4 bytes  | magic value identifying the network the message is for |
+| 12 bytes      | null-padded ascii identifier for message type          |
+| 4 bytes       | little-endian encoding of payload length               |
+| 4 bytes       | payload checksum                                       |
 
 The Bitcoin wire protocol has many different kinds of messages, identified on
-the wire by a 12-byte ascii header.  To represent them internally, we created a
+the wire by a 12-byte, null-padded ascii string containing the name of the message type.  
+
+To represent them internally, we created a
 `Message` enum with a variant for each message type.  Enums are an extremely
 convenient and powerful tool, because they allow expressing [sum
-type][sum_type] relationships, saying that a value can take on one of several
-different variants and allowing the compiler to check that 
+types][sum_type], saying that a value can take on one of several different
+variants and allowing the compiler to check that all possible variants are
+handled.
+
+
 
 
 [^1]: Unfortunately there is not yet consensus in the async Rust ecosystem

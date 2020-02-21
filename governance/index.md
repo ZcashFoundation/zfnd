@@ -18,6 +18,7 @@ Links are provided in reverse chronological order for convenience.
 
 | Title | Organization | Date |
 |---|---|---|
+| ["Final text of ZIP 1014"](https://forum.zcashcommunity.com/t/final-text-of-zip-1014/36002) | joint | February 14, 2020 |
 | ["ZIP 1014 Poll Results"](https://www.zfnd.org/blog/zip-1014-poll-results/) | ZF | January 30, 2020 |
 | ["Dev Fund poll shows consensus"](https://electriccoin.co/blog/dev-fund-poll-shows-consensus/) | ECC | January 28, 2020 |
 | ["Zcash Protocol Hangout, Dev Fund Edition #3" (video)](https://www.youtube.com/watch?v=WmPe5pPxzd8&t=6s) | ZF | January 23, 2020 |
@@ -34,7 +35,7 @@ Links are provided in reverse chronological order for convenience.
 | ["A Solid Future for the Zcash Trademark"](https://www.zfnd.org/blog/zcash-trademark-resolution/) | ZF | November 6, 2019 |
 | ["An Update from ECC on the Initial Assessment of Community Proposals"](https://electriccoin.co/blog/an-update-from-ecc-on-the-initial-assessment-of-community-proposals/) | ECC | September 20, 2019 |
 | ["Zcash Protocol Hangout, Dev Fund Edition" (video)](https://www.youtube.com/watch?v=LvWpV6-t4HY&t=1s) | ZF | September 19, 2019 |
-| [Joint ZF and ECC statement on resuming trademark negotiations](https://docs.google.com/document/d/1EQySNRz_P3EfraCuPDALFSXdh9PEzgJFxbeQx-mHboI/edit) | ZF, ECC | September 4, 2019 |
+| [ZF and ECC statement on resuming trademark negotiations](https://docs.google.com/document/d/1EQySNRz_P3EfraCuPDALFSXdh9PEzgJFxbeQx-mHboI/edit) | joint | September 4, 2019 |
 | ["Update on Trademark Strategy"](https://forum.zcashcommunity.com/t/update-on-trademark-strategy/34876) | ECC | September 3, 2019 |
 | ["Zcash Trademark Uncertainty Leads to Delay of NU4 Community Sentiment Collection"](https://www.zfnd.org/blog/zcash-trademark-update/) | ZF | September 2, 2019 |
 | ["Note about trademark strategy"](https://forum.zcashcommunity.com/t/note-about-trademark-strategy/34807) | ECC | August 29, 2019 |

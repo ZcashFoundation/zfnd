@@ -34,7 +34,7 @@ with the (Zcash flavor of the) Bitcoin wire protocol.  Using Tokio's codecs,
 this involves three steps: defining an item type, implementing the `Decoder`
 trait, and implementing the `Encoder` trait.
 
-## Bitcoin's wire format and our `Message` type.
+## Bitcoin's wire format and our `Message` type
 
 The Bitcoin wire protocol encodes messages using a custom header structure
 followed by an arbitrary-length payload.  The message structure is as follows:

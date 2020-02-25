@@ -116,22 +116,9 @@ Feb 21 13:58:26.160 TRACE peer{addr=V4(127.0.0.1:8233)}: zebra_network::protocol
 ```
 
 
-[^1]: Unfortunately there is not yet consensus in the async Rust ecosystem
-  about what exactly the `AsyncRead` and `AsyncWrite` traits should be, mainly
-due to disagreement about the best way to handle uninitialized buffers and
-vectored I/O.  More details can be found in [this
-issue](https://github.com/tokio-rs/tokio/pull/1744) and in these comments:
-[1](https://github.com/tokio-rs/tokio/pull/1744#issuecomment-558736715),
-[2](https://github.com/tokio-rs/tokio/pull/1744#issuecomment-558970440).
+[^1]: Unfortunately there is not yet consensus in the async Rust ecosystem about what exactly the `AsyncRead` and `AsyncWrite` traits should be, mainly due to disagreement about the best way to handle uninitialized buffers and vectored I/O.  More details can be found in [this issue](https://github.com/tokio-rs/tokio/pull/1744) and in these comments: [1](https://github.com/tokio-rs/tokio/pull/1744#issuecomment-558736715), [2](https://github.com/tokio-rs/tokio/pull/1744#issuecomment-558970440).
 
-[^2]: We render two copies of the documentation for our crates.  One is
-  [`doc.zebra.zfnd.org`](https://doc.zebra.zfnd.org), containing documentation
-for the public interfaces of these crates; the other is
-[`doc-internal.zebra.zfnd.org`](https://doc-internal.zebra.org), containing
-documentation for all of the internal items.  Because we translate the Bitcoin
-network protocol into our own request/response protocol, we don't publicly
-expose the `Message` type from the `zebra-network` crate, so this link is to
-the internal documentation.
+[^2]: We render two copies of the documentation for our crates.  One is [`doc.zebra.zfnd.org`](https://doc.zebra.zfnd.org), containing documentation for the public interfaces of these crates; the other is [`doc-internal.zebra.zfnd.org`](https://doc-internal.zebra.org), containing documentation for all of the internal items.  Because we translate the Bitcoin network protocol into our own request/response protocol, we don't publicly expose the `Message` type from the `zebra-network` crate, so this link is to the internal documentation.
 
 [network-stack]: https://www.zfnd.org/blog/a-new-network-stack-for-zcash/
 [Zebra]: https://github.com/ZcashFoundation/zebra

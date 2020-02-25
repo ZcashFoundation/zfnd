@@ -168,7 +168,7 @@ decoding process, because it's captured at `trace` level.  Each event is
 emitted in the context of a particular *span*, a logical execution context – in
 this case, in the context of the peer connection with a particular address.
 One extremely powerful feature of `tracing` we use in Zebra is the ability to
-**dynamically configure the tracing level *for particular span filter*.**  This
+**dynamically configure the tracing level *for a particular span filter*.**  This
 means that while the node is running, we can zoom all the way in to inspect
 particular execution contexts, such as "the `peer` span with
 `addr=V4{127.0.0.1:8233}`", "all IPv6 connections", etc, without drowning in

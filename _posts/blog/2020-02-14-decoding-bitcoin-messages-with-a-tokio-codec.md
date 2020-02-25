@@ -32,7 +32,8 @@ handling individual items.
 Because Zcash inherited its network protocol from Bitcoin, Zebra needs to work
 with the (Zcash flavor of the) Bitcoin wire protocol.  Using Tokio's codecs,
 this involves three steps: defining an item type, implementing the `Decoder`
-trait, and implementing the `Encoder` trait.
+trait, and implementing the `Encoder` trait.  In this post, we'll look at the
+first two steps, since the third is more straightforward.
 
 ## Bitcoin's wire format and our `Message` type
 
@@ -106,15 +107,72 @@ decoding" as new data arrives, producing frames as soon as they are ready.
 
 # Implementing `Decoder`
 
+Traits are implemented by types, so to implement `Decoder` we need to provide a
+type that will implement the trait.  For simpler protocols that can be
+statelessly decoded, this could be a unit struct, but for the Bitcoin protocol
+we need to maintain decoder state.  This can be split into two parts:
+configuration like the network version, which we construct with a [builder],
+and the decode state itself:
+```rust
+struct Codec {
+    builder: Builder,
+    state: DecodeState,
+}
+
+enum DecodeState {
+    Head,
+    Body {
+        body_len: usize,
+        command: [u8; 12],
+        checksum: Sha256dChecksum,
+    },
+}
+```
+The [implementation of `decode`][decode_impl] starts by matching on the
+`self.state`.  
+
+If it's `DecodeState::Head`, we check whether the source buffer has at least
+`HEADER_LEN` bytes.  If not, we know we're not ready to start decoding, so we
+return `Ok(None)`.  Otherwise, we read the fields of the header, and set
+`self.state` to `DecodeState::Body` with the data we parsed, or return `Err` if
+there was a problem with the header.
+
+If it's `DecodeState::Body`, we check whether the source buffer has at least
+`body_len` bytes, or return `Ok(None)`.  Otherwise, we remove the body from the
+source buffer, recompute the checksum, and use the `command` field to determine
+what `Message` variant to parse and construct.
+
+The streaming decoding can be seen in action in the following [`tracing`
+output][tracing] from some Zebra stub code talking to a local Zcashd instance:
 
 ```ascii
 Feb 21 13:58:26.159 TRACE peer{addr=V4(127.0.0.1:8233)}: zebra_network::peer::connection: awaiting response to client request
 Feb 21 13:58:26.159 TRACE peer{addr=V4(127.0.0.1:8233)}: zebra_network::protocol::external::codec: src buffer does not have an entire header, waiting self.state=DecodeState::Head
 Feb 21 13:58:26.160 TRACE peer{addr=V4(127.0.0.1:8233)}: zebra_network::protocol::external::codec: read header from src buffer self.state=DecodeState::Head magic=Magic("24e92764") command=block body_len=11102 checksum=Sha256dChecksum("0413899b")
 Feb 21 13:58:26.160 TRACE peer{addr=V4(127.0.0.1:8233)}: zebra_network::protocol::external::codec: src buffer does not have an entire body, waiting self.state=DecodeState::Body { body_len: 11102, command: "block\u{0}\u{0}\u{0}\u{0}\u{0}\u{0}\u{0}", checksum: Sha256dChecksum("0413899b") } len=4492
-Feb 21 13:58:26.160 TRACE peer{addr=V4(127.0.0.1:8233)}: zebra_network::protocol::external::codec: reading block body=b"\x04\0\0\0\x9e\x86\x1d\xf1\xd9j.\xe5 \x11w\x0f\xab\xa65\x12\x923\x9eL\x05\xd3\xa3\x08\xc3\x07\xcdZ\x0e\0\0\0\xdd7\xbe]\n\xec\x03\xecC\xb6\x8b\x8d\x81S\xe6\x16\xb5\n\x91\x95\xae\xbe\xc6K\xbb\xa9\x83\x84\xac\xa3^P\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0[b\x14X#\xb2\x13\x1dj}\0\x10\0\0\0\0\0\0\0\0\x10\0}kW=\x02\0\0\0\0\0\0\0\
+Feb 21 13:58:26.160 TRACE peer{addr=V4(127.0.0.1:8233)}: zebra_network::protocol::external::codec: reading block body=b"\x04\0\0\0\x9e\x86\x1d\xf1\xd9j.\xe5 \x11w\x0f\xab\xa65\x12...
 ```
 
+The first line is emitted from the connection state machine, which holds a
+`Framed` stream produced by a `Codec`.  When it `await`s the next message from
+the stream, it polls the stream's readiness, but there's no data in the source
+buffer, so the codec returns `Ok(None)`.  Next, new data arrives in the source
+buffer, and the codec is able to parse the message header, determining that the
+message contains a block and is 11102 bytes long.  When it tries to parse the
+body, however, there are only 4492 bytes of data in the source buffer, so it
+again returns `Ok(None)`.  In the last line, there is finally enough data to
+parse the message body.
+
+As an aside, this output is extremely verbose, recording every step of the
+decoding process, because it's captured at `trace` level.  Each event is
+emitted in the context of a particular *span*, a logical execution context – in
+this case, in the context of the peer connection with a particular address.
+One extremely powerful feature of `tracing` we use in Zebra is the ability to
+dynamically configure the tracing level *for particular span filter*.  This
+means that while the node is running, we can zoom all the way in to inspect
+particular execution contexts, such as "the `peer` span with
+`addr=V4{127.0.0.1:8233}`", "all IPv6 connections", etc, without drowning in
+noise generated by the rest of the node's tasks.
 
 [^1]: Unfortunately there is not yet consensus in the async Rust ecosystem about what exactly the `AsyncRead` and `AsyncWrite` traits should be, mainly due to disagreement about the best way to handle uninitialized buffers and vectored I/O.  More details can be found in [this issue](https://github.com/tokio-rs/tokio/pull/1744) and in these comments: [1](https://github.com/tokio-rs/tokio/pull/1744#issuecomment-558736715), [2](https://github.com/tokio-rs/tokio/pull/1744#issuecomment-558970440).
 
@@ -129,3 +187,7 @@ Feb 21 13:58:26.160 TRACE peer{addr=V4(127.0.0.1:8233)}: zebra_network::protocol
 [sum_type]: https://en.wikipedia.org/wiki/Sum_type
 [bytesmut]: https://docs.rs/bytes/0.5.4/bytes/struct.BytesMut.html
 [bytes]: https://docs.rs/bytes/0.5.4/bytes/
+[message_docs]: https://doc-internal.zebra.zfnd.org/zebra_network/protocol/external/message/enum.Message.html
+[builder]: https://doc.rust-lang.org/1.0.0/style/ownership/builders.html
+[decode_impl]: https://github.com/ZcashFoundation/zebra/blob/47cafc630faec057894232a2f38ed559d9f1498a/zebra-network/src/protocol/external/codec.rs#L282
+[tracing]: https://docs.rs/tracing/0.1.12/tracing/

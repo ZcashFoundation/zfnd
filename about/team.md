@@ -30,9 +30,8 @@ Secretary: [_Antonie Hodge_](https://twitter.com/antoniehodge) (officer but not 
 - [_Chelsea Komlo_](https://twitter.com/chelseakomlo) • [core engineer and researcher](https://www.zfnd.org/blog/welcome-chelsea/)
 - [_Sonya Mann_](https://twitter.com/sonyaellenmann) • [communications manager](https://www.zfnd.org/blog/welcome-sonya/)
 
-Technical advisor: [_Eran Tromer_](https://www.tau.ac.il/~tromer/)
-
 #### Alumni
 
 - [_Anna Kaplan_](https://twitter.com/kaplannie) • [technical intern](https://www.zfnd.org/blog/anna-kaplan-welcome/)
 - _Lena Wang_ • [operations associate](https://www.zfnd.org/blog/welcome-lena/)
+- [_Eran Tromer_](https://www.tau.ac.il/~tromer/) • technical advisor

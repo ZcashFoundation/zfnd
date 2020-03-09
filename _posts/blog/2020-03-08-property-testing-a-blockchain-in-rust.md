@@ -15,7 +15,7 @@ At first glance, the mechanics of property-based testing may sound
 like fuzzing: generating random-ish data to push through a function or
 constructor or some other piece of code. For fuzzing, we basically can
 throw random data at our implementation and just check that it doesn't
-panic; but that means we have to run our fuzzers esentially
+panic; but that means we have to run our fuzzers essentially
 forever. That's valuable, but you may have a more restricted or
 structured range or input data and instead of checking for the
 property of "my code doesn't crash", we can be more precise and not

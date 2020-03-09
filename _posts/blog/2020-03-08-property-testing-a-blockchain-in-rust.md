@@ -17,7 +17,7 @@ constructor or some other piece of code. For fuzzing, we basically can
 throw random data at our implementation and just check that it doesn't
 panic; but that means we have to run our fuzzers essentially
 forever. That's valuable, but you may have a more restricted or
-structured range or input data and instead of checking for the
+structured range of input data and instead of checking for the
 property of "my code doesn't crash", we can be more precise and not
 need to run ~forever.
 
@@ -68,16 +68,16 @@ proptest! {
 ```
 
 What this is doing is generating a random, valid instance of the
-`Transaction` struct, within the parameters we have defined (we'll get
+`Transaction` type, within the parameters we have defined (we'll get
 into more detail below), serializing it into raw bytes, then
 deserializing those bytes into yet another `Transaction` instance, and
 then checking that they match.
 
-This may seem rather...dumb? Simple? Obvious? But [the code] to
+This may seem rather...dumb? Simple? Obvious? But the code to
 implement serialization and deserialization is anything but dumb,
 simple, or obvious, so having a check that this property (possibly
 summarized as, 'any valid `Transaction` struct must serialize and then
-deserialize into a valid `Transaction`'. We are checking that our
+deserialize into a valid `Transaction`') holds is valuable to us. We are checking that our
 implementations of serialize and deserialize are actually the inverses
 of each other. Checking that our implementation of (de)serialize
 matches with others (like zcashd's) requires other types of tests,
@@ -86,7 +86,7 @@ using test vectors, or integration tests, or a variant of the
 
 So far we have serialization/deserialization roundtrip property tests
 for nearly all the structs down to the bottom of the dependency tree
-starting with our `Block`. To make this work, we need to specify _how_
+starting with our `Block` type. To make this work, we need to specify _how_
 these types can be 'randomly' generated, all the way to the bottom.
 
 ## `derive(Arbitrary)` vs `impl Arbitrary`

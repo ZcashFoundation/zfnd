@@ -45,7 +45,7 @@ our data structures, especially transactions, blocks, and messages.
 ## A real proptest
 
 While [this test][transaction_roundtrip_proptest] may seem simple and
-straighforward at the top, it's more like the top of an iceberg
+straightforward at the top, it's more like the top of an iceberg
 floating above the waterline, with the majority of the work required
 to make it function hidden below.
 
@@ -75,13 +75,13 @@ then checking that they match.
 
 This may seem rather...dumb? Simple? Obvious? But [the code] to
 implement serialization and deserialization is anything but dumb,
-simple, or obvious, so having a check that this property (possible
+simple, or obvious, so having a check that this property (possibly
 summarized as, 'any valid `Transaction` struct must serialize and then
 deserialize into a valid `Transaction`'. We are checking that our
 implementations of serialize and deserialize are actually the inverses
-of each other. Checking that our implemenation of (de)serialize
+of each other. Checking that our implementation of (de)serialize
 matches with others (like zcashd's) requires other types of tests,
-using test vectors, or integrations tests, or a variant of the
+using test vectors, or integration tests, or a variant of the
 "Different paths, same destination" property mentioned above.
 
 So far we have serialization/deserialization roundtrip property tests

@@ -101,6 +101,8 @@ At the Zcash Foundation, we've been thinking of some ways to solve this problem
 over the last few days.  If you'd like to help, [come talk with
 us][contact-tracing-invite] and help us solve this problem together.
 
+![meme by @ctbeiser](/images/surely-the-fire-department.jpg)
+
 [wuhan_police]: https://web.archive.org/web/20200122072517/https://www.globaltimes.cn/content/1175808.shtml
 [who_h2h]: https://twitter.com/WHO/status/1217043229427761152
 [taiwan_cdc]: https://www.ft.com/content/2a70a02a-644a-11ea-a6cd-df28cc3c6a68

@@ -4,7 +4,7 @@ title: "Z Wallet iOS Effort Discontinued"
 excerpt: "The Zcash Foundation and XMR Systems have released the source code to the WIP project."
 categories: blog
 tags: [wallets, partnerships, development]
-image: /images/zwallet-ios-image1.png
+image: zwallet-ios-image1.png
 date: 2019-06-18
 author: sonya
 ---

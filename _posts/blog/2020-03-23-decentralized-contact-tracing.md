@@ -6,8 +6,7 @@ categories: blog
 tags: []
 date: 2020-03-23
 author: hdevalence
-image:
-  feature: "surely-the-fire-department.jpg"
+image: /images/surely-the-fire-department.jpg
 ---
 
 Over the last few months and especially the last few weeks, the spread of

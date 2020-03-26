@@ -12,22 +12,6 @@ We serve the users of the <a href="https://z.cash/" target="_blank">Zcash</a> pr
 
 {% include email-cta.html %}
 
-<h2 class="center">Grants</h2>
-
-<p>The Zcash Foundation awards <a href="https://www.zfnd.org/tags/#grants" target="_blank">grants</a> through a platform called <a href="https://grants.zfnd.org/" target="_blank">ZF Grants</a>, which also includes crowdfunding features. Learn how it works in our <a href="https://www.zfnd.org/blog/zf-grants-open-beta/">launch blog post</a>.</p>
-
-<p>Interested in making a proposal? Check out our <a href="https://www.zfnd.org/grants/">curated list of ideas</a>!</p>
-
-<h2 class="center">Projects and Partnerships</h2>
-
-<p class="center"><img src="https://www.zfnd.org/images/zecwallet-logo.png"></p>
-
-- [ZecWallet](https://docs.zecwallet.co/) is a cross-platform, [open-source](https://github.com/ZcashFoundation/zecwallet/), GUI wallet that incorporates a full Zcash node and prioritizes shielded transactions.
-- [Zepio](https://zepiowallet.com/) is another cross-platform, [open-source](https://github.com/ZcashFoundation/zepio), GUI wallet that focuses on #z2z usage.
-- [Zebra](https://github.com/ZcashFoundation/zebra) is the Foundation's consensus-compatible Zcash node, written in the Rust programming language.
-- The Human Rights Foundation launched a [cryptocurrency research series](https://www.zfnd.org/blog/human-rights-foundation-privacy-research/) focused on privacy and usability.
-- The ZKProof Standards project holds [workshops](https://www.zfnd.org/blog/zkproof-standards-workshop/), among other efforts to improve the usability and safety of zero-knowledge proofs.
-
 <h2 class="center">Announcements and Updates</h2>
 <ul class="post-list">
 {% for post in site.posts limit:10 %}

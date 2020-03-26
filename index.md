@@ -2,7 +2,7 @@
 layout: page
 title: "Home"
 ignore_title: true
-excerpt: "The Zcash Foundation is a financial privacy nonprofit. Our mission is to build and support the technology infrastructure that will enable people to control their own financial data."
+excerpt: "The Zcash Foundation is a 501(c)(3) public charity focused on financial privacy. Our mission is to build and support the technology infrastructure that will enable people to control their own financial data."
 search_omit: true
 ---
 

@@ -163,6 +163,7 @@ them.
 [tracing-wiki]: https://en.wikipedia.org/wiki/Contact_tracing
 [ble]: https://en.wikipedia.org/wiki/Bluetooth_Low_Energy
 [pk_sp]: http://safepaths.mit.edu/
+[sgx]: https://en.wikipedia.org/wiki/Software_Guard_Extensions#Attacks
 [sensitive]: https://techcrunch.com/2019/07/24/researchers-spotlight-the-lie-of-anonymous-data/
 [SafeTrace]: https://blog.enigma.co/safetrace-privacy-preserving-contact-tracing-for-covid-19-c5ae8e1afa93
 [0551]: https://nvd.nist.gov/vuln/detail/CVE-2020-0551

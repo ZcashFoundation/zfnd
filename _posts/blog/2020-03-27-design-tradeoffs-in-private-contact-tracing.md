@@ -104,14 +104,16 @@ broken][sgx], with the most [recent attack][0551] about two weeks ago.
 Finally, [Covid-Watch] and [Community Epidemiology (CoEpi)][CoEpi] are two
 efforts collaborating on a common protocol for Bluetooth-based contact tracing.
 This protocol is under development, but unlike TraceTogether, matching occurs
-on the client, so it does not require a centralized party to match contacts,
-and has even lower trust requirements for the first trust category.  While
-these efforts are collaborating on a common protocol, they make different
-choices in the second trust category above: Covid-Watch trusts health
-authorities to report infections, while CoEpi aims to allow self-reporting.
-This choice has implications for the third category, since trusting health
-authorities may make report integrity easier, while allowing self-reporting
-helps availability – for instance if there is a testing shortage.
+on the client, so it does not require a centralized party to match contacts.
+This means it has even lower trust requirements for the first trust category.
+The prospect of a shared protocol is also very exciting, because any protocol
+for contact tracing will have very powerful network effects.  While these
+efforts are collaborating on a common protocol, they make different choices in
+the second trust category: Covid-Watch trusts health authorities to report
+infections, while CoEpi aims to allow self-reporting.  This choice has
+implications for the third category, since trusting health authorities may make
+report integrity easier, while allowing self-reporting helps availability – for
+instance if there is a testing shortage.
 
 At a general level, if we don't assume the presence of a centralized party that
 can be trusted to verify reports of infection, what we're left with is not

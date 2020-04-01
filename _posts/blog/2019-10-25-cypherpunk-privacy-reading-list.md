@@ -4,8 +4,6 @@ title: "A Cypherpunk Privacy Reading List"
 excerpt: "Explore how the earliest cryptocurrency inventors saw privacy."
 categories: blog
 tags: [education]
-image:
-  feature: 
 date: 2019-10-25
 author: sonya
 ---

@@ -6,7 +6,7 @@
 
 * _Inclusivity._ The Zcash ecosystem consists of many subcommunities, such as end-users, developers, miners, exchanges, traders and researchers, in many countries and cultures. They should all be given a voice within the Zcash community and the Foundation’s deliberations.
 
-* _Humility._ Mutual kindness and respect are necessary for productive collaboration. We debate ideas productively assuming good faith, we are open to appropriate feedback, and we maintain intellectual honesty without hostility.
+* _Humility._ Mutual kindness, integrity, and respect are necessary for productive collaboration. We debate ideas productively assuming good faith, we are open to appropriate feedback, and we maintain intellectual honesty without hostility.
 
 ### Goals
 

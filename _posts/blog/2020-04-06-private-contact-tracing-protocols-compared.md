@@ -17,16 +17,17 @@ crisis.  But contact tracing will be a critical part of COVID-19 recovery,
 particularly in the period after the surge of cases, but before widespread
 immunity prevents transmission.  
 
-So it's been incredibly exciting to see how many people have been working on
-this problem in a spirit of radical collaboration.  Some of these projects are
-mentioned in our previous post on [design tradeoffs in contact tracing
-systems][tradeoffs_post].  At the Zcash Foundation, we've been collaborating on
-the [CEN Protocol][cen_protocol], originally started as a joint effort between
-two projects, [CoEpi] and [Covid-Watch].  And earlier this week, a group of
-European academics announced a new effort called [DP-3T].  These protocols are
-very similar, and it would be great if they could both evolve towards a common
-standard.  To support that goal, this post will compare and contrast the
-current designs of the DP-3T and CEN protocols.
+So it's been incredibly exciting to see how many people have been
+working on this problem in a spirit of radical collaboration.  Some of
+these projects are mentioned in our previous post on [design tradeoffs
+in contact tracing systems][tradeoffs_post].  At the Zcash Foundation,
+we've been collaborating on the [CEN Protocol][cen_protocol], originally
+started as a joint effort between two projects, [CoEpi] and
+[Covid-Watch].  And earlier this week, a group of European academics
+from eight universities announced a new effort called [DP-3T].  These
+protocols are very similar, and it would be great if they could both
+evolve towards a common standard.  To support that goal, this post will
+compare and contrast the current designs of the DP-3T and CEN protocols.
 
 ## Protocol structure
 
@@ -184,35 +185,142 @@ report ← rvk || cek_{j1-1} || le_u16(j1) || le_u16(j2) || memo,
 ```
 then use `rak` to produce `sig`, a signature over `report`, and upload
 the signed report `report || sig`.
-
-The memo field provides a compact space for freeform messages.  This
-ensures that the protocol is application-agnostic and extensible. For
-instance, the memo field could contain a bitflag describing
-self-reported symptoms, or a signature by a health authority verifying
-test results.
+The memo field provides a compact space for freeform messages, described
+in more detail below.
 
 In the **scan phase**, users download signed reports from the server,
 then verify the signature using the included `rvk`.  They can then use
-`cek_{j1-1}` to recompute all subsequent CEKs and CENs.  Because all the
-recomputed CEKs are bound to `rvk`, and the signature `sig` serves as a
-proof-of-knowledge of the corresponding `rak`, the receiver of the
-report is convinced that it was submitted by the user who generated the
-CENs.
+`cek_{j1-1}` to recompute all subsequent CEKs and CENs.  Users can
+optionally delegate trust to the server by relying on the server to
+validate signatures.
 
 ## Comparison
 
+First, how do these protocols compare with respect to the properties
+named above?  Both achieve comparable server privacy, since the server
+sees key material, but does not have information on when and where the
+local broadcasts happened.  Neither achieve broadcast privacy, since a
+malicious party can rebroadcast observed values to spoof other user's
+broadcasts.  Both prevent passive tracking, because a user's broadcasts
+are pseudorandomly generated.  Both achieve receiver privacy, because
+users scan reports, and do not reveal which values they observed.
+However, there are two differences.
+
+First, they differ in reporter privacy.  In both cases, a passive
+adversary monitoring Bluetooth broadcasts can reconstruct parts of a
+user's travel history after they submit report data.  In the DP-3T
+protocol, this adversary can learn a user's `EphID` history over the
+entire reporting period, while in the CEN protocol, this adversary can
+learn a user's CEN history only over a single report, and the report
+duration is an application parameter, not hardcoded into the protocol.
+This passive adversary is fairly realistic, as Bluetooth tracking is
+widespread.[^1]  The DP-3T protocol randomizes the order in which
+`EphID`s are broadcast, but this does nothing to prevent location
+tracking, because any party in a position to record the `EphID` is also
+in a position to record the time it was broadcast.[^2]
+
+Second, the CEN protocol provides source integrity, while DP-3T does
+not.  Because all the recomputed CEKs are bound to the report
+verification key, and the signature serves as a proof-of-knowledge of
+the corresponding report authorization key, the receiver of the report
+is convinced that it was submitted by the user who generated the CENs.
+This has several implications.  Most importantly, it means that the
+underlying protocol *does not encode a trusted authority who must
+validate reports*, although it is perfectly compatible with this use-case
+by embedding a signature in the memo field.  It also prevents users
+from re-submitting data other users previously revealed in their
+reports.  
+
+These properties can be summarized in the following table:
+
 |  Property   |   DP-3T   | CEN |
 |-------------|-----------|-----|
-| **Server Privacy** |     |     |
-| **Source Integrity** |      |     |
-| **Broadcast Integrity**|       |      |
-| **No Passive Tracking**|       |      |
-| **Receiver Privacy**|       |      |
-| **Reporter Privacy**|       |      |
+| **Server Privacy** | Yes    | Yes    |
+| **Source Integrity** |  No | Yes    |
+| **Broadcast Integrity**| No     | No     |
+| **No Passive Tracking**| Yes | Yes     |
+| **Receiver Privacy**| Yes   |  Yes     |
+| **Reporter Privacy**| Some; passive adversaries can link `EphID`s over
+entire reporting interval | Some; passive adversaries can link `CEN`s
+only within a single report |
 
+Despite these differences, the two protocols achieve broadly similar
+functionality.  However, there are also some practical differences.
+
+To prevent passive tracking, it's not enough just to rotate the
+pseudorandom `EphID` or CEN broadcast by a user's device.  This rotation
+must be precisely aligned with the rotation of the device's Bluetooth
+MAC address.
+
+If these two rotations are not aligned, as follows:
+```
+|-------|-------|-------|-------|-------|  BT MAC rotation
+|----|----|----|----|----|----|----|----|  EphID/CEN rotation
+```
+then a passive adversary can analyze the overlap to link all
+past broadcasts.
+
+For this reason, the CEN protocol decouples the CEK ratchet from any
+notion of time, allowing it to be precisely aligned with the underlying
+hardware.  This alignment is also possible with DP-3T, but it may be
+more difficult in practice, since the number of `EphID`s per day is
+fixed, but the number required may be unknown.
+
+The other significant practical difference is that the CEN protocol aims
+to be application-agnostic and extensible through the use of a memo
+field.
+The memo field is encoded in tag-length-value format as
+```
+type: u8 || len: u8 || data: [u8; len],
+```
+allowing reports to include up to 255 bytes of data.  For instance, the
+memo field could contain a bitflag describing self-reported symptoms, or
+a signature by a health authority certifying test results.[^3]
+This means
+that the underlying protocol can be compatible with any number of
+entities that can certify test results, and more entities can be added
+at any time.  In contrast, the current DP-3T design only allows
+implicitly encoding one bit (inclusion implies certified test result),
+and the health authorities that certify test results are encoded into
+the protocol.
+
+## Conclusion
+
+It's incredible to see the rapid progress being made in this area.  
+Different efforts are converging on similar designs, and it seems likely
+that one or more decentralized, privacy-preserving contact tracing
+protocols will be ready for deployment soon.
+
+This post compared the current designs of the DP-3T and CEN protocols,
+but given the rapid design iteration, it's likely that the designs will
+continue to evolve, and this is by no means a final analysis.
+
+One exciting recent development is the creation of the [TCN
+Coalition][tcn], a global coalition for privacy-first digital contact
+tracing protocols to fight COVID-19.  This aims to join multiple efforts
+to develop a shared, open protocol that can be used by multiple
+applications.  Together, we can get secure tracing apps running on
+billions of users' devices -- fast.
+
+[^1]: Bluetooth tracking may not be GDPR-compliant.  Unfortunately,
+passive adversaries may not obey the GDPR.
+
+[^2]: It's entirely possible that there's another reason for this, which
+I just missed while reading the document.
+
+[^3]: It's important for applications to ensure that the memo data does
+not contain any personally-identifying information, or that users give
+informed consent before doing so.  For instance, in the first case, a
+health authority can sign a user's `rvk`, which reveals no
+personally-identifying information.  An example of the second case, if an
+application allows users to altruistically self-report symptoms, the
+symptom vector may be high-entropy and allow report linkage, and the
+application should seek informed consent.
 
 [call_post]: https://www.zfnd.org/blog/decentralized-contact-tracing/
 [tradeoffs_post]: https://www.zfnd.org/blog/design-tradeoffs-in-private-contact-tracing/
 [Covid-Watch]: https://www.covid-watch.org/
 [CoEpi]: https://www.coepi.org/
 [DP-3T]: https://github.com/DP-3T/documents/blob/6ac18840fce3dd1c5e8f101dda7f036cffcbccee/DP3T%20White%20Paper.pdf
+[cen_protocol]: https://github.com/Co-Epi/CEN/blob/main/README.md
+[tcn]: http://tcn-coalition.org/

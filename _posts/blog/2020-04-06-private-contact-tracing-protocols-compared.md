@@ -21,13 +21,14 @@ So it's been incredibly exciting to see how many people have been
 working on this problem in a spirit of radical collaboration.  Some of
 these projects are mentioned in our previous post on [design tradeoffs
 in contact tracing systems][tradeoffs_post].  At the Zcash Foundation,
-we've been collaborating on the [CEN Protocol][cen_protocol], originally
-started as a joint effort between two projects, [CoEpi] and
-[Covid-Watch].  And earlier this week, a group of European academics
-from eight universities announced a new effort called [DP-3T].  These
-protocols are very similar, and it would be great if they could both
-evolve towards a common standard.  To support that goal, this post will
-compare and contrast the current designs of the DP-3T and CEN protocols.
+we've been collaborating with existing efforts on the [CEN
+Protocol][cen_protocol], originally started as a joint effort between
+two projects, [CoEpi] and [Covid-Watch].  And earlier this week, a group
+of European academics from eight universities announced a new effort
+called [DP-3T].  These protocols are very similar, and it would be great
+if they could both evolve towards a common standard.  To support that
+goal, this post will compare and contrast the current designs of the
+DP-3T and CEN protocols.
 
 ## Protocol structure
 

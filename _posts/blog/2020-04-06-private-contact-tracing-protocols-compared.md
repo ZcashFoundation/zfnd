@@ -303,20 +303,11 @@ to develop a shared, open protocol that can be used by multiple
 applications.  Together, we can get secure tracing apps running on
 billions of users' devices -- fast.
 
-[^1]: Bluetooth tracking may not be GDPR-compliant.  Unfortunately,
-passive adversaries may not obey the GDPR.
+[^1]: Bluetooth tracking may not be GDPR-compliant.  Unfortunately, passive adversaries may not obey the GDPR.
 
-[^2]: It's entirely possible that there's another reason for this, which
-I just missed while reading the document.
+[^2]: It's entirely possible that there's another reason for this, which I just missed while reading the document.
 
-[^3]: It's important for applications to ensure that the memo data does
-not contain any personally-identifying information, or that users give
-informed consent before doing so.  For instance, in the first case, a
-health authority can sign a user's `rvk`, which reveals no
-personally-identifying information.  An example of the second case, if an
-application allows users to altruistically self-report symptoms, the
-symptom vector may be high-entropy and allow report linkage, and the
-application should seek informed consent.
+[^3]: It's important for applications to ensure that the memo data does not contain any personally-identifying information, or that users give informed consent before doing so.  For instance, in the first case, a health authority can sign a user's `rvk`, which reveals no personally-identifying information.  An example of the second case, if an application allows users to altruistically self-report symptoms, the symptom vector may be high-entropy and allow report linkage, and the application should seek informed consent.
 
 [call_post]: https://www.zfnd.org/blog/decentralized-contact-tracing/
 [tradeoffs_post]: https://www.zfnd.org/blog/design-tradeoffs-in-private-contact-tracing/

@@ -3,7 +3,7 @@ layout: post
 title: "Let's Develop Decentralized, Privacy-Preserving Contact Tracing"
 excerpt: "A call-to-action to develop a decentralized, privacy-preserving contact tracing protocol for COVID-19 response."
 categories: blog
-tags: []
+tags: [cryptography, research, development]
 date: 2020-03-23
 author: hdevalence
 image: surely-the-fire-department.jpg

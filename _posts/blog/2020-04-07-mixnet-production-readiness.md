@@ -32,12 +32,15 @@ Because mixnets add extra latency to network traffic, mixnets are better-suited 
 While the design of mixnets prevents many forms of end-to-end timing correlation attacks (such as by a global adversary), many other more nuanced security requirements must be met for a mixnet to provide sufficient protections to users in practice. Let’s enumerate a couple.
 
 - A sufficient number of nodes in the network such that an adversary operating their own nodes cannot gain sufficient probability of targeting specific users or having their nodes be selected for the same path.
+- A sufficient number of users with similar-enough usage patters sending traffic through the network to have a high anonymity set for each user.
 - A trustworthy way of distributing information about the network, so that an adversary cannot trivially change this information in order to trick users or nodes or gain an unfair advantage within the network. Information about the network includes the list of currently-active nodes, which must be updated as nodes join/leave the network or perform updates.
 - A way to monitor the health of the network and ensure its resiliency, such as by identifying and kicking out misbehaving nodes. For example, nodes who are performing DDOS attacks against the network and consequently preventing client use.
 - A sufficiently active community and set of contributors to perform software maintenance and general updates and coordination.
 - Application support- the ability for applications to interact with the network, forward and receive traffic sent through the network, and keep locally-held information about the network up to date.
 
 These are just a few examples; this list is not exhaustive.
+
+For comparison, let's quickly see how Tor addresses a couple of the points above that are more easily quantifiable. For the first point, the current Tor network has approximately [7,000 servers][tor-servers] hosted across over [1,000 autonomous systems][tor-network-diversity]. Per the second point, Tor has just over [two million users][tor-clients]. Per the third point, network information in Tor, termed the *consensus*, is authenticated by servers run by trusted community members termed the *directory authorities*. For the fourth point, Tor has a standard process for [reporting and handling malicious relays][bad-relays].
 
 ## What needs to be in place in order for applications to “just start sending their traffic over a mixnet”? Where are we today with usable tools?
 
@@ -61,6 +64,10 @@ Finally, network anonymity is only one small part within a larger setting that d
 [onion-encryption]: https://en.wikipedia.org/wiki/Onion_routing
 [tor-network]: https://www.torproject.org/
 [nym]: https://nymtech.net/
+[tor-servers]: https://metrics.torproject.org/networksize.html
+[tor-clients]: https://metrics.torproject.org/userstats-relay-country.html
+[tor-network-diversity]: https://metrics.torproject.org/bubbles.html#as
+[bad-relays]: https://blog.torproject.org/how-report-bad-relays
 
 
 

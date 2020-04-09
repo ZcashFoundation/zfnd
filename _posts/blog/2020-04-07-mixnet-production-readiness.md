@@ -4,7 +4,7 @@ title: "Assessing Mixnet Production-Readiness"
 excerpt: "A discussion of mixnets and requirements for distributed anonymity networks in practice."
 categories: blog
 tags: []
-date: 2020-04-10
+date: 2020-04-09
 author: chelseakomlo
 ---
 

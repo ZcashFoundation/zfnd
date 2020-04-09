@@ -42,6 +42,8 @@ These are just a few examples; this list is not exhaustive.
 
 For comparison, let's quickly see how Tor addresses a couple of the points above that are more easily quantifiable. For the first point, the current Tor network has approximately [7,000 servers][tor-servers] hosted across over [1,000 autonomous systems][tor-network-diversity]. Per the second point, Tor has just over [two million users][tor-clients]. Per the third point, network information in Tor, termed the *consensus*, is authenticated by servers run by trusted community members termed the *directory authorities*. For the fourth point, Tor has a standard process for [reporting and handling malicious relays][bad-relays].
 
+Note that even with a large number of users around the globe, the usage pattern of individual users still can decrease their overall anonymity even while using anonymity networks such as Tor. [One recent example][harvard-student] is that of a Harvard student who was deanonymized simply because of the time of day which he accessed Tor via the Harvard network. This consideration is outside the Tor protocol but still is an important consideration when assessing the safety of users by an anonymity network.
+
 ## What needs to be in place in order for applications to “just start sending their traffic over a mixnet”? Where are we today with usable tools?
 
 Most importantly, it is important to acknowledge that no mixnet currently exists that is of sufficient size to support a large number of users and high amounts of network traffic. However, there are exciting developments such that one could exist in the future (one that I personally am rooting for is [Nym][nym]; their team has well-respected senior researchers in the field of network privacy). However, practically, a lot of growth and maturity is needed before such networks can be used at scale.
@@ -68,6 +70,7 @@ Finally, network anonymity is only one small part within a larger setting that d
 [tor-clients]: https://metrics.torproject.org/userstats-relay-country.html
 [tor-network-diversity]: https://metrics.torproject.org/bubbles.html#as
 [bad-relays]: https://blog.torproject.org/how-report-bad-relays
+[harvard-student]: https://www.forbes.com/sites/runasandvik/2013/12/18/harvard-student-receives-f-for-tor-failure-while-sending-anonymous-bomb-threat/#21eea1e15457
 
 
 

@@ -27,16 +27,17 @@ Because mixnets add extra latency to network traffic, mixnets are better-suited 
 
 Mixnets are often compared to the [Tor network][tor-network], one of the largest and best-known anonymity networks today. While mixnet designs can vary, one key difference between mixnets and the Tor network is the injection of arbitrary latency at each hop in a user’s path through a mixnet, as discussed above. Tor is a low latency network, meaning that once a node receives user traffic, it forwards that traffic as soon as possible. This means that an adversary watching traffic in networks such as the Tor network could perform an end-to-end correlation attack by watching packets entering and leaving the network, and performing timing correlation to link these packets. However, Tor assumes that such an adversary is infeasible in practice, as nodes are distributed across a range of network providers and geographic locations. A mixnet, on the other hand, assumes such an adversary is in scope, and protects against such an adversary by adding latency to user traffic as it passes through each hop in its path through the network.
 
-## What is needed to safely use a mixnet in practice?
+## In addition to the design of mixnets to protect against end-to-end timing
+attacks, what else is needed to safely use a mixnet in practice?
 
-While the design of mixnets prevents many forms of end-to-end timing correlation attacks (such as by a global adversary), many other more nuanced security requirements must be met for a mixnet to provide sufficient protections to users in practice. Let’s enumerate a couple.
+While the design of mixnets prevents many forms of end-to-end timing correlation attacks (such as by a global adversary), many other more nuanced security requirements must be met for a mixnet *deployed in a real-world setting* to provide sufficient protections to users. Let’s enumerate a couple.
 
-- A sufficient number of *independently operated* nodes in the network such that an adversary operating their own nodes cannot gain sufficient probability of targeting specific users or being selected for the same path.
-- A sufficient number of users with similar-enough usage patters sending traffic through the network to have a high anonymity set for each user.
-- A trustworthy way of distributing information about the network, so that an adversary cannot change this information in order to trick users or nodes or gain an unfair advantage within the network. Information about the network includes the list of currently-active nodes, which must be updated as nodes join/leave the network or perform updates.
-- A way to monitor the health of the network and ensure its resiliency, such as by identifying and kicking out misbehaving nodes. For example, nodes who are performing DDOS attacks against the network and consequently preventing client use.
-- A sufficiently active community and set of contributors to perform software maintenance and general updates and coordination.
-- Application support- the ability for applications to interact with the network, forward and receive traffic sent through the network, and keep locally-held information about the network up to date.
+- **A High Cost for Targeted Attacks by Malicious Nodes** A sufficient number of *independently operated* nodes in the network such that an adversary operating their own nodes cannot gain sufficient probability of targeting specific users or being selected for the same path.
+- **A Large Anonymity Set for Users** A sufficient number of users with similar-enough usage patters sending traffic through the network to have a high anonymity set for each user.
+- **Safe Distribution of Network Information** A trustworthy way of distributing information about the network, so that an adversary cannot change this information in order to trick users or nodes or gain an unfair advantage within the network. Information about the network includes the list of currently-active nodes, which must be updated as nodes join/leave the network or perform updates.
+- **Protecting against DDOS and Network-Wide Attacks** A way to monitor the health of the network and ensure its resiliency, such as by identifying and kicking out misbehaving nodes. For example, nodes who are performing DDOS attacks against the network and consequently preventing client use.
+- **Rapid Response to Identified Vulnurabilities** A sufficiently active community and set of contributors to perform software maintenance and general updates and coordination.
+- **Ongoing Community Support** Application support- the ability for applications to interact with the network, forward and receive traffic sent through the network, and keep locally-held information about the network up to date.
 
 These are just a few examples; this list is not exhaustive. The important takeaway from the above list is that a successful mixnet project (or any anonymity network project) is more than just its design; it must also be a trustworthy, deployed, established open-source software project *and* end-user product that is well-maintained *over the long term*. Achieving these objectives requires large-scale dedication on many levels as well as organizational infrastructure, research maturity, and a large set of other intangibles that cannot be achieved by simply publishing a novel research paper.
 
@@ -58,7 +59,7 @@ First, mixnet designs provide increased security against a global adversary seek
 
 Second, such a network currently does not exist that can be used at scale, or with as large of an anonymity set as the Tor network.
 
-Third, mixnets do not unilaterally provide better security against *all other kinds of adversaries* than non-mixnet anonymity networks. Other hard security problems still exist, such as securely distributing network information using a sufficient root of trust mechanism, and stable community involvement to perform ongoing tasks like software maintenance.
+Third, mixnets do not *unilaterally* provide better security than non-mixnet anonymity networks. Other hard security problems still exist, such as securely distributing network information using a sufficient root of trust mechanism, and stable community involvement to perform ongoing tasks like software maintenance.
 
 Finally, network anonymity is only one small part within a larger setting that defines how users are protected in their day-to-day interactions online. So when designing for the safety and privacy of users online, let’s take a step back and truly consider every factor, and strive to use every tool at our disposal to design and build systems that ensure the respect and privacy of our users.
 

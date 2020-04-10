@@ -28,7 +28,6 @@ Because mixnets add extra latency to network traffic, mixnets are better-suited 
 Mixnets are often compared to the [Tor network][tor-network], one of the largest and best-known anonymity networks today. While mixnet designs can vary, **one key difference between mixnets and the Tor network is the injection of latency at each hop in a user’s path through a mixnet**, as discussed above. Tor is a low latency network, meaning that once a node receives user traffic, it forwards that traffic as soon as possible. This means that an adversary watching traffic in networks such as the Tor network could perform an end-to-end correlation attack by watching packets entering and leaving the network, and performing timing correlation to link these packets. However, Tor assumes that such an adversary is infeasible in practice, as nodes are distributed across a range of network providers and geographic locations. A mixnet, on the other hand, assumes such an adversary is in scope, and protects against such an adversary by adding latency to user traffic as it passes through each hop in its path through the network.
 
 ## Beyond their design, what else is needed to safely use mixnets in practice?
-latency?
 
 While the design of mixnets prevents many forms of end-to-end timing correlation attacks (such as by a global adversary), many other more nuanced security requirements must be met for a mixnet *deployed in a real-world setting* to provide sufficient protections to users. Let’s enumerate a couple.
 

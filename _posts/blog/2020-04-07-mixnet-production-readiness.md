@@ -3,7 +3,7 @@ layout: post
 title: "Assessing Mixnet Production-Readiness"
 excerpt: "A discussion of mixnets and requirements for distributed anonymity networks in practice."
 categories: blog
-tags: []
+tags: [research]
 date: 2020-04-10
 author: chelseakomlo
 ---

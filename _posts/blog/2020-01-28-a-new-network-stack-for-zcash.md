@@ -3,7 +3,7 @@ layout: post
 title: "A New Network Stack For Zcash"
 excerpt: "We give a deep dive into the network architecture of Zebra, the Foundation's Zcash node implementation"
 categories: blog
-tags: []
+tags: [development]
 date: 2020-01-28
 author: hdevalence
 ---

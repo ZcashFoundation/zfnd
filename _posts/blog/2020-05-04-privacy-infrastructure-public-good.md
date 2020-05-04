@@ -8,7 +8,7 @@ date: 2020-05-04
 author: sonya
 ---
 
-As we often remind you, the [Zcash Foundation's mission](https://www.zfnd.org/about/#mission) is to create and support privacy infrastructure for the public good. What does that mean in practice? Can a cryptocurrency like Zcash be considered infrastructure? Well, yes.
+As we often remind you, the [Zcash Foundation's mission](https://www.zfnd.org/about/#mission) is to build and support privacy infrastructure for the public good. What does that mean in practice? Can a cryptocurrency like Zcash be considered infrastructure? Well, yes.
 
 A cryptocurrency is a living network, sustained by miners with their server racks, users with their nodes, developers who write the node clients, and everyone's continual reinvestment in the protocol that they all use to coordinate. The network is _created_ by the confluence of many individual choices to "plug in" and join the party. Consequently, cryptocurrencies are discussed in terms of ecosystems — [Bitcoin Core](https://github.com/bitcoin/bitcoin) is but one (important) constituent of bitcoin the phenomenom, or bitcoin the movement.
 
@@ -26,4 +26,4 @@ Peter's thinking culminated in the no-nonsense "Maintenance of Public Infrastruc
 
 There you have the long and short of it: "The unique qualities of the software and the network it creates should decrease the risk that sensitive and personally identifiable information associated with electronic payments will be obtained by unauthorized third-parties." The Foundation's education and research efforts are also aimed toward this fundamental goal, of enabling any and all people to preserve their financial privacy [through technology](https://www.zfnd.org/blog/cypherpunk-privacy-reading-list/).
 
-In other words, the Zcash Foundation creates and supports privacy infrastructure for the public good.
+In other words, the Zcash Foundation builds and supports privacy infrastructure for the public good.

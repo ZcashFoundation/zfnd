@@ -20,6 +20,6 @@ In fact, that kind of upgrade is *already* happening with Sapling! The Sapling z
 
 ## ...speaking of generalization: zkproof.org
 
-This level of generalization is not unique to Zcash’s zero knowledge system, but it's also not yet standardized. That’s why the Zcash Foundation sponsored the [ZK Proof conference](https://zkproof.org/), a standards effort organized by a broad panel of researchers. The Zcash Foundation has already led in supporting SNARK-related technology broadly, through our Zapps working group and hosting the [Powers of Tau ceremony](https://z.cash.foundation//blog/powers-of-tau/). We hope to see the conference pave the way for future zk-SNARK research and develop interoperable standards.
+This level of generalization is not unique to Zcash’s zero knowledge system, but it's also not yet standardized. That’s why the Zcash Foundation sponsored the [ZK Proof conference](https://zkproof.org/), a standards effort organized by a broad panel of researchers. The Zcash Foundation has already led in supporting SNARK-related technology broadly, through our Zapps working group and hosting the [Powers of Tau ceremony](https://zfnd.org/blog/powers-of-tau/). We hope to see the conference pave the way for future zk-SNARK research and develop interoperable standards.
 
 Zero knowledge systems are a critical piece of the technical privacy puzzle, and we hope the Foundation can continue to support their development across Zcash and other cryptocurrencies. Congrats again to StarkWare for their groundbreaking STARK research!

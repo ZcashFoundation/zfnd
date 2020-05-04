@@ -4,7 +4,7 @@ title: Zcon0 Speakers
 excerpt: "The speakers who will give talks and workshops at Zcon0."
 ---
 
-Confirmed [Zcon0](https://z.cash.foundation//zcon/) speakers/workshop hosts include:
+Confirmed [Zcon0](https://zfnd.org/zcon/) speakers/workshop hosts include:
 
 Name | Affiliation
 ------------ | -------------

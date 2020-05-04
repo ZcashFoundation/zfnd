@@ -12,7 +12,7 @@ author: acityinohio
 
 ## TL;DR: The Foundation is developing ASIC resistance as an option while simultaneously researching ASIC resistance
 
-The only thing hotter than the GPUs securing the Zcash network is the debate surrounding ASIC resistance. You don’t need to look further than the most-debated [Zcash Forum thread of all time](https://forum.z.cash/t/let-s-talk-about-asic-mining/27353) from February, or the debates that routinely pop up in the [community chat](https://chat.zcashcommunity.com/).
+The only thing hotter than the GPUs securing the Zcash network is the debate surrounding ASIC resistance. You don’t need to look further than the most-debated [Zcash Forum thread of all time](https://forum.zcashcommunity.com/t/let-s-talk-about-asic-mining/27353) from February, or the debates that routinely pop up in the [community chat](https://chat.zcashcommunity.com/).
 
 The ASIC resistance question has taken on new urgency now that Bitmain has announced the availability of the [AntMiner Z9 mini](https://twitter.com/BITMAINtech/status/992034662875779072), an Equihash-focused ASIC that seems tailor-made for Zcash, shipping in late June. Another complicating factor is that the Zcash Company’s chief, Zooko, has signalled ambivalence about ASIC resistance.
 

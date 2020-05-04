@@ -10,7 +10,7 @@ date: 2018-08-14
 author: sonya
 ---
 
-Ian Miers' [Zcon0](https://z.cash.foundation//blog/zcon0-recap/) presentation on the importance of financial privacy, and how technology can be used to achieve it, is now available as a professionally edited video. You can [watch it on YouTube](https://www.youtube.com/watch?v=YNW3p6jCE5E).
+Ian Miers' [Zcon0](https://zfnd.org/blog/zcon0-recap/) presentation on the importance of financial privacy, and how technology can be used to achieve it, is now available as a professionally edited video. You can [watch it on YouTube](https://www.youtube.com/watch?v=YNW3p6jCE5E).
 
 Thank you to [DappDevs](https://www.dappdevs.org/) and [Checkmate Digital](https://checkmate.digital/) for donating the labor!
 

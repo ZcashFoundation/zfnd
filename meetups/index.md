@@ -8,37 +8,33 @@ excerpt: "All the information you need to run a Zcash meetup."
 
 The Zcash Foundation is happy to support independent Zcash meetup groups throughout the world. We want to make it easier for community members to meet each other and learn together in person.
 
-**Check out our [Meetup.com Zcash network](https://www.meetup.com/pro/zcash-foundation/) to see if there’s a group in your area! (Meetups that are not part of the network will be listed here individually.)**
-
 We also welcome meetup organizers or attendees who want to incorporate Zcash into their existing groups! Whether you focus on a different cryptocurrency, privacy technologies in general, or some other topic, we’re interested in adding Zcash to the mix.
 
 If you’re a potential or current meetup organizer, here’s what we can do to support you:
 
 * Promote your meetup within Zcash communities
-* Cover Meetup.com fees if you join our network
-* Provide Zcash information and discussion topics
+* Point you toward Zcash information and discussion topics
 * Help find free or low-cost venues
 * Defray additional costs on a case-by-case basis
 
 **Please email contact@zfnd.org to inquire!**
 
-A quick disclaimer: The Zcash Foundation occasionally hosts one-off events, and we run the [annual Zcon gathering](https://z.cash.foundation//zcon/). However, the meetup groups are independent, run by their respective organizers. We do still want to know if a meetup organizer causes any problems or doesn’t handle a disruptive attendee appropriately. Email contact@zfnd.org with any concerns.
+A quick disclaimer: The Zcash Foundation occasionally hosts one-off events, and we run the [annual Zcon gathering](https://zfnd.org/zcon/). However, the meetup groups are independent, run by their respective organizers. We do still want to know if a meetup organizer causes any problems or doesn’t handle a disruptive attendee appropriately. Email contact@zfnd.org with any concerns.
 
 ## Shortcut
 
 Don't want to read a long guide? Here's the ultra quick-and-dirty version:
 
-* [Our network on Meetup.com](https://www.meetup.com/pro/zcash-foundation/)
-* [Planning checklist, color](https://z.cash.foundation/meetups/Zcash%20meetups%20checklist%20color.pdf)
-* [Planning checklist, B&W](https://z.cash.foundation/meetups/Zcash%20meetups%20checklist%20BW.pdf)
-* [One-page Zcash intro, color](https://z.cash.foundation/meetups/Zcash%20onepager%20color.pdf)
-* [One-page Zcash intro, B&W](https://z.cash.foundation/meetups/Zcash%20onepager%20BW.pdf)
+* [Planning checklist, color](https://zfnd.org/meetups/Zcash%20meetups%20checklist%20color.pdf)
+* [Planning checklist, B&W](https://zfnd.org/meetups/Zcash%20meetups%20checklist%20BW.pdf)
+* [One-page Zcash intro, color](https://zfnd.org/meetups/Zcash%20onepager%20color.pdf)
+* [One-page Zcash intro, B&W](https://zfnd.org/meetups/Zcash%20onepager%20BW.pdf)
 
 Scroll down to "Quickstart" for a slightly longer quick-and-dirty version. But of course, you are encouraged to read the whole page!
 
 # Meetup Guidelines
 
-_The Foundation created this resource in partnership with [Paige Peterson](https://twitter.com/ioptio) from the Zcash Company, using [Stellar’s guidelines](https://www.stellar.org/community/meet-up-guidelines/) as a starting point._
+_The Foundation created this resource in partnership with [Paige Peterson](https://twitter.com/ioptio) from the Electric Coin Company, using [Stellar’s guidelines](https://www.stellar.org/community/meet-up-guidelines/) as a starting point._
 
 The following guide walks through all the necessary steps for starting and sustaining a meetup group. We encourage the Zcash community to take initiative and start local Zcash meetups all around the world!
 
@@ -70,7 +66,7 @@ Make use of social media and your network. Personally invite anyone you know who
 * [subreddit](https://www.reddit.com/r/zec)
 * [Telegram](http://t.me/zcon0)
 
-And don't forget Twitter. Tag [@ZcashFoundation](https://twitter.com/zcashfoundation) and [@zcashco](https://twitter.com/zcashco) so we can amplify you.
+And don't forget Twitter. Tag [@ZcashFoundation](https://twitter.com/zcashfoundation) and [@ElectricCoinCo](https://twitter.com/ElectricCoinCo) so we can amplify you.
 
 ### 4) Plan your first specific meetup.
 
@@ -81,9 +77,9 @@ And don't forget Twitter. Tag [@ZcashFoundation](https://twitter.com/zcashfounda
 
 ### 5) Repeat all of the above on a regular basis!
 
-Here is a printable version of the checklist: [Color version](https://z.cash.foundation/meetups/Zcash%20meetups%20checklist%20color.pdf), [B&W version](https://z.cash.foundation/meetups/Zcash%20meetups%20checklist%20BW.pdf).
+Here is a printable version of the checklist: [Color version](https://zfnd.org/meetups/Zcash%20meetups%20checklist%20color.pdf), [B&W version](https://zfnd.org/meetups/Zcash%20meetups%20checklist%20BW.pdf).
 
-And here is a one-page introduction to Zcash that may come in handy: [Color version](https://z.cash.foundation/meetups/Zcash%20onepager%20color.pdf), [B&W version](https://z.cash.foundation/meetups/Zcash%20onepager%20BW.pdf).
+And here is a one-page introduction to Zcash that may come in handy: [Color version](https://zfnd.org/meetups/Zcash%20onepager%20color.pdf), [B&W version](https://zfnd.org/meetups/Zcash%20onepager%20BW.pdf).
 
 Would more detailed guidance be helpful? Then read on!
 
@@ -132,7 +128,7 @@ The more people you have at a meetup, the more structured programming you will n
 
 ## Logistics
 
-You can use the Meetup.com platform and become part of the [Zcash Foundation network](https://www.meetup.com/pro/zcash-foundation/), but you’re welcome to use whatever platform you think is the best fit. You’ll want to include Zcash, the location, and potentially the intended meetup focus as part of the group title. For example: Zcash Users of Boston, Zcash Devs NYC, or simply Zcash Chicago.
+Meetup.com is a common choice, but you’re welcome to use whatever platform you think is the best fit. You’ll want to include Zcash, the location, and potentially the intended meetup focus as part of the group title. For example: Zcash Users of Boston, Zcash Devs NYC, or simply Zcash Chicago.
 
 When you schedule an event, check Meetup.com’s calendar for similar events, and use a search engine to see if there are other major gatherings in your area on that day. You don’t want to conflict with related events, but sometimes there might be opportunity to coordinate with a relevant conference. If a larger event is happening during the daytime, you can, for example, schedule a social meetup in the evening that the larger event organizers can promote to attendees.
 

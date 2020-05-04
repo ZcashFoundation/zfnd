@@ -23,15 +23,15 @@ El que fuera alguna vez [el país más rico de América Latina](http://www.adn40
 ## ¿Qué se puede hacer?
 ### Una inflación transparente y predecible
 
-A diferencia del Bolívar venezolano, [Zcash](https://z.cash/es) y [Bitcoin](http://elbitcoin.org/que-es-un-bitcoin/) no pueden ser devaluados por decisión del gobierno. Zcash es dinero operado por la gente.
+A diferencia del Bolívar venezolano, [Zcash](https://electriccoin.co/es) y [Bitcoin](http://elbitcoin.org/que-es-un-bitcoin/) no pueden ser devaluados por decisión del gobierno. Zcash es dinero operado por la gente.
 
-No existe un banco central que pueda decidir cuánto Zcash debe ser creado. La tasa de distribución [está fijada](https://z.cash/es/support/faq.html#zcash-economics) en el protocolo de Zcash, y nadie tiene el poder de modificarlo unilateralmente.
+No existe un banco central que pueda decidir cuánto Zcash debe ser creado. La tasa de distribución [está fijada](https://electriccoin.co/es/support/faq.html#zcash-economics) en el protocolo de Zcash, y nadie tiene el poder de modificarlo unilateralmente.
 
 ### Centrado en la privacidad
 
 Zcash ofrece privacidad y una transparencia selectiva en las transacciones. Las transacciones completamente blindadas actúan de la misma manera que el dinero físico: solo las personas involucradas en un intercambio, y aquellas con los que eventualmente decidan compartir la información, conocerán los detalles de la transacción.
 
-Para situaciones menos sensibles, [existen también](https://z.cash/es/support/faq.html#difference-between-t-and-z-addrs) las transacciones transparentes, que son además compatibles con las billeteras virtuales móviles.
+Para situaciones menos sensibles, [existen también](https://electriccoin.co/es/support/faq.html#difference-between-t-and-z-addrs) las transacciones transparentes, que son además compatibles con las billeteras virtuales móviles.
 
 ## ¿Cómo puede ayudarme a mí y a mi gente?
 
@@ -82,15 +82,15 @@ The once [richest country in Latin America](http://www.adn40.mx/noticia/internac
 ## What can be done?
 ### Transparent, predictable inflation
 
-Unlike the Venezuelan Bolivar, [Zcash](https://z.cash/es) and [Bitcoin](http://elbitcoin.org/que-es-un-bitcoin/) cannot be devalued by the act of the government. Zcash is money operated by the people.
+Unlike the Venezuelan Bolivar, [Zcash](https://electriccoin.co/es) and [Bitcoin](http://elbitcoin.org/que-es-un-bitcoin/) cannot be devalued by the act of the government. Zcash is money operated by the people.
 
-There's no central bank who can decide how much Zcash to create. The rate of distribution [is fixed](https://z.cash/es/support/faq.html#zcash-economics) in the Zcash protocol, and no one has the power to single-handedly modify that.
+There's no central bank who can decide how much Zcash to create. The rate of distribution [is fixed](https://electriccoin.co/es/support/faq.html#zcash-economics) in the Zcash protocol, and no one has the power to single-handedly modify that.
 
 ### Privacy-centric
 
 Zcash offers privacy and selective transparency of transactions. Fully shielded transactions act like physical cash: only the people involved in an exchange, and those they eventually choose to share the info with, know the transaction details. 
 
-Transparent transactions are [also available](https://z.cash/es/support/faq.html#difference-between-t-and-z-addrs) for less sensitive situations and are supported by mobile wallets.
+Transparent transactions are [also available](https://electriccoin.co/es/support/faq.html#difference-between-t-and-z-addrs) for less sensitive situations and are supported by mobile wallets.
 
 ## How can it help me and my people?
 

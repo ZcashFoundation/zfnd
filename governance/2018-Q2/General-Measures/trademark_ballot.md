@@ -17,7 +17,7 @@ The Foundation should prioritize transitioning ownership of the Zcash trademark 
 
 ## Background
 
-The Zcash Company currently holds the trademark for Zcash and associated iconography. Since building the trademark, the Company has always intended to [transfer them to the Foundation](https://z.cash/trademark-policy.html).
+The Zcash Company currently holds the trademark for Zcash and associated iconography. Since building the trademark, the Company has always intended to [transfer them to the Foundation](https://electriccoin.co/trademark-policy.html).
 
 ## Point-Counterpoint
 

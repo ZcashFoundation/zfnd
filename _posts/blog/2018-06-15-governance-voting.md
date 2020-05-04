@@ -13,7 +13,7 @@ The Zcash Foundation governance process has commenced! [Members](https://github.
 
 **The deadline for voting is June 25th at 1500 UTC.** You can [review the ballot on Helios](https://vote.heliosvoting.org/helios/elections/cdc15aa6-6f75-11e8-b5e0-0e48ec97cebb/questions).
 
-Discussion and feedback is welcome [on the Zcash forum](https://forum.z.cash/t/voting-on-proposals-and-board-candidates/29713) — please join in!
+Discussion and feedback is welcome [on the Zcash forum](https://forum.zcashcommunity.com/t/voting-on-proposals-and-board-candidates/29713) — please join in!
 
 Here are the six proposals to evaluate:
 * [The Zcash Trademark](https://github.com/ZcashFoundation/Elections/blob/master/2018-Q2/General-Measures/trademark_ballot.md)
@@ -36,4 +36,4 @@ Please peruse the potential board members’ self-nominations:
 * [Amber Baldet](https://github.com/ZcashFoundation/Elections/blob/master/2018-Q2/Board-Nominations/amber_baldet_nomination.md)
 * [Pavel Sokolov](https://github.com/ZcashFoundation/Elections/blob/master/2018-Q2/Board-Nominations/Sokolov_selfnomination.md)
 
-In addition to commenting [on the forum](https://forum.z.cash/t/voting-on-proposals-and-board-candidates/29713), feel free to voice your thoughts [on our listserv](https://lists.z.cash.foundation/mailman/listinfo/general) or in the [community chat](https://chat.zcashcommunity.com/home). If you prefer Twitter, the hashtag #ZcashFoundation will enable others to find you and participate in the conversation.
+In addition to commenting [on the forum](https://forum.zcashcommunity.com/t/voting-on-proposals-and-board-candidates/29713), feel free to voice your thoughts [on our listserv](https://lists.zfnd.org/mailman/listinfo/general) or in the [community chat](https://chat.zcashcommunity.com/home). If you prefer Twitter, the hashtag #ZcashFoundation will enable others to find you and participate in the conversation.

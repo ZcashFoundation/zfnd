@@ -14,7 +14,7 @@ Hello everyone! You may be wondering what on earth is going on with our Grants P
 
 Our plan for Q4 and beyond is to switch to a more lightweight, nimble funding option. The Grants Program has produced excellent work, but the Foundation wants to accelerate that progress and improve our ability to support the Zcash ecosystem. Make sure to [sign up for our newsletter](https://buttondown.email/zcashfoundation) so you won’t miss future announcements!
 
-In the meantime, we want to share the progress of the [2017Q4 grant recipients](https://z.cash.foundation/blog/grant-awards/). The titles below are taken from grantees’ original applications on GitHub.
+In the meantime, we want to share the progress of the [2017Q4 grant recipients](https://zfnd.org/blog/grant-awards/). The titles below are taken from grantees’ original applications on GitHub.
 
 ## [Zcash Education Outreach](https://github.com/ZcashFoundation/GrantProposals-2017Q4/issues/10)
 
@@ -34,11 +34,11 @@ Far more detail is [available on GitHub](https://github.com/ZcashFoundation/Gran
 
 ## [Guarda Zcash light wallet UX](https://github.com/ZcashFoundation/GrantProposals-2017Q4/issues/16)
 
-Zcash is available on the mobile, web, and desktop Guarda wallets. After [Sapling](https://z.cash/upgrade/sapling), the wallets will also support shielded transactions. A team member told the Foundation that Guarda is forging ahead despite the company’s delisting from Google Play. The company recently announced that [all of its wallets have been open-sourced](https://github.com/guardaco/guarda-android-wallets)!
+Zcash is available on the mobile, web, and desktop Guarda wallets. After [Sapling](https://electriccoin.co/upgrade/sapling), the wallets will also support shielded transactions. A team member told the Foundation that Guarda is forging ahead despite the company’s delisting from Google Play. The company recently announced that [all of its wallets have been open-sourced](https://github.com/guardaco/guarda-android-wallets)!
 
 ## [Empirical analysis of the Zcash blockchain](https://github.com/ZcashFoundation/GrantProposals-2017Q4/issues/24)
 
-Along with their [paper on Zcash](https://z.cash.foundation/blog/asic-equihash-study/), University of Luxembourg researchers Alex Biryukov and Daniel Feher released the [BlockSci explorer tool](https://github.com/cryptolu/BlockSci) in July. Their GitHub repo indicates that the tool will have ongoing support.
+Along with their [paper on Zcash](https://zfnd.org/blog/asic-equihash-study/), University of Luxembourg researchers Alex Biryukov and Daniel Feher released the [BlockSci explorer tool](https://github.com/cryptolu/BlockSci) in July. Their GitHub repo indicates that the tool will have ongoing support.
 
 ## [Video production, animation and marketing](https://github.com/ZcashFoundation/GrantProposals-2017Q4/issues/23)
 

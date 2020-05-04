@@ -1,26 +1,21 @@
 
-<h2 id="mission">Our Mission</h2>
+<h2 id="mission">Mission</h2>
 
-Per our [501(c)3 application](IncorporationDocs/Zcash%20Foundation%201023.pdf), the Zcash Foundation's mission is to be a public charity dedicated to building internet payment and privacy infrastructure for the public good, primarily serving the users of the Zcash protocol and blockchain. Our activities span three main pillars:
+The Zcash Foundation is a public charity that builds and supports privacy infrastructure for the public good. We work on strengthening financial privacy with technology, focused on the Zcash protocol and blockchain.
 
-### Community
+Our goal at ZF is to create tools that help sustain open networks, enabling anyone and everyone to protect their own privacy on their own terms. The essence of privacy itself is being able to choose what is or isn’t shared with others. Privacy comprises both autonomy and consent; it is essential to human dignity and the healthy continuation of civil society.
 
-We support the transition of Zcash into a large and healthy community with diverse stakeholders, held accountable to its userbase in the broadest sense. Our activities include sponsoring a conference for developers, miners, and other community members, to help jump start the conversation. We also plan to organize mailing lists that give voice to groups of stakeholders that might not otherwise have them.
+## Programs
 
-Our own governance structure is designed especially with public transparency in mind (as specified in the [section on values](https://www.zfnd.org/about/#values)). So that the Foundation can be effectively held accountable to the community we serve.
+ZF programs fall into two categories, comprising both in-house efforts and external collaboration: (1) research and development, (2) community and governance.
 
-### Protocol and Governance
+### Research and Development
 
-The Zcash protocol and the open network it powers is valuable, privacy-protecting Internet infrastructure; it should be developed and maintained by an open and diverse community of experts and enthusiasts, and it should remain always a tool for financial privacy available to the general public.
+* [Engineering](https://github.com/zcashfoundation/)
+* [Grants](https://grants.zfnd.org/)
 
-We will act as stewards of the Zcash protocol, providing leadership and supporting its continued maintenance and improvement.  
+### Community and Governance
 
-We will offer responsive leadership when changes are necessary on short notice, such as a hard fork to resist an attack.
-
-We will help coordinate on upgrades to the protocol. This can include organizing soft forks, organizing hard forks, and helping to conduct "ceremonies" such as parameter generation (should more of those be necessary). 
-
-### Science
-
-Technical decisions are best supported by scientific activities, such as rigorous validation, empirical measurement, and continued innovation and refinement. We will therefore support these activities within our community. All cryptocurrencies, but especially Zcash, rely on cutting-edge contributions from the scientific research community, thus interaction with this community can also help the community stay healthy.
-
-We will encourage this scientific research and educate the public regarding the substance and benefits of these scientific developments.
+* [Governance](https://www.zfnd.org/governance/)
+* [Zcon](https://www.zfnd.org/zcon/)
+* [Zcash Community Forum](https://forum.zcashcommunity.com/)

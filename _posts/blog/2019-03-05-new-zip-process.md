@@ -30,9 +30,9 @@ Further down:
 
 Foregrounding the ZIP process is a significant procedural change. Historically, the Electric Coin Company has handled the vast majority of Zcash protocol development (notwithstanding help from third-party open-source contributors). That is still largely the case, although the Foundation’s [node partnership with Parity Technologies](https://www.zfnd.org/blog/parity-partnership/) is a big step toward establishing a larger group of well-resourced development stakeholders.
 
-The Electric Coin Company’s modus operandi was to write ZIPs after deciding internally which features would be included in its [Network Upgrade Pipeline](https://z.cash/blog/the-zcash-network-upgrade-pipeline/). That was a practical way to handle things at the time, but it is no longer sufficient as the Zcash ecosystem continues to expand and mature. In the future, the Network Upgrade Pipeline will persist, but it will be downstream of the ZIP process rather than the other way around.
+The Electric Coin Company’s modus operandi was to write ZIPs after deciding internally which features would be included in its [Network Upgrade Pipeline](https://electriccoin.co/blog/the-zcash-network-upgrade-pipeline/). That was a practical way to handle things at the time, but it is no longer sufficient as the Zcash ecosystem continues to expand and mature. In the future, the Network Upgrade Pipeline will persist, but it will be downstream of the ZIP process rather than the other way around.
 
-As Electric Coin Company CTO Nathan Wilcox [wrote in December, 2018](https://z.cash/blog/the-zcash-network-upgrade-pipeline):
+As Electric Coin Company CTO Nathan Wilcox [wrote in December, 2018](https://electriccoin.co/blog/the-zcash-network-upgrade-pipeline):
 
 > The Network Upgrade Pipeline is an execution process, not a governance or evaluation process. It doesn’t define how decisions are made, although it does clarify roles for making “execution decisions,” such as if a proposed specification meets the criteria to begin implementation and design audits.
 

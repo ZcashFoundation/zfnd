@@ -44,13 +44,13 @@ Arbiters are crucial. If the person or team behind a given campaign doesn't meet
 
 Please review the [privacy policy](https://grants.zfnd.org/privacy) to understand our commitments with respect to data collected by the platform. The Zcash Foundation intentionally chose a stricter privacy policy than most internet services.
 
-Unfortunately, because we didn’t want to delay launch, ZF Grants can only support contributions through transparent transactions — for the time being. (Campaign payouts *must* be made to shielded Sapling addresses). Zcash transparent addresses and transactions, like Bitcoin addresses and transactions, are pseudonymous but not private.
+Unfortunately, because we didn’t want to delay launch, ZF Grants can only support contributions through transparent transactions — for the time being. (Campaign payouts *must* be made to shielded Sapling addresses.) Zcash transparent addresses and transactions, like Bitcoin addresses and transactions, are pseudonymous but not private.
 
 Shielded transactions will be added as soon as possible! We'd love to support them right from the get-go, but blockchain-level visibility is important. After all, transparency is first on our list of [institutional values](https://www.zfnd.org/about/#values).
 
 Today, when people contribute funds to a proposal, the proposal is assigned a Zcash t-address. Users can send $ZEC from a z-address, ensuring that the origin of the funds is private, but such transactions are not quite as private as shielded-to-shielded transactions.
 
-In the future, [when Zcash includes viewing keys](https://z.cash/blog/viewing-keys-selective-disclosure/), ZF Grants will be able to support completely private z-to-z contributions. Viewing keys will enable the Zcash Foundation to publicly demonstrate the exact amounts deposited into a proposal's z-address — without the ZF Grants servers requiring access to private keys.
+In the future, [when Zcash includes viewing keys](https://electriccoin.co/blog/viewing-keys-selective-disclosure/), ZF Grants will be able to support completely private z-to-z contributions. Viewing keys will enable the Zcash Foundation to publicly demonstrate the exact amounts deposited into a proposal's z-address — without the ZF Grants servers requiring access to private keys.
 
 We could have built a platform that interacts with private keys, but it would be an unacceptable security risk. Instead, ZF Grants relies on a secure custody solution without direct access to private keys. In other words, proposal funds are not held in hot wallets. Since the private keys aren't available, and currently neither are viewing keys, we would be unable to determine the balance of a campaign z-address.
 

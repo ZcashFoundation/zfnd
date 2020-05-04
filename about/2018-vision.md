@@ -10,7 +10,7 @@ excerpt: "Zcash Foundation Vision and Roadmap: For 2018 and Beyond"
 
 2017 marked a year of formulation, of carefully testing waters, of measured growth for the Zcash Foundation. 2018 will be a year of rapid acceleration—in the Foundation’s scope, its goals, and its responsibility to the Zcash and broader cryptocurrency community.
 
-My vision for the Foundation’s future is best summarized by the [Year in Review](https://z.cash.foundation//blog/year-in-review/) I published to the Foundation blog earlier in January:
+My vision for the Foundation’s future is best summarized by the [Year in Review](https://zfnd.org/blog/year-in-review/) I published to the Foundation blog earlier in January:
 
 *….the Foundation has a broad strategic mission that I hope to expand next year. To echo Peter’s sentiments, the Foundation is now a public charity* ***dedicated to building Internet payment and privacy infrastructure for the public good, and we need to execute on that vision...***
 

@@ -24,7 +24,7 @@ it has strong network effects: new users gain anonymity from all prior
 transactions of existing users, while in turn contributing to a greater
 anonymity set for the entire system. Our plan is to take advantage of
 these network effects by giving Cosmos users access to this anonymity
-set through an IBC-enabled pegzone.  
+set through an IBC-enabled pegzone.
 
 This work will proceed in two phases, with the design of the first phase
 enabling the features of the second phase. In the first phase, the

@@ -4,7 +4,7 @@ title: "Bringing Privacy to Cosmos with Zcash"
 excerpt: "An early look at how we'll bridge Cosmos and Zcash."
 categories: blog
 tags: [research]
-date: 2020-05-05
+date: 2020-05-06
 author: hdevalence
 ---
 
@@ -16,7 +16,7 @@ the already-strong Zcash anonymity set, and re-defining Zcash's role in
 this ever-evolving ecosystem as the shared privacy layer for
 cryptoassets.
 
-And we're starting that journey by bringing privacy to the Cosmos
+And we're starting that journey by bringing privacy to the [Cosmos]
 ecosystem.
 
 Why do this with Zcash? Zcash is unique among privacy solutions in that
@@ -24,7 +24,7 @@ it has strong network effects: new users gain anonymity from all prior
 transactions of existing users, while in turn contributing to a greater
 anonymity set for the entire system. Our plan is to take advantage of
 these network effects by giving Cosmos users access to this anonymity
-set through an IBC-enabled pegzone.
+set through an IBC-enabled [pegzone].
 
 This work will proceed in two phases, with the design of the first phase
 enabling the features of the second phase. In the first phase, the

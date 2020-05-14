@@ -8,6 +8,8 @@ date: 2020-04-15
 author: zcashboard
 ---
 
+**Edit: by [request of the ECC](https://forum.zcashcommunity.com/t/major-grants-review-committee-candidates-megathread/36472/8) we've delayed the timeline for MGRC selection by two months**
+
 With the acceptance of [ZIP 1014](https://zips.z.cash/zip-1014), the Zcash community established a path forward for the continued funding of Zcash protocol development and privacy research. The largest slice of the development fund will be decided by a Major Grant Review Committee (MGRC), which will steward and evaluate third-party development efforts on a rolling basis.
 
 While the ZIP established broad, binding criteria for the MGRC, it did not specify the process for the committee's initial selection. This post is meant to supply those details for the initial membership selection, providing a path for the MGRC to become a body selected by the Community Advisory Panel (or successor process) as established in ZIP 1014.
@@ -16,11 +18,11 @@ While the ZIP established broad, binding criteria for the MGRC, it did not speci
 
 Anyone can apply to be a part of the MGRC committee, for a one-year term (with a possibility for re-election). The Foundation recommends the following process for prospective candidates:
 
-- **Between now and June 1, 2020**, prospective candidates submit a forum post (ideally five paragraphs or less) in the [governance section of the Zcash Community Forum](https://forum.zcashcommunity.com/c/governance/25), both announcing their candidacy and outlining their priorities and vision for the MGRC. Community members will have an opportunity to ask candidates questions directly as replies to their respective posts.
+- **Between now and August 1, 2020**, prospective candidates submit a forum post (ideally five paragraphs or less) in the [governance section of the Zcash Community Forum](https://forum.zcashcommunity.com/c/governance/25), both announcing their candidacy and outlining their priorities and vision for the MGRC. Community members will have an opportunity to ask candidates questions directly as replies to their respective posts.
 - We cannot stop anyone from talking about their candidacy in other mediums, but we encourage candidates to use the forum threads as their primary method of "campaigning." Doing so will make it easier for Zcash community members to investigate and compare candidacies.
-- **On June 5**, the Foundation will host an open community video call, inviting all candidates to participate and giving community members an opportunity to ask questions directly. Candidates aren't required to attend, but we encourage them to do so. **You can [sign up for the video call](https://docs.google.com/forms/d/e/1FAIpQLSf6EYgltygIkOHBWo5HgSay_74XN3pWH8o792rByuzPsaMPkQ/viewform?usp=sf_link) now.**
-- **On June 8**, the Foundation will open a Helios poll with the [current Community Advisory Panel](https://github.com/ZcashFoundation/zfnd/blob/bdd3ec9434e90f436acc9655ece70f634cb47681/governance/community-advisory-panel.md) to select five members of the MGRC.
-- Polling will close on **June 19**.
+- **On August 5**, the Foundation will host an open community video call, inviting all candidates to participate and giving community members an opportunity to ask questions directly. Candidates aren't required to attend, but we encourage them to do so. **You can [sign up for the video call](https://docs.google.com/forms/d/e/1FAIpQLSf6EYgltygIkOHBWo5HgSay_74XN3pWH8o792rByuzPsaMPkQ/viewform?usp=sf_link) now.**
+- **On August 8**, the Foundation will open a Helios poll with the [current Community Advisory Panel](https://github.com/ZcashFoundation/zfnd/blob/bdd3ec9434e90f436acc9655ece70f634cb47681/governance/community-advisory-panel.md) to select five members of the MGRC.
+- Polling will close on **August 19**.
 
 As with previous polls run by the Foundation, the poll will be decided by approval voting for 5 members out of the pool of candidates, and the 5 members with the most votes (with a maximum of one ECC and one ZF representative, if selected) will become the founding members of the MGRC. We hope that by early July the MGRC will have had their first meeting.
 

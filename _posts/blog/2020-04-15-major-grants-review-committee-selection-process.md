@@ -24,7 +24,7 @@ Anyone can apply to be a part of the MGRC committee, for a one-year term (with a
 - **On September 7**, the Foundation will open a Helios poll with the [current Community Advisory Panel](https://github.com/ZcashFoundation/zfnd/blob/bdd3ec9434e90f436acc9655ece70f634cb47681/governance/community-advisory-panel.md) to select five members of the MGRC.
 - Polling will close on **September 18**.
 
-As with previous polls run by the Foundation, the poll will be decided by approval voting for 5 members out of the pool of candidates, and the 5 members with the most votes (with a maximum of one ECC and one ZF representative, if selected) will become the founding members of the MGRC. We hope that by early July the MGRC will have had their first meeting.
+As with previous polls run by the Foundation, the poll will be decided by approval voting for 5 members out of the pool of candidates, and the 5 members with the most votes (with a maximum of one ECC and one ZF representative, if selected) will become the founding members of the MGRC. We hope that by early October the MGRC will have had their first meeting.
 
 If you are pseudonymous and want to serve on the MGRC, you may be a candidate, but **you will have to reveal your identity to the Foundation and to fellow MGRC members**. There are many reasons, but first and foremost, the MGRC will need to ensure conflict-of-interests are being considered when evaluating prospective grants, and that can only be done if everyone on the committee knows everyone else's legal identity. Of secondary concern: if the MGRC winds up being a compensated position the Foundation will need to know who you are to ensure proper reporting under our 501(c)(3) requirements.
 

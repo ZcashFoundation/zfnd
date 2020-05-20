@@ -10,8 +10,9 @@ author: chelseakomlo
 image: walking-onion.jpg
 ---
 
-![This is what Google says is a Walking Onion. Image source:
-https://www.gardeningknowhow.com/ornamental/flowers/walking-onion/growing-walking-onions.htm](/images/walking-onion.jpg)
+![This is what Google says is a Walking Onion. By Kurt Stüber -
+caliban.mpiz-koeln.mpg.de/mavica/index.html part of www.biolib.de, CC BY-SA 3.0,
+https://commons.wikimedia.org/w/index.php?curid=7153](/images/walking-onion.jpg)
 
 Recently, the Zcash Foundation [announced a grant to The Tor
 Project](https://grants.zfnd.org/proposals/1642205075-walking-onions-scaling-the-tor-network)
@@ -19,13 +20,14 @@ to fund the specification of the [Walking Onions
 protocol](https://crysp.uwaterloo.ca/software/walkingonions/). In this post,
 we’ll talk about why Walking Onions is an exciting project for scaling anonymity
 networks and user privacy in general. We will also give more detail about the
-Zcash Foundation's decision to fund The Tor Project to write a detailed
-specification for how to integrate Walking Onions into the Tor protocol. As a
+Zcash Foundation's decision to fund The Tor Project [to write a detailed
+specification](https://github.com/nmathewson/walking-onions-wip/tree/master/specs)
+for how to integrate Walking Onions into the Tor protocol. As a
 short summary, Walking Onions will both improve the usability of Tor for
 existing users, and also improve the feasibility of seamless integration of Tor
 into bandwidth-sensitive applications such as cryptocurrency wallets. As such,
 we believe funding this work to be beneficial to both Zcash users and the larger
-Internet community.
+Internet community. 
 
 ## What is Walking Onions?
 

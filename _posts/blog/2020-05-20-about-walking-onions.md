@@ -4,7 +4,7 @@ title: "Scaling Tor with Walking Onions"
 excerpt: "Why Walking Onions is an exciting project for scaling anonymity
 networks and user privacy in general."
 categories: blog
-tags: [research]
+tags: [grants]
 date: 2020-05-20
 author: chelseakomlo
 image: walking-onion.jpg
@@ -18,7 +18,7 @@ Recently, the Zcash Foundation [announced a grant to The Tor
 Project](https://grants.zfnd.org/proposals/1642205075-walking-onions-scaling-the-tor-network)
 to fund the specification of the [Walking Onions
 protocol](https://crysp.uwaterloo.ca/software/walkingonions/). In this post,
-we’ll talk about why Walking Onions is an exciting project for scaling anonymity
+we'll talk about why Walking Onions is an exciting project for scaling anonymity
 networks and user privacy in general. We will also give more detail about the
 Zcash Foundation's decision to fund The Tor Project [to write a detailed
 specification](https://github.com/nmathewson/walking-onions-wip/tree/master/specs)
@@ -68,12 +68,12 @@ network (and hence maintain a single anonymity set for all users).
 ## How will Walking Onions help Tor specifically scale?
 
 Currently, the Tor protocol requires that *all* participants in the network
-download the network directory document---called the “consensus”---when
+download the network directory document --- called the "consensus" --- when
 bootstrapping to the network, and then to periodically fetch updates to this
 document. While such overhead may be tolerable for nodes, Tor clients are often
 less tolerant of high bandwidth overheads. For example, mobile clients, clients
 with low bandwidth connections, or even clients which infrequently require
-sending data over Tor (or “almost always off” clients) all face disproportionate
+sending data over Tor (or "almost always off" clients) all face disproportionate
 bandwidth costs even in a network the size of Tor today. As more nodes are added
 to the Tor network, this bandwidth overhead for clients also proportionally
 grows (as the consensus increases in size with each new relay entry), further
@@ -100,7 +100,7 @@ alternatives that today are too unstable to be considered. We will keep the
 Zcash community updated with our findings and plans as this work continues.
 
 One attractive feature for Zcash that Walking Onions introduces is the ability
-to maintain "light Tor clients", or clients with little overhead even when
+to maintain "light Tor clients," or clients with little overhead even when
 sending data over the Tor network. As such, we see Walking Onions having direct
 improvements to the feasibility of seamless Tor integration into Zcash wallet
 software in the future.
@@ -111,4 +111,3 @@ proud to fund the work to develop a fine-grained Walking Onions specification
 for Tor. We also urge other organizations that are interested in these
 scalability improvements to Tor to contribute funding to the development of
 Walking Onions after this specification stage is complete.
-

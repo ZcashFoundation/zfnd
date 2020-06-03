@@ -8,7 +8,7 @@ date: 2020-06-03
 author: dconnolly
 ---
 
-So it would be really nice if we could do browser-based end-to-end encrypted video calling, like we do between devices like a desktop app or a mobile app. We want this so that Zoom itself, or an outside party influencing Zoom or their infrastructure, cannot snoop on or interfere with these video calls. However, despite calling JavaScript-heavy web pages "apps", a web app is a completely different beast than a desktop or mobile app. Web apps have a different, less secure-in-depth security model than installed desktop/mobile apps, but that for ephemeral E2EE (end-to-end encrypted) calls with identity secret material of limited scope, this can be acceptable—and should be pursued to support the large set of users on the web.
+So it would be really nice if we could do browser-based end-to-end encrypted video calling, like we do between devices like a desktop app or a mobile app. We want this so that Zoom itself, or an outside party influencing Zoom or their infrastructure, cannot snoop on or interfere with these video calls. However, despite calling JavaScript-heavy web pages "apps", a web app is a completely different beast than a desktop or mobile app. Web apps have a different, less secure-in-depth security model than installed desktop/mobile apps, but that for ephemeral E2EE (end-to-end encrypted) calls with identity secret material of limited scope, this can be acceptable, and should be pursued, to support the large set of users on the web.
 
 ## The Root of Trust
 

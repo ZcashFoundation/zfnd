@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "So You Want to Build an End-to-End Encrypted Web App"
-excerpt: "TL;DR: The software security model of the web does not lend itself to long term identities."
+excerpt: "The software security model of the web does not lend itself to long term identities."
 categories: blog
 tags: [cryptography, web development, software security]
 date: 2020-06-03
@@ -48,5 +48,3 @@ That design seems a lot more amenable to being implemented in a web app, because
 This is not just a theoretical either: [Google Duo supports E2EE group calls](https://support.google.com/duo/answer/9280240?hl=en) on Android, iOS… and web! The web clients require you to log into your Google accounts, but then it does a group call handshake to set up the call, and every time a user joins/leaves. All key material is thrown away at the end of the call. Because calls are tied to your Google ID, you can block users across calls, and report them to Google. It would be great if Google could publish more technical materials about Google Duo so we could learn from their experience designing, building and deploying secure E2EE encrypted calling apps that work in the browser. 🙏
 
 When designing E2EE protocols for persistent vs ephemeral applications, we need to figure out where we need long-term identity in terms of cryptographic keys, and where we don’t. If we don't need long-term identity, we don't need to protect as much secret key data in our software platform indefinitely: we only need to protect it ephemerally, which then means we might do this sort of thing on the web. If we can do it on the web, we can give access to many users that desktop apps and mobile apps exclude, which I think is a huge win.
-
-

@@ -6,7 +6,7 @@ excerpt: "What you need to know about Zcash governance."
 
 As a protocol, Zcash is governed by the [Zcash Improvement Proposal process](https://zips.z.cash/). The ZIP process provides an [open venue and structure](https://github.com/zcash/zips/blob/master/zip-0000.rst) for collectively evaluating changes to Zcash.
 
-Anyone can submit a draft ZIP. Draft ZIPs are debated by the community at large, then accepted or rejected by the ZIP editors. Currently there are two ZIP editors — Daira Hopwood represents the Electric Coin Company and George Tankersley represents the Zcash Foundation.
+Anyone can submit a draft ZIP. Draft ZIPs are debated by the community at large, then accepted or rejected by the ZIP editors. Currently there are two ZIP editors — Daira Hopwood represents the Electric Coin Company and Deirdre Connolly represents the Zcash Foundation.
 
 Decisions from the ZIP process are written into the Zcash specification, as well as the software that runs the network. The changes are "ratified" on-chain when the majority of the network adopts the upgrade and doesn't break consensus. ([Sapling](https://z.cash/upgrade/sapling/) provides an example.)
 

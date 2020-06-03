@@ -31,13 +31,6 @@ sonya:
   email: sonya@zfnd.org
   bio: ""
   twitter: sonyaellenmann 
-  
-sonya:
-  name: Sonya Mann
-  web: https://www.sonyaellenmann.com/
-  email: sonya@zfnd.org
-  bio: ""
-  twitter: sonyaellenmann 
 
 jonathas-paige:
   name: Jonathas Carrijo & Paige Peterson
@@ -58,24 +51,31 @@ petervv:
   email:
   bio: ""
   twitter: valkenburgh
-  
+
 ianmiers:
   name: Ian Miers
   web: http://cs.jhu.edu/~imiers/
   email: imiers@cs.cornell.edu
   bio: ""
   twitter: secparam
-  
+
 hdevalence:
   name: Henry de Valence
   web: https://www.hdevalence.ca/
   email: blog@hdevalence.ca
   bio: ""
   twitter: hdevalence
-  
+
 antonie:
   name: Antonie Hodge
   web:
   email: antonie@zfnd.org
   bio: "Operations director of the Zcash Foundation."
   twitter: antoniehodge
+
+chelseakomlo:
+  name: Chelsea Komlo
+  web: https://www.chelseakomlo.com
+  email:
+  bio: ""
+  twitter: chelseakomlo

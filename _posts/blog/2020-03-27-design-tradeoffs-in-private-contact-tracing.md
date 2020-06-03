@@ -3,7 +3,7 @@ layout: post
 title: "Design Tradeoffs in Privacy-Preserving Contact Tracing"
 excerpt: "Discussion of some design tradeoffs for privacy-preserving contact tracing protocols."
 categories: blog
-tags: [cryptography, development]
+tags: [cryptography, development, research]
 date: 2020-03-27
 author: hdevalence
 ---

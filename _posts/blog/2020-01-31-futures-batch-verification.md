@@ -3,7 +3,7 @@ layout: post
 title: "Composable Futures-based Batch Verification"
 excerpt: "This post describes a new implementation strategy for batch verification in Zebra."
 categories: blog
-tags: []
+tags: [cryptography, development]
 date: 2020-01-31
 author: hdevalence
 ---

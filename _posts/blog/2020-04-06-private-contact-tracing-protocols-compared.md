@@ -3,7 +3,7 @@ layout: post
 title: "Private Contact Tracing Protocols Compared: DP-3T and CEN"
 excerpt: "A comparison of the DP-3T and CEN protocols for private contact tracing."
 categories: blog
-tags: []
+tags: [research]
 date: 2020-04-06
 author: hdevalence
 ---

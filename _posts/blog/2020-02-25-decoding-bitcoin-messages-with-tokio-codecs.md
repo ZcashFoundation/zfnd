@@ -3,7 +3,7 @@ layout: post
 title: "Decoding Bitcoin Messages with Tokio Codecs"
 excerpt: "How we used Tokio's codec functionality to implement the Bitcoin wire protocol"
 categories: blog
-tags: []
+tags: [development]
 date: 2020-02-25
 author: hdevalence
 ---

@@ -34,7 +34,7 @@ development strategy.
 
 ## Meet Teor
 
-Teor has worked as a software engineer on privacy-preserving protocols and
+Teor has worked as a software engineer and researcher on privacy-preserving protocols and
 large-scale anonymity networks, at The Tor Project and the University of New
 South Wales. Previously, they were a data analyst for grants management and
 fiat currency payment systems.

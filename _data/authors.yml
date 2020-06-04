@@ -10,31 +10,38 @@ amiller:
 zcashboard:
   name: Zcash Foundation
   twitter: ZcashFoundation
-  
+
 acityinohio:
-  name: Josh Cincinnati 
+  name: Josh Cincinnati
   web: https://keybase.io/cin/
   email: josh@zfnd.org
   bio: ""
   twitter: acityinohio
-  
+
 gtank:
   name: George Tankersley
   web: https://blog.gtank.cc/
   email: george@zfnd.org
   bio: ""
-  twitter: gtank__ 
-  
+  twitter: gtank__
+
+dconnolly:
+  name: Deirdre Connolly
+  web:
+  email: deirdre@zfnd.org
+  bio: ""
+  twitter: durumcrustulum
+
 sonya:
   name: Sonya Mann
   web: https://www.sonyaellenmann.com/
   email: sonya@zfnd.org
   bio: ""
-  twitter: sonyaellenmann 
+  twitter: sonyaellenmann
 
 jonathas-paige:
   name: Jonathas Carrijo & Paige Peterson
-  web: 
+  web:
   email:
   bio: ""
   twitter: zcashco

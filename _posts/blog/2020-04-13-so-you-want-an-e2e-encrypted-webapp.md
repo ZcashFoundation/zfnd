@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "So You Want to Build an End-to-End Encrypted Web App"
-excerpt: "The software security model of the web does not lend itself to long term identities."
+excerpt: "The software security model of the web does not lend itself to long term identities, but are they necessary?"
 categories: blog
 tags: [cryptography, web development, software security]
 date: 2020-06-03

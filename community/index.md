@@ -6,8 +6,9 @@ excerpt: "Zcash Foundation community resources."
 
 Zcash has a vibrant community of developers, users, and enthusiasts. Find us online!
 
+- [Zcash Foundation Discord](https://discord.gg/na6QZNd)
+- [Zcash Community Discord](https://discorda.gg/PhJY6Pm)
 - [Zcash Community Forum](https://forum.zcashcommunity.com/)
-- [Zcash Community Chat](https://chat.zcashcommunity.com/)
 - [/r/zec subreddit](https://reddit.com/r/zec)
 - [Zcash Foundation newsletter](https://buttondown.email/zcashfoundation)
 

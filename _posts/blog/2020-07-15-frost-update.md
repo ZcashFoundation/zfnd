@@ -1,15 +1,15 @@
 ---
 layout: post
-title: "Announcing FROST New Version Update"
+title: "Announcing a New Version of FROST"
 excerpt: "We are pleased to announce that our new version of FROST, a flexible
-round-optimized Schnorr threshold signature scheme, has been published"
+round-optimized Schnorr threshold signature scheme, has been published."
 categories: blog
-tags: []
-date: 2020-07-14
+tags: [development, research]
+date: 2020-07-15
 author: chelseakomlo
 ---
 
-We are pleased to announce an updated version of [FROST][frost-eprint] FROST, a Flexible Round-Optimized Schnorr Threshold signature scheme. FROST is designed to reduce the interaction between participants who jointly own a private signing key and wish to use this private key to sign a message (in the case of Zcash, FROST will be used to sign transactions from joint owners of a signing key). FROST is a collaboration between the Zcash Foundation and the University of Waterloo, and is currently in the submission process for academic review.
+We are pleased to announce an updated version of [FROST][frost-eprint], a Flexible Round-Optimized Schnorr Threshold signature scheme. FROST is designed to reduce the interaction between participants who jointly own a private signing key and wish to use this private key to sign a message (in the case of Zcash, FROST will be used to sign transactions from joint owners of a signing key). FROST is a collaboration between the Zcash Foundation and the University of Waterloo, and is currently in the submission process for academic review.
 
 We’ll now discuss at a high level the motivation for FROST, and next steps for this work.
 
@@ -27,7 +27,7 @@ Before starting the design and implementation of FROST, we first began by talkin
 
 The next steps for FROST include completing a round of academic review, finishing a Rust reference implementation using [RedJubJub][redjubjub] as the underlying elliptic curve group, and writing a ZIP defining how FROST integrates with the Sapling protocol to perform shielded threshold transactions.
 
-We look forward to working with community members interested in using FROST in the future, please write to us with any questions or comments.
+We look forward to working with community members interested in using FROST in the future, please [write to us](mailto:contact@zfnd.org) with any questions or comments.
 
 
 [frost-eprint]: https://eprint.iacr.org/2020/852

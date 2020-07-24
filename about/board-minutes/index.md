@@ -6,6 +6,7 @@ excerpt: "Notes from meetings of the Zcash Foundation Board of Directors."
 
 ## Table of Contents
 
+- [July 15th, 2020](#july-15-2020)
 - [June 1st, 2020](#june-1-2020)
 - [April 3rd, 2020](#april-3-2020)
 - [January 29th, 2020](#january-29-2020)
@@ -31,6 +32,7 @@ excerpt: "Notes from meetings of the Zcash Foundation Board of Directors."
 - [February 3rd, 2017](#february-3-2017)
 
 
+{% include_relative 2020-07-15.md %}
 {% include_relative 2020-06-01.md %}
 {% include_relative 2020-04-03.md %}
 {% include_relative 2020-01-29.md %}

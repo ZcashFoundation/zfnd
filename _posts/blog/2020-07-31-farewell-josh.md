@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "The Zcash Foundation Bids Farewell to its First Executive Director"
-excerpt: ""
+excerpt: "We welcome a new chapter for the Foundation."
 categories: blog
 tags: [governance]
 date: 2020-07-31

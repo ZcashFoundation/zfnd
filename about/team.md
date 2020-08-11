@@ -22,8 +22,7 @@ Secretary: [_Antonie Hodge_](https://twitter.com/antoniehodge) (officer but not 
 
 ### Employees
 
-- [_Josh Cincinnati_](https://twitter.com/acityinohio) • [executive director](https://www.zfnd.org/blog/exec-director-and-roadmap/)
-- [_Antonie Hodge_](https://twitter.com/antoniehodge) • [operations director](https://www.zfnd.org/blog/welcome-antonie/)
+- [_Antonie Hodge_](https://twitter.com/antoniehodge) • [director](https://www.zfnd.org/blog/welcome-antonie/)
 - [_George Tankersley_](https://twitter.com/gtank__) • [principal cryptographic researcher](https://www.zfnd.org/blog/welcome-jane-and-teor/)
 - [_Henry de Valence_](https://twitter.com/hdevalence) • [principal cryptographic researcher](https://www.zfnd.org/blog/henry-de-valence/)
 - [_Deirdre Connolly_](https://twitter.com/durumcrustulum) • [core engineer](https://www.zfnd.org/blog/welcome-deirdre/)
@@ -37,3 +36,4 @@ Secretary: [_Antonie Hodge_](https://twitter.com/antoniehodge) (officer but not 
 - _Lena Wang_ • [operations associate](https://www.zfnd.org/blog/welcome-lena/)
 - [_Eran Tromer_](https://www.tau.ac.il/~tromer/) • technical advisor
 - [_Sonya Mann_](https://twitter.com/sonyaellenmann) • [communications manager](https://www.zfnd.org/blog/welcome-sonya/)
+- [_Josh Cincinnati_](https://twitter.com/acityinohio) • [executive director](https://www.zfnd.org/blog/farewell-josh/)

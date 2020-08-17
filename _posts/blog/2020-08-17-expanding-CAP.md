@@ -32,8 +32,9 @@ Additionally, on the Forum, there have been multiple requests over the past 4-mo
 
 To do so, the Foundation proposes the following qualifications for a prospective CAP expansion:
 
-Any members of the current 62-member Community Advisory Panel who opt-in by September 1.
-An invite from a current member by September 1. The invite will be accepted when the current member emails antonie@zfnd.org by CCing the email and name of the new member. 
+(1) Any members of the current 62-member Community Advisory Panel who opt-in by September 1.
+
+(2) An invite from a current member by September 1. The invite will be accepted when the current member emails [antonie@zfnd.org](mailto:antonie@zfnd.org) by CCing the email and name of the new member. 
 
 We believe opening up the CAP with this process is completely aligned with the community interest, and would result in a more effective and legitimate outcome based on past experience collecting community sentiment in a similar manner for the dev fund ZIPs.
 

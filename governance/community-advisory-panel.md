@@ -54,7 +54,7 @@ You can [review the history on GitHub](https://github.com/ZcashFoundation/zfnd/c
 | Kobi Gurkan | https://twitter.com/kobigurk/status/1166082122056175618 |
 | Lawson Baker | https://twitter.com/lwsnbaker/status/1166716978213486592 |
 | Liz Steininger |  |
-| Madars Virsa | https://twitter.com/MadarsV/status/1166936046489280512 | 
+| Madars Virza | https://twitter.com/MadarsV/status/1166936046489280512 | 
 | Matthew Green |  |
 | Mikerah  | https://twitter.com/badcryptobitch/status/1167478025048481793 |
 | Mine Zcash | https://twitter.com/mineZcash/status/1166145954560565248 |

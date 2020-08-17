@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Expanding Membership to the Zcash Community Panel"
+title: "Expanding Membership to the Zcash Community Advisory Panel"
 excerpt: "The Zcash Foundation is opening up the Community Advisory Panel to more voting members prior to the MGRC vote."
 categories: blog
 tags: [governance]

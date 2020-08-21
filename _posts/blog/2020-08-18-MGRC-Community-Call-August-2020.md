@@ -8,7 +8,7 @@ date: 2020-08-21
 author: zcashboard
 ---
 
-On August 18, the Zcash Foundation hosted a community call to discuss and answer questions on the voting process, structure of the MGRC, relationship to the Foundation, responsibilities,  and key metrics. Here is the [video recording of the call](https://youtu.be/Ipb2ENV_REs), and a [transcript of the comments](https://drive.google.com/file/d/1xX1hT1xyIymGRUfbXU-_CBEaMOIC3Crv/view?usp=sharing).
+On August 18, the Zcash Foundation hosted a community call to discuss and answer questions on the voting process, structure of the MGRC, relationship to the Foundation, responsibilities,  and key metrics. Here is the [video recording of the call](https://youtu.be/Ipb2ENV_REs), and a [transcript of the comments](https://drive.google.com/file/d/1FDNHVVOXJADHx2suDDYLgqO62aDfdaAc/view?usp=sharing).
 
 *A clarification on the current state of Zcash Foundation 2020 grants*: Antonie Hodge stated that the Foundation had spent around $250,000 USD in grants. While the Foundation has paid out $250,000 in grants, it has committed the entire annual grant allocation of $500,000, to be paid out upon the completion of each proposal's milestones. Here are [grant funding details](https://grants.zfnd.org/proposals/?filter=with_funding).
 
@@ -18,8 +18,8 @@ The intent of the call was to discuss [ZIP1014](https://zips.z.cash/zip-1014), a
 [ZIP1014](https://zips.z.cash/zip-1014#mg-slice-major-grants) explicitly outlines:
  
 * **Administration**: The Major Grants slice shall be received and administered by ZF, therefore must follow ZF operational protocols.
-* **Disbursement of MG slice**: These funds MUST only be used to issue Major Grants
-* **Who can receive a Major Grant**: External parties independent of ZF who further the Zcash cryptocurrency and its ecosystem that are approved by the MGRC
+* **Disbursement of MG slice**: These funds MUST only be used to issue Major Grants.
+* **Who can receive a Major Grant**: External parties independent of ZF who further the Zcash cryptocurrency and its ecosystem that are approved by the MGRC.
 * **Who cannot receive a Major Grant**: ZF or ECC
 * **Grant recipient compliance and transparency requirements**:
 (1) All Major Grants must not violate U.S. law or the ZF’s reporting requirements and other obligations under U.S. IRS 501(c)(3);
@@ -58,7 +58,7 @@ After the MGRC is selected on September 18, they should decide:
 - Inaugural formal board meeting
 - If there should be a chair, and if yes, who. Who will organize, be a point person with ZF?
 - Communication expectations (consider timezones, other professional obligations)
-- Policies on voting structure such as recusing for COI or if a member is applying for grant, voting with quorum, voting with even numbers, etc (ZF will honor majority vote as baseline when administering MGRC grants)
+- Policies on voting structure such as recusing for COI, if a member is applying for grant, voting with quorum, voting with even numbers, etc (ZF will honor majority vote as baseline when administering MGRC grants)
 - Process and evaluation matrix of accepting grants
 - When the MGRC will start accepting grant proposals
 - How the MGRC will meet transparency requirements on MG funds (eg documentation of proposal approvals

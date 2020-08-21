@@ -58,7 +58,7 @@ After the MGRC is selected on September 18, they should decide:
 - Inaugural formal board meeting
 - If there should be a chair, and if yes, who. Who will organize, be a point person with ZF?
 - Communication expectations (consider timezones, other professional obligations)
-- Policies on voting structure such as recusing for COI,if a member is applying for grant, voting with quorum, voting with even numbers, etc (ZF will honor majority vote as baseline when administering MGRC grants)
+- Policies on voting structure such as recusing for COI, if a member is applying for grant, voting with quorum, voting with even numbers, etc (ZF will honor majority vote as baseline when administering MGRC grants)
 - Process and evaluation matrix of accepting grants
 - When the MGRC will start accepting grant proposals
 - How the MGRC will meet transparency requirements on MG funds (eg documentation of proposal approvals

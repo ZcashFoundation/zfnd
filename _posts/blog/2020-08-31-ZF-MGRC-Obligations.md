@@ -4,7 +4,7 @@ title: "Zcash Foundation Obligations to ZIP1014 and the MGRC"
 excerpt: "Here is the Foundation’s role in administering the MG slice"
 categories: blog
 tags: [governance]
-date: 2020-08-28
+date: 2020-08-31
 author: zcashboard
 ---
 

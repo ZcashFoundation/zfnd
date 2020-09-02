@@ -8,9 +8,11 @@ date: 2020-09-02
 author: zcashboard
 ---
 
-We are getting close to having a fully formed Major Grants Review Committee! 
+We are getting close to completing the election process for the Major Grants Review Committee! 
 
-In this post you will find the final list of MGRC applicants, the expanded list of members of the Community Advisory Panel, next steps for the CAP on voting, and next steps for the MGRC electees.
+In this post you will find the final list of MGRC applicants, the expanded list of members of the Community Advisory Panel, next steps for the CAP on voting, and next steps for the MGRC electees. 
+
+REMINDER: On September 4, from 5:00 P.M. ET - 8:00 P.M ET, the Foundation will host an open community video call, inviting all candidates to participate and giving community members an opportunity to ask questions directly. Candidates aren’t required to attend, but are encouraged to do so. You can [sign up for the video call](https://docs.google.com/forms/d/e/1FAIpQLSf6EYgltygIkOHBWo5HgSay_74XN3pWH8o792rByuzPsaMPkQ/viewform) now.
 
 ## Finalized list of MGRC candidates
 

@@ -5,7 +5,7 @@ excerpt: "We at the Foundation assess the network privacy for users of Zcash
 and future improvements."
 categories: blog
 tags: [privacy]
-date: 2020-09-01
+date: 2020-09-02
 author: chelseakomlo
 ---
 

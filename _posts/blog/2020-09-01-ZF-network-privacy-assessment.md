@@ -20,7 +20,7 @@ the network as these transactions are taking place and allow for
 deanonymization attacks.
 
 As a first step towards improving Zcash network privacy, we at the Zcash
-Foudnation have created a more
+Foundation have created a more
 comprehensive analysis of the current state of network privacy in Zcash,
 identified possible attack vectors and adversaries,
 and clarified where identifiable information about Zcash users can be leaked

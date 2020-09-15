@@ -23,12 +23,12 @@ Secretary: [_Antonie Hodge_](https://twitter.com/antoniehodge) (officer but not 
 ### Employees
 
 - [_Antonie Hodge_](https://twitter.com/antoniehodge) • [director](https://www.zfnd.org/blog/welcome-antonie/)
-- [_George Tankersley_](https://twitter.com/gtank__) • [principal cryptographic researcher](https://www.zfnd.org/blog/welcome-jane-and-teor/)
 - [_Henry de Valence_](https://twitter.com/hdevalence) • [principal cryptographic researcher](https://www.zfnd.org/blog/henry-de-valence/)
 - [_Deirdre Connolly_](https://twitter.com/durumcrustulum) • [core engineer](https://www.zfnd.org/blog/welcome-deirdre/)
 - [_Chelsea Komlo_](https://twitter.com/chelseakomlo) • [core engineer and researcher](https://www.zfnd.org/blog/welcome-chelsea/)
 - [_Jane Lusby_](https://twitter.com/yaahc_) • [rust systems engineer](https://www.zfnd.org/blog/welcome-jane-and-teor/)
 - Teor • [rust systems engineer](https://www.zfnd.org/blog/welcome-jane-and-teor/)
+- Danika Delano • [operations manager](https://www.zfnd.org/blog/Welcome-Danika/)
 
 #### Alumni
 
@@ -37,3 +37,4 @@ Secretary: [_Antonie Hodge_](https://twitter.com/antoniehodge) (officer but not 
 - [_Eran Tromer_](https://www.tau.ac.il/~tromer/) • technical advisor
 - [_Sonya Mann_](https://twitter.com/sonyaellenmann) • [communications manager](https://www.zfnd.org/blog/welcome-sonya/)
 - [_Josh Cincinnati_](https://twitter.com/acityinohio) • [executive director](https://www.zfnd.org/blog/farewell-josh/)
+- [_George Tankersley_](https://twitter.com/gtank__) • [principal cryptographic researcher](https://www.zfnd.org/blog/welcome-jane-and-teor/)

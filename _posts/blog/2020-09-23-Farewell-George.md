@@ -4,7 +4,7 @@ title: "Farewell to George"
 excerpt: ""
 categories: blog
 tags: [team]
-date: 2020-09-15
+date: 2020-09-23
 author: zcashboard
 ---
 

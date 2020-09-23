@@ -12,7 +12,7 @@ It is on a bittersweet note that we announce that [George Tankersley](https://ww
 
 George has been a part of the Zcash community for nearly three years. Prior to working at the Foundation, George assisted in the final stages of Sapling development and designed the shielded light wallet protocol as a cryptographic engineer at the Electric Coin Company.
 
-As director of engineering, George worked with our team of engineers to set our [2020 roadmap](https://www.zfnd.org/blog/eng-roadmap-2020/). He also managed the team, and worked with them to develop new engineering processes. The results of this work have included:
+As director of engineering, George worked with our team of engineers to set our [2020 roadmap](https://www.zfnd.org/blog/eng-roadmap-2020/). He also managed the team, and worked with them to develop new engineering processes. The results that the team accomplished during this time are:
 
 * The newly redesigned [Zebra](https://twitter.com/hdevalence/status/1281310138184302597) node
 * [FROST](https://www.zfnd.org/blog/frost-update/), a new design that will enable shielded threshold and multi-signatures for Sapling and other blockchains that use Schnorr signatures

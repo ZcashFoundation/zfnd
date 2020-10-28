@@ -5,7 +5,7 @@ excerpt: ""
 categories: blog
 tags: [crypto]
 date: 2020-10-28
-author: komlo
+author: chelseakomlo
 ---
 
 We are pleased to say that FROST has been accepted into the [Selected Areas in Cryptography (SAC) 2020 Conference](https://sac2020.ca/), which took place last week. We thank our reviewers for their helpful feedback and we will be publishing the updated and final version of our paper in the next week.

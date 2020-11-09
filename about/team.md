@@ -29,6 +29,7 @@ Secretary: [_Antonie Hodge_](https://twitter.com/antoniehodge) (officer but not 
 - [_Jane Lusby_](https://twitter.com/yaahc_) • [rust systems engineer](https://www.zfnd.org/blog/welcome-jane-and-teor/)
 - _Teor_ • [rust systems engineer](https://www.zfnd.org/blog/welcome-jane-and-teor/)
 - _Danika Delano_ • [operations manager](https://www.zfnd.org/blog/welcome-danika/)
+- [_Pili Guerra_](https://twitter.com/mpguerra) • [engineering project manager](https://www.zfnd.org/blog/welcome-pili/)
 
 #### Alumni
 

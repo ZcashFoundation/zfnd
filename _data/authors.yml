@@ -10,6 +10,10 @@ amiller:
 zcashboard:
   name: Zcash Foundation
   twitter: ZcashFoundation
+  
+zfteam:
+  name: Zcash Foundation Team
+  twitter: ZcashFoundation
 
 acityinohio:
   name: Josh Cincinnati
@@ -86,3 +90,24 @@ chelseakomlo:
   email:
   bio: ""
   twitter: chelseakomlo
+  
+yaahc:
+  name: Jane Lusby
+  web: 
+  email:
+  bio: ""
+  twitter: yaahc_
+  
+teor:
+  name: Teor
+  web: 
+  email:
+  bio: ""
+  twitter: 
+  
+pili:
+  name: Maria Pilar Guerra-Arias
+  web: 
+  email:
+  bio: ""
+  twitter: 

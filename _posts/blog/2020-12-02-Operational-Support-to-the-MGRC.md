@@ -1,7 +1,6 @@
-
 ---
 layout: post
-title: "Zcash Foundation’s Operational Support to the MGRC"
+title: "Zcash Foundation's Operational Support to the MGRC"
 excerpt: "Here are more details."
 categories: blog
 tags: governance
@@ -16,7 +15,7 @@ Here is a description of the operational support that ZF will provide to the MGR
 According to ZIP 1014:
 > ZF SHALL strive to define target metrics and key performance indicators, and the Major Grant Review Committee SHOULD utilize these in its funding decisions.
 
-Here are the Foundation's initial thoughts on these [KPIs](https://www.zfnd.org/blog/2020-12-01-Target-Metrics-and-Key-Performance-Indicators-for-the-MGRC)
+Here are the Foundation's initial thoughts on these [KPIs](https://www.zfnd.org/blog/2020-12-01-Target-Metrics-and-Key-Performance-Indicators-for-the-MGRC).
 
 ### Amendment to ZF Bylaws
 The Foundation has established an [amendment to its Bylaws](https://www.zfnd.org/about/incorporation-docs/2020-12-01-bylaws-amendment-3) formalizing the relationship between the MGRC and ZF. 

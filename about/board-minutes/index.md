@@ -33,6 +33,7 @@ excerpt: "Notes from meetings of the Zcash Foundation Board of Directors."
 - [February 3rd, 2017](#february-3-2017)
 
 
+{% include_relative 2020-10-20.md %}
 {% include_relative 2020-07-15.md %}
 {% include_relative 2020-06-01.md %}
 {% include_relative 2020-04-03.md %}

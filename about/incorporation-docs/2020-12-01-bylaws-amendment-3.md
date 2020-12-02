@@ -1,0 +1,12 @@
+---
+layout: page
+title: "Bylaws Amendment 3"
+excerpt: "The Zcash Foundation Bylaws Amendment 3"
+---
+*Adds new Article VIII, renumbers subsequent articles accordingly.*
+## Article VIII: Major Grant Review Committee
+1. There shall be a Technology Advisory Board called the Major Grant Review Committee (MGRC) that constitutes a committee of the Corporation, which shall consist of five persons to be selected by the Community Advisory Panel (CAP), a panel of members of the community to be selected in an evolving manner. Each MGRC member shall serve at a minimum for a one-year term and may sit for reelection, subject to the following limitation: at most, at any point in time, one person with association with the Corporation and one person with association with Zerocoin Electric Coin Company LLC may sit on the MGRC. The MGRC shall have the power to advise the Board and recommend grants to fund independent teams entering the Zcash ecosystem solely for the purposes set forth in the Corporation’s Certificate. The Corporation may set term limits for MGRC members in its sole and absolute discretion.
+2. The MGRC shall oversee the grants process for the “Major Grants” funds based on the established criteria and administer the grants approval process, in accordance with any applicable policies of the Corporation. MGRC shall exercise, or delegate, subject to its supervision, control over grants, contributions, and other financial assistance provided by the Corporation. The scope of responsibilities for the grants process includes the review of applications and selection of the recipients of the grants.  
+3. All grant making recommendations by the MGRC will require no further approval from the Board to become effective, except the Board shall retain a limited veto power as described herein. The Board shall have the right to veto any funding recommendation by the MGRC if the Board determines that the grant is outside the scope of the purposes set forth in the Corporation’s certificate, would violate U.S. law or the Corporation’s reporting requirements, or any other (current or future) obligations under U.S. IRS 501(c)(3). 
+4. The Corporation, whether through the MGRC or otherwise, shall determine the circumstances and criteria according to which grantees shall be required to furnish a periodic accounting to demonstrate that the funds granted by the Corporation were expended for the purposes approved by the MGRC.  
+

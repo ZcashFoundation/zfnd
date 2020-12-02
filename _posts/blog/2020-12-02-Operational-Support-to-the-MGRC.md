@@ -8,7 +8,6 @@ date: 2020-12-02
 Author: Antonie Hodge
 ---
 
-
 Here is a description of the operational support that ZF will provide to the MGRC in accordance to [ZIP 1014](https://zips.z.cash/zip-1014) and the [Foundation's obligations](https://www.zfnd.org/blog/zf-mgrc-obligations/). 
 
 ### Target Metrics and Key Performance Indicators

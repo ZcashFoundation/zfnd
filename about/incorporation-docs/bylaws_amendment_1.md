@@ -1,7 +1,7 @@
 ---
 layout: page
-title: "Bylaws Amendment 2"
-excerpt: "The Zcash Foundation Bylaws Amendment 2"
+title: "Bylaws Amendment 1"
+excerpt: "The Zcash Foundation Bylaws Amendment 1"
 ---
 
 *Adds new Article V, renumbers subsequent articles accordingly.*

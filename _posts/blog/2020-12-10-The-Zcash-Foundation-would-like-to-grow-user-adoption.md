@@ -26,11 +26,11 @@ That's what Zebra is currently doing with the Zcash protocol, which itself is bu
 
 #### Continue to maintain and improve Zebra infrastructure as a foundational layer for our future work
 * Developer community: We plan on hiring more developers internally, in addition to building out a developer community drawn from the broader Zcash community. We already have one dedicated external developer oxarbitrage, and we hope to fund more developers to work on Zebra.
-* User studies: The Foundation will conduct user studies with every release in order to understand what the experience is like and what can be improved. 
+* User studies: The Foundation will conduct user studies with every major release in order to understand what the experience is like and what can be improved. 
 
 We will collect data from a variety of users on (1) their experience running Zebra, (2) any unexpected outcomes, both positive and negative, (3) users' opinions on why they would choose to use Zebra, (4) any unmet expectations.
 
-Using this information, we plan to  identify themes such as resource usage, general user experience, troubleshooting/documentation, etc. This information will allow us to prioritize feedback and incorporate changes so that we can improve Zebra to achieve the optimal user experience. We are also exploring ideas of running hackathons.
+Using this information, we plan to  identify themes such as resource usage, general user experience, troubleshooting/documentation, etc. This information will allow us to prioritize feedback and incorporate changes so that we can improve Zebra to achieve the optimal user experience. 
 
 We identify our users as exchanges, wallet builders, browsers, and other cryptocurrency enthusiasts and developers.
 

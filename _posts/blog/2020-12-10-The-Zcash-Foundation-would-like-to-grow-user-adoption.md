@@ -10,16 +10,16 @@ author: zfteam
 
 Last month, we published "[What is preventing Zcash Adoption](https://www.zfnd.org/blog/what-is-preventing-zcash-adoption/)?" Now that we understand the challenges and barriers to adoption that our users face, here's how the Foundation will help build the missing infrastructure that is needed to increase adoption of private, digital cash at scale.
 
-The following post will lay out the Zcash Foundation's technical roadmap, in order to give our answers to that question. Not all of these  solutions are  headline-grabbing or shiny, but they are foundational, serious, and _necessary_ to build sound and future-looking infrastructure for privacy.
+The following post will lay out the Zcash Foundation's technical roadmap, in order to give our answers to that question. Not all of these solutions are headline-grabbing or shiny, but they are foundational, serious, and _necessary_ to build sound and future-looking infrastructure for privacy.
 
-Our mission states that the Zcash Foundation supports building privacy infrastructure for the public good. To accomplish that, we want Zcash to be a default-safe and fully-private financial payments system. In order to achieve this infrastructure we believe that it is critical for the community to increase shielded adoption, as well as to increase the number of applications and organizations that allow for payments using Zcash. Even if we aren’t able to achieve 100% shielded adoption in the short term, a larger *anonymity set* (i.e. lots more shielded transactions) provides a network effect that  benefits all Zcash users. Or to put it simply, larger crowds provide more privacy.
+Our mission states that the Zcash Foundation supports building privacy infrastructure for the public good. To accomplish that, we want Zcash to be a default-safe and fully-private financial payments system. In order to achieve this infrastructure we believe that it is critical for the community to increase shielded adoption, as well as to increase the number of applications and organizations that allow for payments using Zcash. Even if we aren’t able to achieve 100% shielded adoption in the short term, a larger *anonymity set* (i.e. lots more shielded transactions) provides a network effect that benefits all Zcash users. Or to put it simply, larger crowds provide more privacy.
 
 ## What Does this look like?
 
 #### Complete the development of Zebra so that it can send money safely
 Imagine if you could build the Paris subway system with today's technology, knowledge, and history from scratch. It would be vastly improved, but would take significant resources to understand all the historical data, structures, limitations, etc. in order to effectively build upon it.
 
-That's what Zebra is currently doing with the Zcash protocol, which itself is built on top of Bitcoin legacy code. With a small team of talented engineers, we have built a greenfield approach to a Zcash protocol implementation by building a set of modular libraries, which can be used both within and outside of our Zcash implementation. Zebra will allow us to:
+That's what Zebra is currently doing with the Zcash protocol, which itself is built on top of the Bitcoin protocol. With a small team of talented engineers, we have built a greenfield approach to a cryptocurrency node implementation by building a set of modular libraries, which can be used both within and outside of our Zcash implementation. Zebra will allow us to:
 * improve shielded developer support and tooling,
 * build developer-friendly shielded integrations that are appealing to wallets, browsers, and other user-facing application, and, 
 * continue building a modular implementation of the Zcash Protocol that allows experienced developers to reduce engineering effort required for new projects that use the Zcash protocol. 

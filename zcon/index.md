@@ -1,12 +1,12 @@
 ---
 layout: page
 title: Zcon, Annual Privacy Conference
-excerpt: "Zcon2 in Lima, Peru!"
+excerpt: "Save The Date! Zcon2: Tuesday, June 8- Wednesday, June 9, 2021"
 ---
 
 Zcon is an annual conference focused on privacy-preserving technologies.
 
-Due to world events, the Foundation has decided to cancel Zcon2 for 2020. At this time we are not considering an online equivalent. Please stay tuned in the fall for details of a future Zcon in June 2021! Thank you for your understanding.
+Save the Date! Zcon2 (-ish? lite?) will take place **Tuesday, June 8 - Wednesday, June 9, 2021**. Zcon2 will be a virtual conference at the minimum.
 
 ## Previous Zcons
 

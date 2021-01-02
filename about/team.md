@@ -4,7 +4,7 @@
 
 - [_Andrew Miller_](https://soc1024.com/) (chair and treasurer)
   - Assistant professor in the electrical and computer engineering department at the University of Illinois at Urbana-Champaign, and an associate director of the Initiative for Cryptocurrencies and Contracts.
-- [_Peter Van Valkenburgh_](http://www.petervv.com/)
+- [_Peter Van Valkenburgh_](https://www.coincenter.org/people/peter-van-valkenburgh/)
   - Director of research at Coin Center, a nonprofit organization focused on research, education, and advocacy on the intersection of policy and cryptocurrencies.
 - [_Matthew Green_](https://isi.jhu.edu/~mgreen/)
   - Associate professor of Computer Science at Johns Hopkins University, and one of the authors of the original Zerocash research paper.

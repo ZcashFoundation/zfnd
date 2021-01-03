@@ -9,6 +9,7 @@ Zcash has a vibrant community of developers, users, and enthusiasts. Find us onl
 - [Zcash Foundation Discord](https://discord.gg/na6QZNd)
 - [Zcash Community Discord](https://discord.gg/PhJY6Pm)
 - [Zcash Community Forum](https://forum.zcashcommunity.com/)
+- [Zcash Community Telegram](https://t.me/Zcash_Community)
 - [/r/zec subreddit](https://reddit.com/r/zec)
 - [Zcash Foundation newsletter](https://buttondown.email/zcashfoundation)
 

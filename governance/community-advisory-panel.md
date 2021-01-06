@@ -44,7 +44,6 @@ You can [review the history on GitHub](https://github.com/ZcashFoundation/zfnd/c
 | Dean Tribble |  |
 | Deirdre Connolly |  |
 | Derek Hsu |  |
-| Dimitris Apostolou | https://keybase.pub/rex_4539/Community%20Advisory%20Panel%202019.txt |
 | Elena Giralt |  |
 | Eran Tromer |  |
 | Eric Vaughn |  |

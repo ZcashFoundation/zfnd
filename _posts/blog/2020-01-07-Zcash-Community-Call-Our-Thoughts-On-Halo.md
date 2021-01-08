@@ -17,9 +17,9 @@ The [Zcash Foundation is focused on growing user adoption](https://www.zfnd.org/
 
 We look forward to collaborating with the ECC, the ZOMG, and the community in growing shielded adoption for all users, current and future. In order to do this well, we believe that a conservative approach is warranted when considering major upgrades to the Zcash protocol.
 
-Since the launch of Zcash in 2016, the Zcash technical community has grown dramatically. Where at the beginning, the Zcash was only the Electric Coin Company (ECC), today there is a vibrant ecosystem around Zcash that consists of users, wallet developers, exchanges, L2 solutions, and the Zcash Foundation. 
+Since the launch of Zcash in 2016, the Zcash technical community has grown dramatically. Where at the beginning, the Zcash ecosystem consisted of just the Electric Coin Company (ECC), today there is a vibrant ecosystem around Zcash that consists of users, wallet developers, exchanges, L2 solutions, and the Zcash Foundation. 
 
-As co-stewards of the stability and maturity of the Zcash protocol, the Zcash Foundation is focused on removing barriers to entry for all Zcash users, and minimize the risks of protocol complexity for existing and future ecosystem participants.
+As co-stewards of the stability and maturity of the Zcash protocol, the Zcash Foundation is focused on removing barriers to entry for all Zcash users, and minimizing the risks of protocol complexity for existing and future ecosystem participants.
 
 The ECC has proposed a scientifically ambitious upgrade to the core Zcash protocol: Halo 2. Halo 2 is currently proposed to activate in the next network upgrade (NU5) that is slated for summer of 2021, six months from today. We fully support Halo's objectives of removing the trusted setup and improving the scalability of Zcash. However, the deployment of Halo brings a number of challenges to Zcash that make it in many ways the most elaborate Zcash Network Upgrade yet. 
 

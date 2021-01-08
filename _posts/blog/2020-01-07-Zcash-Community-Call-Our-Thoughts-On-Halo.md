@@ -39,5 +39,4 @@ We do not expect ECC to address each of these points immediately, nor do we ask 
 
 At the same time, we believe that achieving these tasks on a realistic timeline will take substantially more than the approximately 4-5 months that remain between the current publication schedule for ZIP 224 in late January and the current proposed launch date for Halo on mainnet this June. We are asking ECC to make a firm commitment to meeting each of the requirements above, and to [propose a concrete timeline](https://docs.google.com/drawings/d/1WAvIkVBv_fC4L4wDoAJaMTYVh3dJbwhR5YuP5HgOjFw/edit) that allows the necessary sequenced review and ecosystem upgrades to take place.
 
-**[We would like to discuss these proposed requirements with the community on January 14 at 22:30 UTC. You can sign up here to participate the conversation](https://docs.google.com/forms/d/1ESj4pz3ZvaH9nHbxZOygKXZS8-Gf8hXkwseODef8Vsg/edit#responses).**
-
+**We would like to discuss these proposed requirements with the community on January 14 at 22:30 UTC. You can sign up [here](https://docs.google.com/forms/d/1ESj4pz3ZvaH9nHbxZOygKXZS8-Gf8hXkwseODef8Vsg/edit#responses) to participate in the call.**

@@ -21,7 +21,7 @@ The community is in agreement with the wins and novelty of the cryptography of H
 * **a detailed timeline, such as what was created for [other network upgrades](https://docs.google.com/drawings/d/1WAvIkVBv_fC4L4wDoAJaMTYVh3dJbwhR5YuP5HgOjFw/edit)**,
 * **specifications ahead of time in order to evaluate the security and privacy of the protocol design and audit the code and plan integration work**. 
 
-The overall feedback we received from the community is more information on what they need in order to integrate Halo:
+The overall feedback we received from the community is that they would like the following information on what they need in order to integrate Halo:
 1. Publish the docs / specs / changes as soon as possible, so that integrators can plan their own update and integration roadmaps
 2. Allow time for independent review of the circuit and proving systems, the [protocol specification](https://cybermashup.files.wordpress.com/2018/08/zcash-audit.pdf), and the implementation (code), similar to the [audit](https://research.nccgroup.com/wp-content/uploads/2020/07/NCC_Group_Zcash2018_Public_Report_2019-01-30_v1.3.pdf) and review process used for Sapling
 3. Answer questions about how the Halo upgrade will have an impact on existing integrations (like an FAQ, 'does Halo disable Sapling transactions? No.')

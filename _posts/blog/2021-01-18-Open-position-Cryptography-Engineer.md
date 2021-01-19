@@ -47,7 +47,7 @@ Zcash Foundation Core Engineering Projects: Currently the engineering team is wo
 ### Interview process
 
 We depend on work samples and collaborative interviews to evaluate the candidate. 
-[Please submit the following to this form](https://docs.google.com/forms/d/e/1FAIpQLSelpDkmqjgVgiTfVFukB9TbIoIExWxVDHn0VvnSboO4nJIN1A/viewform).
+[Please submit the following to this form](https://docs.google.com/forms/d/e/1FAIpQLSelpDkmqjgVgiTfVFukB9TbIoIExWxVDHn0VvnSboO4nJIN1A/viewform):
 * Software sample
 * Writing sample
 * Analysis sample

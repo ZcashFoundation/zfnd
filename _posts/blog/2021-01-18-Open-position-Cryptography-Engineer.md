@@ -79,6 +79,7 @@ We work remotely on an open source project, so most of our communication with ea
 Zcash is a Bitcoin fork with added privacy features, so we sometimes debug edge cases in an underlying protocol we didn't design (though we also subject our new designs to intense review and analysis). The ability to pick up a complex existing system and figure out how it works or what might be causing a bug is a critical skill for us. In the analysis sample, tell us about a time you had to analyze a technical system whose abstractions failed you. This could be anything that required developing a deeper understanding, such as a memorable debugging session or a satisfying performance improvement.
 
 *Presentation Sample*
+
 It's important to be able to make our work legible both to our collaborators and to the public we serve. Along with writing well, oral presentation skills are an important vehicle for this kind of communication. If you've given a technical presentation that is publicly available, please provide a link to the slides and video (if available).
 If you don't have a publicly available presentation, please describe a topic you've presented in the past.
 

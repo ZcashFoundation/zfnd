@@ -81,6 +81,7 @@ Zcash is a Bitcoin fork with added privacy features, so we sometimes debug edge 
 *Presentation Sample*
 It's important to be able to make our work legible both to our collaborators and to the public we serve. Along with writing well, oral presentation skills are an important vehicle for this kind of communication. If you've given a technical presentation that is publicly available, please provide a link to the slides and video (if available).
 If you don't have a publicly available presentation, please describe a topic you've presented in the past.
+
 ##### Interviews
 There will be two technical interviews and at least one non-technical interview, all conducted over video chat.
 * A take home coding exercise, in which you will be asked to complete a task in the Zebra codebase, which we estimate to take 4-6 hours. The results of the exercise will be reviewed as part of a 'code review' video call / interview. 

@@ -26,7 +26,7 @@ The role as a cryptography engineer within the core Zcash Foundation team will b
 
 Engineers at the Zcash Foundation are responsible for implementing the core Zcash protocol, maintaining deployed software, fixing bugs, and identifying improvements to the protocol for the future. Other duties include writing about our work and interfacing with external stakeholders such as those who use our software and interoperable implementations of the Zcash protocol. The position reports to the Zcash Foundation's engineering manager.
 
-Zcash Foundation Core Engineering Projects: Currently the engineering team is working on [Zebra](https://github.com/ZcashFoundation/zebra), an independent implementation of the Zcash protocol written in Rust, and soon we will dedicate resources on building out Zcash wallet functionality.
+Zcash Foundation Core Engineering Projects: Currently the engineering team is working on [Zebra](https://github.com/ZcashFoundation/zebra), an independent implementation of the Zcash protocol written in Rust, and soon we will dedicate resources to building out Zcash wallet functionality.
 
 ### Requirements
 

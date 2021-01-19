@@ -21,6 +21,7 @@ We're looking for someone who is as excited as we are about building private fin
 * Leadership cares deeply about your health and fulfillment.
 * We offer comprehensive benefits that include full coverage health insurance for employees and dependents, retirement savings account, parental leave, Bring your own Device (BYOD) annual benefit, and a generous Paid Time Off policy.
 * Nonprofit means what it says! We build what serves our mission.
+
 # Role: Cryptography Engineer
 The role as a cryptography engineer within the core Zcash Foundation team will be responsible for building cryptographic protocols as well as distributed systems.  The ideal candidate embodies the Foundation's [values](https://www.zfnd.org/about/#values), while fully aligning with its [mission](https://www.zfnd.org/about/#mission) and [goals](https://www.zfnd.org/about/#goals). 
 

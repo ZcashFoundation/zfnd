@@ -56,6 +56,7 @@ We depend on work samples and collaborative interviews to evaluate the candidate
 * Resume (or equivalent)
 
 We will follow up within a week of your submission.
+
 ##### Work Samples
 We are asking to see samples of work that you have already done. Feel free to send more than one sample of each if that best reflects your accomplishments relevant to the position.
 Here’s what we want to see in detail:

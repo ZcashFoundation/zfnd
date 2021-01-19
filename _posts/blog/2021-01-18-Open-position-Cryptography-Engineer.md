@@ -13,7 +13,7 @@ The Zcash Foundation is a 501(c)(3) nonprofit, public charity that builds and su
 
 We're looking for someone who is as excited as we are about building private financial infrastructure for the public good, and we take that task very seriously.
 
-* Why work for the Zcash Foundation?
+# Why work for the Zcash Foundation?
 * We are a small start-up nonprofit that punches way above its weight.
 * Everything we build is open source, and we develop in the open.
 * Our mission and values are very important. We want to work with like-minded individuals who share them with us.
@@ -87,4 +87,3 @@ There will be two technical interviews and at least one non-technical interview,
 * The non-technical interview will be a conversation focused on your alignment with the Foundation's [values](https://www.zfnd.org/about/#values), while fully aligning with its [mission](https://www.zfnd.org/about/#mission) and [goals](https://www.zfnd.org/about/#goals). 
 
 All interviews will be conducted over Google Hangouts. 
-

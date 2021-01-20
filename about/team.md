@@ -23,12 +23,12 @@ Secretary: [_Antonie Hodge_](https://twitter.com/antoniehodge) (officer but not 
 ### Employees
 
 - [_Antonie Hodge_](https://twitter.com/antoniehodge) • [director](https://www.zfnd.org/blog/welcome-antonie/)
-- [_Deirdre Connolly_](https://twitter.com/durumcrustulum) • [core engineer](https://www.zfnd.org/blog/welcome-deirdre/)
-- [_Chelsea Komlo_](https://twitter.com/chelseakomlo) • [core engineer and researcher](https://www.zfnd.org/blog/welcome-chelsea/)
+- [_Deirdre Connolly_](https://twitter.com/durumcrustulum) • [cryptography engineer](https://www.zfnd.org/blog/welcome-deirdre/)
+- [_Chelsea Komlo_](https://twitter.com/chelseakomlo) • [cryptography researcher and engineer](https://www.zfnd.org/blog/welcome-chelsea/)
 - [_Jane Lusby_](https://twitter.com/yaahc_) • [rust systems engineer](https://www.zfnd.org/blog/welcome-jane-and-teor/)
 - _Teor_ • [rust systems engineer](https://www.zfnd.org/blog/welcome-jane-and-teor/)
-- _Danika Delano_ • [operations manager](https://www.zfnd.org/blog/welcome-danika/)
-- [_Pili Guerra_](https://twitter.com/mpguerra) • [engineering project manager](https://www.zfnd.org/blog/welcome-pili/)
+- _Danika Delano_ • [operations director](https://www.zfnd.org/blog/welcome-danika/)
+- [_Pili Guerra_](https://twitter.com/mpguerra) • [engineering manager](https://www.zfnd.org/blog/welcome-pili/)
 
 #### Alumni
 

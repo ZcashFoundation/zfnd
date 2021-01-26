@@ -5,7 +5,7 @@ excerpt: "Many thanks to Sarah Jamie Lewis for all your contributions"
 categories: blog
 tags: governance
 date: 2021-01-25
-Author: antonie
+author: antonie
 ---
 
 This weekend, Sarah Jamie Lewis [announced her resignation from the ZOMG](https://forum.zcashcommunity.com/t/announcing-my-resignation-from-the-zomg/38363) committee (formerly known as the MGRC). Sarah is a talented individual who has played an active role within the Zcash ecosystem. The Foundation would like to thank Sarah for her contributions to Zcash, and looks forward to her continuing important work on financial privacy at Open Privacy. 

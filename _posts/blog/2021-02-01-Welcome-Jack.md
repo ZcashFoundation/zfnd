@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "The Zcash Foundation Welcomes A Executive Director"
+title: "The Zcash Foundation Welcomes An Executive Director"
 excerpt: "Welcome, Jack!"
 categories: blog
 tags: [team]

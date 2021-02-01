@@ -22,6 +22,7 @@ Secretary: [_Antonie Hodge_](https://twitter.com/antoniehodge) (officer but not 
 
 ### Employees
 
+- [_Jack Gavigan_](https://twitter.com/JackGavigan) • [executive director](https://www.zfnd.org/blog/welcome-jack/)
 - [_Antonie Hodge_](https://twitter.com/antoniehodge) • [director](https://www.zfnd.org/blog/welcome-antonie/)
 - [_Deirdre Connolly_](https://twitter.com/durumcrustulum) • [cryptography engineer](https://www.zfnd.org/blog/welcome-deirdre/)
 - [_Chelsea Komlo_](https://twitter.com/chelseakomlo) • [cryptography researcher and engineer](https://www.zfnd.org/blog/welcome-chelsea/)
@@ -29,6 +30,7 @@ Secretary: [_Antonie Hodge_](https://twitter.com/antoniehodge) (officer but not 
 - _Teor_ • [rust systems engineer](https://www.zfnd.org/blog/welcome-jane-and-teor/)
 - _Danika Delano_ • [operations director](https://www.zfnd.org/blog/welcome-danika/)
 - [_Pili Guerra_](https://twitter.com/mpguerra) • [engineering manager](https://www.zfnd.org/blog/welcome-pili/)
+- [_Alfredo Garcia_](https://twitter.com/oxarbitrage) • [core engineer](https://www.zfnd.org/blog/welcome-alfredo/)
 
 #### Alumni
 

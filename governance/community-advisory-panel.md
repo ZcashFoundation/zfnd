@@ -87,7 +87,6 @@ You can [review the history on GitHub](https://github.com/ZcashFoundation/zfnd/c
 | Rolf Versluis  |  |
 | Ruben Galindo Steckel | https://twitter.com/rubengsp/status/1166395515854118912 |
 | Saleem Rashid |  |
-| Sarah Jamie Lewis |  |
 | Scott Moore | https://twitter.com/notscottmoore/status/1166306619245977603 |
 | Sean Bowe |  |
 | Sean Kelly |  |

@@ -48,8 +48,8 @@ This is a remote position.
 
 We depend on proof of past experience and collaborative interviews to evaluate the candidate. 
 [Please submit PDF documents to this form](https://forms.gle/CPxjjdbtf21WPe529).
-* Resume (or equivalent)
-* Cover letter
+* Resume
+* Cover letter that explains why the candidate is interested in the Zcash Foundation and the COO position.
 
 We will follow up within a week of your submission.
 

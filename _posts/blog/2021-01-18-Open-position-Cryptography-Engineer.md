@@ -27,7 +27,7 @@ Zcash Foundation Core Engineering Projects: Currently the engineering team is wo
 * Knowledge of core cryptographic primitives and protocols as well as common attacks such as side-channel and padding attacks. 
 * Strong testing skills, both in writing automated tests and using techniques such as fuzzing to catch bugs. 
 * Team player.
-* Rust programming experience (by not required).
+* Rust programming experience (but not required).
 * Experience designing and/or implementing complex distributed systems.
 * Experience designing and/or implementing complex zero-knowledge proof systems.
 * Deep technical understanding of internet privacy tools, with a particular focus on finance/cryptocurrency.

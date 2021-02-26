@@ -5,7 +5,7 @@ excerpt: "The best at taking a crypto non-profit from Zero to One"
 categories: blog
 tags: [staff]
 date: 2021-02-26
-author: valkenburgh
+author: petervv
 ---
 
 After three and a half years with the Zcash Foundation, Antonie Hodge is leaving her position as Director and moving on to do more of what she does best: bootstrapping brand new crypto non-profits for the public good. We’ll all miss Antonie very much but her departure signals the Foundation’s relative maturity in the world of cryptocurrency organizations and the value of Antonie’s rather unique skills. 

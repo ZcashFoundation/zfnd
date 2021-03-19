@@ -23,7 +23,6 @@
 - [_Jack Gavigan_](https://twitter.com/JackGavigan) • [executive director](https://www.zfnd.org/blog/welcome-jack/)
 - [_Deirdre Connolly_](https://twitter.com/durumcrustulum) • [cryptography engineer](https://www.zfnd.org/blog/welcome-deirdre/)
 - [_Chelsea Komlo_](https://twitter.com/chelseakomlo) • [cryptography researcher and engineer](https://www.zfnd.org/blog/welcome-chelsea/)
-- [_Jane Lusby_](https://twitter.com/yaahc_) • [rust systems engineer](https://www.zfnd.org/blog/welcome-jane-and-teor/)
 - _Teor_ • [rust systems engineer](https://www.zfnd.org/blog/welcome-jane-and-teor/)
 - _Danika Delano_ • [operations director](https://www.zfnd.org/blog/welcome-danika/)
 - [_Pili Guerra_](https://twitter.com/mpguerra) • [engineering manager](https://www.zfnd.org/blog/welcome-pili/)
@@ -39,4 +38,6 @@
 - [_George Tankersley_](https://twitter.com/gtank__) • [principal cryptographic researcher](https://www.zfnd.org/blog/welcome-jane-and-teor/)
 - [_Henry de Valence_](https://twitter.com/hdevalence) • [principal cryptographic researcher](https://www.zfnd.org/blog/goodbye-henry/)
 - [_Antonie Hodge_](https://twitter.com/antoniehodge) • [director](https://www.zfnd.org/blog/farewell-antonie/)
+- [_Jane Lusby_](https://twitter.com/yaahc_) • [rust systems engineer](https://www.zfnd.org/blog/welcome-jane-and-teor/)
+
 

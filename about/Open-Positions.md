@@ -21,9 +21,7 @@ All positions are open until filled. We look forward to your application!
 * Nonprofit means what it says! We build what serves our mission.
 
 ## Open Positions
-* [Cryptography Engineer](https://www.zfnd.org/blog/open-position-cryptography-engineer/)
 * [Chief Operating Officer (COO)](https://www.zfnd.org/blog/opening-chief-operating-officer/)
-* [Core Engineer](https://www.zfnd.org/blog/opening-core-engineer/)
 
 
 

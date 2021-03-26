@@ -3,7 +3,7 @@ layout: post
 title: "The Zcash Foundation has Finished an Audit of FROST"
 excerpt: "FROST Implementation Audit"
 categories: blog
-tags: [staff]
+tags: [frost]
 Date: 2021-03-29
 author: zfteam
 ---

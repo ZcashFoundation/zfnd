@@ -5,7 +5,7 @@ excerpt: "FROST Implementation Audit"
 categories: blog
 tags: [staff]
 Date: 2021-03-29
-author: chelseakomlo
+author: zfteam
 ---
 
 The Zcash Foundation is pleased to announce our completion of an audit for our first implementation [FROST implementation](https://github.com/ZcashFoundation/redjubjub/blob/main/src/frost.rs). This implementation is a first step and does not yet include support for re-randomziation nor the DKG, but these will be features that we will add next (and will complete separate audits for each).

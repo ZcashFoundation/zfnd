@@ -4,8 +4,6 @@ title: "The New ZIP Process and Zcash Governance"
 excerpt: "The future of Zcash protocol development."
 categories: blog
 tags: [governance]
-image:
-  feature: 
 date: 2019-03-05
 author: sonya
 ---

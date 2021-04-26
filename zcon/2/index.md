@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Zcon, Annual Privacy Conference
-image: happy-waving-rustacean.png
+image.feature: happy-waving-rustacean.png
 excerpt: "Save The Date! Zcon2: Tuesday, June 8- Wednesday, June 9, 2021"
 ---
 
@@ -29,14 +29,3 @@ The provisional schedule (subject to change) is below. Note that all times liste
 | ---------------- | -------------- |
 | 14:00-14:30 | The State of ZK Research<br>*Mary Maller* |
 | 14:55-15:40 | Evaluating New Zero Knowledge Proof Research Before Implementation<br>*Panel discussion with Eran Tromer, Pratyush Mishra, Mary Maller, and Daniel Benarroch* |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-

@@ -2,6 +2,8 @@
 layout: page
 title: Zcon2Lite
 ignore_title: yes
+image:
+feature:
 excerpt: "Save The Date! Zcon2: Tuesday, June 8- Wednesday, June 9, 2021"
 ---
 

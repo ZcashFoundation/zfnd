@@ -1,5 +1,5 @@
 ---
-layout: zcon
+layout: zcon2
 title: Zcon2Lite
 ignore_title: yes
 image:

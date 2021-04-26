@@ -1,8 +1,6 @@
 ---
 layout: page
 title: Zcon2Lite
-image: 
-  feature: happy-waving-rustacean.png
 ignore_title: yes
 excerpt: "Save The Date! Zcon2: Tuesday, June 8- Wednesday, June 9, 2021"
 ---
@@ -12,6 +10,7 @@ Zcon2 will take place **Tuesday, June 8 - Wednesday, June 9, 2021**. Zcon2 will 
 The provisional schedule (subject to change) is below. Note that all times listed are in *UTC*. Registration details will be published in due course.
 
 ## Tuesday 8th June 2021
+
 | Time (UTC) | . |
 | --- | --- |
 | 14:00-14:30 | Opening Address by Jack Gavigan |
@@ -27,6 +26,7 @@ The provisional schedule (subject to change) is below. Note that all times liste
 | 22:10-22:55 | Update on Zcash Implementations & Protocol<br>*Teor & Jack Grigg* |
 
 ## Wednesday 9th June 2021
+
 | Time (UTC) | . |
 | --- | --- |
 | 14:00-14:30 | The State of ZK Research<br>*Mary Maller* |

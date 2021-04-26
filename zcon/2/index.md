@@ -2,6 +2,8 @@
 layout: zcon2
 title: Zcon2Lite
 ignore_title: yes
+image:
+  feature: arrowicon.png
 excerpt: "Save The Date! Zcon2: Tuesday, June 8- Wednesday, June 9, 2021"
 ---
 

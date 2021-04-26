@@ -1,7 +1,8 @@
 ---
 layout: page
-title: Zcon, Annual Privacy Conference
+title: Zcon2Lite
 image.feature: happy-waving-rustacean.png
+ignore_title: yes
 excerpt: "Save The Date! Zcon2: Tuesday, June 8- Wednesday, June 9, 2021"
 ---
 

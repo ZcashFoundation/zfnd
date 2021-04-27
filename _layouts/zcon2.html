@@ -29,6 +29,7 @@
   </article>
 </div><!-- /#main -->
 
+<center>
 <div>&copy; {{ site.time | date: '%Y' }} {{ site.owner.name }}<br />
 <div class="social-icons">
 	{% if site.owner.twitter %}<a href="https://twitter.com/{{ site.owner.twitter }}" title="{{ site.owner.name}} on Twitter" target="_blank"><i class="fa fa-twitter-square fa-2x"></i></a>{% endif %}
@@ -44,6 +45,7 @@
 	{% if site.owner.weibo %}<a href="https://www.weibo.com/u/{{ site.owner.weibo }}/" title="{{ site.owner.name}} on Weibo" target="_blank"><i class="fa fa-weibo fa-2x"></i></a>{% endif %}
   <a href="{{ site.url }}/feed.xml" title="Atom/RSS feed"><i class="fa fa-rss-square fa-2x"></i></a>
 </div><!-- /.social-icons -->
+</center>
 
 {% include scripts.html %}
 

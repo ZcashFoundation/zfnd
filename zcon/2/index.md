@@ -4,6 +4,12 @@ title: Zcon2Lite
 ignore_title: yes
 excerpt: "Save The Date! Zcon2: Tuesday, June 8- Wednesday, June 9, 2021"
 ---
+<style>
+td, th {
+    border: 1px solid grey
+}
+</style>
+  
 <center><img src="/images/zcon2header-temp.png"></center>
 
 Zcon2 will take place **Tuesday, June 8 - Wednesday, June 9, 2021**. Zcon2 will be a virtual conference.

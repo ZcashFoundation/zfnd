@@ -4,11 +4,6 @@ title: Zcon2Lite
 ignore_title: yes
 excerpt: "Save The Date! Zcon2: Tuesday, June 8- Wednesday, June 9, 2021"
 ---
-<style>
-td, th {
-    border: 1px solid grey
-}
-</style>
   
 <center><img src="/images/zcon2header-temp.png"></center>
 
@@ -17,6 +12,10 @@ Zcon2 will take place **Tuesday, June 8 - Wednesday, June 9, 2021**. Zcon2 will 
 The provisional schedule (subject to change) is below. Note that all times listed are in *UTC*. Registration details will be published in due course.
 
 ## Tuesday 8th June 2021
+<table style="width:100%; border: 1px solid black;" >
+    <TR><th>Time (UTC)</TH><TH>Session title</TH></TR>
+    <TR><TD>14:00</TD><TD>Opening Address by Jack Gavigan</TD></TR>
+</TABLE>
 
 | Time (UTC) | . |
 | --- | --- |

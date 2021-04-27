@@ -13,7 +13,7 @@ The provisional schedule (subject to change) is below. Note that all times liste
 
 ## Tuesday 8th June 2021
 
-| Time (UTC) | . |
+| Time *(UTC)* | Session Title |
 | :---: | --- |
 | 14:00 | Opening Address by Jack Gavigan |
 | 14:40 | User Defined Assets <br>*Panel discussion with Ian Miers, Peter Van Valkenburgh, J.R. Willett and Matt Luongo, chaired by Jack Gavigan* |
@@ -29,8 +29,8 @@ The provisional schedule (subject to change) is below. Note that all times liste
 
 ## Wednesday 9th June 2021
 
-| Time (UTC) | . |
-| --- | --- |
+| Time *(UTC)* | Session Title |
+| :---: | --- |
 | 14:00 | The State of ZK Research<br>*Mary Maller* |
 | 14:55 | Evaluating New Zero Knowledge Proof Research Before Implementation<br>*Panel discussion with Eran Tromer, Pratyush Mishra, Mary Maller, and Daniel Benarroch* |
 

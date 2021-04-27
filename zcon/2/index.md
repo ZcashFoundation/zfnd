@@ -14,7 +14,7 @@ The provisional schedule (subject to change) is below. Note that all times liste
 ## Tuesday 8th June 2021
 
 | Time (UTC) | . |
-| --- | --- |
+| :---: | --- |
 | 14:00 | Opening Address by Jack Gavigan |
 | 14:40 | User Defined Assets <br>*Panel discussion with Ian Miers, Peter Van Valkenburgh, J.R. Willett and Matt Luongo, chaired by Jack Gavigan* |
 | 15:35 | Zcash Open Major Grants<br>*The ZOMG Committee* |

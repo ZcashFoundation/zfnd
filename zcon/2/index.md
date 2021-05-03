@@ -17,7 +17,7 @@ Join the [Zcon2 Lite Discord Server](https://discord.gg/WbXQTTSGXX) to ask speak
 
 | Time *(UTC)* | Session Title |
 | :---: | --- |
-| 14:00 | [Opening Address](schedule#opening-address) by Jack Gavigan |
+| 14:00 | **[Opening Address](schedule#opening-address)** by Jack Gavigan |
 | 14:40 | [User Defined Assets](schedule#uda-panel) <br>*Panel discussion with Ian Miers, Peter Van Valkenburgh, J.R. Willett and Matt Luongo, chaired by Jack Gavigan* |
 | 15:35 | [Zcash Open Major Grants](schedule#zomg)<br>*The ZOMG Committee* |
 | 16:30 | [Fireside chat](schedule#fireside-chat) with Andrew Miller, Holmes Wilson, and Zooko Wilcox |

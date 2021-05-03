@@ -11,7 +11,7 @@ Zcon2 will take place **Tuesday, June 8th and Wednesday, June 9th 2021**. Zcon2 
 
 The provisional schedule (subject to change) is below. Note that all times listed are in *UTC*. Registration details will be published in due course.
 
-Join the [Zcon2 Lite Discord Server](https://www.google.com/url?q=https://discord.gg/sMNcpwU39q&sa=D&source=calendar&ust=1620236243655000&usg=AOvVaw2oPwr9cJXz0qO5Fb4FeObL) to ask speakers questions, and engage with other attendees on various topics.
+Join the [Zcon2 Lite Discord Server](https://discord.gg/WbXQTTSGXX) to ask speakers questions, and engage with other attendees on various topics.
 
 ## Tuesday 8th June 2021
 

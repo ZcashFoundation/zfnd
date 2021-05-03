@@ -9,9 +9,11 @@ excerpt: "Save The Date! Zcon2: Tuesday, June 8- Wednesday, June 9, 2021"
 
 Zcon2 will take place **Tuesday, June 8th and Wednesday, June 9th 2021**. Zcon2 will be a virtual conference, streaming on YouTube. 
 
-The provisional schedule (subject to change) is below. Note that all times listed are in ***UTC***. Registration details will be published in due course.
+The provisional schedule (subject to change) is below. Note that all times listed are in ***UTC***. 
 
-Join the [Zcon2 Lite Discord Server](https://discord.gg/WbXQTTSGXX) to ask speakers questions, and engage with other attendees on various topics.
+[Click here to register.](https://forms.gle/uXfxFStSVYYGpUQ48)
+
+Join the [Zcon2 Lite Discord Server](https://discord.gg/WbXQTTSGXX) to ask speakers questions, and engage with other attendees on various topics. [Subscribe to the Zcash Foundation's YouTube channel](https://www.youtube.com/channel/UCi01v05DNTUEC_eB0c9rpgQ?) to watch the presentations and panel discussions. 
 
 ## Tuesday 8th June 2021
 

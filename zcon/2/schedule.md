@@ -7,7 +7,11 @@ excerpt: "Save The Date! Zcon2: Tuesday, June 8 & Wednesday, June 9, 2021"
   
 [<img src="/images/1024x512_Zcon2_Twitter_v3_Dates.png">](/zcon/2/)
 
-Note that all times listed are in *UTC*.
+[Click here to register.](https://forms.gle/uXfxFStSVYYGpUQ48)
+
+Join the [Zcon2 Lite Discord Server](https://discord.gg/WbXQTTSGXX) to ask speakers questions, and engage with other attendees. [Subscribe to the Zcash Foundation's YouTube channel](https://www.youtube.com/channel/UCi01v05DNTUEC_eB0c9rpgQ?) to watch the presentations and panel discussions. 
+
+Note that all times listed are in ***UTC***.
 
 ---
 

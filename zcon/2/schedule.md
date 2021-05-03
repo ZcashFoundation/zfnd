@@ -52,6 +52,8 @@ Michelle Lai started her career in traditional finance before finding a wacky ho
 
 *16:30 UTC on Tuesday 8th June 2021*
 
+Andrew Miller is chairman of the Zcash Foundation's board of directors, and an assistant professor at the University of Illinois at Urbana Champaign. 
+
 Holmes Wilson is an activist and software maker. Right now he's building the peer-to-peer messaging app and Zcash wallet Zbay, while serving on the Zcash grants committee ZOMG. Previously, he co-founded the US-based Internet freedom activism group Fight for the Future.
 
 Zooko Wilcox is the founder and CEO of the Electric Coin Company. He is one of the original cypherpunks. Zooko is a long-serving technologist and entrepreneur. His experience spans open, decentralized systems; cryptography; information security; and startups. 

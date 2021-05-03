@@ -5,7 +5,9 @@ ignore_title: yes
 excerpt: "Save The Date! Zcon2: Tuesday, June 8- Wednesday, June 9, 2021"
 ---
 
-<center><a href="/zcon/2/"<img src="/images/1024x512_Zcon2_Twitter_v3_Dates.png"></a></center>
+<!-- <center><a href="/zcon/2/"<img src="/images/1024x512_Zcon2_Twitter_v3_Dates.png"></a></center> -->
+---
+</center>[![Zcon 2]/images/1024x512_Zcon2_Twitter_v3_Dates.png](/zcon/2/)</center>
 
 Zcon is an annual conference focused on privacy-preserving technologies.
 

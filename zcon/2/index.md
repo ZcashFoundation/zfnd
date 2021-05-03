@@ -5,14 +5,13 @@ ignore_title: yes
 excerpt: "Save The Date! Zcon2: Tuesday, June 8- Wednesday, June 9, 2021"
 ---
 
-<!-- <center><img src="/images/zcon2header-temp.png"></center> -->
 <center><img src="/images/Zcon2_Logo_White.png"></center>
 
-Zcon2 will take place **Tuesday, June 8 - Wednesday, June 9, 2021**. Zcon2 will be a virtual conference.
+Zcon2 will take place **Tuesday, June 8th and Wednesday, June 9th 2021**. Zcon2 will be a virtual conference, streaming on YouTube. 
 
 The provisional schedule (subject to change) is below. Note that all times listed are in *UTC*. Registration details will be published in due course.
 
-Join the [Zcon2 Lite Discord Server](https://www.google.com/url?q=https://discord.gg/sMNcpwU39q&sa=D&source=calendar&ust=1620236243655000&usg=AOvVaw2oPwr9cJXz0qO5Fb4FeObL) to ask speakers questions and engage with other attendees on various topics.
+Join the [Zcon2 Lite Discord Server](https://www.google.com/url?q=https://discord.gg/sMNcpwU39q&sa=D&source=calendar&ust=1620236243655000&usg=AOvVaw2oPwr9cJXz0qO5Fb4FeObL) to ask speakers questions, and engage with other attendees on various topics.
 
 ## Tuesday 8th June 2021
 
@@ -34,6 +33,11 @@ Join the [Zcon2 Lite Discord Server](https://www.google.com/url?q=https://discor
 
 | Time *(UTC)* | Session Title |
 | :---: | --- |
-| 14:00 | The State of ZK Research<br>*Mary Maller* |
-| 14:55 | Evaluating New Zero Knowledge Proof Research Before Implementation<br>*Panel discussion with Eran Tromer, Pratyush Mishra, Mary Maller, and Daniel Benarroch* |
-
+| 14:00 | [The State of ZK Research](schedule#zkresearch)<br>*Mary Maller* |
+| 14:55 | [Evaluating New Zero Knowledge Proof Research Before Implementation](schedule#evaluating)<br>*Panel discussion with Eran Tromer, Pratyush Mishra and Mary Maller, chaired by Daniel Benarroch* |
+| 15:50 | [Snarks on Other Ecosystems](schedule#other=snarks)<br>*Panel discussion with Marco Stronati, Ariel Gabizon, Barry Whitehat, chaired by Anna Rose* |
+| 16:45 | [Auditing Cryptography](schedule#auditing)<br>*Panel discussion with Thomas Pornin, Isis Agora Lovecruft, Taylor Hornby and JP Aummason, chaired by Liz Steininger* |
+| 17:40 | [Interoperability Between Chains](schedule#interoperability)<br>*Panel discussion with Maximilian Roszko, Matt Luongo, Zooko Wilcox and Christopher Goes, chaired by John Light* |
+| 18:35 | [Network Privacy](schedule#network-privacy)<br>*Panel discussion with Giulia Fanti, George Kadianakis and Janito Vaqueiro Ferreira Filho, chaired by Alan Fairless* |
+| 19:30 | [Governance across Ecosystems](schedukle#governance)<br>*Panel discussion with Hudson Jameson, Zaki Manian, Evan Shapiro and David Vorick, chaired by Peter Van Valkenburgh* |
+| 20:25 | [Measuring Privacy Metrics](schedule#privacy-metrics)<br>*Panel discussion with Ashkan Soltani, Mitchell Krawiec-Thayer and Teor, chaired by David Campbell* |

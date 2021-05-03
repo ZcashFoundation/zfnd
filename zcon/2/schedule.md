@@ -82,7 +82,7 @@ Kevin Gorham
 
 Juan Leni
 
-Conrado Grouvêa is a cryptography engineer who worked with the efficient software implementation of cryptographic algorithms during his Master's and PhD. Since then, he has worked in the industry, developing software for cryptographic devices such as tokens and hardware security modules (HSMs). 
+Conrado Gouvêa is a cryptography engineer who worked with the efficient software implementation of cryptographic algorithms during his Master's and PhD. Since then, he has worked in the industry, developing software for cryptographic devices such as tokens and hardware security modules (HSMs). 
 
 Daniel James is a software engineer at Gemini. 
 

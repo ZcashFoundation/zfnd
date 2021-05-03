@@ -39,5 +39,5 @@ Join the [Zcon2 Lite Discord Server](https://www.google.com/url?q=https://discor
 | 16:45 | [Auditing Cryptography](schedule#auditing)<br>*Panel discussion with Thomas Pornin, Isis Agora Lovecruft, Taylor Hornby and JP Aummason, chaired by Liz Steininger* |
 | 17:40 | [Interoperability Between Chains](schedule#interoperability)<br>*Panel discussion with Maximilian Roszko, Matt Luongo, Zooko Wilcox and Christopher Goes, chaired by John Light* |
 | 18:35 | [Network Privacy](schedule#network-privacy)<br>*Panel discussion with Giulia Fanti, George Kadianakis and Janito Vaqueiro Ferreira Filho, chaired by Alan Fairless* |
-| 19:30 | [Governance across Ecosystems](schedukle#governance)<br>*Panel discussion with Hudson Jameson, Zaki Manian, Evan Shapiro and David Vorick, chaired by Peter Van Valkenburgh* |
+| 19:30 | [Governance across Ecosystems](schedule#governance)<br>*Panel discussion with Hudson Jameson, Zaki Manian, Evan Shapiro and David Vorick, chaired by Peter Van Valkenburgh* |
 | 20:25 | [Measuring Privacy Metrics](schedule#privacy-metrics)<br>*Panel discussion with Ashkan Soltani, Mitchell Krawiec-Thayer and Teor, chaired by David Campbell* |

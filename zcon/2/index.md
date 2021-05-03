@@ -55,7 +55,7 @@ Register [here](https://forms.gle/uXfxFStSVYYGpUQ48). There is no deadline to re
 **What is the conference schedule?**<BR>
 You can view the schedule [above](/zcon/2/#tuesday-8th-june-2021) and peruse session descriptions and speaker bios [here](/zcon/2/schedule/). 
 
-**How will the online conference work? **<BR>
+**How will the online conference work?**<BR>
 [Registration](https://forms.gle/uXfxFStSVYYGpUQ48) is free! Sessions will be live-streamed to the [Zcash Foundation's YouTube channel](https://www.youtube.com/channel/UCi01v05DNTUEC_eB0c9rpgQ?) and discussion will take place on Discord. [Download Discord](https://discord.com/download) or log into your existing account, join the [Zcon2 Lite Discord Server](https://discord.gg/sMNcpwU39q), and subscribe to the [Zcash Foundation's YouTube channel](https://www.youtube.com/channel/UCi01v05DNTUEC_eB0c9rpgQ?) before the conference. Session videos can be viewed live on Tuesday, June 8th 14:00-23:00 UTC and Wednesday, June 9th 14:00-21:30 UTC on YouTube, and will remain available to watch at a later time. We highly encourage you to engage in discussion on Discord throughout Zcon2 Lite and the week following (even if you cannot attend sessions live)!
 
 **Will I be able to ask speakers questions?**<BR>

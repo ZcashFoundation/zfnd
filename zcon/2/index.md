@@ -43,3 +43,40 @@ Join the [Zcon2 Lite Discord Server](https://discord.gg/WbXQTTSGXX) to ask speak
 | **18:35** | **[Network Privacy](schedule#network-privacy)**<br>*Panel discussion with Giulia Fanti, George Kadianakis and Janito Vaqueiro Ferreira Filho, chaired by Alan Fairless* |
 | **19:30** | **[Governance across Ecosystems](schedule#governance)**<br>*Panel discussion with Hudson Jameson, Zaki Manian, Evan Shapiro and David Vorick, chaired by Peter Van Valkenburgh* |
 | **20:25** | **[Measuring Privacy Metrics](schedule#privacy-metrics)**<br>*Panel discussion with Ashkan Soltani, Mitchell Krawiec-Thayer and Teor, chaired by David Campbell* |
+
+## FAQ
+
+**When is Zcon2 Lite?**<BR>
+Tuesday, June 8 14:00-23:00 UTC and Wednesday, June 9 14:00-21:30 UTC. 
+
+**How do I register? Is there a registration deadline or fees?**<BR>
+Register [here](https://forms.gle/uXfxFStSVYYGpUQ48). There is no deadline to register and there is no charge!
+
+**What is the conference schedule?**<BR>
+You can view the schedule [above](/zcon/2/#tuesday-8th-june-2021) and peruse session descriptions and speaker bios [here](/zcon/2/schedule/). 
+
+**How will the online conference work? **<BR>
+[Registration](https://forms.gle/uXfxFStSVYYGpUQ48) is free! Sessions will be live-streamed to the [Zcash Foundation's YouTube channel](https://www.youtube.com/channel/UCi01v05DNTUEC_eB0c9rpgQ?) and discussion will take place on Discord. [Download Discord](https://discord.com/download) or log into your existing account, join the [Zcon2 Lite Discord Server](https://discord.gg/sMNcpwU39q), and subscribe to the [Zcash Foundation's YouTube channel](https://www.youtube.com/channel/UCi01v05DNTUEC_eB0c9rpgQ?) before the conference. Session videos can be viewed live on Tuesday, June 8th 14:00-23:00 UTC and Wednesday, June 9th 14:00-21:30 UTC on YouTube, and will remain available to watch at a later time. We highly encourage you to engage in discussion on Discord throughout Zcon2 Lite and the week following (even if you cannot attend sessions live)!
+
+**Will I be able to ask speakers questions?**<BR>
+Yes! [Download Discord](https://discord.com/download) or log into your existing account, join the [Zcon2 Lite Discord Server](https://discord.gg/sMNcpwU39q). Each session has a dedicated channel for session-relation questions and discussion. Speakers will address some of the questions posted in the session specific channel when they are live. If you would like to ask speakers questions but you cannot attend their session live, we encourage you to post your questions in Discord before and after the session for async communication.
+
+**What are the different Discord Channels for?**
+
+- **&#35;lobby**: This is where you’ll enter the conference and is a great place to ask general conference questions like how the conference works.
+
+- **&#35;jobs**: For those looking for work or have employment opportunities.
+
+- **&#35;technical-off-the-stage**: To discuss topics that are not covered in the conference sessions.
+
+- **&#35;lightning-talks**: Post a short video of a project or ideas you want to share.
+
+- **&#35;non-technical-banter**: Zebras just want to have fun!
+
+Each session has a channel dedicated to the session topic labeled the session title. Ask presenters questions while they are live and converse with other attendees about the session topic (both sync and async). 
+
+**What if I miss one of the sessions? Will I have access to the recordings?**<BR>
+Yes! All session videos will remain on the Foundation's YouTube channel so you can watch them at your own convenience.
+
+**What is your Code of Conduct?**<BR>
+Thank you for asking. Use of the Zcon2 Lite Discord server is subject to the same [Code of Conduct](https://forum.zcashcommunity.com/faq) as the [Zcash forum](https://forum.zcashcommunity.com/). 

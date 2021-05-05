@@ -22,7 +22,7 @@ Join the [Zcon2 Lite Discord Server](https://discord.gg/WbXQTTSGXX) to ask speak
 | **14:00** | **[Opening Address](schedule#opening-address)** by Jack Gavigan |
 | **14:40** | **[User Defined Assets](schedule#uda-panel)**<br>*Panel discussion with Ian Miers, Peter Van Valkenburgh, J.R. Willett and Matt Luongo, chaired by Jack Gavigan* |
 | **15:35** | **[Zcash Open Major Grants](schedule#zomg)**<br>*The ZOMG Committee* |
-| **16:30** | **[Fireside chat](schedule#fireside-chat)** with Andrew Miller, Holmes Wilson, and Zooko Wilcox |
+| **16:30** | **[Fireside Chat](schedule#fireside-chat)** with Andrew Miller, Holmes Wilson, and Zooko Wilcox |
 | **17:10** | **[The State of UX in the Zcash Ecosystem](schedule#ux)**<br>*Pili Guerra & Joseph van Geffen* |
 | **18:05** | **[Building the Outside Contributor Community](schedule#outside-contributors)**<br>*Kevin Gorham*  |
 | **18:45** | **[HSMs & Hardware Wallets](schedule#hsms)**<br>*Panel discussion with Juan Leni, Conrado Grouvêa & Daniel James* |
@@ -35,9 +35,9 @@ Join the [Zcon2 Lite Discord Server](https://discord.gg/WbXQTTSGXX) to ask speak
 
 | Time *(UTC)* | Session Title |
 | :---: | :-- |
-| **14:00** | **[The State of ZK Research](schedule#zkresearch)**<br>*Mary Maller* |
+| **14:00** | **[Recent Advances in Zero-Knowledge](schedule#zkresearch)**<br>*Mary Maller* |
 | **14:55** | **[Evaluating New Zero Knowledge Proof Research Before Implementation](schedule#evaluating)**<br>*Panel discussion with Eran Tromer, Pratyush Mishra and Mary Maller, chaired by Daniel Benarroch* |
-| **15:50** | **[Snarks on Other Ecosystems](schedule#other=snarks)**<br>*Panel discussion with Marco Stronati, Ariel Gabizon, Barry Whitehat, chaired by Anna Rose* |
+| **15:50** | **[Snarks on Other Ecosystems](schedule#other-snarks)**<br>*Panel discussion with Marco Stronati, Ariel Gabizon, Barry Whitehat, chaired by Anna Rose* |
 | **16:45** | **[Auditing Cryptography](schedule#auditing)**<br>*Panel discussion with Thomas Pornin, Isis Agora Lovecruft, Taylor Hornby and JP Aummason, chaired by Liz Steininger* |
 | **17:40** | **[Interoperability Between Chains](schedule#interoperability)**<br>*Panel discussion with Maximilian Roszko, Matt Luongo, Zooko Wilcox and Christopher Goes, chaired by John Light* |
 | **18:35** | **[Network Privacy](schedule#network-privacy)**<br>*Panel discussion with Giulia Fanti, George Kadianakis and Janito Vaqueiro Ferreira Filho, chaired by Alan Fairless* |
@@ -62,16 +62,12 @@ You can view the schedule [above](/zcon/2/#tuesday-8th-june-2021) and peruse ses
 Yes! [Download Discord](https://discord.com/download) or log into your existing account, join the [Zcon2 Lite Discord Server](https://discord.gg/sMNcpwU39q). Each session has a dedicated channel for session-relation questions and discussion. Speakers will address some of the questions posted in the session specific channel when they are live. If you would like to ask speakers questions but you cannot attend their session live, we encourage you to post your questions in Discord before and after the session for async communication.
 
 **What are the different Discord Channels for?**
-
-- **&#35;lobby**: This is where you’ll enter the conference and is a great place to ask general conference questions like how the conference works.
-
+- **&#35;lobby**: This is where you’ll enter the conference and is a great place to introduce yourself.
 - **&#35;jobs**: For those looking for work or have employment opportunities.
-
 - **&#35;technical-off-the-stage**: To discuss topics that are not covered in the conference sessions.
-
 - **&#35;lightning-talks**: Post a short video of a project or ideas you want to share.
-
 - **&#35;non-technical-banter**: Zebras just want to have fun!
+- **&#35;help**: General conference related questions.
 
 Each session has a channel dedicated to the session topic labeled the session title. Ask presenters questions while they are live and converse with other attendees about the session topic (both sync and async). 
 

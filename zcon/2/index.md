@@ -9,7 +9,7 @@ excerpt: "Save The Date! Zcon2: Tuesday, June 8- Wednesday, June 9, 2021"
 
 Zcon2 will take place **Tuesday, June 8th and Wednesday, June 9th 2021**. Zcon2 will be a virtual conference, streaming on YouTube. 
 
-The provisional schedule (subject to change) is below. Note that all times listed are in ***UTC***. 
+The provisional schedule (subject to change) is below. Note that all times listed are in [***UTC***](https://www.timeanddate.com/worldclock/timezone/utc). 
 
 [Click here to register.](https://forms.gle/uXfxFStSVYYGpUQ48)
 
@@ -17,7 +17,7 @@ Join the [Zcon2 Lite Discord Server](https://discord.gg/WbXQTTSGXX) to ask speak
 
 ## Tuesday 8th June 2021
 
-| Time *(UTC)* | Session Title | Add to Google Calendar |
+| Time [*(UTC)*](https://www.timeanddate.com/worldclock/timezone/utc) | Session Title | Add to Google Calendar |
 | :---: | :-- | :---: |
 | **14:00** | **[Opening Address](schedule#opening-address)** by Jack Gavigan | [<img src="/images/gcal_icon.png">](https://calendar.google.com/event?action=TEMPLATE&tmeid=MHFmM3JqN2locDZjazB1bDNpajZ0Z3JoZXQgY18yODc5dHIyNHVjZDV2cGxuaXY2aHF1Zzlpc0Bn&tmsrc=c_2879tr24ucd5vplniv6hqug9is%40group.calendar.google.com) |
 | **14:40** | **[User Defined Assets](schedule#uda-panel)**<br>*Panel discussion with Ian Miers, Peter Van Valkenburgh, J.R. Willett and Matt Luongo, chaired by Jack Gavigan* | [<img src="/images/gcal_icon.png">](https://calendar.google.com/event?action=TEMPLATE&tmeid=MHAxdGUycDFraThmcmNkamF0cHZhdThpb3QgY18yODc5dHIyNHVjZDV2cGxuaXY2aHF1Zzlpc0Bn&tmsrc=c_2879tr24ucd5vplniv6hqug9is%40group.calendar.google.com) |

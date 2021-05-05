@@ -52,7 +52,7 @@ Michelle Lai started her career in traditional finance before finding a wacky ho
 
 ---
 
-<h3 id="fireside-chat">Fireside chat with Andrew Miller, Holmes Wilson, and Zooko Wilcox</h3>
+<h3 id="fireside-chat">Fireside Chat with Andrew Miller, Holmes Wilson, and Zooko Wilcox</h3>
 
 *16:30 UTC on Tuesday 8th June 2021*
 
@@ -134,11 +134,13 @@ Jack Grigg
 
 ---
 
-<h3 id="zkresearch">The State of ZK Research</h3>
+<h3 id="zkresearch">Recent Advances in Zero-Knowledge</h3>
 
 *14:00 UTC on Wednesday 9th June 2021*
 
 Mary Maller is a cryptography researcher at the Ethereum Foundation. She is generally interested in public key cryptography, with a focus on the design of trusted setup ceremonies. Much of her research has looked into the design of ceremonies for zero-knowledge proofs.
+
+In this session Mary will be surveying some of the SNARK literature that has come out in the past couple of years.  The talk will mostly be high level with an intention of comparing and contrasting different schemes.  
 
 ---
 

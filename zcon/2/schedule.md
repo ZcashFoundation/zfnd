@@ -11,7 +11,7 @@ excerpt: "Save The Date! Zcon2: Tuesday, June 8 & Wednesday, June 9, 2021"
 
 Join the [Zcon2 Lite Discord Server](https://discord.gg/WbXQTTSGXX) to ask speakers questions, and engage with other attendees. [Subscribe to the Zcash Foundation's YouTube channel](https://www.youtube.com/channel/UCi01v05DNTUEC_eB0c9rpgQ?) to watch the presentations and panel discussions. 
 
-Note that all times listed are in [***UTC***](https://www.timeanddate.com/worldclock/timezone/utc).
+Note that all times listed are in [***UTC***](https://www.timeanddate.com/worldclock/timezone/utc). A Google Calendar with all the sessions on it can be found [here](https://calendar.google.com/calendar/embed?src=c_2879tr24ucd5vplniv6hqug9is%40group.calendar.google.com). 
 
 ---
 
@@ -146,7 +146,7 @@ In this session Mary will be surveying some of the SNARK literature that has com
 
 <h3 id="evaluating">Evaluating New Zero Knowledge Proof Research Before Implementation</h3>
 
-*14:35 UTC on Wednesday 9th June 2021* - [*Add this session to your Google Calendar*](https://calendar.google.com/event?action=TEMPLATE&tmeid=NzBzMXI0NG1haHYxNTR2M2FlbTB2dDB1NmMgY18yODc5dHIyNHVjZDV2cGxuaXY2aHF1Zzlpc0Bn&tmsrc=c_2879tr24ucd5vplniv6hqug9is%40group.calendar.google.com)
+*14:55 UTC on Wednesday 9th June 2021* - [*Add this session to your Google Calendar*](https://calendar.google.com/event?action=TEMPLATE&tmeid=NzBzMXI0NG1haHYxNTR2M2FlbTB2dDB1NmMgY18yODc5dHIyNHVjZDV2cGxuaXY2aHF1Zzlpc0Bn&tmsrc=c_2879tr24ucd5vplniv6hqug9is%40group.calendar.google.com)
 
 Eran Tromer is a research scientist at Columbia University and a professor of computer science at Tel Aviv University. He studies cryptography and information security, and in particular using powerful cryptographic tools such as Zero Knowledge proofs to achieve privacy and integrity in distributed systems. He also studies side-channel attacks and other privacy threats. He is a founding scientist of Zcash's Electric Coin Company.
 

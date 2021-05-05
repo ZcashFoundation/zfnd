@@ -17,32 +17,32 @@ Join the [Zcon2 Lite Discord Server](https://discord.gg/WbXQTTSGXX) to ask speak
 
 ## Tuesday 8th June 2021
 
-| Time *(UTC)* | Session Title |
-| :---: | :-- |
-| **14:00** | **[Opening Address](schedule#opening-address)** by Jack Gavigan |
-| **14:40** | **[User Defined Assets](schedule#uda-panel)**<br>*Panel discussion with Ian Miers, Peter Van Valkenburgh, J.R. Willett and Matt Luongo, chaired by Jack Gavigan* |
-| **15:35** | **[Zcash Open Major Grants](schedule#zomg)**<br>*The ZOMG Committee* |
-| **16:30** | **[Fireside Chat](schedule#fireside-chat)** with Andrew Miller, Holmes Wilson, and Zooko Wilcox |
-| **17:10** | **[The State of UX in the Zcash Ecosystem](schedule#ux)**<br>*Pili Guerra & Joseph van Geffen* |
-| **18:05** | **[Building the Outside Contributor Community](schedule#outside-contributors)**<br>*Kevin Gorham*  |
-| **18:45** | **[HSMs & Hardware Wallets](schedule#hsms)**<br>*Panel discussion with Juan Leni, Conrado Grouvêa & Daniel James* |
-| **19:40** | **[Halo2 & Orchard](schedule#halo2)**<br>*Sean Bowe, Daira Hopwood & Deirdre Connolly* |
-| **20:50** | **[Reworking the NUP](schedule#nup)**<br>*Steven Smith & Deirdre Connolly* |
-| **21:30** | **[FROST](schedule#frost)**<br>*Chelsea Komlo* |
-| **22:10** | **[Update on Zcash Implementations & Protocol](schedule#implementations)**<br>*Teor & Jack Grigg* |
+| Time *(UTC)* | Session Title | Add to Google Calendar |
+| :---: | :-- | :---: |
+| **14:00** | **[Opening Address](schedule#opening-address)** by Jack Gavigan | [<img src="/images/gcal_icon.png">](https://calendar.google.com/event?action=TEMPLATE&tmeid=MHFmM3JqN2locDZjazB1bDNpajZ0Z3JoZXQgY18yODc5dHIyNHVjZDV2cGxuaXY2aHF1Zzlpc0Bn&tmsrc=c_2879tr24ucd5vplniv6hqug9is%40group.calendar.google.com) |
+| **14:40** | **[User Defined Assets](schedule#uda-panel)**<br>*Panel discussion with Ian Miers, Peter Van Valkenburgh, J.R. Willett and Matt Luongo, chaired by Jack Gavigan* | [<img src="/images/gcal_icon.png">](https://calendar.google.com/event?action=TEMPLATE&tmeid=MHAxdGUycDFraThmcmNkamF0cHZhdThpb3QgY18yODc5dHIyNHVjZDV2cGxuaXY2aHF1Zzlpc0Bn&tmsrc=c_2879tr24ucd5vplniv6hqug9is%40group.calendar.google.com) |
+| **15:35** | **[Zcash Open Major Grants](schedule#zomg)**<br>*The ZOMG Committee* | [<img src="/images/gcal_icon.png">](https://calendar.google.com/event?action=TEMPLATE&tmeid=N3M3ZzFzaGdpNjFkdjBibTM3YXBsY2FiMm8gY18yODc5dHIyNHVjZDV2cGxuaXY2aHF1Zzlpc0Bn&tmsrc=c_2879tr24ucd5vplniv6hqug9is%40group.calendar.google.com) |
+| **16:30** | **[Fireside Chat](schedule#fireside-chat)** with Andrew Miller, Holmes Wilson, and Zooko Wilcox | [<img src="/images/gcal_icon.png">](https://calendar.google.com/event?action=TEMPLATE&tmeid=M28zbGRnc3VtZThwb2xqc3F1Z2k5M2Jmc2ogY18yODc5dHIyNHVjZDV2cGxuaXY2aHF1Zzlpc0Bn&tmsrc=c_2879tr24ucd5vplniv6hqug9is%40group.calendar.google.com) |
+| **17:10** | **[The State of UX in the Zcash Ecosystem](schedule#ux)**<br>*Pili Guerra & Joseph van Geffen* | [<img src="/images/gcal_icon.png">](https://calendar.google.com/event?action=TEMPLATE&tmeid=MmdsbG9kcjNvdmI1dms3Y2w1a2ptdWtiajEgY18yODc5dHIyNHVjZDV2cGxuaXY2aHF1Zzlpc0Bn&tmsrc=c_2879tr24ucd5vplniv6hqug9is%40group.calendar.google.com) |
+| **18:05** | **[Building the Outside Contributor Community](schedule#outside-contributors)**<br>*Kevin Gorham*  | [<img src="/images/gcal_icon.png">](https://calendar.google.com/event?action=TEMPLATE&tmeid=MjQwaGswYmkzZmd2ZGVlcGZxZDRsMXUzMTYgY18yODc5dHIyNHVjZDV2cGxuaXY2aHF1Zzlpc0Bn&tmsrc=c_2879tr24ucd5vplniv6hqug9is%40group.calendar.google.com) |
+| **18:45** | **[HSMs & Hardware Wallets](schedule#hsms)**<br>*Panel discussion with Juan Leni, Conrado Grouvêa & Daniel James* | [<img src="/images/gcal_icon.png">](https://calendar.google.com/event?action=TEMPLATE&tmeid=MGw4c24yMWVyY2M4ZGFmcWNrMzFidW9jZ3QgY18yODc5dHIyNHVjZDV2cGxuaXY2aHF1Zzlpc0Bn&tmsrc=c_2879tr24ucd5vplniv6hqug9is%40group.calendar.google.com) |
+| **19:40** | **[Halo2 & Orchard](schedule#halo2)**<br>*Sean Bowe, Daira Hopwood & Deirdre Connolly* | [<img src="/images/gcal_icon.png">](https://calendar.google.com/event?action=TEMPLATE&tmeid=NzJxcnNpcjd0NjJiOWgxamNudGM3bmtvOGQgY18yODc5dHIyNHVjZDV2cGxuaXY2aHF1Zzlpc0Bn&tmsrc=c_2879tr24ucd5vplniv6hqug9is%40group.calendar.google.com) |
+| **20:50** | **[Reworking the NUP](schedule#nup)**<br>*Steven Smith & Deirdre Connolly* | [<img src="/images/gcal_icon.png">](https://calendar.google.com/event?action=TEMPLATE&tmeid=MmNvbHY2bm1nOXBlbDNhdDBqdDZjYTIwbTIgY18yODc5dHIyNHVjZDV2cGxuaXY2aHF1Zzlpc0Bn&tmsrc=c_2879tr24ucd5vplniv6hqug9is%40group.calendar.google.com) |
+| **21:30** | **[FROST](schedule#frost)**<br>*Chelsea Komlo* | [<img src="/images/gcal_icon.png">](https://calendar.google.com/event?action=TEMPLATE&tmeid=MWRscGI4dmZlZ3E2c2JxcWo5NmRhNnFwcGMgY18yODc5dHIyNHVjZDV2cGxuaXY2aHF1Zzlpc0Bn&tmsrc=c_2879tr24ucd5vplniv6hqug9is%40group.calendar.google.com) |
+| **22:10** | **[Update on Zcash Implementations & Protocol](schedule#implementations)**<br>*Teor & Jack Grigg* | [<img src="/images/gcal_icon.png">](https://calendar.google.com/event?action=TEMPLATE&tmeid=MHYzYTM4NnZwbmFlcGRwdmRrOW83c2I4MmUgY18yODc5dHIyNHVjZDV2cGxuaXY2aHF1Zzlpc0Bn&tmsrc=c_2879tr24ucd5vplniv6hqug9is%40group.calendar.google.com) |
 
 ## Wednesday 9th June 2021
 
-| Time *(UTC)* | Session Title |
-| :---: | :-- |
-| **14:00** | **[Recent Advances in Zero-Knowledge](schedule#zkresearch)**<br>*Mary Maller* |
-| **14:55** | **[Evaluating New Zero Knowledge Proof Research Before Implementation](schedule#evaluating)**<br>*Panel discussion with Eran Tromer, Pratyush Mishra and Mary Maller, chaired by Daniel Benarroch* |
-| **15:50** | **[Snarks on Other Ecosystems](schedule#other-snarks)**<br>*Panel discussion with Marco Stronati, Ariel Gabizon, Barry Whitehat, chaired by Anna Rose* |
-| **16:45** | **[Auditing Cryptography](schedule#auditing)**<br>*Panel discussion with Thomas Pornin, Isis Agora Lovecruft, Taylor Hornby and JP Aummason, chaired by Liz Steininger* |
-| **17:40** | **[Interoperability Between Chains](schedule#interoperability)**<br>*Panel discussion with Maximilian Roszko, Matt Luongo, Zooko Wilcox and Christopher Goes, chaired by John Light* |
-| **18:35** | **[Network Privacy](schedule#network-privacy)**<br>*Panel discussion with Giulia Fanti, George Kadianakis and Janito Vaqueiro Ferreira Filho, chaired by Alan Fairless* |
-| **19:30** | **[Governance across Ecosystems](schedule#governance)**<br>*Panel discussion with Hudson Jameson, Zaki Manian, Evan Shapiro and David Vorick, chaired by Peter Van Valkenburgh* |
-| **20:25** | **[Measuring Privacy Metrics](schedule#privacy-metrics)**<br>*Panel discussion with Ashkan Soltani, Mitchell Krawiec-Thayer and Teor, chaired by David Campbell* |
+| Time *(UTC)* | Session Title | Add to Google Calendar |
+| :---: | :-- | :---: |
+| **14:00** | **[Recent Advances in Zero-Knowledge](schedule#zkresearch)**<br>*Mary Maller* | [<img src="/images/gcal_icon.png">](https://calendar.google.com/event?action=TEMPLATE&tmeid=NmVuOGM5YmNlbXR1dDBuOHY1N2VlaWlicnEgY18yODc5dHIyNHVjZDV2cGxuaXY2aHF1Zzlpc0Bn&tmsrc=c_2879tr24ucd5vplniv6hqug9is%40group.calendar.google.com) |
+| **14:55** | **[Evaluating New Zero Knowledge Proof Research Before Implementation](schedule#evaluating)**<br>*Panel discussion with Eran Tromer, Pratyush Mishra and Mary Maller, chaired by Daniel Benarroch* | [<img src="/images/gcal_icon.png">](https://calendar.google.com/event?action=TEMPLATE&tmeid=NzBzMXI0NG1haHYxNTR2M2FlbTB2dDB1NmMgY18yODc5dHIyNHVjZDV2cGxuaXY2aHF1Zzlpc0Bn&tmsrc=c_2879tr24ucd5vplniv6hqug9is%40group.calendar.google.com) |
+| **15:50** | **[Snarks on Other Ecosystems](schedule#other-snarks)**<br>*Panel discussion with Marco Stronati, Ariel Gabizon, Barry Whitehat, chaired by Anna Rose* | [<img src="/images/gcal_icon.png">](https://calendar.google.com/event?action=TEMPLATE&tmeid=Mjg0dHVuNTY5azR0YW1mbGMwNjVyNzhyOHYgY18yODc5dHIyNHVjZDV2cGxuaXY2aHF1Zzlpc0Bn&tmsrc=c_2879tr24ucd5vplniv6hqug9is%40group.calendar.google.com) |
+| **16:45** | **[Auditing Cryptography](schedule#auditing)**<br>*Panel discussion with Thomas Pornin, Isis Agora Lovecruft, Taylor Hornby and JP Aummason, chaired by Liz Steininger* | [<img src="/images/gcal_icon.png">](https://calendar.google.com/event?action=TEMPLATE&tmeid=NjhlZWgwN2t2ZDM2bmgycTBucnNnbjVrZWkgY18yODc5dHIyNHVjZDV2cGxuaXY2aHF1Zzlpc0Bn&tmsrc=c_2879tr24ucd5vplniv6hqug9is%40group.calendar.google.com) |
+| **17:40** | **[Interoperability Between Chains](schedule#interoperability)**<br>*Panel discussion with Maximilian Roszko, Matt Luongo, Zooko Wilcox and Christopher Goes, chaired by John Light* | [<img src="/images/gcal_icon.png">](https://calendar.google.com/event?action=TEMPLATE&tmeid=M2thcnNvcWk3MWQybmNpb2podjZjNmVuMzcgY18yODc5dHIyNHVjZDV2cGxuaXY2aHF1Zzlpc0Bn&tmsrc=c_2879tr24ucd5vplniv6hqug9is%40group.calendar.google.com) |
+| **18:35** | **[Network Privacy](schedule#network-privacy)**<br>*Panel discussion with Giulia Fanti, George Kadianakis and Janito Vaqueiro Ferreira Filho, chaired by Alan Fairless* | [<img src="/images/gcal_icon.png">](https://calendar.google.com/event?action=TEMPLATE&tmeid=NmV0bWpoa2c2bzVlZDFtc3ZhN2xldGY2Z2MgY18yODc5dHIyNHVjZDV2cGxuaXY2aHF1Zzlpc0Bn&tmsrc=c_2879tr24ucd5vplniv6hqug9is%40group.calendar.google.com) |
+| **19:30** | **[Governance across Ecosystems](schedule#governance)**<br>*Panel discussion with Hudson Jameson, Zaki Manian, Evan Shapiro and David Vorick, chaired by Peter Van Valkenburgh* | [<img src="/images/gcal_icon.png">](https://calendar.google.com/event?action=TEMPLATE&tmeid=MGoxZGFoYjdwb21xbWRwOTVpc3FzbW5lcWwgY18yODc5dHIyNHVjZDV2cGxuaXY2aHF1Zzlpc0Bn&tmsrc=c_2879tr24ucd5vplniv6hqug9is%40group.calendar.google.com) |
+| **20:25** | **[Measuring Privacy Metrics](schedule#privacy-metrics)**<br>*Panel discussion with Ashkan Soltani, Mitchell Krawiec-Thayer and Teor, chaired by David Campbell* | [<img src="/images/gcal_icon.png">](https://calendar.google.com/event?action=TEMPLATE&tmeid=MHU3amRxNmJma3BndTkzcWVlZ3I5MDg2YzAgY18yODc5dHIyNHVjZDV2cGxuaXY2aHF1Zzlpc0Bn&tmsrc=c_2879tr24ucd5vplniv6hqug9is%40group.calendar.google.com) |
 
 ## FAQ
 

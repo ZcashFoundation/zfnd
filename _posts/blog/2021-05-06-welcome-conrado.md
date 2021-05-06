@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "The Zcash Foundation Welcomes A New Cryptography Engineer"
+title: "The Zcash Foundation Welcomes Another New Cryptography Engineer"
 excerpt: "Welcome, Conrado!"
 categories: blog
 tags: [staff]

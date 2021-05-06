@@ -28,7 +28,7 @@
 - [_Pili Guerra_](https://twitter.com/mpguerra) • [engineering manager](https://www.zfnd.org/blog/welcome-pili/)
 - [_Alfredo Garcia_](https://twitter.com/oxarbitrage) • [core engineer](https://www.zfnd.org/blog/welcome-alfredo/)
 - _Marek Bielik_ • [cryptography engineer](https://www.zfnd.org/blog/welcome-marek/)
-- _Conrado Gouvêa_ • [cryptography engineer](https://www.zfnd.org/blog/welcome-conrado/)
+- [_Conrado Gouvêa_](https://twitter.com/conradoplg) • [cryptography engineer](https://www.zfnd.org/blog/welcome-conrado/)
 
 #### Alumni
 

@@ -246,4 +246,4 @@ Teor is a privacy researcher and software developer living and working on Turrba
 
 David Campbell (aka DC) is responsible for strategy and operations at ECC.  He is a technical executive, and was previously CISO at SendGrid and founding CEO at JumpCloud.  He enjoys working at the intersection of tech, privacy and policy.  He has been active in the cryptocurrency community since 2011. 
 
-*This last session with be directly followed by Closing Comments by Jack Gavigan, from 21:10-21:25.* 
+*This panel discussion will be directly followed by Closing Comments by Jack Gavigan, from 21:10-21:25.* 

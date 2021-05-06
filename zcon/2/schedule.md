@@ -128,9 +128,11 @@ Chelsea Komlo
 
 *22:10-22:55 UTC on Tuesday 8th June 2021* - [*Add this session to your Google Calendar*](https://calendar.google.com/event?action=TEMPLATE&tmeid=MHYzYTM4NnZwbmFlcGRwdmRrOW83c2I4MmUgY18yODc5dHIyNHVjZDV2cGxuaXY2aHF1Zzlpc0Bn&tmsrc=c_2879tr24ucd5vplniv6hqug9is%40group.calendar.google.com)
 
+In this session, Jack and Teor will talk about recent changes in the zcashd and Zebra Zcash node implementations. We'll cover key features, including the Canopy and NU5 network upgrades. We'll also talk about how the teams have been collaborating, and the benefits of having multiple node implementations.
+
 Teor is a privacy researcher and software developer living and working on Turrbal and Jagera country. They develop and analyze secure and anonymous software, with a focus on financial transactions, network privacy, and electronic voting. They are currently working as the Zcash Foundation's Zebra team lead. They previously worked as a Tor developer and researcher.
 
-Jack Grigg
+Jack Grigg from the Electric Coin Company. 
 
 ---
 

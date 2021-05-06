@@ -8,7 +8,7 @@ Date: 2021-05-06
 author: jackgavigan
 ---
 
-The Zcash Foundation is thrilled to welcome Conrado as a Cryptography Engineer. 
+The Zcash Foundation is thrilled to welcome Conrado Gouvêa as a Cryptography Engineer. 
  
 Conrado is a cryptography engineer who carried out research into the efficient software implementation of cryptographic algorithms such as elliptic curves, pairings, and authenticated encryption during his Masters and PhD studies at the University of Campinas.
  

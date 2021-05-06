@@ -17,14 +17,14 @@ Note that all times listed are in [***UTC***](https://www.timeanddate.com/worldc
 
 <h3 id="opening-address">Opening Address</h3>
 
-*14:00 UTC on Tuesday 8th June 2021* - [*Add this session to your Google Calendar*](https://calendar.google.com/event?action=TEMPLATE&tmeid=MHFmM3JqN2locDZjazB1bDNpajZ0Z3JoZXQgY18yODc5dHIyNHVjZDV2cGxuaXY2aHF1Zzlpc0Bn&tmsrc=c_2879tr24ucd5vplniv6hqug9is%40group.calendar.google.com)
+*14:00-14:30 UTC on Tuesday 8th June 2021* - [*Add this session to your Google Calendar*](https://calendar.google.com/event?action=TEMPLATE&tmeid=MHFmM3JqN2locDZjazB1bDNpajZ0Z3JoZXQgY18yODc5dHIyNHVjZDV2cGxuaXY2aHF1Zzlpc0Bn&tmsrc=c_2879tr24ucd5vplniv6hqug9is%40group.calendar.google.com)
 
 <div id="jackgavigan">Jack Gavigan is the Executive Director of the Zcash Foundation. He has been involved with Zcash since early 2016, when he became an advisor to the Electric Coin Company. He subsequently joined the company as COO shortly before the launch of Zcash in October 2016. In 2018 he relinquished the role of COO to focus on regulatory relations. He took up the position of Executive Director at the Zcash Foundation in February 2021.</div>
 
 ---
 <h3 id="uda-panel">User Defined Assets (panel discussion)</h3>
 
-*14:40 UTC on Tuesday 8th June 2021* - [*Add this session to your Google Calendar*](https://calendar.google.com/event?action=TEMPLATE&tmeid=MHAxdGUycDFraThmcmNkamF0cHZhdThpb3QgY18yODc5dHIyNHVjZDV2cGxuaXY2aHF1Zzlpc0Bn&tmsrc=c_2879tr24ucd5vplniv6hqug9is%40group.calendar.google.com)
+*14:40-15:25 UTC on Tuesday 8th June 2021* - [*Add this session to your Google Calendar*](https://calendar.google.com/event?action=TEMPLATE&tmeid=MHAxdGUycDFraThmcmNkamF0cHZhdThpb3QgY18yODc5dHIyNHVjZDV2cGxuaXY2aHF1Zzlpc0Bn&tmsrc=c_2879tr24ucd5vplniv6hqug9is%40group.calendar.google.com)
 
 Ian Miers is one of the seven founding scientists behind Zcash, and a member of the Zcash Foundation's board of directors. 
 
@@ -40,7 +40,7 @@ This panel discussion will be chaired by [Jack Gavigan](#jackgavigan).
 
 <h3 id="zomg">Zcash Open Major Grants</h3>
 
-*15:35 UTC on Tuesday 8th June 2021* - [*Add this session to your Google Calendar*](https://calendar.google.com/event?action=TEMPLATE&tmeid=N3M3ZzFzaGdpNjFkdjBibTM3YXBsY2FiMm8gY18yODc5dHIyNHVjZDV2cGxuaXY2aHF1Zzlpc0Bn&tmsrc=c_2879tr24ucd5vplniv6hqug9is%40group.calendar.google.com)
+*15:35-16:20 UTC on Tuesday 8th June 2021* - [*Add this session to your Google Calendar*](https://calendar.google.com/event?action=TEMPLATE&tmeid=N3M3ZzFzaGdpNjFkdjBibTM3YXBsY2FiMm8gY18yODc5dHIyNHVjZDV2cGxuaXY2aHF1Zzlpc0Bn&tmsrc=c_2879tr24ucd5vplniv6hqug9is%40group.calendar.google.com)
 
 Chris Burniske is a partner at Placeholder, a New York venture firm that invests in decentralized information networks. Prior to Placeholder, he co-authored the best-seller, Cryptoassets: The Innovative Investor’s Guide to Bitcoin and Beyond, and spearheaded ARK Invest’s crypto efforts, including its 2015 bitcoin investment. His commentary has been featured on international media outlets, including the Wall Street Journal, New York Times, Financial Times, and Bloomberg. He graduated Phi Beta Kappa with a BS from Stanford University. Twitter @cburniske.
 
@@ -54,7 +54,7 @@ Michelle Lai started her career in traditional finance before finding a wacky ho
 
 <h3 id="fireside-chat">Fireside Chat with Andrew Miller, Michele Lai and Zooko Wilcox</h3>
 
-*16:30 UTC on Tuesday 8th June 2021* - [*Add this session to your Google Calendar*](https://calendar.google.com/event?action=TEMPLATE&tmeid=M28zbGRnc3VtZThwb2xqc3F1Z2k5M2Jmc2ogY18yODc5dHIyNHVjZDV2cGxuaXY2aHF1Zzlpc0Bn&tmsrc=c_2879tr24ucd5vplniv6hqug9is%40group.calendar.google.com)
+*16:30-17:00 UTC on Tuesday 8th June 2021* - [*Add this session to your Google Calendar*](https://calendar.google.com/event?action=TEMPLATE&tmeid=M28zbGRnc3VtZThwb2xqc3F1Z2k5M2Jmc2ogY18yODc5dHIyNHVjZDV2cGxuaXY2aHF1Zzlpc0Bn&tmsrc=c_2879tr24ucd5vplniv6hqug9is%40group.calendar.google.com)
 
 Andrew Miller is chairman of the Zcash Foundation's board of directors, and an assistant professor at the University of Illinois at Urbana Champaign. 
 
@@ -66,7 +66,7 @@ Zooko Wilcox is the founder and CEO of the Electric Coin Company. He is one of t
 
 <h3 id="ux">The State of UX in the Zcash Ecosystem</h3>
 
-*17:10 UTC on Tuesday 8th June 2021* - [*Add this session to your Google Calendar*](https://calendar.google.com/event?action=TEMPLATE&tmeid=MmdsbG9kcjNvdmI1dms3Y2w1a2ptdWtiajEgY18yODc5dHIyNHVjZDV2cGxuaXY2aHF1Zzlpc0Bn&tmsrc=c_2879tr24ucd5vplniv6hqug9is%40group.calendar.google.com)
+*17:10-17:55 UTC on Tuesday 8th June 2021* - [*Add this session to your Google Calendar*](https://calendar.google.com/event?action=TEMPLATE&tmeid=MmdsbG9kcjNvdmI1dms3Y2w1a2ptdWtiajEgY18yODc5dHIyNHVjZDV2cGxuaXY2aHF1Zzlpc0Bn&tmsrc=c_2879tr24ucd5vplniv6hqug9is%40group.calendar.google.com)
 
 Pili Guerra is current working as Engineering Manager for the Engineering team at the Zcash Foundation. She has 15 years of experience working in the tech industry as a software developer, solutions engineer, consultant and project manager. She has previously worked at the Tor Project as a Project Manager for the Tor Browser, Community and UX Teams.
 
@@ -76,7 +76,7 @@ Joseph Van Geffen
 
 <h3 id="outside-contributors">Building the Outside Contributor Community</h3>
 
-*18:05 UTC on Tuesday 8th June 2021* - [*Add this session to your Google Calendar*](https://calendar.google.com/event?action=TEMPLATE&tmeid=MjQwaGswYmkzZmd2ZGVlcGZxZDRsMXUzMTYgY18yODc5dHIyNHVjZDV2cGxuaXY2aHF1Zzlpc0Bn&tmsrc=c_2879tr24ucd5vplniv6hqug9is%40group.calendar.google.com)
+*18:05-18:35 UTC on Tuesday 8th June 2021* - [*Add this session to your Google Calendar*](https://calendar.google.com/event?action=TEMPLATE&tmeid=MjQwaGswYmkzZmd2ZGVlcGZxZDRsMXUzMTYgY18yODc5dHIyNHVjZDV2cGxuaXY2aHF1Zzlpc0Bn&tmsrc=c_2879tr24ucd5vplniv6hqug9is%40group.calendar.google.com)
 
 Kevin Gorham
 
@@ -84,7 +84,7 @@ Kevin Gorham
 
 <h3 id="hsms">HSMs & Hardware Wallets</h3>
 
-*18:45 UTC on Tuesday 8th June 2021* - [*Add this session to your Google Calendar*](https://calendar.google.com/event?action=TEMPLATE&tmeid=MGw4c24yMWVyY2M4ZGFmcWNrMzFidW9jZ3QgY18yODc5dHIyNHVjZDV2cGxuaXY2aHF1Zzlpc0Bn&tmsrc=c_2879tr24ucd5vplniv6hqug9is%40group.calendar.google.com)
+*18:45-19:30 UTC on Tuesday 8th June 2021* - [*Add this session to your Google Calendar*](https://calendar.google.com/event?action=TEMPLATE&tmeid=MGw4c24yMWVyY2M4ZGFmcWNrMzFidW9jZ3QgY18yODc5dHIyNHVjZDV2cGxuaXY2aHF1Zzlpc0Bn&tmsrc=c_2879tr24ucd5vplniv6hqug9is%40group.calendar.google.com)
 
 Juan Leni
 
@@ -96,7 +96,7 @@ Daniel James is a software engineer at Gemini.
 
 <h3 id="halo2">Halo2 & Orchard</h3>
 
-*19:40 UTC on Tuesday 8th June 2021* - [*Add this session to your Google Calendar*](https://calendar.google.com/event?action=TEMPLATE&tmeid=NzJxcnNpcjd0NjJiOWgxamNudGM3bmtvOGQgY18yODc5dHIyNHVjZDV2cGxuaXY2aHF1Zzlpc0Bn&tmsrc=c_2879tr24ucd5vplniv6hqug9is%40group.calendar.google.com)
+*19:40-20:40 UTC on Tuesday 8th June 2021* - [*Add this session to your Google Calendar*](https://calendar.google.com/event?action=TEMPLATE&tmeid=NzJxcnNpcjd0NjJiOWgxamNudGM3bmtvOGQgY18yODc5dHIyNHVjZDV2cGxuaXY2aHF1Zzlpc0Bn&tmsrc=c_2879tr24ucd5vplniv6hqug9is%40group.calendar.google.com)
 
 Sean Bowe
 
@@ -108,7 +108,7 @@ Deirdre Connolly
 
 <h3 id="nup">Reworking the NUP</h3>
 
-*20:50 UTC on Tuesday 8th June 2021* - [*Add this session to your Google Calendar*](https://calendar.google.com/event?action=TEMPLATE&tmeid=MmNvbHY2bm1nOXBlbDNhdDBqdDZjYTIwbTIgY18yODc5dHIyNHVjZDV2cGxuaXY2aHF1Zzlpc0Bn&tmsrc=c_2879tr24ucd5vplniv6hqug9is%40group.calendar.google.com)
+*20:50-21:20 UTC on Tuesday 8th June 2021* - [*Add this session to your Google Calendar*](https://calendar.google.com/event?action=TEMPLATE&tmeid=MmNvbHY2bm1nOXBlbDNhdDBqdDZjYTIwbTIgY18yODc5dHIyNHVjZDV2cGxuaXY2aHF1Zzlpc0Bn&tmsrc=c_2879tr24ucd5vplniv6hqug9is%40group.calendar.google.com)
 
 Steven Smith is currently the Vice President of Engineering for the Electric Coin Co., the creators of Zcash. He as over 20 years experience in Engineering and Product leadership roles and was most recently the CTO and Head of Engineering for FRDM Inc., a company focused on fighting modern slavery through the use of supply chain analytics and blockchain technology. Steven also spent 7 years at Salesforce in various IC and engineering leadership roles and served as the CTO of the Intelligent Automation Business Unit at Cisco prior to joining Salesforce. 
 
@@ -118,7 +118,7 @@ Deirdre Connolly
 
 <h3 id="frost">FROST</h3>
 
-*21:30 UTC on Tuesday 8th June 2021* - [*Add this session to your Google Calendar*](https://calendar.google.com/event?action=TEMPLATE&tmeid=MWRscGI4dmZlZ3E2c2JxcWo5NmRhNnFwcGMgY18yODc5dHIyNHVjZDV2cGxuaXY2aHF1Zzlpc0Bn&tmsrc=c_2879tr24ucd5vplniv6hqug9is%40group.calendar.google.com)
+*21:30-22:00 UTC on Tuesday 8th June 2021* - [*Add this session to your Google Calendar*](https://calendar.google.com/event?action=TEMPLATE&tmeid=MWRscGI4dmZlZ3E2c2JxcWo5NmRhNnFwcGMgY18yODc5dHIyNHVjZDV2cGxuaXY2aHF1Zzlpc0Bn&tmsrc=c_2879tr24ucd5vplniv6hqug9is%40group.calendar.google.com)
 
 Chelsea Komlo
 
@@ -126,7 +126,7 @@ Chelsea Komlo
 
 <h3 id="implementations">Update on Zcash Implementations & Protocol</h3>
 
-*22:10 UTC on Tuesday 8th June 2021* - [*Add this session to your Google Calendar*](https://calendar.google.com/event?action=TEMPLATE&tmeid=MHYzYTM4NnZwbmFlcGRwdmRrOW83c2I4MmUgY18yODc5dHIyNHVjZDV2cGxuaXY2aHF1Zzlpc0Bn&tmsrc=c_2879tr24ucd5vplniv6hqug9is%40group.calendar.google.com)
+*22:10-22:55 UTC on Tuesday 8th June 2021* - [*Add this session to your Google Calendar*](https://calendar.google.com/event?action=TEMPLATE&tmeid=MHYzYTM4NnZwbmFlcGRwdmRrOW83c2I4MmUgY18yODc5dHIyNHVjZDV2cGxuaXY2aHF1Zzlpc0Bn&tmsrc=c_2879tr24ucd5vplniv6hqug9is%40group.calendar.google.com)
 
 Teor is a privacy researcher and software developer living and working on Turrbal and Jagera country. They develop and analyze secure and anonymous software, with a focus on financial transactions, network privacy, and electronic voting. They are currently working as the Zcash Foundation's Zebra team lead. They previously worked as a Tor developer and researcher.
 
@@ -136,7 +136,7 @@ Jack Grigg
 
 <h3 id="zkresearch">Recent Advances in Zero-Knowledge</h3>
 
-*14:00 UTC on Wednesday 9th June 2021* - [*Add this session to your Google Calendar*](https://calendar.google.com/event?action=TEMPLATE&tmeid=NmVuOGM5YmNlbXR1dDBuOHY1N2VlaWlicnEgY18yODc5dHIyNHVjZDV2cGxuaXY2aHF1Zzlpc0Bn&tmsrc=c_2879tr24ucd5vplniv6hqug9is%40group.calendar.google.com)
+*14:00-14:45 UTC on Wednesday 9th June 2021* - [*Add this session to your Google Calendar*](https://calendar.google.com/event?action=TEMPLATE&tmeid=NmVuOGM5YmNlbXR1dDBuOHY1N2VlaWlicnEgY18yODc5dHIyNHVjZDV2cGxuaXY2aHF1Zzlpc0Bn&tmsrc=c_2879tr24ucd5vplniv6hqug9is%40group.calendar.google.com)
 
 Mary Maller is a cryptography researcher at the Ethereum Foundation. She is generally interested in public key cryptography, with a focus on the design of trusted setup ceremonies. Much of her research has looked into the design of ceremonies for zero-knowledge proofs.
 
@@ -146,7 +146,7 @@ In this session Mary will be surveying some of the SNARK literature that has com
 
 <h3 id="evaluating">Evaluating New Zero Knowledge Proof Research Before Implementation</h3>
 
-*14:55 UTC on Wednesday 9th June 2021* - [*Add this session to your Google Calendar*](https://calendar.google.com/event?action=TEMPLATE&tmeid=NzBzMXI0NG1haHYxNTR2M2FlbTB2dDB1NmMgY18yODc5dHIyNHVjZDV2cGxuaXY2aHF1Zzlpc0Bn&tmsrc=c_2879tr24ucd5vplniv6hqug9is%40group.calendar.google.com)
+*14:55-15:40 UTC on Wednesday 9th June 2021* - [*Add this session to your Google Calendar*](https://calendar.google.com/event?action=TEMPLATE&tmeid=NzBzMXI0NG1haHYxNTR2M2FlbTB2dDB1NmMgY18yODc5dHIyNHVjZDV2cGxuaXY2aHF1Zzlpc0Bn&tmsrc=c_2879tr24ucd5vplniv6hqug9is%40group.calendar.google.com)
 
 Eran Tromer is a research scientist at Columbia University and a professor of computer science at Tel Aviv University. He studies cryptography and information security, and in particular using powerful cryptographic tools such as Zero Knowledge proofs to achieve privacy and integrity in distributed systems. He also studies side-channel attacks and other privacy threats. He is a founding scientist of Zcash's Electric Coin Company.
 
@@ -160,7 +160,7 @@ Daniel Benarroch
 
 <h3 id="other-snarks">Snarks on Other Ecosystems</h3>
 
-*15:50 UTC on Wednesday 9th June 2021* - [*Add this session to your Google Calendar*](https://calendar.google.com/event?action=TEMPLATE&tmeid=Mjg0dHVuNTY5azR0YW1mbGMwNjVyNzhyOHYgY18yODc5dHIyNHVjZDV2cGxuaXY2aHF1Zzlpc0Bn&tmsrc=c_2879tr24ucd5vplniv6hqug9is%40group.calendar.google.com)
+*15:50-16:35 UTC on Wednesday 9th June 2021* - [*Add this session to your Google Calendar*](https://calendar.google.com/event?action=TEMPLATE&tmeid=Mjg0dHVuNTY5azR0YW1mbGMwNjVyNzhyOHYgY18yODc5dHIyNHVjZDV2cGxuaXY2aHF1Zzlpc0Bn&tmsrc=c_2879tr24ucd5vplniv6hqug9is%40group.calendar.google.com)
 
 Marco Stronati is leading the privacy team at Nomadic Labs, working on the Tezos blockchain. In a previous life he was a researcher on Privacy Preserving Technologies.
 
@@ -174,7 +174,7 @@ Anna Rose
 
 <h3 id="auditing">Auditing Cryptography</h3>
 
-*16:45 UTC on Wednesday 9th June 2021* - [*Add this session to your Google Calendar*](https://calendar.google.com/event?action=TEMPLATE&tmeid=NjhlZWgwN2t2ZDM2bmgycTBucnNnbjVrZWkgY18yODc5dHIyNHVjZDV2cGxuaXY2aHF1Zzlpc0Bn&tmsrc=c_2879tr24ucd5vplniv6hqug9is%40group.calendar.google.com)
+*16:45-17:30 UTC on Wednesday 9th June 2021* - [*Add this session to your Google Calendar*](https://calendar.google.com/event?action=TEMPLATE&tmeid=NjhlZWgwN2t2ZDM2bmgycTBucnNnbjVrZWkgY18yODc5dHIyNHVjZDV2cGxuaXY2aHF1Zzlpc0Bn&tmsrc=c_2879tr24ucd5vplniv6hqug9is%40group.calendar.google.com)
 
 Thomas Pornin is a Technical Director at NCC Group, specialized in cryptography. His research focuses on the design and implementation of cryptographic algorithms, with an emphasis on defence against timing-based side channel leaks; he is the author of BearSSL, an SSL/TLS library that embodies this approach and is optimized for constrained embedded systems. He is also an active participant to cryptographic competitions (AES, eSTREAM, SHA-3, PHC, and the ongoing Post-Quantum standardization process).
 
@@ -190,7 +190,7 @@ Liz Steininger is the CEO/Managing Director of Least Authority in Berlin, a comp
 
 <h3 id="interoperability">Interoperability Between Chains</h3>
 
-*17:40 UTC on Wednesday 9th June 2021* - [*Add this session to your Google Calendar*](https://calendar.google.com/event?action=TEMPLATE&tmeid=M2thcnNvcWk3MWQybmNpb2podjZjNmVuMzcgY18yODc5dHIyNHVjZDV2cGxuaXY2aHF1Zzlpc0Bn&tmsrc=c_2879tr24ucd5vplniv6hqug9is%40group.calendar.google.com)
+*17:40-18:25 UTC on Wednesday 9th June 2021* - [*Add this session to your Google Calendar*](https://calendar.google.com/event?action=TEMPLATE&tmeid=M2thcnNvcWk3MWQybmNpb2podjZjNmVuMzcgY18yODc5dHIyNHVjZDV2cGxuaXY2aHF1Zzlpc0Bn&tmsrc=c_2879tr24ucd5vplniv6hqug9is%40group.calendar.google.com)
 
 Maximilian Roszko is an ecosystem advocate at the Ren project - building an open protocol that enables the movement of value between blockchains
 
@@ -206,7 +206,7 @@ John Light spends much of his time thinking about how to improve the human condi
 
 <h3 id="network-privacy">Network Privacy</h3>
 
-*18:35 UTC on Wednesday 9th June 2021* - [*Add this session to your Google Calendar*](https://calendar.google.com/event?action=TEMPLATE&tmeid=NmV0bWpoa2c2bzVlZDFtc3ZhN2xldGY2Z2MgY18yODc5dHIyNHVjZDV2cGxuaXY2aHF1Zzlpc0Bn&tmsrc=c_2879tr24ucd5vplniv6hqug9is%40group.calendar.google.com)
+*18:35-19:20 UTC on Wednesday 9th June 2021* - [*Add this session to your Google Calendar*](https://calendar.google.com/event?action=TEMPLATE&tmeid=NmV0bWpoa2c2bzVlZDFtc3ZhN2xldGY2Z2MgY18yODc5dHIyNHVjZDV2cGxuaXY2aHF1Zzlpc0Bn&tmsrc=c_2879tr24ucd5vplniv6hqug9is%40group.calendar.google.com)
 
 Giulia Fanti is an Assistant Professor of Electrical and Computer Engineering at Carnegie Mellon University. Her research interests span the security, privacy, and efficiency of distributed systems.
 
@@ -220,7 +220,7 @@ Alan Fairless is a hacker, founder, and privacy UX enthusiast.
 
 <h3 id="governance">Governance across Ecosystems</h3>
 
-*19:30 UTC on Wednesday 9th June 2021* - [*Add this session to your Google Calendar*](https://calendar.google.com/event?action=TEMPLATE&tmeid=MGoxZGFoYjdwb21xbWRwOTVpc3FzbW5lcWwgY18yODc5dHIyNHVjZDV2cGxuaXY2aHF1Zzlpc0Bn&tmsrc=c_2879tr24ucd5vplniv6hqug9is%40group.calendar.google.com)
+*19:30-20:15 UTC on Wednesday 9th June 2021* - [*Add this session to your Google Calendar*](https://calendar.google.com/event?action=TEMPLATE&tmeid=MGoxZGFoYjdwb21xbWRwOTVpc3FzbW5lcWwgY18yODc5dHIyNHVjZDV2cGxuaXY2aHF1Zzlpc0Bn&tmsrc=c_2879tr24ucd5vplniv6hqug9is%40group.calendar.google.com)
 
 Hudson Jameson is a Zcash and Ethereum community member who specializes in being a technical liaison between protocol developers and the wider community. He co-founded the blockchain IoT start-up Oaken Innovations, co-founded the Ethereum Cat Herders, and is a committee member of Zcash Open Major Grants (ZOMG).
 
@@ -236,7 +236,7 @@ Peter Van Valkenburgh is a board member of the Zcash Foundation and Director of 
 
 <h3 id="privacy-metrics">Measuring Privacy Metrics</h3>
 
-*20:25 UTC on Wednesday 9th June 2021* - [*Add this session to your Google Calendar*](https://calendar.google.com/event?action=TEMPLATE&tmeid=MHU3amRxNmJma3BndTkzcWVlZ3I5MDg2YzAgY18yODc5dHIyNHVjZDV2cGxuaXY2aHF1Zzlpc0Bn&tmsrc=c_2879tr24ucd5vplniv6hqug9is%40group.calendar.google.com)
+*20:25-21:10 UTC on Wednesday 9th June 2021* - [*Add this session to your Google Calendar*](https://calendar.google.com/event?action=TEMPLATE&tmeid=MHU3amRxNmJma3BndTkzcWVlZ3I5MDg2YzAgY18yODc5dHIyNHVjZDV2cGxuaXY2aHF1Zzlpc0Bn&tmsrc=c_2879tr24ucd5vplniv6hqug9is%40group.calendar.google.com)
 
 Ashkan Soltani
 
@@ -245,3 +245,5 @@ Mitchell Krawiec-Thayer is a privacy researcher focused on data science and anti
 Teor is a privacy researcher and software developer living and working on Turrbal and Jagera country.They develop and analyze secure and anonymous software, with a focus on financial transactions, network privacy, and electronic voting. They are currently working as the Zcash Foundation's Zebra team lead. They previously worked as a Tor developer and researcher.
 
 David Campbell (aka DC) is responsible for strategy and operations at ECC.  He is a technical executive, and was previously CISO at SendGrid and founding CEO at JumpCloud.  He enjoys working at the intersection of tech, privacy and policy.  He has been active in the cryptocurrency community since 2011. 
+
+*This last session with be directly followed by Closing Comments by Jack Gavigan, from 21:10-21:25.* 

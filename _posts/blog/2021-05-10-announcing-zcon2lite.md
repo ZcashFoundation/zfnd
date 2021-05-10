@@ -14,7 +14,7 @@ Zcon is an annual conference organised by the Zcash Foundation that focuses on p
 
 With ongoing travel restrictions and mandatory quarantines, we've decided to stage a virtual (or "lite") edition of Zcon this year, so we are pleased to announce that [**Zcon2 Lite will take place on the 8th and 9th of June**](/zcon/2/), streaming via the [Zcash Foundation's YouTube channel](https://www.youtube.com/channel/UCi01v05DNTUEC_eB0c9rpgQ?), with attendee interaction taking place on [Discord](https://discord.gg/WbXQTTSGXX). 
 
-We have curated a great line-up of speakers and panels. The [first day](/zcon/2/#tuesday-8th-june-2021) will focus on Zcash and its ecosystem, while the [second day](/zcon/2/#wednesday-9th-june-2021) will look at broader privacy themes, including new research into zero-knowledge proofs, interoperability, network privacy, and privacy metrics. The schedule can be found [here](/zcon/2/). 
+We have curated a great line-up of speakers and panels. Our these this year is "Privacy all the way down". The [first day](/zcon/2/#tuesday-8th-june-2021) will focus on Zcash and its ecosystem, while the [second day](/zcon/2/#wednesday-9th-june-2021) will look at broader privacy themes, including new research into zero-knowledge proofs, interoperability, network privacy, and privacy metrics. The schedule can be found [here](/zcon/2/). 
 
 You can [**register**](https://forms.gle/uXfxFStSVYYGpUQ48) to receive email updates and calendar invites for every session. Alternatively, we have a [Google Calendar with all the sessions](https://calendar.google.com/calendar/embed?src=c_2879tr24ucd5vplniv6hqug9is%40group.calendar.google.com), that you can copy to your own calendar. Zcon2 Lite is free (as in *gratis*). 
 

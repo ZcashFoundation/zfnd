@@ -12,7 +12,7 @@ author: jackgavigan
 
 Zcon is an annual conference organised by the Zcash Foundation that focuses on privacy-preserving technologies. The first two Zcon events ([Zcon0](/zcon/0/) in Montreal, and [Zcon1](/zcon/1/) in Croatia) were hugely successful but the event of last year forced us to [postpone Zcon2](https://twitter.com/ZcashFoundation/status/1237825201275949056). 
 
-With ongoing travel restrictions and mandatory quarantines, we've decided to stage a virtual (or "lite") edition of Zcon this year, so we are pleased to announce that [**Zcon2 Lite will take place on the 8th and 9th of June**](/zcon/2/), streaming via the Zcash Foundation's YouTube channel, with attendee interaction taking place on [Discord](https://discord.gg/WbXQTTSGXX). 
+With ongoing travel restrictions and mandatory quarantines, we've decided to stage a virtual (or "lite") edition of Zcon this year, so we are pleased to announce that [**Zcon2 Lite will take place on the 8th and 9th of June**](/zcon/2/), streaming via the [Zcash Foundation's YouTube channel](https://www.youtube.com/channel/UCi01v05DNTUEC_eB0c9rpgQ?), with attendee interaction taking place on [Discord](https://discord.gg/WbXQTTSGXX). 
 
 We have curated a great line-up of speakers and panels. The [first day](/zcon/2/#tuesday-8th-june-2021) will focus on Zcash and its ecosystem, while the [second day](/zcon/2/#wednesday-9th-june-2021) will look at broader privacy themes, including new research into zero-knowledge proofs, interoperability, network privacy, and privacy metrics. The schedule can be found [here](/zcon/2/). 
 

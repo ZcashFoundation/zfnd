@@ -9,7 +9,7 @@ excerpt: "Save The Date! Zcon2: Tuesday, June 8- Wednesday, June 9, 2021"
 
 Zcon2 will take place **Tuesday, June 8th and Wednesday, June 9th 2021**. Zcon2 will be a virtual conference, streaming on YouTube. 
 
-The provisional schedule (subject to change) is below. Note that all times listed are in [***UTC***](https://www.timeanddate.com/worldclock/timezone/utc). 
+The theme of this year's Zcon is "Privacy all the way down". The first day will focus on Zcash and its ecosystem, while the second day will look at broader privacy themes, including new research into zero-knowledge proofs, interoperability, network privacy, and privacy metrics. The provisional schedule (subject to change) is below. Note that all times listed are in [***UTC***](https://www.timeanddate.com/worldclock/timezone/utc). 
 
 [**Click here to register.**](https://forms.gle/uXfxFStSVYYGpUQ48)
 
@@ -76,3 +76,5 @@ Yes! All session videos will remain on the Foundation's YouTube channel so you c
 
 **What is your Code of Conduct?**<BR>
 Thank you for asking. Use of the Zcon2 Lite Discord server is subject to the same [Code of Conduct](https://forum.zcashcommunity.com/faq) as the [Zcash forum](https://forum.zcashcommunity.com/). 
+
+<center><img src="/images/Zcon2_Tagline.png"></center>

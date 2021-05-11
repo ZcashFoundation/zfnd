@@ -184,7 +184,7 @@ Isis Agora Lovecruft (they/them) has worked as a cryptographic consultant and cr
 
 Taylor Hornby
 
-JP Aummason
+JP Aumasson
 
 Liz Steininger is the CEO/Managing Director of Least Authority in Berlin, a company supporting people’s right to privacy through the development and support of free and open source software and providing security audits to other projects.
 

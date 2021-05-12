@@ -9,7 +9,7 @@ excerpt: "Save The Date! Zcon2: Tuesday, June 8- Wednesday, June 9, 2021"
 
 Zcon2 will take place **Tuesday, June 8th and Wednesday, June 9th 2021**. Zcon2 will be a virtual conference, streaming on YouTube. 
 
-The provisional schedule (subject to change) is below. Note that all times listed are in [***UTC***](https://www.timeanddate.com/worldclock/timezone/utc). 
+The theme of this year's Zcon is "Privacy all the way down". The first day will focus on Zcash and its ecosystem, while the second day will look at broader privacy themes, including new research into zero-knowledge proofs, interoperability, network privacy, and privacy metrics. The provisional schedule (subject to change) is below. Note that all times listed are in [***UTC***](https://www.timeanddate.com/worldclock/timezone/utc). 
 
 [**Click here to register.**](https://forms.gle/uXfxFStSVYYGpUQ48)
 
@@ -38,7 +38,7 @@ Join the [Zcon2 Lite Discord Server](https://discord.gg/WbXQTTSGXX) to ask speak
 | **14:00** | **14:45** | **[Recent Advances in Zero-Knowledge](schedule#zkresearch)**<br>*Mary Maller* | [<img src="/images/gcal_icon.png">](https://calendar.google.com/event?action=TEMPLATE&tmeid=NmVuOGM5YmNlbXR1dDBuOHY1N2VlaWlicnEgY18yODc5dHIyNHVjZDV2cGxuaXY2aHF1Zzlpc0Bn&tmsrc=c_2879tr24ucd5vplniv6hqug9is%40group.calendar.google.com) |
 | **14:55** | **15:40** | **[Evaluating New Zero Knowledge Proof Research Before Implementation](schedule#evaluating)**<br>*Panel discussion with Eran Tromer, Pratyush Mishra and Mary Maller, chaired by Daniel Benarroch* | [<img src="/images/gcal_icon.png">](https://calendar.google.com/event?action=TEMPLATE&tmeid=NzBzMXI0NG1haHYxNTR2M2FlbTB2dDB1NmMgY18yODc5dHIyNHVjZDV2cGxuaXY2aHF1Zzlpc0Bn&tmsrc=c_2879tr24ucd5vplniv6hqug9is%40group.calendar.google.com) |
 | **15:50** | **16:35** | **[Snarks on Other Ecosystems](schedule#other-snarks)**<br>*Panel discussion with Marco Stronati, Ariel Gabizon, Barry Whitehat, chaired by Anna Rose* | [<img src="/images/gcal_icon.png">](https://calendar.google.com/event?action=TEMPLATE&tmeid=Mjg0dHVuNTY5azR0YW1mbGMwNjVyNzhyOHYgY18yODc5dHIyNHVjZDV2cGxuaXY2aHF1Zzlpc0Bn&tmsrc=c_2879tr24ucd5vplniv6hqug9is%40group.calendar.google.com) |
-| **16:45** | **17:30** | **[Auditing Cryptography](schedule#auditing)**<br>*Panel discussion with Thomas Pornin, Isis Agora Lovecruft, Taylor Hornby and JP Aummason, chaired by Liz Steininger* | [<img src="/images/gcal_icon.png">](https://calendar.google.com/event?action=TEMPLATE&tmeid=NjhlZWgwN2t2ZDM2bmgycTBucnNnbjVrZWkgY18yODc5dHIyNHVjZDV2cGxuaXY2aHF1Zzlpc0Bn&tmsrc=c_2879tr24ucd5vplniv6hqug9is%40group.calendar.google.com) |
+| **16:45** | **17:30** | **[Auditing Cryptography](schedule#auditing)**<br>*Panel discussion with Thomas Pornin, Isis Agora Lovecruft, Taylor Hornby and JP Aumasson, chaired by Liz Steininger* | [<img src="/images/gcal_icon.png">](https://calendar.google.com/event?action=TEMPLATE&tmeid=NjhlZWgwN2t2ZDM2bmgycTBucnNnbjVrZWkgY18yODc5dHIyNHVjZDV2cGxuaXY2aHF1Zzlpc0Bn&tmsrc=c_2879tr24ucd5vplniv6hqug9is%40group.calendar.google.com) |
 | **17:40** | **18:25** | **[Interoperability Between Chains](schedule#interoperability)**<br>*Panel discussion with Maximilian Roszko, Matt Luongo, Zooko Wilcox and Christopher Goes, chaired by John Light* | [<img src="/images/gcal_icon.png">](https://calendar.google.com/event?action=TEMPLATE&tmeid=M2thcnNvcWk3MWQybmNpb2podjZjNmVuMzcgY18yODc5dHIyNHVjZDV2cGxuaXY2aHF1Zzlpc0Bn&tmsrc=c_2879tr24ucd5vplniv6hqug9is%40group.calendar.google.com) |
 | **18:35** | **19:20** | **[Network Privacy](schedule#network-privacy)**<br>*Panel discussion with Giulia Fanti, George Kadianakis and Janito Vaqueiro Ferreira Filho, chaired by Alan Fairless* | [<img src="/images/gcal_icon.png">](https://calendar.google.com/event?action=TEMPLATE&tmeid=NmV0bWpoa2c2bzVlZDFtc3ZhN2xldGY2Z2MgY18yODc5dHIyNHVjZDV2cGxuaXY2aHF1Zzlpc0Bn&tmsrc=c_2879tr24ucd5vplniv6hqug9is%40group.calendar.google.com) |
 | **19:30** | **20:15** | **[Governance across Ecosystems](schedule#governance)**<br>*Panel discussion with Hudson Jameson, Zaki Manian, Evan Shapiro and David Vorick, chaired by Peter Van Valkenburgh* | [<img src="/images/gcal_icon.png">](https://calendar.google.com/event?action=TEMPLATE&tmeid=MGoxZGFoYjdwb21xbWRwOTVpc3FzbW5lcWwgY18yODc5dHIyNHVjZDV2cGxuaXY2aHF1Zzlpc0Bn&tmsrc=c_2879tr24ucd5vplniv6hqug9is%40group.calendar.google.com) |
@@ -76,3 +76,5 @@ Yes! All session videos will remain on the Foundation's YouTube channel so you c
 
 **What is your Code of Conduct?**<BR>
 Thank you for asking. Use of the Zcon2 Lite Discord server is subject to the same [Code of Conduct](https://forum.zcashcommunity.com/faq) as the [Zcash forum](https://forum.zcashcommunity.com/). 
+
+<center><img src="/images/Zcon2_Tagline.png"></center>

@@ -22,6 +22,7 @@ Note that all times listed are in [***UTC***](https://www.timeanddate.com/worldc
 Jack Gavigan ([@JackGavigan](https://twitter.com/JackGavigan)) is the Executive Director of the Zcash Foundation. He has been involved with Zcash since early 2016, when he became an advisor to the Electric Coin Company. He subsequently joined the company as COO shortly before the launch of Zcash in October 2016. In 2018 he relinquished the role of COO to focus on regulatory relations. He took up the position of Executive Director at the Zcash Foundation in February 2021.
 
 ---
+
 <h3 id="uda-panel">User Defined Assets (panel discussion)</h3>
 
 *14:40-15:25 UTC on Tuesday 8th June 2021* - [*Add this session to your Google Calendar*](https://calendar.google.com/event?action=TEMPLATE&tmeid=MHAxdGUycDFraThmcmNkamF0cHZhdThpb3QgY18yODc5dHIyNHVjZDV2cGxuaXY2aHF1Zzlpc0Bn&tmsrc=c_2879tr24ucd5vplniv6hqug9is%40group.calendar.google.com)
@@ -33,6 +34,7 @@ The idea of allowing users to issue digital assets on the Zcash blockchain (simi
 <li>J.R. Willett invented the concept of the ICO in 2012, and performed the first ICO in 2013. In addition to "Inventor of the ICO", J.R. has also been credited as "Inventor of the Stablecoin", as his landmark 2012 whitepaper introducing the ICO concept also described how to algorithmically stabilize a token to peg to an external asset, like the dollar. Numerous projects have since put his ideas into practice.
 <li>Matt Luongo ([@MHLuongo](https://twitter.com/mhluongo)) is a serial entrepreneur who joined the cryptocurrency space in 2014. He's currently the CEO of Thesis, the crypto venture studio that incubated Fold, Keep, tBTC, and Saddle. Matt is based in Atlanta, GA and is a husband and father of two.
 </ul>
+
 This panel discussion will be chaired by [Jack Gavigan](#opening-address). 
 
 ---

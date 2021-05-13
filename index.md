@@ -10,6 +10,8 @@ search_omit: true
 <br /><br />
 We serve the users of the <a href="https://z.cash/" target="_blank">Zcash</a> protocol and blockchain. The Foundation also supports other applications of <a href="https://zkp.science/" target="_blank">zero-knowledge cryptography</a>, as well as other approaches to private cryptocurrency.</p>
 
+[<img src="/images/1024x512_Zcon2_Twitter_v3_Dates.png">](/zcon/2/)
+
 {% include email-cta.html %}
 
 <h2 class="center">Announcements and Updates</h2>

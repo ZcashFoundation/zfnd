@@ -10,7 +10,7 @@ search_omit: true
 <br /><br />
 We serve the users of the <a href="https://z.cash/" target="_blank">Zcash</a> protocol and blockchain. The Foundation also supports other applications of <a href="https://zkp.science/" target="_blank">zero-knowledge cryptography</a>, as well as other approaches to private cryptocurrency.</p>
 
-Zcon2 Lite will take place on **Tuesday, June 8th & Wednesday, June 9th 2021**. [Click here to learn more and register](/zcon/2). 
+Zcon2 Lite, a virtual version of our annual conference focused on privacy-preserving technologies, will take place on **Tuesday, June 8th & Wednesday, June 9th 2021**. Zcon2 Lite will take place online, streaming on Youtube, with social interaction via Discord. [Click here to learn more and register](/zcon/2). 
 
 [<img src="/images/1024x512_Zcon2_Twitter_v3_Dates.png">](/zcon/2/)
 

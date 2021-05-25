@@ -21,6 +21,7 @@
 ### Employees
 
 - [_Jack Gavigan_](https://twitter.com/JackGavigan) • [executive director](https://www.zfnd.org/blog/welcome-jack/)
+- _Alex Bornstein_ • [chief operating officer](https://www.zfnd.org/blog/welcome-alex/)
 - [_Deirdre Connolly_](https://twitter.com/durumcrustulum) • [cryptography engineer](https://www.zfnd.org/blog/welcome-deirdre/)
 - [_Chelsea Komlo_](https://twitter.com/chelseakomlo) • [cryptography researcher and engineer](https://www.zfnd.org/blog/welcome-chelsea/)
 - _Teor_ • [rust systems engineer](https://www.zfnd.org/blog/welcome-jane-and-teor/)

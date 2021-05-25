@@ -84,11 +84,10 @@ Andrew, Michelle and Zooko will discuss the state of the Zcash eco-system, shari
 
 *18:45-19:30 UTC on Tuesday 8th June 2021* - [*Add this session to your Google Calendar*](https://calendar.google.com/event?action=TEMPLATE&tmeid=MGw4c24yMWVyY2M4ZGFmcWNrMzFidW9jZ3QgY18yODc5dHIyNHVjZDV2cGxuaXY2aHF1Zzlpc0Bn&tmsrc=c_2879tr24ucd5vplniv6hqug9is%40group.calendar.google.com)
 
-
-
-* Juan Leni
+* Juan Leni leads the Zondax team. They are behind many of the hardware wallet apps that you use everyday. Zondax works with many of top projects in areas such as cryptography, remote signers, protocol development and integration.
 * Conrado Gouvêa ([@conradoplg](https://twitter.com/conradoplg)) is a cryptography engineer who worked with the efficient software implementation of cryptographic algorithms during his Master's and PhD. Since then, he has worked in the industry, developing software for cryptographic devices such as tokens and hardware security modules (HSMs). 
 * Daniel James is a software engineer at Gemini. 
+* Steve from MiStFPGA has spent the best part of his career working in security, fintech, test automation, communications security and indpendent security research.
 
 ---
 
@@ -96,9 +95,9 @@ Andrew, Michelle and Zooko will discuss the state of the Zcash eco-system, shari
 
 *19:40-20:40 UTC on Tuesday 8th June 2021* - [*Add this session to your Google Calendar*](https://calendar.google.com/event?action=TEMPLATE&tmeid=NzJxcnNpcjd0NjJiOWgxamNudGM3bmtvOGQgY18yODc5dHIyNHVjZDV2cGxuaXY2aHF1Zzlpc0Bn&tmsrc=c_2879tr24ucd5vplniv6hqug9is%40group.calendar.google.com)
 
-* Sean Bowe  ([@ebfull](https://twitter.com/ebfull)) 
+* Sean Bowe  ([@ebfull](https://twitter.com/ebfull)) is a cryptographic engineer and researcher who has implemented, designed and discovered state-of-the-art cryptographic primitives and techniques, particularly focused on SNARKs and recursive proofs. His main focus is on building and improving Zcash's shielded protocol.
 * Daira Hopwood ([@feministPLT](https://twitter.com/feministPLT)) is an anarchist, cryptographer, ZIP editor, and the lead author of the Zcash Protocol Specification. Ze has been heavily involved in the design of the shielded protocols used in Zcash since before launch.
-* Deirdre Connolly ([@durumcrustulum](https://twitter.com/durumcrustulum)) 
+* Deirdre Connolly ([@durumcrustulum](https://twitter.com/durumcrustulum)) is a cryptographic engineer and the senior engineer on Zebra, working at the Zcash Foundation since spring 2019. When not trying to deploy secure, resilient, and respectful cryptographic systems, she is keeping one eye on the quantum-safe cryptosystems of the future.
 
 ---
 
@@ -107,7 +106,7 @@ Andrew, Michelle and Zooko will discuss the state of the Zcash eco-system, shari
 *20:50-21:20 UTC on Tuesday 8th June 2021* - [*Add this session to your Google Calendar*](https://calendar.google.com/event?action=TEMPLATE&tmeid=MmNvbHY2bm1nOXBlbDNhdDBqdDZjYTIwbTIgY18yODc5dHIyNHVjZDV2cGxuaXY2aHF1Zzlpc0Bn&tmsrc=c_2879tr24ucd5vplniv6hqug9is%40group.calendar.google.com)
 
 * Steven Smith ([@reldev](https://twitter.com/reldev)) is currently the Vice President of Engineering for the Electric Coin Co., the creators of Zcash. He as over 20 years experience in Engineering and Product leadership roles and was most recently the CTO and Head of Engineering for FRDM Inc., a company focused on fighting modern slavery through the use of supply chain analytics and blockchain technology. Steven also spent 7 years at Salesforce in various IC and engineering leadership roles and served as the CTO of the Intelligent Automation Business Unit at Cisco prior to joining Salesforce. 
-* Deirdre Connolly ([@durumcrustulum](https://twitter.com/durumcrustulum)) 
+* Deirdre Connolly ([@durumcrustulum](https://twitter.com/durumcrustulum)) is a cryptographic engineer and the senior engineer on Zebra, working at the Zcash Foundation since spring 2019. When not trying to deploy secure, resilient, and respectful cryptographic systems, she is keeping one eye on the quantum-safe cryptosystems of the future.
 
 ---
 
@@ -115,7 +114,10 @@ Andrew, Michelle and Zooko will discuss the state of the Zcash eco-system, shari
 
 *21:30-22:00 UTC on Tuesday 8th June 2021* - [*Add this session to your Google Calendar*](https://calendar.google.com/event?action=TEMPLATE&tmeid=MWRscGI4dmZlZ3E2c2JxcWo5NmRhNnFwcGMgY18yODc5dHIyNHVjZDV2cGxuaXY2aHF1Zzlpc0Bn&tmsrc=c_2879tr24ucd5vplniv6hqug9is%40group.calendar.google.com)
 
-* Chelsea Komlo ([@chelseakomlo](https://twitter.com/chelseakomlo)) 
+In this talk, we will introduce FROST and the motivations for its design. We will review the security model under which FROST is secure, and how this security model compares to practical deployments of threshold signatures. We will discuss how FROST is compatible with existing Schnorr-based schemes, as well as next steps for FROST to be deployed in Zcash.
+
+* Chelsea Komlo ([@chelseakomlo](https://twitter.com/chelseakomlo)) is a cryptography and privacy researcher. Currently, she is a member of the Cryptography, Security, and Privacy lab at the University of Waterloo, and also working as a principal researcher for the Zcash Foundation. Chelsea is also a member of the Tor Project Board of Directors and the Tor Research Safety Board.
+
 
 ---
 

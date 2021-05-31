@@ -67,6 +67,8 @@ Andrew, Michelle and Zooko will discuss the state of the Zcash eco-system, shari
 
 *17:10-17:55 UTC on Tuesday 8th June 2021* - [*Add this session to your Google Calendar*](https://calendar.google.com/event?action=TEMPLATE&tmeid=MmdsbG9kcjNvdmI1dms3Y2w1a2ptdWtiajEgY18yODc5dHIyNHVjZDV2cGxuaXY2aHF1Zzlpc0Bn&tmsrc=c_2879tr24ucd5vplniv6hqug9is%40group.calendar.google.com)
 
+In this session, Pili and Geffen will update the community about how the mobile and desktop environments for Zcash have been evolving, and the part ECC and the Foundation have played. Additionally, we will talk about how NU5 affects the ecosystem and talk about where we are going next!
+
 * Pili Guerra ([@mpguerra](https://twitter.com/mpguerra)) is current working as Engineering Manager for the Engineering team at the Zcash Foundation. She has 15 years of experience working in the tech industry as a software developer, solutions engineer, consultant and project manager. She has previously worked at the Tor Project as a Project Manager for the Tor Browser, Community and UX Teams.
 * Joseph Van Geffen is an accomplished design leader with 20+ years of proven experience overseeing the end-to-end design and development lifecycle of numerous fintech products, applications, and programs. Lately, he has been focusing on Zcash, getting his hands dirty with the UX, IxD, and general usability experience. This means fostering the best user experience for ALL Zcash users - getting them access without sacrificing privacy.
 
@@ -94,6 +96,8 @@ Andrew, Michelle and Zooko will discuss the state of the Zcash eco-system, shari
 <h3 id="halo2">Halo2 & Orchard</h3>
 
 *19:40-20:40 UTC on Tuesday 8th June 2021* - [*Add this session to your Google Calendar*](https://calendar.google.com/event?action=TEMPLATE&tmeid=NzJxcnNpcjd0NjJiOWgxamNudGM3bmtvOGQgY18yODc5dHIyNHVjZDV2cGxuaXY2aHF1Zzlpc0Bn&tmsrc=c_2879tr24ucd5vplniv6hqug9is%40group.calendar.google.com)
+
+NU5 brings the third shielded pool, Orchard, to the Zcash protocol. Orchard is similar in a lot of ways to Sapling, but for some very important differences: the new Halo 2 recursive zk-SNARK proof system, based on new cyclic curves Pallas and Vesta; Actions instead of Spends or Outputs; and more. This session will lay out what Orchard brings to Zcash, how it differs from Sapling, and how Halo 2 removes the trusted setup for parameters and sets up Zcash for using recursive proofs in future upgrades.
 
 * Sean Bowe  ([@ebfull](https://twitter.com/ebfull)) is a cryptographic engineer and researcher who has implemented, designed and discovered state-of-the-art cryptographic primitives and techniques, particularly focused on SNARKs and recursive proofs. His main focus is on building and improving Zcash's shielded protocol.
 * Daira Hopwood ([@feministPLT](https://twitter.com/feministPLT)) is an anarchist, cryptographer, ZIP editor, and the lead author of the Zcash Protocol Specification. Ze has been heavily involved in the design of the shielded protocols used in Zcash since before launch.
@@ -163,6 +167,8 @@ In this session Mary will be surveying some of the SNARK literature that has com
 
 *15:50-16:35 UTC on Wednesday 9th June 2021* - [*Add this session to your Google Calendar*](https://calendar.google.com/event?action=TEMPLATE&tmeid=Mjg0dHVuNTY5azR0YW1mbGMwNjVyNzhyOHYgY18yODc5dHIyNHVjZDV2cGxuaXY2aHF1Zzlpc0Bn&tmsrc=c_2879tr24ucd5vplniv6hqug9is%40group.calendar.google.com)
 
+This panel brings together Marco Stronati, Ariel Gabizon, Barry Whitehat and Kobi Gurkan to discuss their work building innovative zk tech in their respective networks. 
+
 * Marco Stronati is leading the privacy team at Nomadic Labs, working on the Tezos blockchain. In a previous life he was a researcher on Privacy Preserving Technologies.
 * Ariel Gabizon ([@relgabizon](https://twitter.com/relgabizon)) is Chief Scientist at Aztec Network. He has a PhD in Computer Science from the Weizmann Institute and was previously a researcher and engineer at Zcash & Protocol Labs. Ariel is a co-creator of the PLONK zk-SNARK.
 * Barry Whitehat is a computer programmer. He is interested in ZKPs and privacy-preserving applications. 
@@ -200,6 +206,8 @@ With the rise of DeFi there has been a growing need for "transporting" digital a
 <h3 id="network-privacy">Network Privacy</h3>
 
 *18:35-19:20 UTC on Wednesday 9th June 2021* - [*Add this session to your Google Calendar*](https://calendar.google.com/event?action=TEMPLATE&tmeid=NmV0bWpoa2c2bzVlZDFtc3ZhN2xldGY2Z2MgY18yODc5dHIyNHVjZDV2cGxuaXY2aHF1Zzlpc0Bn&tmsrc=c_2879tr24ucd5vplniv6hqug9is%40group.calendar.google.com)
+
+Shielded Zcash provides excellent privacy from chain analysis, but what are the risks from network and traffic analysis?  Our panelists will consider the treat model, examine solutions that do and don't work, and how the tech might evolve.
 
 * Giulia Fanti ([@giuliacfanti](https://twitter.com/giuliacfanti)) is an Assistant Professor of Electrical and Computer Engineering at Carnegie Mellon University. Her research interests span the security, privacy, and efficiency of distributed systems.
 * George Kadianakis has been working for a long time on Tor, designing and implementing secure protocols using applied cryptography.

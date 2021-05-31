@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Expanding the CAP & Soliciting Nominations for the Foundation Board"
-excerpt: "The Zcash Foundation is expanding the Community Advisory Panel prior to seeking its advisory input regarding the selection of board members."
+title: "Expanding the CAP"
+excerpt: "We are expanding the Community Advisory Panel prior to seeking its advisory input regarding the selection of board members."
 categories: blog
 tags: [governance]
 date: 2021-05-28
@@ -32,7 +32,7 @@ The Foundation will review potential new CAP members, and reserves the right to 
 
 Going forward, to ensure that the CAP remains a useful and representative method of soliciting community feedback, membership will be on a "use it or lose it" basis. Members who do *not* vote in a CAP poll will be dropped from the CAP. "Abstain" will be included as an option on all votes to cater for anyone who doesn't want to vote in a particular poll but who wishes to retain their membership of the CAP. 
 
-We also invite community feedback and suggestions on our approach to expanding the CAP. Please post your ideas and feedback on the [Ideas for expanding the Community Advisory Panel](https://forum.zcashcommunity.com/c/governance/25) topic on the Zcash Forums. 
+We also invite community feedback and suggestions on our approach to expanding the CAP. Please post your ideas and feedback on the [Ideas for expanding the Community Advisory Panel](https://forum.zcashcommunity.com/t/ideas-for-expanding-the-community-advisory-panel/39354) topic on the Zcash Forums. 
 
 #### Opening Nominations for the Zcash Foundation Board
 

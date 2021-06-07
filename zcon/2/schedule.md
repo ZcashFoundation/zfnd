@@ -23,7 +23,7 @@ Jack Gavigan ([@JackGavigan](https://twitter.com/JackGavigan)) is the Executive 
 
 ---
 
-<h3 id="uda-panel">User Defined Assets (panel discussion)</h3>
+<h3 id="uda-panel">User Defined Assets</h3>
 
 *14:40-15:25 UTC on Tuesday 8th June 2021* - [*Add this session to your Google Calendar*](https://calendar.google.com/event?action=TEMPLATE&tmeid=MHAxdGUycDFraThmcmNkamF0cHZhdThpb3QgY18yODc5dHIyNHVjZDV2cGxuaXY2aHF1Zzlpc0Bn&tmsrc=c_2879tr24ucd5vplniv6hqug9is%40group.calendar.google.com)
 
@@ -38,16 +38,16 @@ This panel discussion will be chaired by [Jack Gavigan](#opening-address).
 
 ---
 
-<h3 id="zomg">Zcash Open Major Grants</h3>
+<h3 id="zomg">A Conversation with ZOMG</h3>
 
 *15:35-16:20 UTC on Tuesday 8th June 2021* - [*Add this session to your Google Calendar*](https://calendar.google.com/event?action=TEMPLATE&tmeid=N3M3ZzFzaGdpNjFkdjBibTM3YXBsY2FiMm8gY18yODc5dHIyNHVjZDV2cGxuaXY2aHF1Zzlpc0Bn&tmsrc=c_2879tr24ucd5vplniv6hqug9is%40group.calendar.google.com)
 
 ZOMG is a community-elected grants committee whose purpose is to fund projects that advance the usability, security, privacy, and adoption of Zcash. ZOMG was created by community members of the Zcash cryptocurrency in [ZIP 1014](https://zips.z.cash/zip-1014), working within the Zcash governance process. ZOMG’s funds come from the decision in ZIP 1014 to allocate a portion of all newly created Zcash — over a four year period — to be spent on major grants. In this session, four of the five members of the inaugural ZOMG committee will discuss the progress they've made so far, and the lessons they've learnt. 
 
 * Chris Burniske ([@CBurniske](https://twitter.com/cburniske)) is a partner at Placeholder, a New York venture firm that invests in decentralized information networks. Prior to Placeholder, he co-authored the best-seller, Cryptoassets: The Innovative Investor’s Guide to Bitcoin and Beyond, and spearheaded ARK Invest’s crypto efforts, including its 2015 bitcoin investment. His commentary has been featured on international media outlets, including the Wall Street Journal, New York Times, Financial Times, and Bloomberg. He graduated Phi Beta Kappa with a BS from Stanford University.
-* Holmes Wilson is an activist and software maker. Right now he's building the peer-to-peer messaging app and Zcash wallet Zbay, while serving on the Zcash grants committee ZOMG. Previously, he co-founded the US-based Internet freedom activism group Fight for the Future.
+* Holmes Wilson ([@ZbayApp](https://twitter.com/ZbayApp)) is an activist and software maker. Right now he's building the peer-to-peer messaging app and Zcash wallet Zbay, while serving on the Zcash grants committee ZOMG. Previously, he co-founded the US-based Internet freedom activism group Fight for the Future.
 * Hudson Jameson ([@HudsonJameson](https://twitter.com/HudsonJameson)) is a Zcash and Ethereum community member who specializes in being a technical liaison between protocol developers and the wider community. He co-founded the blockchain IoT start-up Oaken Innovations, co-founded the Ethereum Cat Herders, and is a committee member of Zcash Open Major Grants (ZOMG).
-* Michelle ([@88crypt](https://twitter.com/88crypt)) Lai started her career in traditional finance before finding a wacky home in crypto. She's worked in SF Bay Area and across the Asia Pacific region. Through her time growing up and living in conservative communities, she's developed a deep personal desire for privacy and freedom. She believes in actions over words, values over rules, and zcash over bitcoin. She is on the Zcash Open Major Grants Committee (@zcashomg). She was Head of BD at Anchorage. Michelle goes by @ml_sudo on the Zcash forums. 
+* Michelle Lai ([@88crypt](https://twitter.com/88crypt)) started her career in traditional finance before finding a wacky home in crypto. She's worked in SF Bay Area and across the Asia Pacific region. Through her time growing up and living in conservative communities, she's developed a deep personal desire for privacy and freedom. She believes in actions over words, values over rules, and zcash over bitcoin. She is on the Zcash Open Major Grants Committee (@zcashomg). She was Head of BD at Anchorage. Michelle goes by @ml_sudo on the Zcash forums. 
 
 ---
 
@@ -58,7 +58,7 @@ ZOMG is a community-elected grants committee whose purpose is to fund projects t
 Andrew, Michelle and Zooko will discuss the state of the Zcash eco-system, sharing their perspectives as chairman of the Zcash Foundation, a member of the Zcash Open Major Grants committee, and the founder and CEO of the Electric Coin Company. 
 
 * Andrew Miller ([@socrates1024](https://twitter.com/socrates1024)) is the board chair of Zcash Foundation, and an Assistant Professor at University of Illinois at Urbana-Champaign where he works on programming languages, applied cryptography, and distributed computing.
-* Michelle ([@88crypt](https://twitter.com/88crypt)) Lai started her career in traditional finance before finding a wacky home in crypto. She's worked in SF Bay Area and across the Asia Pacific region. Through her time growing up and living in conservative communities, she's developed a deep personal desire for privacy and freedom. She believes in actions over words, values over rules, and zcash over bitcoin. She is on the Zcash Open Major Grants Committee (@zcashomg). She was Head of BD at Anchorage. Michelle goes by @ml_sudo on the Zcash forums. 
+* Michelle Lai ([@88crypt](https://twitter.com/88crypt)) started her career in traditional finance before finding a wacky home in crypto. She's worked in SF Bay Area and across the Asia Pacific region. Through her time growing up and living in conservative communities, she's developed a deep personal desire for privacy and freedom. She believes in actions over words, values over rules, and zcash over bitcoin. She is on the Zcash Open Major Grants Committee (@zcashomg). She was Head of BD at Anchorage. Michelle goes by @ml_sudo on the Zcash forums. 
 * Zooko Wilcox ([@zooko](https://twitter.com/zooko)) is the founder and CEO of the Electric Coin Company. He is one of the original cypherpunks. Zooko is a long-serving technologist and entrepreneur. His experience spans open, decentralized systems; cryptography; information security; and startups. 
 
 ---
@@ -70,15 +70,17 @@ Andrew, Michelle and Zooko will discuss the state of the Zcash eco-system, shari
 In this session, Pili and Geffen will update the community about how the mobile and desktop environments for Zcash have been evolving, and the part ECC and the Foundation have played. Additionally, we will talk about how NU5 affects the ecosystem and talk about where we are going next!
 
 * Pili Guerra ([@mpguerra](https://twitter.com/mpguerra)) is current working as Engineering Manager for the Engineering team at the Zcash Foundation. She has 15 years of experience working in the tech industry as a software developer, solutions engineer, consultant and project manager. She has previously worked at the Tor Project as a Project Manager for the Tor Browser, Community and UX Teams.
-* Joseph Van Geffen is an accomplished design leader with 20+ years of proven experience overseeing the end-to-end design and development lifecycle of numerous fintech products, applications, and programs. Lately, he has been focusing on Zcash, getting his hands dirty with the UX, IxD, and general usability experience. This means fostering the best user experience for ALL Zcash users - getting them access without sacrificing privacy.
+* Joseph Van Geffen ([@geffenz](https://twitter.com/geffenz)) is an accomplished design leader with 20+ years of proven experience overseeing the end-to-end design and development lifecycle of numerous fintech products, applications, and programs. Lately, he has been focusing on Zcash, getting his hands dirty with the UX, IxD, and general usability experience. This means fostering the best user experience for ALL Zcash users - getting them access without sacrificing privacy.
 
 ---
 
-<h3 id="outside-contributors">Building the Outside Contributor Community</h3>
+<h3 id="outside-contributors">Hiring for Zero-Thousand Dollars: Building the Outside Contributor Community</h3>
 
 *18:05-18:35 UTC on Tuesday 8th June 2021* - [*Add this session to your Google Calendar*](https://calendar.google.com/event?action=TEMPLATE&tmeid=MjQwaGswYmkzZmd2ZGVlcGZxZDRsMXUzMTYgY18yODc5dHIyNHVjZDV2cGxuaXY2aHF1Zzlpc0Bn&tmsrc=c_2879tr24ucd5vplniv6hqug9is%40group.calendar.google.com)
 
-* Kevin Gorham is a Principal Engineer at the Electric Coin Company creating tools and sample apps for wallet makers. Over the course of more than a decade, Kevin has served in lead roles on a variety of projects including national defense, Meijer, Walmart Labs and startups like Rachio. He has shipped over 40 highly-rated apps to the Google Play store, serving millions of users. Formerly of Denver, by way of Washington D.C., Kevin recently retreated to be near family in Indiana because of his small army of kids.
+Building an open-source developer community is like posting a job offer for zero-thousand dollars. Despite this challenge, the ECC wallet team has made relentless efforts to foster a stronger community around Zcash. As a result, we have received more contributions in the last few months than in the last few years, combined! This session covers the lessons learned along the way. First, we will contrast what has failed against what has worked. Then, we will conclude by outlining our ideas around incentive plans and developer appreciation, going forward.
+
+* Kevin Gorham ([@anothergmale](https://twitter.com/anothergmale)) is a Principal Engineer at the Electric Coin Company creating tools and sample apps for wallet makers. Over the course of more than a decade, Kevin has served in lead roles on a variety of projects including national defense, Meijer, Walmart Labs and startups like Rachio. He has shipped over 40 highly-rated apps to the Google Play store, serving millions of users. Formerly of Denver, by way of Washington D.C., Kevin recently retreated to be near family in Indiana because of his small army of kids.
 
 ---
 
@@ -86,14 +88,18 @@ In this session, Pili and Geffen will update the community about how the mobile 
 
 *18:45-19:30 UTC on Tuesday 8th June 2021* - [*Add this session to your Google Calendar*](https://calendar.google.com/event?action=TEMPLATE&tmeid=MGw4c24yMWVyY2M4ZGFmcWNrMzFidW9jZ3QgY18yODc5dHIyNHVjZDV2cGxuaXY2aHF1Zzlpc0Bn&tmsrc=c_2879tr24ucd5vplniv6hqug9is%40group.calendar.google.com)
 
+The crypto sector has seen widespread adoption of hardware-based security solutions for protection of private keys. Exchanges and custodians typically use hardware security modules designed for enterprise use, while hardware wallets from companies like Ledger and Trezor are popular for personal use. While transparent Zcash addresses are compatible with solutions that support Bitcoin, the lack of support for shielded addresses is an obstacle to broader adoption of shielded Zcash. In this panel, we have assembled a group of individuals with experience and expertise in building and using hardware-based security solutions, to discuss how we can improve the level of hardware-bsed support for shielded Zcash. 
+
 * Juan Leni leads the Zondax team. They are behind many of the hardware wallet apps that you use everyday. Zondax works with many of top projects in areas such as cryptography, remote signers, protocol development and integration.
 * Conrado Gouvêa ([@conradoplg](https://twitter.com/conradoplg)) is a cryptography engineer who worked with the efficient software implementation of cryptographic algorithms during his Master's and PhD. Since then, he has worked in the industry, developing software for cryptographic devices such as tokens and hardware security modules (HSMs). 
 * Daniel James is a software engineer at Gemini. 
 * Steve from MiStFPGA has spent the best part of his career working in security, fintech, test automation, communications security and indpendent security research.
 
+This panel discussion will be chaired by [Jack Gavigan](#opening-address). 
+
 ---
 
-<h3 id="halo2">Halo2 & Orchard</h3>
+<h3 id="halo2">The Orchard Shielded Pool, feat. Halo2</h3>
 
 *19:40-20:40 UTC on Tuesday 8th June 2021* - [*Add this session to your Google Calendar*](https://calendar.google.com/event?action=TEMPLATE&tmeid=NzJxcnNpcjd0NjJiOWgxamNudGM3bmtvOGQgY18yODc5dHIyNHVjZDV2cGxuaXY2aHF1Zzlpc0Bn&tmsrc=c_2879tr24ucd5vplniv6hqug9is%40group.calendar.google.com)
 
@@ -149,31 +155,33 @@ In this session Mary will be surveying some of the SNARK literature that has com
 
 ---
 
-<h3 id="evaluating">Evaluating New Zero Knowledge Proof Research Before Implementation</h3>
+<h3 id="evaluating">From Theory to Deployment: Security Evaluation of State-of-the-Art Zero-Knowledge Proof Systems  </h3>
 
 *14:55-15:40 UTC on Wednesday 9th June 2021* - [*Add this session to your Google Calendar*](https://calendar.google.com/event?action=TEMPLATE&tmeid=NzBzMXI0NG1haHYxNTR2M2FlbTB2dDB1NmMgY18yODc5dHIyNHVjZDV2cGxuaXY2aHF1Zzlpc0Bn&tmsrc=c_2879tr24ucd5vplniv6hqug9is%40group.calendar.google.com)
 
+The field of cryptography is undergoing a rapid evolution, where the time from publishing a paper to having an implementation has gone down to weeks, or even days. Even more, those implementations are being used in widely deployed systems, sometimes holding billions of dollars in value. More than ever, it is critical for both researchers and developers to work together to ensure the security of these systems. We will try to outline some of the challenges in evaluating the security of the schemes and protocols along their lifetime from theory to deployment, and explore ways that the community can close this gap.
+
 * Eran Tromer ([@EranTromer](https://twitter.com/EranTromer)) is a research scientist at Columbia University and a professor of computer science at Tel Aviv University. He studies cryptography and information security, and in particular using powerful cryptographic tools such as Zero Knowledge proofs to achieve privacy and integrity in distributed systems. He also studies side-channel attacks and other privacy threats. He is a founding scientist of Zcash's Electric Coin Company.
 
-* Pratyush Mishra is a PhD student in computer science at UC Berkeley. His research is focused on cryptography and security, with a focus on the theory and practice of succinct cryptographic proof systems, and on efficient systems for secure machine learning. He is a co-author of the arkworks zkSNARK libraries, which are used by several academic and industrial projects, and is a founding scientist at Aleo, a system for decentralized private computation.
+* Pratyush Mishra ([@zkproofs](https://twitter.com/zkproofs)) is a PhD student in computer science at UC Berkeley. His research is focused on cryptography and security, with a focus on the theory and practice of succinct cryptographic proof systems, and on efficient systems for secure machine learning. He is a co-author of the arkworks zkSNARK libraries, which are used by several academic and industrial projects, and is a founding scientist at Aleo, a system for decentralized private computation.
 
 * Mary Maller is a cryptography researcher at the Ethereum Foundation. She is generally interested in public key cryptography, with a focus on the design of trusted setup ceremonies. Much of her research has looked into the design of ceremonies for zero-knowledge proofs.
 
-* Daniel Benarroch is the Director of Research at QEDIT, leading the cryptography team in charge of several product protocols (QEDIT Asset Transfer and Private Set Intersection). Daniel is co-leading the open source work on zkInterface, a library for interoperability of ZK systems, which is being used in the DARPA SIEVE program to set the standard interface. He is also leading the ZKProof.org team that is pushing forward the effort to standardize zero-knowledge proof technology. Daniel graduated from a MSc in Cryptography from the Weizmann Institute under the supervision of Prof. Zvika Brakerski.
+* Daniel Benarroch ([@BenarrochDaniel](https://twitter.com/BenarrochDaniel)) is the Director of Research at QEDIT, leading the cryptography team in charge of several product protocols (QEDIT Asset Transfer and Private Set Intersection). Daniel is co-leading the open source work on zkInterface, a library for interoperability of ZK systems, which is being used in the DARPA SIEVE program to set the standard interface. He is also leading the ZKProof.org team that is pushing forward the effort to standardize zero-knowledge proof technology. Daniel graduated from a MSc in Cryptography from the Weizmann Institute under the supervision of Prof. Zvika Brakerski.
 
 ---
 
-<h3 id="other-snarks">Snarks on Other Ecosystems</h3>
+<h3 id="other-snarks">SNARKs on Other Ecosystems</h3>
 
 *15:50-16:35 UTC on Wednesday 9th June 2021* - [*Add this session to your Google Calendar*](https://calendar.google.com/event?action=TEMPLATE&tmeid=Mjg0dHVuNTY5azR0YW1mbGMwNjVyNzhyOHYgY18yODc5dHIyNHVjZDV2cGxuaXY2aHF1Zzlpc0Bn&tmsrc=c_2879tr24ucd5vplniv6hqug9is%40group.calendar.google.com)
 
-This panel brings together Marco Stronati, Ariel Gabizon, Barry Whitehat and Kobi Gurkan to discuss their work building innovative zk tech in their respective networks. 
+This panel brings together representatives from Tezos, Aztec Network, Ethereum and Celo to discuss the expansive innovations in zk tech beyond Zcash.
 
 * Marco Stronati is leading the privacy team at Nomadic Labs, working on the Tezos blockchain. In a previous life he was a researcher on Privacy Preserving Technologies.
 * Ariel Gabizon ([@relgabizon](https://twitter.com/relgabizon)) is Chief Scientist at Aztec Network. He has a PhD in Computer Science from the Weizmann Institute and was previously a researcher and engineer at Zcash & Protocol Labs. Ariel is a co-creator of the PLONK zk-SNARK.
-* Barry Whitehat is a computer programmer. He is interested in ZKPs and privacy-preserving applications. 
+* Barry Whitehat ([@barrywhitehat](https://twitter.com/barrywhitehat)) is a computer programmer. He is interested in ZKPs and privacy-preserving applications. 
 * Kobi Gurkan ([@kobigurk](https://twitter.com/kobigurk)) is a cryptography engineer at cLabs, who has worked on cryptography projects on Ethereum, and was previously VP R&D at QEDIT. He has been called a "SNARK wrangler", and fears that he runs too many trusted setups.
-* Anna Rose is the host of the Zero Knowledge Podcast and the co-founder of the ZKValidator. 
+* Anna Rose ([@AnnaRRose](https://twitter.com/AnnaRRose)) is the host of the Zero Knowledge Podcast and the co-founder of the ZKValidator. 
 
 ---
 
@@ -184,7 +192,7 @@ This panel brings together Marco Stronati, Ariel Gabizon, Barry Whitehat and Kob
 Within cryptocurrency and blockchain solutions, the concepts of decentralization, security, scalability and privacy are all enabled by cryptography. If we are to believe that these technical solutions are reliable, we are relying on the cryptography they utilize. Audits of both the types and implementations of cryptography by industry professionals are critical to advancing these solutions. We'll discuss what it means to audit cryptography, how best to approach it and what we see as the future of cryptography audits.
 
 * Thomas Pornin ([@BearSSLnews](https://twitter.com/BearSSLnews)) is a Technical Director at NCC Group, specialized in cryptography. His research focuses on the design and implementation of cryptographic algorithms, with an emphasis on defence against timing-based side channel leaks; he is the author of BearSSL, an SSL/TLS library that embodies this approach and is optimized for constrained embedded systems. He is also an active participant to cryptographic competitions (AES, eSTREAM, SHA-3, PHC, and the ongoing Post-Quantum standardization process).
-* Isis Agora Lovecruft (they/them) has worked as a cryptographic consultant and cryptographic engineer for over a decade. They have contributed to numerous privacy focused organisations and critical security system, including Tor, Signal, Zcash, EFF, Riseup, and others. In their career, they have advised cryptographic endeavours at several Fortune 500 companies, and their code has been successfully deployed in products with billions of users. In their spare time, isis enjoys tending to gardens of rare and poisonous plants, and hiking with their Irish Wolfhound named Merlin.
+* isis agora lovecruft (they/them) ([@isislovecruft](https://twitter.com/isislovecruft)) has worked as a cryptographic consultant and cryptographic engineer for over a decade. They have contributed to numerous privacy focused organisations and critical security system, including Tor, Signal, Zcash, EFF, Riseup, and others. In their career, they have advised cryptographic endeavours at several Fortune 500 companies, and their code has been successfully deployed in products with billions of users. In their spare time, isis enjoys tending to gardens of rare and poisonous plants, and hiking with their Irish Wolfhound named Merlin.
 * Taylor Hornby ([@DefuseSec](https://twitter.com/DefuseSec)) is a security engineer at the Electric Coin Company. He got started in the security industry by finding bugs in open-source encrypted filesystems and now he spends a lot of time analyzing the Zcash protocol to find vulnerabilities.
 * Jean-Philippe (JP) Aumasson ([@veorq](https://twitter.com/veorq)) is the Chief Security Officer and cofounder of Taurus, a Swiss financial tech company specializing in digital assets infrastructure. Since 2006, he has authored more than 60 research articles in the field of cryptography and designed the widely used hash functions BLAKE2 and SipHash. The author of the acclaimed book Serious Cryptography (No Starch Press, 2017), he speaks regularly at information security and technology conferences.
 * Liz Steininger ([@liz315](https://twitter.com/liz315)) is the CEO/Managing Director of Least Authority in Berlin, a company supporting people’s right to privacy through the development and support of free and open source software and providing security audits to other projects.
@@ -212,15 +220,17 @@ With the rise of DeFi there has been a growing need for "transporting" digital a
 Shielded Zcash provides excellent privacy from chain analysis, but what are the risks from network and traffic analysis?  Our panelists will consider the treat model, examine solutions that do and don't work, and how the tech might evolve.
 
 * Giulia Fanti ([@giuliacfanti](https://twitter.com/giuliacfanti)) is an Assistant Professor of Electrical and Computer Engineering at Carnegie Mellon University. Her research interests span the security, privacy, and efficiency of distributed systems.
-* George Kadianakis has been working for a long time on Tor, designing and implementing secure protocols using applied cryptography.
+* George Kadianakis ([@asn_d6](https://twitter.com/asn_d6)) has been working for a long time on Tor, designing and implementing secure protocols using applied cryptography.
 * Janito Vaqueiro Ferreira Filho is a privacy and cryptocurrency enthusiast that has recently joined the Zcash foundation, and previously worked at Mullvad VPN. 
 * Alan Fairless ([@alanfairless](https://twitter.com/alanfairless)) is a hacker, founder, and privacy UX enthusiast. He is the co-founder of SpiderOak, and has spent a decade building and bringing privacy-preserving cloud tech to market. He is a member of the board of directors of the Electric Coin Company. 
 
 ---
 
-<h3 id="governance">Governance across Ecosystems</h3>
+<h3 id="governance">Governance Across Ecosystems</h3>
 
 *19:30-20:15 UTC on Wednesday 9th June 2021* - [*Add this session to your Google Calendar*](https://calendar.google.com/event?action=TEMPLATE&tmeid=MGoxZGFoYjdwb21xbWRwOTVpc3FzbW5lcWwgY18yODc5dHIyNHVjZDV2cGxuaXY2aHF1Zzlpc0Bn&tmsrc=c_2879tr24ucd5vplniv6hqug9is%40group.calendar.google.com)
+
+Cryptocurrencies are powered by open source software and open consensus mechanisms. Without a gatekeeper or chosen decider, how do communities maintain and improve cryptocurrency networks, update that software, or adjust critical consensus rules? In this panel we'll do some comparative analyses of governance practices and norms across different cryptocurrency communities.
 
 * Hudson Jameson ([@HudsonJameson](https://twitter.com/HudsonJameson)) is a Zcash and Ethereum community member who specializes in being a technical liaison between protocol developers and the wider community. He co-founded the blockchain IoT start-up Oaken Innovations, co-founded the Ethereum Cat Herders, and is a committee member of Zcash Open Major Grants (ZOMG).
 * Zaki Manian ([@zmanian](https://twitter.com/zmanian)) wears many hats in the blockspace. He is Director of Tendermint Labs at Tendermint Inc, Executive Director of the Trusted IoT Alliance, and cofounder of the iqlusion validator. He was a founding team member at Cosmos, and is an expert in cryptography and distributed systems. Zaki is excited about extending access and availability of secure computing to as many people as possible. Zaki has been active in the blockchain space since 2013.
@@ -230,14 +240,16 @@ Shielded Zcash provides excellent privacy from chain analysis, but what are the 
 
 ---
 
-<h3 id="privacy-metrics">Measuring Privacy Metrics</h3>
+<h3 id="privacy-metrics">Everyone has Something to Hide: Measuring Privacy</h3>
 
 *20:25-21:10 UTC on Wednesday 9th June 2021* - [*Add this session to your Google Calendar*](https://calendar.google.com/event?action=TEMPLATE&tmeid=MHU3amRxNmJma3BndTkzcWVlZ3I5MDg2YzAgY18yODc5dHIyNHVjZDV2cGxuaXY2aHF1Zzlpc0Bn&tmsrc=c_2879tr24ucd5vplniv6hqug9is%40group.calendar.google.com)
+
+Since the Snowden revelations in 2014, we have seen a significant shift in attitudes towards privacy online.  The adoption of GDPR in Europe, and the CCPA in California have accompanied technological innovation that allows users the potential to have better privacy than before. During this session we reflect on how we measure online privacy today, and discuss strategies for maximizing privacy online going forward.
 
 * Ashkan Soltani ([@ashk4n](https://twitter.com/ashk4n)) is an independent researcher and technologist specializing in privacy, security, and technology policy. His work draws attention to privacy problems online, demystifies technology for the non-technically inclined, and provides data-driven insights to help inform policy. Ashkan previously served as a Senior Advisor to the U.S. Chief Technology Officer in the White House Office of Science and Technology Policy, and as the Chief Technologist for the Federal Trade Commission. He was recognized as part of the 2014 Pulitzer winning team for his contributions to the Washington Post’s coverage of National Security issues. More recently, Ashkan was one of the architects of the sweeping privacy legislation, the California Consumer Privacy Act, that passed in California in 2018.
 * Mitchell Krawiec-Thayer ([@Mitchellpkt0](https://twitter.com/Mitchellpkt0)) is a privacy researcher focused on data science and anti-heuristic protocol design in decentralized systems, with several projects in the Zcash ecosystem including: the Observatory R & D initiative, analyses of on-chain metadata, and experiments to reduce block propagation time. 
 * Teor is a privacy researcher and software developer living and working on Turrbal and Jagera country.They develop and analyze secure and anonymous software, with a focus on financial transactions, network privacy, and electronic voting. They are currently working as the Zcash Foundation's Zebra team lead. They previously worked as a Tor developer and researcher.
-* Nick Sullivan is Head of Research at Cloudflare, a leading Internet security, performance, and reliability company. Nick leads research efforts in the fields of security and privacy, cryptography, Internet measurement, and emerging networking paradigms. Prior to working at Cloudflare, he developed encryption technology for Apple’s Internet Services division, co-wrote Symantec’s Internet Security Threat Report, and completed degrees in both Computer Science and Pure Mathematics. He is passionate about improving the Internet through cutting-edge research and the development of open standards.
+* Nick Sullivan ([@grittygrease](https://twitter.com/grittygrease)) is Head of Research at Cloudflare, a leading Internet security, performance, and reliability company. Nick leads research efforts in the fields of security and privacy, cryptography, Internet measurement, and emerging networking paradigms. Prior to working at Cloudflare, he developed encryption technology for Apple’s Internet Services division, co-wrote Symantec’s Internet Security Threat Report, and completed degrees in both Computer Science and Pure Mathematics. He is passionate about improving the Internet through cutting-edge research and the development of open standards.
 * David "DC" Campbell ([@alchemyDC](https://twitter.com/alchemyDC)) is responsible for strategy and operations at ECC.  He is a technical executive, and was previously CISO at SendGrid and founding CEO at JumpCloud.  He enjoys working at the intersection of tech, privacy and policy.  He has been active in the cryptocurrency community since 2011. 
 
 *This panel discussion will be directly followed by Closing Comments by Jack Gavigan, from 21:10-21:25.* 

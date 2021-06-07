@@ -8,7 +8,7 @@ date: 2021-06-07
 author: petervv
 ---
 
-*[Zcon2 Lite](https://www.zfnd.org/zcon/2/), a virtual edition of our annual conference, takes place this week (Tuesday 8th and Wednesday 9th June). One of the panel discussions will focus on  topic of [adding User-Defined Assets (UDAs) functionality to the Zcash protocol](https://www.zfnd.org/zcon/2/schedule/#uda-panel). In this opinion piece, Zcash Foundation board member Peter van Valkenburgh shares his views on why we should add UDAs to Zcash. Join us on Tuesday at 14:40 UTC for the live panel discussion.* 
+*[Zcon2 Lite](https://www.zfnd.org/zcon/2/), a virtual edition of our annual conference, takes place this week (Tuesday 8th and Wednesday 9th June). One of the panel discussions will focus on  topic of [adding User-Defined Assets (UDAs) functionality to the Zcash protocol](https://www.zfnd.org/zcon/2/schedule/#uda-panel). In this opinion piece, Zcash Foundation board member Peter van Valkenburgh shares his views on why we should add UDAs to Zcash. Join us on Tuesday at 14:40 UTC for the [live panel discussion](https://www.zfnd.org/zcon/2/schedule/#uda-panel).* 
 
 
 #### It’s time to zero knowledge all the things! 

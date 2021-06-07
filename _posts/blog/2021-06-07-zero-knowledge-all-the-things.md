@@ -3,7 +3,7 @@ layout: post
 title: "Opinion: It’s time to zero knowledge all the things!"
 excerpt: "In this opinion piece, Zcash Foundation board member Peter van Valkenburgh advocates for adding user-defined assets to the Zcash protocol."
 categories: blog
-tags: [user]
+tags: [opinion]
 date: 2021-06-07
 author: petervv
 ---

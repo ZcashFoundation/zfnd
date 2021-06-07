@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Expanding the CAP"
-excerpt: "We are expanding the Community Advisory Panel prior to seeking its advisory input regarding the selection of board members."
+title: "Expanding the Communioty Advisory Panel"
+excerpt: "We are expanding the CAP prior to seeking its advisory input regarding the selection of board members."
 categories: blog
 tags: [governance]
 date: 2021-05-28

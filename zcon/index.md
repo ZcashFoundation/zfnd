@@ -2,14 +2,16 @@
 layout: zcon2
 title: Zcon, Annual Privacy Conference
 ignore_title: yes
-excerpt: "Save The Date! Zcon2: Tuesday, June 8- Wednesday, June 9, 2021"
+excerpt: "Zcon is an annual conference focused on privacy-preserving technologies."
 ---
 
 [<img src="/images/1024x512_Zcon2_Twitter_v3_Dates.png">](/zcon/2/)
 
 Zcon is an annual conference focused on privacy-preserving technologies.
 
-Zcon2 Lite will take place **Tuesday, June 8 - Wednesday, June 9, 2021**. Zcon2 will be a virtual conference. [Click here for more info](/zcon/2). 
+Zcon2 Lite took place on Tuesday 8th and Wednesday 9th June 2021**. Zcon2 was a virtual conference, and all the presentations and panel discussions are available on the [Zcash Foundation Youtube channel](https://www.youtube.com/channel/UCi01v05DNTUEC_eB0c9rpgQ?).
+
+<!-- [Click here for more info](/zcon/2). -->
 
 ## Previous Zcons
 

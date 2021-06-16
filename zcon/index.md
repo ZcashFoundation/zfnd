@@ -9,7 +9,7 @@ excerpt: "Zcon is an annual conference focused on privacy-preserving technologie
 
 Zcon is an annual conference focused on privacy-preserving technologies.
 
-Zcon2 Lite took place on Tuesday 8th and Wednesday 9th June 2021**. Zcon2 was a virtual conference, and all the presentations and panel discussions are available on the [Zcash Foundation Youtube channel](https://www.youtube.com/channel/UCi01v05DNTUEC_eB0c9rpgQ?).
+Zcon2 Lite took place on Tuesday 8th and Wednesday 9th June 2021. Zcon2 was a virtual conference, and all the presentations and panel discussions are available on the [Zcash Foundation Youtube channel](https://www.youtube.com/channel/UCi01v05DNTUEC_eB0c9rpgQ?).
 
 <!-- [Click here for more info](/zcon/2). -->
 

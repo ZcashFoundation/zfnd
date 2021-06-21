@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: table
 title: Community Advisory Panel
 excerpt: "The Zcash Foundation Community Governance Process"
 ---

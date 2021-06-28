@@ -11,3 +11,6 @@ gem "jekyll-gist", "~> 1.5"
 
 # Added at 2018-12-14 06:14:41 -0400 by richard:
 gem 'jekyll-twitter-plugin'
+
+# Added at 2021-05-10 00:00:00 +0000 by teor:
+gem 'kramdown-parser-gfm'

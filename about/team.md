@@ -27,7 +27,7 @@
 - _Teor_ • [rust systems engineer](https://www.zfnd.org/blog/welcome-jane-and-teor/)
 - _Danika Delano_ • [operations director](https://www.zfnd.org/blog/welcome-danika/)
 - [_Pili Guerra_](https://twitter.com/mpguerra) • [engineering manager](https://www.zfnd.org/blog/welcome-pili/)
-- [_Alfredo Garcia_](https://twitter.com/oxarbitrage) • [core engineer](https://www.zfnd.org/blog/welcome-alfredo/)
+- _Alfredo Garcia_ • [core engineer](https://www.zfnd.org/blog/welcome-alfredo/)
 - [_Marek Bielik_](https://twitter.com/upbqdn) • [cryptography engineer](https://www.zfnd.org/blog/welcome-marek/)
 - [_Conrado Gouvêa_](https://twitter.com/conradoplg) • [cryptography engineer](https://www.zfnd.org/blog/welcome-conrado/)
 - _Janito Vaqueiro Ferreira Filho_ • [core engineer](https://www.zfnd.org/blog/welcome-janito/)

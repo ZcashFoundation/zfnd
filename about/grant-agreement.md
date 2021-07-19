@@ -1,6 +1,7 @@
 ---
 layout: plain
 excerpt: "Zcash Open Major Grants: Grant Agreement"
+ignore_title: yes
 ---
 
 # Zcash Open Major Grants: Grant Agreement
@@ -20,8 +21,8 @@ excerpt: "Zcash Open Major Grants: Grant Agreement"
 1. The grant will be disbursed in shielded ZEC, via a blockchain transaction to a z-address.
 
 1. To execute the transfer, the Zcash Foundation is legally required to obtain the following information from you: 
-   a. A photocopy of your state-issued identification (passport, driver's license, etc.)
-   a. A filled-out form W-9 (if US taxpayer) or W-8BEN (if nonresident alien individual), or a W-8BEN-E (if foreign corporation)
+   1. A photocopy of your state-issued identification (passport, driver's license, etc.)
+   1. A filled-out form W-9 (if US taxpayer) or W-8BEN (if nonresident alien individual), or a W-8BEN-E (if foreign corporation)
 
 1. The Zcash Foundation understands the regulatory and compliance risks associated with transacting in cryptocurrencies, and will run a Sanctions Screening and Fraud Monitoring on each recipient.  As a condition of receiving the Grant you represent to us, now and until the latter of the submission of a report on the status of the work covered by the proposal or the use of all of the Grant funds, (i) that you are not in violation of any law relating to terrorism or money laundering (“Anti-Terrorism Laws”), including Executive Order No. 13224 on Terrorist Financing, effective September 24, 2001 (the “Executive Order”), and the Uniting and Strengthening America by Providing Appropriate Tools Required to Intercept and Obstruct Terrorism Act of 2001(Title III of P.L. No. 107-56) (known as the “PATRIOT Act”).  (ii)  neither you or any affiliated person or entity is a person that is listed in the annex to, or is otherwise subject to the provisions of, the Executive Order or a person that is named as a “specially designated national and blocked person” on the most current list published by the US Department of the Treasury, Office of Foreign Assets Control (“OFAC”) at its official website or any replacement website or other replacement official publication of such list; (iii) neither you or any affiliated person or entity is subject to blocking provisions or otherwise a target of sanctions imposed under any sanctions program administered by OFAC; and (iv) neither you or any affiliate person or entity deals in, or otherwise engages in any transaction relating to any property or interests in property blocked pursuant to the Executive Order.
 

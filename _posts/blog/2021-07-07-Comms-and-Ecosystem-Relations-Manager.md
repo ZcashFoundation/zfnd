@@ -23,13 +23,15 @@ Key responsibilities include:
 * Engaging with stakeholders across the Zcash ecosystem, with a view to improving communication, coordination and cooperation.
 * Working with the Foundation leadership to build and maintain relationships and partnerships with relevant organisations beyond the Zcash ecosystem that align with or support the Foundation’s mission.
 
-The ideal candidate will likely possess many (but not necessarily all) of the following personal attributes, skills, and experience: 
+The ideal candidate will likely possess some (but not necessarily all) of the following personal attributes, skills, and experience: 
 * Passion for the Foundation's values and mission.
 * Self-starter, with an entrepreneurial spirit, and a team-oriented attitude.
 * Strong written and oral communication skills.
 * Attention to detail, with the ability to juggle multiple tasks at any one time. 
 * Knowledge of cryptocurrencies, particularly Zcash.
 * Demonstrable experience of fulfilling some of the responsibilities listed above. 
+
+Research indicates that men tend to apply for jobs when they meet just 60% of the criteria, while women and other marginalized groups only apply if they are a 100% match. **If you are passionate about the Foundation’s mission and think you have what it takes to be successful in this role *even if you don’t check all the boxes,* please apply**. We would very much appreciate the opportunity to consider your application.
 
 ## About the Zcash Foundation
 

@@ -126,11 +126,14 @@ You can [review the panel's history on GitHub](https://github.com/ZcashFoundatio
 | @aiyadt (on Twitter) | https://twitter.com/aiyadt/status/1165764968928731137 | 
 | aristarchus (on forum) | |
 | Autotunafish (on forum) | |
-| ChileBob (on forum) | |
+| ChileBob (on forum) |  |
+| decentralistdan |  |
 | @dontbeevil (on Twitter) | https://twitter.com/dontbeevil__/status/1166095444092452864 | 
+| fireice_uk |  |
 | gokulalex (on forum) |  |
 | hameed (on forum) |  |
 | @hasufl (on Twitter) |  |
+| @in4crypto (on Twitter) |  |
 | kek (on forum) | |
 | mistfpga (on forum) | |
 | proof_of_tartiflette (on forum) |  |

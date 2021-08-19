@@ -34,7 +34,6 @@ You can [review the panel's history on GitHub](https://github.com/ZcashFoundatio
 | Chris Burniske |  |
 | Christina Garman |  |
 | Christopher Goes |  |
-| Christopher Sheats |  |
 | Cody Burns |  |
 | Colleen Swanson |  |
 | Daira Hopwood | https://twitter.com/feministPLT/status/1165192424030969856 |
@@ -140,3 +139,4 @@ You can [review the panel's history on GitHub](https://github.com/ZcashFoundatio
 | @RuZcash (on Twitter) |  |
 | Tm3k (on forum) |  |
 | @TripsCrypto (on Twitter) |  |
+| @yawnbox (on forum) |  |

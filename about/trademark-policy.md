@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: table
 title: Zcash Trademark Policy
 excerpt: "How you can and cannot use the Zcash trademark."
 ---

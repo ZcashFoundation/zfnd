@@ -8,8 +8,9 @@ date: 2021-07-07
 author: zfteam
 ---
 
-The Zcash Foundation is hiring a Communications & Ecosystem Relations Manager to lead our communications, public relations, and ecosystem engagement efforts. **_[Apply here](https://forms.gle/Z4dK8epj2kDnrNjN9)!_**
+<!-- The Zcash Foundation is hiring a Communications & Ecosystem Relations Manager to lead our communications, public relations, and ecosystem engagement efforts. **_[Apply here](https://forms.gle/Z4dK8epj2kDnrNjN9)!_** -->
 
+**This position has now been filled.**
 
 ## The Role
 

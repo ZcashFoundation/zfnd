@@ -5,7 +5,7 @@ excerpt: "Welcome, Winfred!"
 categories: blog
 tags: [staff]
 Date: 2021-09-07
-author: zfstaff
+author: zfteam
 ---
 
 ## The Zcash Foundation Welcomes a New Head of Communications

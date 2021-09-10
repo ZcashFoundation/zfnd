@@ -15,12 +15,12 @@
 - [_Jack Gavigan_](https://twitter.com/JackGavigan)
   - Executive Director of Zcash Foundation.
   
-#### Alumni
+#### Board Alumni
 
 - [_Naval Ravikant_](https://angel.co/naval)
 - [_Yan Zhu_](https://diracdeltas.github.io/)
 
-### Employees
+### Team Members
 
 - [_Jack Gavigan_](https://twitter.com/JackGavigan) • [executive director](https://www.zfnd.org/blog/welcome-jack/)
 - _Alex Bornstein_ • [chief operating officer](https://www.zfnd.org/blog/welcome-alex/)
@@ -33,8 +33,9 @@
 - [_Marek Bielik_](https://twitter.com/upbqdn) • [cryptography engineer](https://www.zfnd.org/blog/welcome-marek/)
 - [_Conrado Gouvêa_](https://twitter.com/conradoplg) • [cryptography engineer](https://www.zfnd.org/blog/welcome-conrado/)
 - _Janito Vaqueiro Ferreira Filho_ • [core engineer](https://www.zfnd.org/blog/welcome-janito/)
+- _Winfred K. Mandela_ • [head of communications](https://www.zfnd.org/blog/welcome-winfred/)
 
-#### Alumni
+#### Team Alumni
 
 - [_Anna Kaplan_](https://twitter.com/kaplannie) • [technical intern](https://www.zfnd.org/blog/anna-kaplan-welcome/)
 - _Lena Wang_ • [operations associate](https://www.zfnd.org/blog/welcome-lena/)

@@ -33,6 +33,7 @@
 - [_Marek Bielik_](https://twitter.com/upbqdn) • [cryptography engineer](https://www.zfnd.org/blog/welcome-marek/)
 - [_Conrado Gouvêa_](https://twitter.com/conradoplg) • [cryptography engineer](https://www.zfnd.org/blog/welcome-conrado/)
 - _Janito Vaqueiro Ferreira Filho_ • [core engineer](https://www.zfnd.org/blog/welcome-janito/)
+- _Winfred K. Mandela_ • [head of communications](https://www.zfnd.org/blog/welcome-winfred/) 
 
 #### Alumni
 

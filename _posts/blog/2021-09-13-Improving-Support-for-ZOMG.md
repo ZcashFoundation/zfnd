@@ -4,7 +4,7 @@ title: "Improving Support for ZOMG"
 excerpt: "The Foundation is increasing the nominal compensation offered to ZOMG Committee members, and hiring staff to focus more resources to better support the work of ZOMG."
 categories: blog
 tags: [governance]
-date: 2020-09-13
+date: 2021-09-13
 author: zcashboard
 ---
 

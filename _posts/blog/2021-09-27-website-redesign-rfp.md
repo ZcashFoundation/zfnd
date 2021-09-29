@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Request for Proposals: Website Redesign"
-excerpt: "We're planning to revamop the Zcash Foundation website."
+excerpt: "We're planning to revamp the Zcash Foundation website."
 categories: blog
 tags: [staff]
 date: 2021-09-27

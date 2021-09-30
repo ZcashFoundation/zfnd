@@ -10,7 +10,7 @@
   - Associate professor of Computer Science at Johns Hopkins University, and one of the authors of the original Zerocash research paper.
 - [_Amber Baldet_](http://www.amberbaldet.com/)
   - CEO of Clovyr, former J.P. Morgan blockchain program lead, and co-creator of a zero-knowledge settlement layer for enterprise Ethereum.
-- [_Ian Miers_](https://cs.jhu.edu/~imiers/)
+- Ian Miers
   - Assistant Professor of Computer Science at the University of Maryland and one of the co-creators of Zcash.
 - [_Jack Gavigan_](https://twitter.com/JackGavigan)
   - Executive Director of Zcash Foundation.

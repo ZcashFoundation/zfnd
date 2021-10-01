@@ -10,7 +10,7 @@
   - Associate professor of Computer Science at Johns Hopkins University, and one of the authors of the original Zerocash research paper.
 - [_Amber Baldet_](http://www.amberbaldet.com/)
   - CEO of Clovyr, former J.P. Morgan blockchain program lead, and co-creator of a zero-knowledge settlement layer for enterprise Ethereum.
-- [_Ian Miers_](https://cs.jhu.edu/~imiers/)
+- [_Ian Miers_](https://www.cs.umd.edu/~imiers/)
   - Assistant Professor of Computer Science at the University of Maryland and one of the co-creators of Zcash.
 - [_Jack Gavigan_](https://twitter.com/JackGavigan)
   - Executive Director of Zcash Foundation.
@@ -34,6 +34,7 @@
 - [_Conrado Gouvêa_](https://twitter.com/conradoplg) • [cryptography engineer](https://www.zfnd.org/blog/welcome-conrado/)
 - _Janito Vaqueiro Ferreira Filho_ • [core engineer](https://www.zfnd.org/blog/welcome-janito/)
 - _Winfred K. Mandela_ • [head of communications](https://www.zfnd.org/blog/welcome-winfred/)
+- [_Dan Wolande_](https://twitter.com/decentralistdan) • [ecosystem relations manager](/blog/welcome-dan/)
 
 #### Team Alumni
 

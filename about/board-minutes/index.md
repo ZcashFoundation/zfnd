@@ -5,8 +5,8 @@ excerpt: "Notes from meetings of the Zcash Foundation Board of Directors."
 ---
 
 ## Table of Contents
-- [September 3, 2021](#september-03-2021)
-- [July 2, 2021](#july-02-2021)
+- [September 3, 2021](#september-3-2021)
+- [July 2, 2021](#july-2-2021)
 - [June 25, 2021](#june-25-2021)
 - [March 26, 2021](#march-26-2021)
 - [February 5, 2021](#february-5-2021)

@@ -8,11 +8,11 @@ date: 2021-11-15
 author: zfteam
 ---
 
-The Zcash Foundation (ZF) is hiring an Software Engineering Project Manager (9 month contract - Jan-Sept 2022) to support the Engineering team while our existing Engineering Manager will be on sabbatical. This position is fully remote. **[Apply here!](https://forms.gle/ZmVcxARJx6iaaehN9)**
+The Zcash Foundation (ZF) is hiring a Software Engineering Project Manager (9 month contract - Jan-Sept 2022) to support the Engineering team while our existing Engineering Manager will be on sabbatical. This position is fully remote. **[Apply here!](https://forms.gle/ZmVcxARJx6iaaehN9)**
 
 ## Role: Engineering Project Manager
 
-The ZF Engineering team’s primary focus is developing [Zebra](https://github.com/ZcashFoundation/zebra), an independent, open source implementation of the Zcash protocol written in Rust. The Engineering Project Manager will be responsible for managing the Zebra project, as well as any other work being undertaken by the Engineering team (e.g. FROST implementation, Dev Ops work, responding to bug reports, etc.). 
+The ZF Engineering team’s primary focus is developing [Zebra](https://github.com/ZcashFoundation/zebra), an independent, open source implementation of the Zcash protocol written in Rust. The Engineering Project Manager will be responsible for managing the Zebra project, as well as any other work being undertaken by the Engineering team (e.g. FROST implementation, DevOps work, responding to bug reports, etc.). 
 
 The PM will work with the Engineering team and external partners to ensure that engineering priorities are delivered. This will include coordinating resources, estimating and planning upcoming work, agreeing achievable deadlines, tracking progress, organizing user studies, and working with the ZF Communications team to share news of progress and team wins externally. 
 
@@ -25,7 +25,7 @@ This is a great opportunity for someone with good software engineering project m
 * Understand user and community requirements
 * Coordinate design and implementation
 * Understand, track and communicate project status
-* Build timeline, product roadmaps and planning reports for Foundation leadership
+* Build timelines, product roadmaps and planning reports for the Foundation's leadership team
 * Coordinate, review, and project manage critical goals
 * Map out the critical path, and identify resource bottlenecks and delivery risks
 * Ensure effective technical coordination with external partners
@@ -35,7 +35,7 @@ The ideal candidate will likely possess some (**but not necessarily all**) of th
 
 Research indicates that men tend to apply for jobs when they meet just 60% of the criteria, while women and other marginalized groups only apply if they are a 100% match. **If you are passionate about the Foundation’s mission and think you have what it takes to be successful in this role *even if you don’t check all the boxes,* please apply**. We would very much appreciate the opportunity to consider your application.
 
-* Experience of managing open source software projects
+* Experience managing open source software projects
 * Demonstrated ability to oversee and collaborate with software engineering teams
 * Capable of solving coordination challenges with a talented, diverse and geographically-distributed team
 * Able to understand engineering needs and constraints, and communicate them to stakeholders
@@ -43,7 +43,7 @@ Research indicates that men tend to apply for jobs when they meet just 60% of th
 * Familiar with the Agile software development methodology
 * Experience with programming and release management
 * Experience of testing, troubleshooting, and problem diagnosis
-* Able to think and plan strategically
+* Ability to think and plan strategically
 
 ### Application & Interview Process
 

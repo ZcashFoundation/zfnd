@@ -19,4 +19,4 @@ We're looking for people who are as excited as we are about building private fin
 * Nonprofit means what it says! We build and support innovation that serves our mission.
 
 ## Open Positions
-* [CI/CD & DevOps Engineer](https://www.zfnd.org/blog/ci-cd-and-devops-engineer/)
+* [Engineering Project Manager](https://www.zfnd.org/blog/engineering-project-manager/)

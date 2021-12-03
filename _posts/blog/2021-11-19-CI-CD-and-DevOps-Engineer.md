@@ -7,6 +7,9 @@ tags: [staff]
 date: 2021-11-19
 author: zfteam
 ---
+
+_**This position is now filled.**_ 
+
 ### About us
 
 The Zcash Foundation is a 501(c)(3), nonprofit, public charity that builds and supports privacy infrastructure for the public good. We work on strengthening financial privacy with technology, focusing primarily on the Zcash protocol and blockchain.

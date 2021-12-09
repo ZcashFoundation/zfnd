@@ -6,7 +6,7 @@ excerpt: "The Zcash Foundation is a 501(c)(3) nonprofit funded by generous donor
 
 As of 2021, the Zcash Foundation's primary source of income is the [Zcash Dev Fund](https://z.cash/zcash-development-and-governance/). The Zcash Community created the Dev Fund in late 2020 as a means of funding ongoing development of the Zcash protocol by the Electric Coin Company, the Zcash Foundation, and the Zcash Open Major Grants program. 
 
-Annually, the Zcash Foundation receives approximately 65,745 ZEC friom the Dev Fund, plus 105,192 ZEC as a restricted donation which may only be disbursed as major grants. 
+Annually, the Zcash Foundation receives approximately 65,745 ZEC from the Dev Fund, plus 105,192 ZEC as a restricted donation which may only be disbursed as major grants. 
 
 We release quarterly reports that describe our income and expenditure, with a detailed breakdown of our expenses, and a snapshot of the Foundation’s financial position, in terms of liquid assets and liabilities that must be met using those assets. The most recent quarterly report (for Q3 2021) can be found [here](https://www.zfnd.org/about/reports/ZF_Q3_2021_REPORT.pdf).
 

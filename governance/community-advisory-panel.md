@@ -62,8 +62,9 @@ You can [review the panel's history on GitHub](https://github.com/ZcashFoundatio
 | Justin Ehrenhofer |  |
 | Kris Nuttycombe |  |
 | Lillian Gish |  |
+| Luke Parker |  |
 | Madars Virza | https://twitter.com/MadarsV/status/1166936046489280512 | 
-| Macella Hastings |  |
+| Marcella Hastings |  |
 | Mario Laul |  |
 | Matthew Green |  |
 | Michael Harms |  |
@@ -86,6 +87,7 @@ You can [review the panel's history on GitHub](https://github.com/ZcashFoundatio
 | Sean Kelly |  |
 | Steven Smith |  |
 | Taylor Hornby |  |
+| Teor |  |
 | Thor Torrens |  |
 | Tim |  |
 | Val Kar |  |
@@ -100,7 +102,6 @@ You can [review the panel's history on GitHub](https://github.com/ZcashFoundatio
 | aiyadt (on forum) | https://twitter.com/aiyadt/status/1165764968928731137 | 
 | Angst01 (on forum) |  |
 | aristarchus (on forum) | |
-| artkor (on forum |  |
 | Autotunafish (on forum) |  |
 | @BMrudulakrishna (on Twitter) |  |
 | decentralistdan (on forum) |  |
@@ -108,7 +109,6 @@ You can [review the panel's history on GitHub](https://github.com/ZcashFoundatio
 | @dontbeevil (on Twitter) | https://twitter.com/dontbeevil__/status/1166095444092452864 | 
 | @El_DoN_EV (on Twitter) |  |
 | fireice_uk (on forum) |  |
-| gokulalex (on forum) |  |
 | hameed (on forum) |  |
 | hanh (on forum) |  |
 | @in4crypto (on Twitter) |  |

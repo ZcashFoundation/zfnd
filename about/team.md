@@ -35,6 +35,7 @@
 - _Janito Vaqueiro Ferreira Filho_ • [core engineer](https://www.zfnd.org/blog/welcome-janito/)
 - _Winfred K. Mandela_ • [head of communications](https://www.zfnd.org/blog/welcome-winfred/)
 - [_Dan Wolande_](https://twitter.com/decentralistdan) • [ecosystem relations manager](/blog/welcome-dan/)
+- [_Gustavo Valverde_](https://twitter.com/GustavoValverde) • [CI/CD & DevOps engineer](/blog/welcome-gustavo)
 
 #### Team Alumni
 

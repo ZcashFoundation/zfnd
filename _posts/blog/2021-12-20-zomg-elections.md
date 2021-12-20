@@ -18,6 +18,7 @@ It is now time to elect a new ZOMG Committee. Here is the list of candidates wit
 - [Aditya Bharadwaj (aiyadt on the forums)](https://forum.zcashcommunity.com/t/aiyadt-candidacy-for-zomg/39921)
 - [Brian (Wobbzz on the forums)](https://forum.zcashcommunity.com/t/wobbzz-for-zomg/40080)
 - [Cody Burns (dontpanicburns on the forums)](https://forum.zcashcommunity.com/t/dontpanicburns-candidacy-for-zomg/40608)
+- [Hudson Jameson (Souptacular on the forums)](https://forum.zcashcommunity.com/t/hudsons-re-election-campaign-for-zomg/40109)
 - [Jason McGee (aquietinvestor on the forums)](https://forum.zcashcommunity.com/t/jason-mcgee-aquietinvestor-candidacy-announcement-for-zomg/40033)
 - [Luke Parker (kayabaNerve on the forums)](https://forum.zcashcommunity.com/t/candidacy-for-zomg/40588)
 - [Michael Harms (Brunchtime on the forums)](https://forum.zcashcommunity.com/t/nominating-brunchtime-for-zomg/39934/2)

@@ -8,7 +8,7 @@ date: 2021-12-20
 author: jackgavigan
 ---
 
-Today, the Zcash Foundation (ZF) will begin polling the Zcash Community Advisory Panel (ZCAP) on two questions: which candidates should be elected to the next ZOMG Committee, and whether ZIP 1014 should be amended to provide the ZOMG Committee with a discretionary budget. 
+Today, the Zcash Foundation (ZF) will begin polling the Zcash Community Advisory Panel (ZCAP) on two questions: which candidates should be elected to the next ZOMG Committee, and whether ZIP 1014 should be amended to provide the ZOMG Committee with a discretionary budget. The poll will close at 09:00 UTC on 1st January 2022. 
 
 ## Elections to the ZOMG Committee
 

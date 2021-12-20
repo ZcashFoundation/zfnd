@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Polling ZCAP on the ZOMG Elections and a Proposal to Amend ZIP 1014”
-excerpt: "It’s time for ZCAP to elect a new ZOMG Committee, and decide whether they should have a discretionary budget.”
+title: "Polling ZCAP on the ZOMG Elections & a Proposal to Amend ZIP 1014"
+excerpt: "It’s time for ZCAP to elect a new ZOMG Committee, and decide whether they should have a discretionary budget."
 categories: blog
 tags: [governance]
 date: 2021-12-20

@@ -12,4 +12,4 @@ After the success of Zcon2 Lite, our first fully-virtual conference, we are happ
 
 Zcon is not possible without diverse speakers from the privacy and Zcash communities. **If you are interested in speaking/presenting/leading a workshop at Zcon3, virtually, in-person, or either, [please fill out this RFP form](https://forms.gle/QsYRTW1aBnYMTbuC9). The deadline to submit is February 14, 2022.** 
 
-Last year’s Zcon presentations can be viewed on our [YouTube channel] (https://www.youtube.com/playlist?list=PL40dyJ0UYTLLa68H9ibpiSZqeevqKizg4). For Zcon3, we are looking for innovative subject-matter, presentations and panel discussions that will be relevant and of interest to the privacy and Zcash communities. 
+Last year’s Zcon presentations can be viewed on our [YouTube channel](https://www.youtube.com/playlist?list=PL40dyJ0UYTLLa68H9ibpiSZqeevqKizg4). For Zcon3, we are looking for innovative subject-matter, presentations and panel discussions that will be relevant and of interest to the privacy and Zcash communities. 

@@ -14,8 +14,8 @@ Today, the Zcash Foundation (ZF) will [begin polling](https://vote.heliosvoting.
 
 The largest slice of the Zcash Dev Fund (40%) is earmarked for major grants “[to fund independent teams entering the Zcash ecosystem, to perform major ongoing development work (or other word) for the public good of the Zcash ecosystem](https://zips.z.cash/zip-1014#mg-slice-major-grants)”. While the funds are administered by the Zcash Foundation, applications for major grants are subject to approval by a five-seat Major Grant Review Committee. The first committee was elected [last September](https://vote.heliosvoting.org/helios/elections/fd30d13c-e010-11ea-88f3-4a6a23563c24/view), and adopted the name Zcash Open Major Grants or ZOMG.
 
-It is now time to elect a new ZOMG Committee. Here is the list of candidates with links to their candidacy threads on the forums: 
-- [Aditya Bharadwaj (aiyadt on the forums)](https://forum.zcashcommunity.com/t/aiyadt-candidacy-for-zomg/39921)
+It is now time to elect a new ZOMG Committee. Here is the list of candidates with links to their candidacy threads on the forums:
+- [Adi (aiyadt on the forums)](https://forum.zcashcommunity.com/t/aiyadt-candidacy-for-zomg/39921)
 - [Brian (Wobbzz on the forums)](https://forum.zcashcommunity.com/t/wobbzz-for-zomg/40080)
 - [Cody Burns (dontpanicburns on the forums)](https://forum.zcashcommunity.com/t/dontpanicburns-candidacy-for-zomg/40608)
 - [Hudson Jameson (Souptacular on the forums)](https://forum.zcashcommunity.com/t/hudsons-re-election-campaign-for-zomg/40109)

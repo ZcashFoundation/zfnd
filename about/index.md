@@ -10,7 +10,7 @@ The Zcash Foundation is a [501(c)(3) nonprofit](/about/incorporation-docs/) focu
 - [Values](#values)
 - [Legal](#legal)
 - [People](#team)
-- [Open Positions](https://www.zfnd.org/about/open-positions/)
+<!-- - [Open Positions](https://www.zfnd.org/about/open-positions/) -->
 
 {% include_relative mission.md %}
 {% include_relative values.md %}

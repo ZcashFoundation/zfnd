@@ -1,11 +1,12 @@
 ---
 layout: page
 title: Open Positions
-excerpt: "We are hiring!"
+excerpt: "We are not hiring currently."
 ---
 
-<!-- We have no open positions currently but check back regularly or follow us on [Twitter](https://twitter.com/zcashfoundation) to be alerted when we post new positions! -->
+We have no open positions currently but check back regularly or follow us on [Twitter](https://twitter.com/zcashfoundation) to be alerted when we post new positions! 
 
+<!-- 
 The Zcash Foundation is excited to grow our team. See below for current openings.
 
 We're looking for people who are as excited as we are about building private financial infrastructure for the public good, and we take that task very seriously. We depend on work samples and collaborative interviews to evaluate candidates and place a heavy emphasis on the take home projects and interviews. We look forward to your application!
@@ -19,4 +20,5 @@ We're looking for people who are as excited as we are about building private fin
 * Nonprofit means what it says! We build and support innovation that serves our mission.
 
 ## Open Positions
-* [Engineering Project Manager](https://www.zfnd.org/blog/engineering-project-manager/)
+* 
+-->

@@ -4,7 +4,7 @@ title: "Welcoming the new ZOMG Committee"
 excerpt: "The Zcash Community has elected a new ZOMG Committee, and they’ve already approved their first grant!"
 categories: blog
 tags: [governance]
-date: 2022-1-13
+date: 2022-01-13
 author: jackgavigan
 ---
 

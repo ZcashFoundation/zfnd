@@ -38,7 +38,7 @@ Congratulations to Aditya, Brian, Hudson, Jason and Michael on their election to
 
 - **Michael Harms** is a software developer and the creator of ZECpages.com. He has received two ZOMG grants, one for ZECpages' app infrastructure, and another to develop a [testnet faucet](faucet.zecpages.com). He's excited to continue building Zcash's user base and shielded pool usage from within MGRC.
 
-All of us at the Foundation are looking forward to working with the new committee, and we are very pleased that they have hit the ground running, having already met twice, and approved their first grant: [QEDIT's proposal for shielded assets on Zcash](https://www.zfnd.org/blog/improving-support-for-zomg/). 
+All of us at the Foundation are looking forward to working with the new committee, and we are very pleased that they have hit the ground running, having already met twice, and approved their first grant: [QEDIT's proposal for shielded assets on Zcash](https://forum.zcashcommunity.com/t/a-proposal-for-shielded-assets-zsa-uda-for-defi-on-zcash/40520). 
 
 We would also like to thank Cody and Luke for taking the time and initiative to participate in the election. 
 

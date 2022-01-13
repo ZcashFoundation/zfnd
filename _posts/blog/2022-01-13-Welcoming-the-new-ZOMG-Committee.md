@@ -18,15 +18,13 @@ Polling closed at 9am UTC on January 1st, and [the results were released shortly
 The ZOMG election was decided by approval voting, with the five candidates (out of a pool of seven) receiving the most approval elected to the committee. 
 
 The results were as follows: 
-|  Candidate  |  Approval Votes  |
-|  :--  |  :-:  |
-|  Aditya (aiyadt on the forums  |  74  |
-|  Brian (Wobbzz on the forums)  |  47  |
-|  Cody Burns (dontpanicburns on the forums)  |  43  |
-|  Hudson Jameson (Souptacular on the forums)  |  67  |
-|  Jason McGee (aquietinvestor on the forums)  |  61  |
-|  Luke Parker (kayabaNerve on the forums)  |  27  |
-|  Michael Harms (Brunchtime on the forums)  |  64  |
+- Aditya (aiyadt on the forums  -  74 votes
+- Brian (Wobbzz on the forums) - 47 votes
+- Cody Burns (dontpanicburns on the forums) - 43 votes
+- Hudson Jameson (Souptacular on the forums) - 67 votes
+- Jason McGee (aquietinvestor on the forums) - 61 votes
+- Luke Parker (kayabaNerve on the forums) - 27 votes
+- Michael Harms (Brunchtime on the forums) - 64 votes
 
 Congratulations to Aditya, Brian, Hudson, Jason and Michael on their election to ZOMG! 
  

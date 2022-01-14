@@ -8,6 +8,9 @@ date: 2021-11-15
 author: zfteam
 ---
 
+_**This position has now been filled.**_
+
+---
 The Zcash Foundation (ZF) is hiring a Software Engineering Project Manager (9 month contract - Jan-Sept 2022) to support the Engineering team while our existing Engineering Manager will be on sabbatical. This position is fully remote. **[Apply here!](https://forms.gle/ZmVcxARJx6iaaehN9)**
 
 ## Role: Engineering Project Manager

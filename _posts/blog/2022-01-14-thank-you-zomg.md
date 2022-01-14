@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Thank you to the Inaugural ZOMG Committee"
-excerpt: "Bidding farewell to Chris, Holmes, Hudson, Michelle and Shawn."
+excerpt: "Bidding farewell to the first Major Grants Review Committee: Chris, Holmes, Hudson, Michelle and Shawn."
 categories: blog
 tags: [governance]
 date: 2022-01-14

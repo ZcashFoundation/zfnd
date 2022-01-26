@@ -5,6 +5,8 @@ excerpt: "Notes from meetings of the Zcash Foundation Board of Directors."
 ---
 
 ## Table of Contents
+
+- [November 19th, 2021](#november-19-2021)
 - [September 3rd, 2021](#september-3-2021)
 - [July 2nd, 2021](#july-2-2021)
 - [June 25th, 2021](#june-25-2021)
@@ -36,6 +38,7 @@ excerpt: "Notes from meetings of the Zcash Foundation Board of Directors."
 - [April 5th, 2017](#april-5-2017)
 - [February 3rd, 2017](#february-3-2017)
 
+{% include_relative 2021-11-19.md %}
 {% include_relative 2021-09-03.md %}
 {% include_relative 2021-07-02.md %}
 {% include_relative 2021-06-25.md %}

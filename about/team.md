@@ -36,6 +36,7 @@
 - _Winfred K. Mandela_ • [head of communications](https://www.zfnd.org/blog/welcome-winfred/)
 - [_Dan Wolande_](https://twitter.com/decentralistdan) • [ecosystem relations manager](/blog/welcome-dan/)
 - [_Gustavo Valverde_](https://twitter.com/GustavoValverde) • [CI/CD & DevOps engineer](/blog/welcome-gustavo)
+- _Fungai Matambanadzo_ • [Interim Engineering Project Manager](/blog/welcome-fungai)
 
 #### Team Alumni
 
